@@ -1,8 +1,13 @@
 from github import Github
 import json
+from dotenv import load_dotenv
 import os
+import re
 
-gh = Github()
+load_dotenv()
+
+# funktioniert auch ohne Token
+gh = Github(os.getenv('GITHUB_ACCESS_TOKEN'))
 
 with open('sources.json') as f:
   sources = json.load(f)
@@ -10,25 +15,13 @@ with open('sources.json') as f:
 data = dict()
 
 def getDirsOfInterest(contents):
+    # TODO auf einzelne PDFs erweitern
     # TODO various strategies for subdirs etc.
-    return [dir for dir in contents if dir.path.startswith('V') and dir.type == 'dir']
+    return [dir for dir in contents if getVersuchNummer(dir.name) and dir.type == 'dir']
 
 def getVersuchNummer(dirname):
-    print('-', dirname)
-    try:
-        if dirname.startswith('V.'):
-            num = dirname.split('.')[1].strip()
-            assert len(num) == 3
-            return int(num)
-        if dirname.startswith('V_'):
-            num = dirname.split('_')[1].strip()
-            assert len(num) == 3
-            return int(num)
-        elif dirname.startswith('V'):
-            assert len(dirname) == 4
-            return int(dirname[1:])
-    except:
-        pass
+    s = re.search(r'V[\._]?(\d{3})', dirname)
+    return int(s.group(1)) if s else None
 
 def getFilesRec(path):
     list = []
@@ -41,7 +34,7 @@ def getFilesRec(path):
     return list
 
 for source in sources:
-    print(source['name'])
+    print('+++', source['name'])
     repo = gh.get_repo(source['name'])
     contents = repo.get_contents(source.get('subdirectory', ''))
     dirsOfInterest = getDirsOfInterest(contents)
