@@ -72,7 +72,7 @@ for versuch, repos in data.items():
         out += f'## Repos\n\n'
         out += 'Repo | Link\n'
         out += '--- | ---\n'
-        for r in sorted(repos, key=lambda r: r['name']):
+        for r in sorted(repos, key=lambda r: r['name'].lower()):
             name = r['name'].split('/')[0]
             out += f'{name} | [Übersicht](../repo/{name})\n'
         g.write(out)
@@ -120,7 +120,7 @@ with open(f'build/index.md', 'w') as g:
     out += f'## Repos\n\n'
     out += 'Repo | Link | Letzter Commit | # Versuche\n'
     out += '--- | --- | --- | :---:\n'
-    for r in sorted(sources, key=lambda r: r['name']):
+    for r in sorted(sources, key=lambda r: r['name'].lower()):
         name = r['name'].split('/')[0]
         lastCommit = r['lastCommit'].strftime('%d.%m.%Y %H:%M:%S')
         versuche = [versuch for versuch, repos in data.items() if r in repos]
