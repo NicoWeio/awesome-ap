@@ -63,7 +63,7 @@ for versuch, repos in data.items():
         out += f'## Repos\n\n'
         out += 'Repo | Link\n'
         out += '--- | ---\n'
-        for r in repos:
+        for r in sorted(repos, key=lambda r: r['name']):
             name = r['name'].split('/')[0]
             out += f'{name} | [Übersicht](../repo/{name})\n'
         g.write(out)
@@ -71,7 +71,7 @@ for versuch, repos in data.items():
 ## Repo → Versuche
 for repo in sources:
     owner = repo['name'].split('/')[0]
-    versuche = [versuch for versuch, repos in data.items() if repo in repos]
+    versuche = sorted([int(versuch) for versuch, repos in data.items() if repo in repos])
     repo_url = repo['url']
     with open(f'build/repo/{owner}.md', 'w') as g:
         # out = json.dumps({'title': owner, 'versuche': versuche, 'github': repo['url']}, indent=4)
@@ -88,17 +88,18 @@ for repo in sources:
 with open(f'build/index.md', 'w') as g:
     out = '# Startseite\n\n'
 
+    versuche = sorted([int(versuch) for versuch, repos in data.items()])
     out += f'## Versuche\n\n'
     out += 'Versuch | Link\n'
     out += '--- | ---\n'
-    for v in data.keys():
+    for v in versuche:
         out += f'{v} | [Übersicht](versuch/{v})\n'
     out += '\n\n'
 
     out += f'## Repos\n\n'
     out += 'Repo | Link\n'
     out += '--- | ---\n'
-    for r in sources:
+    for r in sorted(sources, key=lambda r: r['name']):
         name = r['name'].split('/')[0]
         out += f'{name} | [Übersicht](repo/{name})\n'
 
