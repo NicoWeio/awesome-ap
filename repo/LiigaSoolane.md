@@ -4,6 +4,10 @@
 
 Letzter Commit: 28.01.2021 13:55:01
 
+## Autoren
+- [FreddieMercury534](https://api.github.com/users/FreddieMercury534)
+- [LiigaSoolane](https://api.github.com/users/LiigaSoolane)
+
 ## Versuche
 
 Versuch | Link

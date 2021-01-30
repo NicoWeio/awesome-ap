@@ -4,6 +4,10 @@
 
 Letzter Commit: 30.01.2021 14:24:12
 
+## Autoren
+- [dormail](https://api.github.com/users/dormail)
+- [philipjy](https://api.github.com/users/philipjy)
+
 ## Versuche
 
 Versuch | Link
