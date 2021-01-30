@@ -26,7 +26,7 @@ def getLastCommit(repo):
     return sorted(dates)[-1]
 
 def getVersuchNummer(dirname):
-    s = re.search(r'V[._]?(\d{3})', dirname)
+    s = re.search(r'[VD][._]?(\d{3})', dirname, re.IGNORECASE)
     return int(s.group(1)) if s else None
 
 def getFilesRec(path):
