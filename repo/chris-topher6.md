@@ -14,6 +14,7 @@ Versuch | Link
 --- | ---
 106 | [Übersicht](../versuch/106)
 203 | [Übersicht](../versuch/203)
+206 | [Übersicht](../versuch/206)
 311 | [Übersicht](../versuch/311)
 702 | [Übersicht](../versuch/702)
 703 | [Übersicht](../versuch/703)
