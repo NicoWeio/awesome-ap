@@ -20,6 +20,11 @@ def getDirsOfInterest(contents):
     # TODO various strategies for subdirs etc.
     return [dir for dir in contents if getVersuchNummer(dir.name) and dir.type == 'dir']
 
+def getLastCommit(repo):
+    branches = list(repo.get_branches())
+    dates = [b.commit.commit.author.date for b in branches]
+    return sorted(dates)[-1]
+
 def getVersuchNummer(dirname):
     s = re.search(r'V[._]?(\d{3})', dirname)
     return int(s.group(1)) if s else None
@@ -41,6 +46,8 @@ for source in sources:
     repo = gh.get_repo(source['name'])
     contents = repo.get_contents(source.get('subdirectory', ''))
     dirsOfInterest = getDirsOfInterest(contents)
+
+    source['lastCommit'] = getLastCommit(repo)
 
     versuchNummern = [getVersuchNummer(d.name) for d in dirsOfInterest]
     versuchNummern = [i for i in versuchNummern if i] # nicht erkannte Versuchs-Nummern entfernen
@@ -78,6 +85,10 @@ for repo in sources:
         # out = json.dumps({'title': owner, 'versuche': versuche, 'github': repo['url']}, indent=4)
         out = f'# Repo von *{owner}*\n\n'
         out += f'## [zum Repo auf GitHub]({repo_url})\n\n'
+
+        lastCommit = repo['lastCommit'].strftime('%d.%m.%Y %H:%M:%S')
+        out += f'Letzter Commit: {lastCommit}\n\n'
+
         out += f'## Versuche\n\n'
         out += 'Versuch | Link\n'
         out += '--- | ---\n'
@@ -101,11 +112,12 @@ with open(f'build/index.md', 'w') as g:
     out += '\n\n'
 
     out += f'## Repos\n\n'
-    out += 'Repo | Link\n'
-    out += '--- | ---\n'
+    out += 'Repo | Link | Letzter Commit\n'
+    out += '--- | --- | ---\n'
     for r in sorted(sources, key=lambda r: r['name']):
         name = r['name'].split('/')[0]
-        out += f'{name} | [Übersicht](repo/{name})\n'
+        lastCommit = r['lastCommit'].strftime('%d.%m.%Y %H:%M:%S')
+        out += f'{name} | [Übersicht](repo/{name}) | {lastCommit}\n'
     out += '\n\n'
 
     out += '## Statistiken\n'
