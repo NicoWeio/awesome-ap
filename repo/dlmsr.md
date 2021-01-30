@@ -2,6 +2,8 @@
 
 ## [zum Repo auf GitHub](https://github.com/dlmsr/praktikum)
 
+Letzter Commit: 12.03.2020 11:10:24
+
 ## Versuche
 
 Versuch | Link
