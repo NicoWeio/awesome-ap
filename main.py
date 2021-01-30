@@ -48,6 +48,7 @@ for source in sources:
     dirsOfInterest = getDirsOfInterest(contents)
 
     source['lastCommit'] = getLastCommit(repo)
+    source['contributors'] = list(repo.get_contributors())
 
     versuchNummern = [getVersuchNummer(d.name) for d in dirsOfInterest]
     versuchNummern = [i for i in versuchNummern if i] # nicht erkannte Versuchs-Nummern entfernen
@@ -88,6 +89,10 @@ for repo in sources:
 
         lastCommit = repo['lastCommit'].strftime('%d.%m.%Y %H:%M:%S')
         out += f'Letzter Commit: {lastCommit}\n\n'
+
+        if len(repo['contributors']) > 1:
+            contributors = "\n".join([f'- [{c.login}]({c.html_url})' for c in repo['contributors']])
+            out += '## Autoren\n' + contributors + '\n\n'
 
         out += f'## Versuche\n\n'
         out += 'Versuch | Link\n'
