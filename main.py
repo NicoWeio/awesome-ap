@@ -1,5 +1,6 @@
 from github import Github
 import json
+from datetime import datetime
 from dotenv import load_dotenv
 import os
 import re
@@ -87,8 +88,11 @@ for repo in sources:
 ## Startseite
 with open(f'build/index.md', 'w') as g:
     out = '# Startseite\n\n'
+    now = datetime.today().strftime('%d.%m.%Y %H:%M:%S')
+    out += f'Zuletzt aktualisiert: {now}\n'
+    out += f'\n\n'
 
-    versuche = sorted([int(versuch) for versuch, repos in data.items()])
+    versuche = sorted([int(v) for v in data.keys()])
     out += f'## Versuche\n\n'
     out += 'Versuch | Link\n'
     out += '--- | ---\n'
@@ -102,5 +106,10 @@ with open(f'build/index.md', 'w') as g:
     for r in sorted(sources, key=lambda r: r['name']):
         name = r['name'].split('/')[0]
         out += f'{name} | [Übersicht](repo/{name})\n'
+    out += '\n\n'
+
+    out += '## Statistiken\n'
+    out += f'- **{len(data.keys())}** Versuche\n'
+    out += f'- **{sum([len(repos) for versuch, repos in data.items()])}** Protokolle\n'
 
     g.write(out)
