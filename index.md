@@ -1,6 +1,6 @@
 # Startseite
 
-## Versuche
+Zuletzt aktualisiert: 30.01.2021 11:25:20## Versuche
 
 Versuch | Link
 --- | ---
@@ -53,3 +53,6 @@ chris-topher6 | [Übersicht](repo/chris-topher6)
 dlmsr | [Übersicht](repo/dlmsr)
 dormail | [Übersicht](repo/dormail)
 vsulaiman | [Übersicht](repo/vsulaiman)
+
+
+## Statistiken- **35** Versuche- **63** Protokolle
