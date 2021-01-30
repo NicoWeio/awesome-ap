@@ -23,3 +23,11 @@ jobs:
     - name: Execute…
       run: |
         python main.py
+    - name: Deploy to GitHub Pages 🚀
+      uses: JamesIves/github-pages-deploy-action@3.7.1
+      with:
+          BRANCH: gh-pages
+          CLEAN: true
+          FOLDER: build
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SINGLE_COMMIT: false

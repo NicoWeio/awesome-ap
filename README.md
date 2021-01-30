@@ -1,3 +1,8 @@
+# Awesome-AP
+
+[![Continuous Integration](https://github.com/NicoWeio/awesome-ap/workflows/Generate%20summary/badge.svg)](https://github.com/NicoWeio/awesome-ap/actions)
+[![Übersicht](https://img.shields.io/badge/Übersicht-auf%20GitHub%20Pages-blue)](https://nicoweio.github.io/awesome-ap/)
+
 ## Übersicht öffentlicher Repos
 
 | Link                                                               | letzte Änderung (strict) | letzte Änderung (lax) |
