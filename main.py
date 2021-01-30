@@ -80,7 +80,7 @@ for versuch, repos in data.items():
 ## Repo → Versuche
 for repo in sources:
     owner = repo['name'].split('/')[0]
-    versuche = sorted([int(versuch) for versuch, repos in data.items() if repo in repos])
+    versuche = sorted([versuch for versuch, repos in data.items() if repo in repos])
     repo_url = repo['url']
     with open(f'build/repo/{owner}.md', 'w') as g:
         # out = json.dumps({'title': owner, 'versuche': versuche, 'github': repo['url']}, indent=4)
@@ -108,21 +108,23 @@ with open(f'build/index.md', 'w') as g:
     out += f'Zuletzt aktualisiert: {now}\n'
     out += f'\n\n'
 
-    versuche = sorted([int(v) for v in data.keys()])
+    versuche = sorted(data.keys())
     out += f'## Versuche\n\n'
-    out += 'Versuch | Link\n'
-    out += '--- | ---\n'
+    out += 'Versuch | Link | # Repos\n'
+    out += '--- | --- | :---:\n'
     for v in versuche:
-        out += f'{v} | [Übersicht](versuch/{v})\n'
+        repos = data[v]
+        out += f'{v} | [Übersicht](versuch/{v}) | {len(repos)}\n'
     out += '\n\n'
 
     out += f'## Repos\n\n'
-    out += 'Repo | Link | Letzter Commit\n'
-    out += '--- | --- | ---\n'
+    out += 'Repo | Link | Letzter Commit | # Versuche\n'
+    out += '--- | --- | --- | :---:\n'
     for r in sorted(sources, key=lambda r: r['name']):
         name = r['name'].split('/')[0]
         lastCommit = r['lastCommit'].strftime('%d.%m.%Y %H:%M:%S')
-        out += f'{name} | [Übersicht](repo/{name}) | {lastCommit}\n'
+        versuche = [versuch for versuch, repos in data.items() if r in repos]
+        out += f'{name} | [Übersicht](repo/{name}) | {lastCommit} | {len(versuche)}\n'
     out += '\n\n'
 
     out += '## Statistiken\n'
