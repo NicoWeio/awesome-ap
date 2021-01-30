@@ -1,6 +1,6 @@
 # Startseite
 
-Zuletzt aktualisiert: 30.01.2021 15:28:20
+Zuletzt aktualisiert: 30.01.2021 15:33:42
 
 
 ## Versuche
@@ -48,15 +48,15 @@ Versuch | Link | # Repos
 
 Repo | Link | Letzter Commit | # Versuche
 --- | --- | --- | :---:
-LiigaSoolane | [Übersicht](repo/LiigaSoolane) | 28.01.2021 13:55:01 | 5
-Mampfzwerg | [Übersicht](repo/Mampfzwerg) | 22.06.2019 00:18:30 | 5
-NicoWeio | [Übersicht](repo/NicoWeio) | 29.01.2021 16:34:27 | 5
-Tahirbanane | [Übersicht](repo/Tahirbanane) | 26.01.2021 14:48:47 | 5
-YanickKi | [Übersicht](repo/YanickKi) | 30.01.2021 15:12:21 | 5
-chris-topher6 | [Übersicht](repo/chris-topher6) | 29.01.2021 19:42:17 | 5
-dlmsr | [Übersicht](repo/dlmsr) | 12.03.2020 11:10:24 | 5
-dormail | [Übersicht](repo/dormail) | 30.01.2021 14:24:12 | 5
-vsulaiman | [Übersicht](repo/vsulaiman) | 13.07.2017 09:46:42 | 5
+chris-topher6 | [Übersicht](repo/chris-topher6) | 29.01.2021 19:42:17 | 6
+dlmsr | [Übersicht](repo/dlmsr) | 12.03.2020 11:10:24 | 26
+dormail | [Übersicht](repo/dormail) | 30.01.2021 14:24:12 | 4
+LiigaSoolane | [Übersicht](repo/LiigaSoolane) | 28.01.2021 13:55:01 | 3
+Mampfzwerg | [Übersicht](repo/Mampfzwerg) | 22.06.2019 00:18:30 | 21
+NicoWeio | [Übersicht](repo/NicoWeio) | 29.01.2021 16:34:27 | 6
+Tahirbanane | [Übersicht](repo/Tahirbanane) | 26.01.2021 14:48:47 | 7
+vsulaiman | [Übersicht](repo/vsulaiman) | 13.07.2017 09:46:42 | 0
+YanickKi | [Übersicht](repo/YanickKi) | 30.01.2021 15:32:03 | 5
 
 
 ## Statistiken
