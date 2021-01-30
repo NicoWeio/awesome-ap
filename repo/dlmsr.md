@@ -6,8 +6,6 @@
 
 Versuch | Link
 --- | ---
-702 | [Übersicht](../versuch/702)
-703 | [Übersicht](../versuch/703)
 46 | [Übersicht](../versuch/46)
 52 | [Übersicht](../versuch/52)
 53 | [Übersicht](../versuch/53)
@@ -32,3 +30,5 @@ Versuch | Link
 602 | [Übersicht](../versuch/602)
 606 | [Übersicht](../versuch/606)
 701 | [Übersicht](../versuch/701)
+702 | [Übersicht](../versuch/702)
+703 | [Übersicht](../versuch/703)
