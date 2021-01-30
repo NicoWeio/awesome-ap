@@ -5,8 +5,8 @@
 Letzter Commit: 30.01.2021 14:24:12
 
 ## Autoren
-- [dormail](https://api.github.com/users/dormail)
-- [philipjy](https://api.github.com/users/philipjy)
+- [dormail](https://github.com/dormail)
+- [philipjy](https://github.com/philipjy)
 
 ## Versuche
 

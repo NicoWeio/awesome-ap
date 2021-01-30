@@ -5,8 +5,8 @@
 Letzter Commit: 29.01.2021 16:34:27
 
 ## Autoren
-- [NicoWeio](https://api.github.com/users/NicoWeio)
-- [KathiPopp](https://api.github.com/users/KathiPopp)
+- [NicoWeio](https://github.com/NicoWeio)
+- [KathiPopp](https://github.com/KathiPopp)
 
 ## Versuche
 

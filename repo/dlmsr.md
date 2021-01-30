@@ -5,8 +5,8 @@
 Letzter Commit: 12.03.2020 11:10:24
 
 ## Autoren
-- [dlmsr](https://api.github.com/users/dlmsr)
-- [kevinmoc](https://api.github.com/users/kevinmoc)
+- [dlmsr](https://github.com/dlmsr)
+- [kevinmoc](https://github.com/kevinmoc)
 
 ## Versuche
 
