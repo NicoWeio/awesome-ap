@@ -20,7 +20,7 @@ def getDirsOfInterest(contents):
     return [dir for dir in contents if getVersuchNummer(dir.name) and dir.type == 'dir']
 
 def getVersuchNummer(dirname):
-    s = re.search(r'V[\._]?(\d{3})', dirname)
+    s = re.search(r'V[._]?(\d{3})', dirname)
     return int(s.group(1)) if s else None
 
 def getFilesRec(path):
