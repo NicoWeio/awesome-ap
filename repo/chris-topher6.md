@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/chris-topher6/Anfaenger-Praktikum)
 
-Letzter Commit: 30.01.2021 21:05:35
+Letzter Commit: 01.02.2021 00:10:11
 
 ## Autoren
 - [chris-topher6](https://github.com/chris-topher6)
