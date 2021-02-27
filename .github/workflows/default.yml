@@ -25,6 +25,8 @@ jobs:
     - name: Execute…
       run: |
         python main.py
+      env:
+          INPUT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     - name: Deploy to GitHub Pages 🚀
       uses: JamesIves/github-pages-deploy-action@3.7.1
       with:

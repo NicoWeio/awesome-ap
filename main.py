@@ -8,7 +8,8 @@ import re
 load_dotenv()
 
 # funktioniert auch ohne Token
-gh = Github(os.getenv('GITHUB_ACCESS_TOKEN'))
+TOKEN = os.getenv('GITHUB_TOKEN') or os.getenv('INPUT_GITHUB_TOKEN')
+gh = Github(TOKEN)
 
 with open('sources.json') as f:
   sources = json.load(f)
