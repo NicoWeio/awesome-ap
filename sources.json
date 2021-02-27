@@ -1,39 +1,119 @@
-[
-  {
-    "url": "https://github.com/chris-topher6/Anfaenger-Praktikum",
-    "name": "chris-topher6/Anfaenger-Praktikum"
-  },
-  {
-    "url": "https://github.com/dlmsr/praktikum",
-    "name": "dlmsr/praktikum"
-  },
-  {
-    "url": "https://github.com/dormail/ap",
-    "name": "dormail/ap"
-  },
-  {
-    "url": "https://github.com/LiigaSoolane/Paktikum",
-    "name": "LiigaSoolane/Paktikum"
-  },
-  {
-    "url": "https://github.com/Mampfzwerg/Praktikum",
-    "name": "Mampfzwerg/Praktikum"
-  },
-  {
-    "url": "https://github.com/NicoWeio/AP",
-    "name": "NicoWeio/AP"
-  },
-  {
-    "url": "https://github.com/Tahirbanane/AP",
-    "name": "Tahirbanane/AP"
-  },
-  {
-    "url": "https://github.com/vsulaiman/Praktikum/tree/master/AP%20Protokolle",
-    "name": "vsulaiman/Praktikum",
-    "subdirectory": "AP Protokolle"
-  },
-  {
-    "url": "https://github.com/YanickKi/AP_T_Y",
-    "name": "YanickKi/AP_T_Y"
-  }
-]
+[{
+  "name": "aknierim/AP",
+  "url": "https://github.com/aknierim/AP"
+}, {
+  "name": "BenediktSan/AnfaengerPraktikum2020",
+  "url": "https://github.com/BenediktSan/AnfaengerPraktikum2020"
+}, {
+  "name": "chrbeckm/anfaenger-praktikum",
+  "url": "https://github.com/chrbeckm/anfaenger-praktikum"
+}, {
+  "name": "chris-topher6/Anfaenger-Praktikum",
+  "url": "https://github.com/chris-topher6/Anfaenger-Praktikum"
+}, {
+  "name": "dagbjoern/AP-Physik",
+  "url": "https://github.com/dagbjoern/AP-Physik"
+}, {
+  "name": "dlmsr/praktikum",
+  "url": "https://github.com/dlmsr/praktikum"
+}, {
+  "name": "dormail/ap",
+  "url": "https://github.com/dormail/ap"
+}, {
+  "name": "Fresoquark/Anfaengerpraktikum",
+  "url": "https://github.com/Fresoquark/Anfaengerpraktikum"
+}, {
+  "name": "HelenaCarlArne/ProtokolleAP",
+  "url": "https://github.com/HelenaCarlArne/ProtokolleAP"
+}, {
+  "name": "Jean1995/Praktikum",
+  "url": "https://github.com/Jean1995/Praktikum"
+}, {
+  "name": "JLammering/Physikalisches-Praktikum",
+  "url": "https://github.com/JLammering/Physikalisches-Praktikum"
+}, {
+  "name": "komrozik/AP2019",
+  "url": "https://github.com/komrozik/AP2019"
+}, {
+  "name": "lassestern/praktikum-david-lasse",
+  "url": "https://github.com/lassestern/praktikum-david-lasse"
+}, {
+  "url": "https://github.com/LiigaSoolane/Paktikum",
+  "name": "LiigaSoolane/Paktikum"
+}, {
+  "name": "LuckyJosh/APPhysik",
+  "url": "https://github.com/LuckyJosh/APPhysik"
+}, {
+  "name": "MagischeMiesmuschel/AnfaengerPraktikum",
+  "url": "https://github.com/MagischeMiesmuschel/AnfaengerPraktikum"
+}, {
+  "url": "https://github.com/Mampfzwerg/Praktikum",
+  "name": "Mampfzwerg/Praktikum"
+}, {
+  "name": "moritzbo/anfaenger_praktikum",
+  "url": "https://github.com/moritzbo/anfaenger_praktikum"
+}, {
+  "name": "mwindau/praktikum",
+  "url": "https://github.com/mwindau/praktikum"
+}, {
+  "name": "NicoJG/Anfaengerpraktikum",
+  "url": "https://github.com/NicoJG/Anfaengerpraktikum"
+}, {
+  "url": "https://github.com/NicoWeio/AP",
+  "name": "NicoWeio/AP"
+}, {
+  "name": "NiklasD/AnfaengerPraktikum2020",
+  "url": "https://github.com/NiklasD/AnfaengerPraktikum2020"
+}, {
+  "name": "nsalewski/laboratory",
+  "url": "https://github.com/nsalewski/laboratory"
+}, {
+  "name": "pascalgutjahr/Praktikum-1",
+  "url": "https://github.com/pascalgutjahr/Praktikum-1"
+}, {
+  "name": "paul-stoerbrock/Praktikum",
+  "url": "https://github.com/paul-stoerbrock/Praktikum"
+}, {
+  "name": "phlipo95/AP-Praktikum",
+  "url": "https://github.com/phlipo95/AP-Praktikum"
+}, {
+  "name": "Renameus/PhysikPraktikum1",
+  "url": "https://github.com/Renameus/PhysikPraktikum1"
+}, {
+  "name": "rkallo/APWS1718",
+  "url": "https://github.com/rkallo/APWS1718"
+}, {
+  "name": "rleven/richard_joell_Praktikum",
+  "url": "https://github.com/rleven/richard_joell_Praktikum"
+}, {
+  "name": "SamGTex/Physik_Praktikum_Samuel_Max",
+  "url": "https://github.com/SamGTex/Physik_Praktikum_Samuel_Max"
+}, {
+  "name": "SHilgers/Praktikum2",
+  "url": "https://github.com/SHilgers/Praktikum2"
+}, {
+  "name": "smjhnits/Praktikum_TU_D_16-17",
+  "url": "https://github.com/smjhnits/Praktikum_TU_D_16-17"
+}, {
+  "name": "smjolame/Praktikum_1",
+  "url": "https://github.com/smjolame/Praktikum_1"
+}, {
+  "name": "stefangri/s_s_productions",
+  "url": "https://github.com/stefangri/s_s_productions"
+}, {
+  "name": "syhon/Anfaengerpraktikum",
+  "url": "https://github.com/syhon/Anfaengerpraktikum"
+}, {
+  "url": "https://github.com/Tahirbanane/AP",
+  "name": "Tahirbanane/AP"
+}, {
+  "url": "https://github.com/vsulaiman/Praktikum/tree/master/AP%20Protokolle",
+  "name": "vsulaiman/Praktikum",
+  "subdirectory": "AP Protokolle"
+}, {
+  "name": "woklop9/Anfaengerpraktikum",
+  "url": "https://github.com/woklop9/Anfaengerpraktikum"
+}, {
+  "name": "YanickKi/AP_T_Y",
+  "url": "https://github.com/YanickKi/AP_T_Y"
+}]
