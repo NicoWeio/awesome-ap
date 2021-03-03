@@ -1,6 +1,6 @@
 # Startseite
 
-Zuletzt aktualisiert: 02.03.2021 00:39:59
+Zuletzt aktualisiert: 03.03.2021 00:47:15
 
 
 ## Versuche
@@ -63,7 +63,7 @@ Versuch | Link | # Repos
 Repo | Link | Letzter Commit | # Versuche
 --- | --- | --- | :---:
 aknierim | [Übersicht](repo/aknierim) | 09.10.2019 08:28:34 | 0
-BenediktSan | [Übersicht](repo/BenediktSan) | 29.01.2021 11:53:55 | 0
+BenediktSan | [Übersicht](repo/BenediktSan) | 02.03.2021 22:50:54 | 0
 chrbeckm | [Übersicht](repo/chrbeckm) | 09.11.2019 16:04:46 | 18
 chris-topher6 | [Übersicht](repo/chris-topher6) | 02.02.2021 07:22:39 | 6
 dagbjoern | [Übersicht](repo/dagbjoern) | 12.07.2016 09:19:16 | 21
