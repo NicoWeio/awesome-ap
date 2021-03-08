@@ -1,6 +1,6 @@
 # Startseite
 
-Zuletzt aktualisiert: 07.03.2021 00:49:58
+Zuletzt aktualisiert: 08.03.2021 00:48:12
 
 
 ## Versuche
@@ -82,7 +82,7 @@ Mampfzwerg | [Übersicht](repo/Mampfzwerg) | 22.06.2019 00:18:30 | 21
 moritzbo | [Übersicht](repo/moritzbo) | 06.02.2021 15:00:54 | 5
 mwindau | [Übersicht](repo/mwindau) | 10.07.2017 19:33:32 | 18
 NicoJG | [Übersicht](repo/NicoJG) | 04.08.2020 12:33:58 | 19
-NicoWeio | [Übersicht](repo/NicoWeio) | 03.03.2021 16:14:13 | 6
+NicoWeio | [Übersicht](repo/NicoWeio) | 07.03.2021 08:08:07 | 6
 NiklasD | [Übersicht](repo/NiklasD) | 02.11.2020 18:49:33 | 6
 nsalewski | [Übersicht](repo/nsalewski) | 23.07.2018 07:32:48 | 20
 pascalgutjahr | [Übersicht](repo/pascalgutjahr) | 08.04.2019 18:36:29 | 5
