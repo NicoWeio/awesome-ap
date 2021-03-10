@@ -1,9 +1,9 @@
 from github import Github
-import json
 from datetime import datetime
 from dotenv import load_dotenv
 import os
 import re
+import yaml
 
 load_dotenv()
 
@@ -11,8 +11,8 @@ load_dotenv()
 TOKEN = os.getenv('GITHUB_TOKEN') or os.getenv('INPUT_GITHUB_TOKEN')
 gh = Github(TOKEN)
 
-with open('sources.json') as f:
-  sources = json.load(f)
+with open("sources.yaml", 'r') as stream:
+    sources = yaml.safe_load(stream)
 
 data = dict()
 
