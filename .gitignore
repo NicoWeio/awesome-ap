@@ -1,3 +1,4 @@
 .env
 database.json
 build
+__pycache__
