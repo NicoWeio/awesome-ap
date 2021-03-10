@@ -1,5 +1,6 @@
 from datetime import datetime
 import os
+import pytablewriter
 import urllib
 
 def get_url(repo, type='pdfs'):
@@ -20,17 +21,20 @@ def generate_md(repos_to_versuche, versuche_to_repos):
             repoNames = [r['name'].split('/')[0] for r in repos]
             out = f'# Versuch *{versuch}*\n\n'
             out += f'## Repos\n\n'
-            out += 'Repo | Link\n'
-            out += '--- | ---\n'
-            for r in sorted(repos, key=lambda r: r['name'].lower()):
-                name = r['name'].split('/')[0]
-                out += f'{name} | [Übersicht](../repo/{name})\n'
+
+            writer = pytablewriter.MarkdownTableWriter()
+            writer.headers = ['Repo', 'Link']
+            writer.value_matrix = list(
+            [(r['name'].split('/')[0],
+              f'[Übersicht](../repo/{r["name"].split("/")[0]})')
+            for r in sorted(repos, key=lambda r: r['name'].lower())])
+            out += writer.dumps()
+
             g.write(out)
 
     ## Repo → Versuche
     for repo in repos_to_versuche:
         owner = repo['name'].split('/')[0]
-        # versuche = sorted([versuch for versuch, repos in versuche_to_repos.items() if repo in repos])
         versuche = sorted(repo['versuchNummern'])
         with open(f'build/repo/{owner}.md', 'w') as g:
             out = f'# Repo von *{owner}*\n\n'
@@ -44,10 +48,10 @@ def generate_md(repos_to_versuche, versuche_to_repos):
                 out += '## Autoren\n' + contributors + '\n\n'
 
             out += f'## Versuche\n\n'
-            out += 'Versuch | Link\n'
-            out += '--- | ---\n'
-            for v in versuche:
-                out += f'{v} | [Übersicht](../versuch/{v})\n'
+            writer.headers = ['Versuch', 'Link']
+            writer.value_matrix = [(v, f'[Übersicht](versuch/{v})') for v in versuche]
+            out += writer.dumps()
+            
             g.write(out)
 
     ## Startseite
@@ -57,23 +61,22 @@ def generate_md(repos_to_versuche, versuche_to_repos):
         out += f'Zuletzt aktualisiert: {now}\n'
         out += f'\n\n'
 
-        versuche = sorted(versuche_to_repos.keys())
         out += f'## Versuche\n\n'
-        out += 'Versuch | Link | # Repos\n'
-        out += '--- | --- | :---:\n'
-        for v in versuche:
-            repos = versuche_to_repos[v]
-            out += f'{v} | [Übersicht](versuch/{v}) | {len(repos)}\n'
+        writer = pytablewriter.MarkdownTableWriter()
+        writer.headers = ['Versuch', 'Link', 'Repos']
+        writer.value_matrix = [(v, f'[Übersicht](versuch/{v})', len(versuche_to_repos[v])) for v in sorted(versuche_to_repos.keys())]
+        out += writer.dumps()
         out += '\n\n'
 
         out += f'## Repos\n\n'
-        out += 'Repo | Link | Letzter Commit | # Versuche\n'
-        out += '--- | --- | --- | :---:\n'
+        writer.headers = ['Repo', 'Link', 'Letzter Commit', '# Versuche']
+        writer.value_matrix = []
         for r in sorted(repos_to_versuche, key=lambda r: r['name'].lower()):
             name = r['name'].split('/')[0]
             lastCommit = r['lastCommit'].strftime('%d.%m.%Y %H:%M:%S')
             versuche = [versuch for versuch, repos in versuche_to_repos.items() if r in repos]
-            out += f'{name} | [Übersicht](repo/{name}) | {lastCommit} | {len(versuche)}\n'
+            writer.value_matrix.append((f'[{name}]({get_url(r, "home")})', f'[Übersicht](repo/{name})', f'{lastCommit}', f'{len(versuche)}'))
+        out += writer.dumps()
         out += '\n\n'
 
         out += '## Statistiken\n'
