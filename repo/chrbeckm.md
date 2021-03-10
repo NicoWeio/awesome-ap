@@ -15,7 +15,6 @@ Versuch | Link
 301 | [Übersicht](../versuch/301)
 302 | [Übersicht](../versuch/302)
 308 | [Übersicht](../versuch/308)
-308 | [Übersicht](../versuch/308)
 351 | [Übersicht](../versuch/351)
 353 | [Übersicht](../versuch/353)
 354 | [Übersicht](../versuch/354)
