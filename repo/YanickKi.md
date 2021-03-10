@@ -10,11 +10,11 @@ Letzter Commit: 05.03.2021 14:51:54
 
 ## Versuche
 
-Versuch | Link
---- | ---
-204 | [Übersicht](../versuch/204)
-302 | [Übersicht](../versuch/302)
-353 | [Übersicht](../versuch/353)
-406 | [Übersicht](../versuch/406)
-702 | [Übersicht](../versuch/702)
-703 | [Übersicht](../versuch/703)
+|Versuch|          Link          |
+|------:|------------------------|
+|    204|[Übersicht](versuch/204)|
+|    302|[Übersicht](versuch/302)|
+|    353|[Übersicht](versuch/353)|
+|    406|[Übersicht](versuch/406)|
+|    702|[Übersicht](versuch/702)|
+|    703|[Übersicht](versuch/703)|

@@ -10,7 +10,7 @@ Letzter Commit: 05.02.2018 06:01:44
 
 ## Versuche
 
-Versuch | Link
---- | ---
-341 | [Übersicht](../versuch/341)
-641 | [Übersicht](../versuch/641)
+|Versuch|          Link          |
+|------:|------------------------|
+|    341|[Übersicht](versuch/341)|
+|    641|[Übersicht](versuch/641)|
