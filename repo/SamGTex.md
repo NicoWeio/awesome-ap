@@ -1,0 +1,33 @@
+# Repo von *SamGTex*
+
+## [zum Repo auf GitHub](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max)
+
+Letzter Commit: 31.01.2021 10:43:48
+
+## Autoren
+- [SamGTex](https://github.com/SamGTex)
+- [maaxxns](https://github.com/maaxxns)
+
+## Versuche
+
+|       Versuch       |                                                                                                                                        Ordner                                                                                                                                         |PDFs|
+|---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
+|[101](../versuch/101)|[101_traegheitsmoment](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/101_traegheitsmoment)                                                                                                                                                                        |–   |
+|[103](../versuch/103)|[103_staebe_biegen](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/103_staebe_biegen)                                                                                                                                                                              |–   |
+|[201](../versuch/201)|[201_dulong_petische_gesetz](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/201_dulong_petische_gesetz)                                                                                                                                                            |–   |
+|[204](../versuch/204)|[204_waermeleitfaehigkeit](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/204_waermeleitfaehigkeit)                                                                                                                                                                |–   |
+|[302](../versuch/302)|[302_brueckenschaltung](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/302_brueckenschaltung)                                                                                                                                                                      |–   |
+|[308](../versuch/308)|[308_Magnetfelder_und_Spulen](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/308_Magnetfelder_und_Spulen)                                                                                                                                                          |–   |
+|[353](../versuch/353)|[353_Relaxationsverhalten_eines_rc_kreis](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/353_Relaxationsverhalten_eines_rc_kreis)                                                                                                                                  |–   |
+|[354](../versuch/354)|[354_Gedaempfte_und_erzwungene_Schwingungen](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/354_Gedaempfte_und_erzwungene_Schwingungen)                                                                                                                            |–   |
+|[406](../versuch/406)|[406_Beugung_am_Spalt](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/406_Beugung_am_Spalt)                                                                                                                                                                        |–   |
+|[408](../versuch/408)|[408_geometrsiche_optik](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/408_geometrsiche_optik)                                                                                                                                                                    |–   |
+|[500](../versuch/500)|[500_photoeffekt](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/500_photoeffekt)                                                                                                                                                                                  |–   |
+|[504](../versuch/504)|[504_thermische_elektronenemission](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/504_thermische_elektronenemission)                                                                                                                                              |–   |
+|[601](../versuch/601)|[601_Franck_Hertz_Versuch](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/601_Franck_Hertz_Versuch)                                                                                                                                                                |–   |
+|[602](../versuch/602)|[602_roentgenemission_und_absorption_haefs](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/602_roentgenemission_und_absorption_haefs)<br/>[V602_Roentgenemission_Max](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/V602_Roentgenemission_Max)|–   |
+|[603](../versuch/603)|[603_compton_effekt_haefs](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/603_compton_effekt_haefs)<br/>[V603_Comptoneffekt_Max](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/V603_Comptoneffekt_Max)                                        |–   |
+|[702](../versuch/702)|[702_Aktivierung_mit_Neutronen](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/702_Aktivierung_mit_Neutronen)                                                                                                                                                      |–   |
+|[703](../versuch/703)|[703_geiger_mueller_haefs](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/703_geiger_mueller_haefs)<br/>[V703_Geiger_Mueller_Zaehlrohr_Max](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/V703_Geiger_Mueller_Zaehlrohr_Max)                  |–   |
+|[802](../versuch/802)|[802_Fourier](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/802_Fourier)                                                                                                                                                                                          |–   |
+|[803](../versuch/803)|[803_Hook](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max/tree/master/803_Hook)                                                                                                                                                                                                |–   |
