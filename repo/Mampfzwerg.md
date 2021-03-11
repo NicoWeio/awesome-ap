@@ -6,27 +6,27 @@ Letzter Commit: 22.06.2019 00:18:30
 
 ## Versuche
 
-|Versuch|          Link          |
-|------:|------------------------|
-|    101|[Übersicht](versuch/101)|
-|    102|[Übersicht](versuch/102)|
-|    103|[Übersicht](versuch/103)|
-|    201|[Übersicht](versuch/201)|
-|    206|[Übersicht](versuch/206)|
-|    207|[Übersicht](versuch/207)|
-|    301|[Übersicht](versuch/301)|
-|    302|[Übersicht](versuch/302)|
-|    351|[Übersicht](versuch/351)|
-|    353|[Übersicht](versuch/353)|
-|    354|[Übersicht](versuch/354)|
-|    401|[Übersicht](versuch/401)|
-|    406|[Übersicht](versuch/406)|
-|    408|[Übersicht](versuch/408)|
-|    500|[Übersicht](versuch/500)|
-|    504|[Übersicht](versuch/504)|
-|    601|[Übersicht](versuch/601)|
-|    602|[Übersicht](versuch/602)|
-|    606|[Übersicht](versuch/606)|
-|    701|[Übersicht](versuch/701)|
-|    703|[Übersicht](versuch/703)|
-|    704|[Übersicht](versuch/704)|
+|     Versuch      |                                Ordner                                |                                              PDF                                               |
+|------------------|----------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+|[101](versuch/101)|[V.101](https://github.com/Mampfzwerg/Praktikum/tree/master/V.101)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.101/latex-template/main.pdf)   |
+|[102](versuch/102)|[V.102](https://github.com/Mampfzwerg/Praktikum/tree/master/V.102)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.102/latex-template/main.pdf)   |
+|[103](versuch/103)|[V.103](https://github.com/Mampfzwerg/Praktikum/tree/master/V.103)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.103/latex-template/main.pdf)   |
+|[201](versuch/201)|[V.201](https://github.com/Mampfzwerg/Praktikum/tree/master/V.201)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.201/latex-template/main.pdf)   |
+|[206](versuch/206)|[V.206](https://github.com/Mampfzwerg/Praktikum/tree/master/V.206)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.206/latex-template/main.pdf)   |
+|[207](versuch/207)|[V.207](https://github.com/Mampfzwerg/Praktikum/tree/master/V.207)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.207/latex-template/main.pdf)   |
+|[301](versuch/301)|[V. 301](https://github.com/Mampfzwerg/Praktikum/tree/master/V.%20301)|[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.%20301/latex-template/main.pdf)|
+|[302](versuch/302)|[V.302](https://github.com/Mampfzwerg/Praktikum/tree/master/V.302)    |–                                                                                               |
+|[351](versuch/351)|[V.351](https://github.com/Mampfzwerg/Praktikum/tree/master/V.351)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.351/latex-template/main.pdf)   |
+|[353](versuch/353)|[V.353](https://github.com/Mampfzwerg/Praktikum/tree/master/V.353)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.353/latex-template/main.pdf)   |
+|[354](versuch/354)|[V.354](https://github.com/Mampfzwerg/Praktikum/tree/master/V.354)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.354/latex-template/main.pdf)   |
+|[401](versuch/401)|[V.401](https://github.com/Mampfzwerg/Praktikum/tree/master/V.401)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.401/latex-template/main.pdf)   |
+|[406](versuch/406)|[V.406](https://github.com/Mampfzwerg/Praktikum/tree/master/V.406)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.406/latex-template/main.pdf)   |
+|[408](versuch/408)|[V.408](https://github.com/Mampfzwerg/Praktikum/tree/master/V.408)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.408/latex-template/main.pdf)   |
+|[500](versuch/500)|[V.500](https://github.com/Mampfzwerg/Praktikum/tree/master/V.500)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.500/latex-template/main.pdf)   |
+|[504](versuch/504)|[V.504](https://github.com/Mampfzwerg/Praktikum/tree/master/V.504)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.504/latex-template/main.pdf)   |
+|[601](versuch/601)|[V.601](https://github.com/Mampfzwerg/Praktikum/tree/master/V.601)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.601/latex-template/main.pdf)   |
+|[602](versuch/602)|[V.602](https://github.com/Mampfzwerg/Praktikum/tree/master/V.602)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.602/latex-template/main.pdf)   |
+|[606](versuch/606)|[V.606](https://github.com/Mampfzwerg/Praktikum/tree/master/V.606)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.606/latex-template/main.pdf)   |
+|[701](versuch/701)|[V.701](https://github.com/Mampfzwerg/Praktikum/tree/master/V.701)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.701/latex-template/main.pdf)   |
+|[703](versuch/703)|[V.703](https://github.com/Mampfzwerg/Praktikum/tree/master/V.703)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.703/latex-template/main.pdf)   |
+|[704](versuch/704)|[V.704](https://github.com/Mampfzwerg/Praktikum/tree/master/V.704)    |[main.pdf](https://github.com/Mampfzwerg/Praktikum/blob/master/V.704/latex-template/main.pdf)   |

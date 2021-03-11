@@ -10,13 +10,13 @@ Letzter Commit: 20.12.2012 18:07:06
 
 ## Versuche
 
-|Versuch|          Link          |
-|------:|------------------------|
-|    101|[Übersicht](versuch/101)|
-|    201|[Übersicht](versuch/201)|
-|    301|[Übersicht](versuch/301)|
-|    351|[Übersicht](versuch/351)|
-|    402|[Übersicht](versuch/402)|
-|    504|[Übersicht](versuch/504)|
-|    606|[Übersicht](versuch/606)|
-|    703|[Übersicht](versuch/703)|
+|     Versuch      |                                   Ordner                                   |                                                         PDF                                                          |
+|------------------|----------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------|
+|[101](versuch/101)|[101](https://github.com/Renameus/PhysikPraktikum1/tree/master/Versuche/101)|[protokoll.pdf](https://github.com/Renameus/PhysikPraktikum1/blob/master/Versuche/101/protokoll.pdf)                  |
+|[201](versuch/201)|[201](https://github.com/Renameus/PhysikPraktikum1/tree/master/Versuche/201)|[protokoll.pdf](https://github.com/Renameus/PhysikPraktikum1/blob/master/Versuche/201/protokoll.pdf)                  |
+|[301](versuch/301)|[301](https://github.com/Renameus/PhysikPraktikum1/tree/master/Versuche/301)|[protokoll.pdf](https://github.com/Renameus/PhysikPraktikum1/blob/master/Versuche/301/protokoll.pdf)                  |
+|[351](versuch/351)|[351](https://github.com/Renameus/PhysikPraktikum1/tree/master/Versuche/351)|[V351.pdf](https://github.com/Renameus/PhysikPraktikum1/blob/master/Versuche/351/V351.pdf)                            |
+|[402](versuch/402)|[402](https://github.com/Renameus/PhysikPraktikum1/tree/master/Versuche/402)|[protokoll.pdf](https://github.com/Renameus/PhysikPraktikum1/blob/master/Versuche/402/protokoll.pdf)                  |
+|[504](versuch/504)|[504](https://github.com/Renameus/PhysikPraktikum1/tree/master/Versuche/504)|[protokoll.pdf](https://github.com/Renameus/PhysikPraktikum1/blob/master/Versuche/504/protokoll.pdf)                  |
+|[606](versuch/606)|[606](https://github.com/Renameus/PhysikPraktikum1/tree/master/Versuche/606)|[protokoll - Copy.pdf](https://github.com/Renameus/PhysikPraktikum1/blob/master/Versuche/606/protokoll%20-%20Copy.pdf)|
+|[703](versuch/703)|[703](https://github.com/Renameus/PhysikPraktikum1/tree/master/Versuche/703)|[V703.pdf](https://github.com/Renameus/PhysikPraktikum1/blob/master/Versuche/703/V703.pdf)                            |

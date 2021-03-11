@@ -6,5 +6,5 @@ Letzter Commit: 02.03.2021 22:50:54
 
 ## Versuche
 
-|Versuch|Link|
-|-------|----|
+|Versuch|Ordner|PDF|
+|-------|------|---|

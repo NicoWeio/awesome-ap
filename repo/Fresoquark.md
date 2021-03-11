@@ -10,15 +10,15 @@ Letzter Commit: 08.07.2018 16:41:54
 
 ## Versuche
 
-|Versuch|          Link          |
-|------:|------------------------|
-|    402|[Übersicht](versuch/402)|
-|    406|[Übersicht](versuch/406)|
-|    408|[Übersicht](versuch/408)|
-|    500|[Übersicht](versuch/500)|
-|    501|[Übersicht](versuch/501)|
-|    602|[Übersicht](versuch/602)|
-|    606|[Übersicht](versuch/606)|
-|    701|[Übersicht](versuch/701)|
-|    702|[Übersicht](versuch/702)|
-|    704|[Übersicht](versuch/704)|
+|     Versuch      |                                     Ordner                                      |PDF|
+|------------------|---------------------------------------------------------------------------------|---|
+|[402](versuch/402)|[V402](https://github.com/Fresoquark/Anfaengerpraktikum/tree/master/V402)        |–  |
+|[406](versuch/406)|[V406](https://github.com/Fresoquark/Anfaengerpraktikum/tree/master/V406)        |–  |
+|[408](versuch/408)|[V408](https://github.com/Fresoquark/Anfaengerpraktikum/tree/master/V408)        |–  |
+|[500](versuch/500)|[V500](https://github.com/Fresoquark/Anfaengerpraktikum/tree/master/V500)        |–  |
+|[501](versuch/501)|[V501_502](https://github.com/Fresoquark/Anfaengerpraktikum/tree/master/V501_502)|–  |
+|[602](versuch/602)|[V602](https://github.com/Fresoquark/Anfaengerpraktikum/tree/master/V602)        |–  |
+|[606](versuch/606)|[V606](https://github.com/Fresoquark/Anfaengerpraktikum/tree/master/V606)        |–  |
+|[701](versuch/701)|[V701](https://github.com/Fresoquark/Anfaengerpraktikum/tree/master/V701)        |–  |
+|[702](versuch/702)|[V702](https://github.com/Fresoquark/Anfaengerpraktikum/tree/master/V702)        |–  |
+|[704](versuch/704)|[V704](https://github.com/Fresoquark/Anfaengerpraktikum/tree/master/V704)        |–  |

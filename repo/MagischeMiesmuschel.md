@@ -6,26 +6,26 @@ Letzter Commit: 20.08.2018 09:40:55
 
 ## Versuche
 
-|Versuch|          Link          |
-|------:|------------------------|
-|    103|[Übersicht](versuch/103)|
-|    105|[Übersicht](versuch/105)|
-|    106|[Übersicht](versuch/106)|
-|    201|[Übersicht](versuch/201)|
-|    204|[Übersicht](versuch/204)|
-|    206|[Übersicht](versuch/206)|
-|    301|[Übersicht](versuch/301)|
-|    302|[Übersicht](versuch/302)|
-|    303|[Übersicht](versuch/303)|
-|    351|[Übersicht](versuch/351)|
-|    354|[Übersicht](versuch/354)|
-|    401|[Übersicht](versuch/401)|
-|    402|[Übersicht](versuch/402)|
-|    406|[Übersicht](versuch/406)|
-|    501|[Übersicht](versuch/501)|
-|    504|[Übersicht](versuch/504)|
-|    601|[Übersicht](versuch/601)|
-|    602|[Übersicht](versuch/602)|
-|    701|[Übersicht](versuch/701)|
-|    702|[Übersicht](versuch/702)|
-|    703|[Übersicht](versuch/703)|
+|     Versuch      |                                        Ordner                                        |PDF|
+|------------------|--------------------------------------------------------------------------------------|---|
+|[103](versuch/103)|[V103](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V103)    |–  |
+|[105](versuch/105)|[V105](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V105)    |–  |
+|[106](versuch/106)|[V106](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V106)    |–  |
+|[201](versuch/201)|[V201](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V201)    |–  |
+|[204](versuch/204)|[V204](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V204)    |–  |
+|[206](versuch/206)|[V206](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V206)    |–  |
+|[301](versuch/301)|[V301](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V301)    |–  |
+|[302](versuch/302)|[V302](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V302)    |–  |
+|[303](versuch/303)|[V303](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V303)    |–  |
+|[351](versuch/351)|[V351](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V351)    |–  |
+|[354](versuch/354)|[V354](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V354)    |–  |
+|[401](versuch/401)|[V401](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V401)    |–  |
+|[402](versuch/402)|[V402](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V402)    |–  |
+|[406](versuch/406)|[V406](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V406)    |–  |
+|[501](versuch/501)|[V501_2](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V501_2)|–  |
+|[504](versuch/504)|[V504](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V504)    |–  |
+|[601](versuch/601)|[V601](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V601)    |–  |
+|[602](versuch/602)|[V602](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V602)    |–  |
+|[701](versuch/701)|[V701](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V701)    |–  |
+|[702](versuch/702)|[V702](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V702)    |–  |
+|[703](versuch/703)|[V703](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum/tree/master/V703)    |–  |

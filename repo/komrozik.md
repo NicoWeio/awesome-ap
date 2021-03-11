@@ -10,20 +10,20 @@ Letzter Commit: 18.09.2020 10:47:35
 
 ## Versuche
 
-|Versuch|          Link          |
-|------:|------------------------|
-|    102|[Übersicht](versuch/102)|
-|    106|[Übersicht](versuch/106)|
-|    203|[Übersicht](versuch/203)|
-|    206|[Übersicht](versuch/206)|
-|    303|[Übersicht](versuch/303)|
-|    311|[Übersicht](versuch/311)|
-|    354|[Übersicht](versuch/354)|
-|    355|[Übersicht](versuch/355)|
-|    401|[Übersicht](versuch/401)|
-|    408|[Übersicht](versuch/408)|
-|    501|[Übersicht](versuch/501)|
-|    702|[Übersicht](versuch/702)|
-|    801|[Übersicht](versuch/801)|
-|    802|[Übersicht](versuch/802)|
-|    803|[Übersicht](versuch/803)|
+|     Versuch      |                                                                 Ordner                                                                 |                                                                      PDF                                                                       |
+|------------------|----------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------|
+|[102](versuch/102)|[102_Drehschwingung](https://github.com/komrozik/AP2019/tree/master/102_Drehschwingung)                                                 |[PV102_Rueckgabe.pdf](https://github.com/komrozik/AP2019/blob/master/102_Drehschwingung/PV102_Rueckgabe.pdf)                                    |
+|[106](versuch/106)|[106_Gekoppelte_Pendel](https://github.com/komrozik/AP2019/tree/master/106_Gekoppelte_Pendel)                                           |[V106 - Protokoll.pdf](https://github.com/komrozik/AP2019/blob/master/106_Gekoppelte_Pendel/V106%20-%20Protokoll.pdf)                           |
+|[203](versuch/203)|[203_Verdampfungswaerme](https://github.com/komrozik/AP2019/tree/master/203_Verdampfungswaerme)                                         |[V203_Verdampfungswaerme.pdf](https://github.com/komrozik/AP2019/blob/master/203_Verdampfungswaerme/V203_Verdampfungswaerme.pdf)                |
+|[206](versuch/206)|[206_Waermepumpe](https://github.com/komrozik/AP2019/tree/master/206_Waermepumpe)                                                       |[206_Waermepumpe.pdf](https://github.com/komrozik/AP2019/blob/master/206_Waermepumpe/206_Waermepumpe.pdf)                                       |
+|[303](versuch/303)|[303_Lock-In-Verstaerker](https://github.com/komrozik/AP2019/tree/master/303_Lock-In-Verstaerker)                                       |[303_Lock_In_Verstärker.pdf](https://github.com/komrozik/AP2019/blob/master/303_Lock-In-Verstaerker/303_Lock_In_Verst%C3%A4rker.pdf)            |
+|[311](versuch/311)|[311_Hall-Effekt](https://github.com/komrozik/AP2019/tree/master/311_Hall-Effekt)                                                       |[V311_Hall_Effekt.pdf](https://github.com/komrozik/AP2019/blob/master/311_Hall-Effekt/V311_Hall_Effekt.pdf)                                     |
+|[354](versuch/354)|[354_Gedämpfte_und_erzwungene_Schwinungen](https://github.com/komrozik/AP2019/tree/master/354_Ged%C3%A4mpfte_und_erzwungene_Schwinungen)|[Messwerte354.pdf](https://github.com/komrozik/AP2019/blob/master/354_Ged%C3%A4mpfte_und_erzwungene_Schwinungen/Messwerte354.pdf)               |
+|[355](versuch/355)|[355_Gekoppelte_Schwingkreise](https://github.com/komrozik/AP2019/tree/master/355_Gekoppelte_Schwingkreise)                             |[V355_Gekopelte_Schwingkreise.pdf](https://github.com/komrozik/AP2019/blob/master/355_Gekoppelte_Schwingkreise/V355_Gekopelte_Schwingkreise.pdf)|
+|[401](versuch/401)|[401_Michelson_Interferometer](https://github.com/komrozik/AP2019/tree/master/401_Michelson_Interferometer)                             |[V401-mrozik-kebekus.pdf](https://github.com/komrozik/AP2019/blob/master/401_Michelson_Interferometer/V401-mrozik-kebekus.pdf)                  |
+|[408](versuch/408)|[408_Geometrische_Optik](https://github.com/komrozik/AP2019/tree/master/408_Geometrische_Optik)                                         |[V408-mrozik-kebekus.pdf](https://github.com/komrozik/AP2019/blob/master/408_Geometrische_Optik/V408-mrozik-kebekus.pdf)                        |
+|[501](versuch/501)|[501_Elektronen_im_E-Feld](https://github.com/komrozik/AP2019/tree/master/501_Elektronen_im_E-Feld)                                     |[V501.pdf](https://github.com/komrozik/AP2019/blob/master/501_Elektronen_im_E-Feld/V501.pdf)                                                    |
+|[702](versuch/702)|[702-Aktivierung_mit_Neutronen](https://github.com/komrozik/AP2019/tree/master/702-Aktivierung_mit_Neutronen)                           |[main.pdf](https://github.com/komrozik/AP2019/blob/master/702-Aktivierung_mit_Neutronen/main.pdf)                                               |
+|[801](versuch/801)|[801_Messuebung](https://github.com/komrozik/AP2019/tree/master/801_Messuebung)                                                         |–                                                                                                                                               |
+|[802](versuch/802)|[802_Fouriersynthese](https://github.com/komrozik/AP2019/tree/master/802_Fouriersynthese)                                               |–                                                                                                                                               |
+|[803](versuch/803)|[803_Das_Hooksche_Gesetz](https://github.com/komrozik/AP2019/tree/master/803_Das_Hooksche_Gesetz)                                       |–                                                                                                                                               |

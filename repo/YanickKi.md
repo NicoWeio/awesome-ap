@@ -10,11 +10,12 @@ Letzter Commit: 05.03.2021 14:51:54
 
 ## Versuche
 
-|Versuch|          Link          |
-|------:|------------------------|
-|    204|[Übersicht](versuch/204)|
-|    302|[Übersicht](versuch/302)|
-|    353|[Übersicht](versuch/353)|
-|    406|[Übersicht](versuch/406)|
-|    702|[Übersicht](versuch/702)|
-|    703|[Übersicht](versuch/703)|
+|     Versuch      |                                   Ordner                                    |PDF|
+|------------------|-----------------------------------------------------------------------------|---|
+|[204](versuch/204)|[v204](https://github.com/YanickKi/AP_T_Y/tree/main/v204)                    |–  |
+|[206](versuch/206)|[latex-template](https://github.com/YanickKi/AP_T_Y/tree/main/latex-template)|–  |
+|[302](versuch/302)|[v302](https://github.com/YanickKi/AP_T_Y/tree/main/v302)                    |–  |
+|[353](versuch/353)|[v353](https://github.com/YanickKi/AP_T_Y/tree/main/v353)                    |–  |
+|[406](versuch/406)|[v406](https://github.com/YanickKi/AP_T_Y/tree/main/v406)                    |–  |
+|[702](versuch/702)|[v702](https://github.com/YanickKi/AP_T_Y/tree/main/v702)                    |–  |
+|[703](versuch/703)|[v703](https://github.com/YanickKi/AP_T_Y/tree/main/v703)                    |–  |

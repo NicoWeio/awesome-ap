@@ -6,27 +6,28 @@ Letzter Commit: 21.11.2019 18:05:29
 
 ## Versuche
 
-|Versuch|          Link          |
-|------:|------------------------|
-|    101|[Übersicht](versuch/101)|
-|    102|[Übersicht](versuch/102)|
-|    105|[Übersicht](versuch/105)|
-|    107|[Übersicht](versuch/107)|
-|    201|[Übersicht](versuch/201)|
-|    204|[Übersicht](versuch/204)|
-|    301|[Übersicht](versuch/301)|
-|    303|[Übersicht](versuch/303)|
-|    308|[Übersicht](versuch/308)|
-|    351|[Übersicht](versuch/351)|
-|    353|[Übersicht](versuch/353)|
-|    354|[Übersicht](versuch/354)|
-|    402|[Übersicht](versuch/402)|
-|    406|[Übersicht](versuch/406)|
-|    408|[Übersicht](versuch/408)|
-|    500|[Übersicht](versuch/500)|
-|    501|[Übersicht](versuch/501)|
-|    602|[Übersicht](versuch/602)|
-|    606|[Übersicht](versuch/606)|
-|    701|[Übersicht](versuch/701)|
-|    703|[Übersicht](versuch/703)|
-|    704|[Übersicht](versuch/704)|
+|     Versuch      |                                    Ordner                                     |                                            PDF                                            |
+|------------------|-------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+|[101](versuch/101)|[101](https://github.com/rkallo/APWS1718/tree/master/101)                      |[Korrektur .pdf](https://github.com/rkallo/APWS1718/blob/master/101/Korrektur%20.pdf)      |
+|[102](versuch/102)|[102](https://github.com/rkallo/APWS1718/tree/master/102)                      |[V102-Protokoll.pdf](https://github.com/rkallo/APWS1718/blob/master/102/V102-Protokoll.pdf)|
+|[103](versuch/103)|[Nachholversuch](https://github.com/rkallo/APWS1718/tree/master/Nachholversuch)|[main.pdf](https://github.com/rkallo/APWS1718/blob/master/Nachholversuch/main.pdf)         |
+|[105](versuch/105)|[105](https://github.com/rkallo/APWS1718/tree/master/105)                      |[V105.pdf](https://github.com/rkallo/APWS1718/blob/master/105/V105.pdf)                    |
+|[107](versuch/107)|[107](https://github.com/rkallo/APWS1718/tree/master/107)                      |[V107.pdf](https://github.com/rkallo/APWS1718/blob/master/107/V107.pdf)                    |
+|[201](versuch/201)|[201](https://github.com/rkallo/APWS1718/tree/master/201)                      |[KorrekturV201.pdf](https://github.com/rkallo/APWS1718/blob/master/201/KorrekturV201.pdf)  |
+|[204](versuch/204)|[204](https://github.com/rkallo/APWS1718/tree/master/204)                      |[V204.pdf](https://github.com/rkallo/APWS1718/blob/master/204/V204.pdf)                    |
+|[301](versuch/301)|[301](https://github.com/rkallo/APWS1718/tree/master/301)                      |[301m1.pdf](https://github.com/rkallo/APWS1718/blob/master/301/301m1.pdf)                  |
+|[303](versuch/303)|[303](https://github.com/rkallo/APWS1718/tree/master/303)                      |[V303.pdf](https://github.com/rkallo/APWS1718/blob/master/303/V303.pdf)                    |
+|[308](versuch/308)|[308](https://github.com/rkallo/APWS1718/tree/master/308)                      |[V308.pdf](https://github.com/rkallo/APWS1718/blob/master/308/V308.pdf)                    |
+|[351](versuch/351)|[351](https://github.com/rkallo/APWS1718/tree/master/351)                      |[main.pdf](https://github.com/rkallo/APWS1718/blob/master/351/main.pdf)                    |
+|[353](versuch/353)|[353](https://github.com/rkallo/APWS1718/tree/master/353)                      |[V353.pdf](https://github.com/rkallo/APWS1718/blob/master/353/V353.pdf)                    |
+|[354](versuch/354)|[354](https://github.com/rkallo/APWS1718/tree/master/354)                      |[main_fertig.pdf](https://github.com/rkallo/APWS1718/blob/master/354/main_fertig.pdf)      |
+|[402](versuch/402)|[402](https://github.com/rkallo/APWS1718/tree/master/402)                      |[main.pdf](https://github.com/rkallo/APWS1718/blob/master/402/main.pdf)                    |
+|[406](versuch/406)|[406](https://github.com/rkallo/APWS1718/tree/master/406)                      |[main.pdf](https://github.com/rkallo/APWS1718/blob/master/406/main.pdf)                    |
+|[408](versuch/408)|[408](https://github.com/rkallo/APWS1718/tree/master/408)                      |[main.pdf](https://github.com/rkallo/APWS1718/blob/master/408/main.pdf)                    |
+|[500](versuch/500)|[500](https://github.com/rkallo/APWS1718/tree/master/500)                      |[main.pdf](https://github.com/rkallo/APWS1718/blob/master/500/main.pdf)                    |
+|[501](versuch/501)|[501 bzw 502](https://github.com/rkallo/APWS1718/tree/master/501%20bzw%20502)  |[V501.pdf](https://github.com/rkallo/APWS1718/blob/master/501%20bzw%20502/V501.pdf)        |
+|[602](versuch/602)|[602](https://github.com/rkallo/APWS1718/tree/master/602)                      |[main.pdf](https://github.com/rkallo/APWS1718/blob/master/602/main.pdf)                    |
+|[606](versuch/606)|[606](https://github.com/rkallo/APWS1718/tree/master/606)                      |[main.pdf](https://github.com/rkallo/APWS1718/blob/master/606/main.pdf)                    |
+|[701](versuch/701)|[701](https://github.com/rkallo/APWS1718/tree/master/701)                      |[main.pdf](https://github.com/rkallo/APWS1718/blob/master/701/main.pdf)                    |
+|[703](versuch/703)|[703](https://github.com/rkallo/APWS1718/tree/master/703)                      |[Anleitung703.pdf](https://github.com/rkallo/APWS1718/blob/master/703/Anleitung703.pdf)    |
+|[704](versuch/704)|[704](https://github.com/rkallo/APWS1718/tree/master/704)                      |[main.pdf](https://github.com/rkallo/APWS1718/blob/master/704/main.pdf)                    |

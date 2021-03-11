@@ -10,11 +10,11 @@ Letzter Commit: 07.03.2021 08:08:07
 
 ## Versuche
 
-|Versuch|          Link          |
-|------:|------------------------|
-|    103|[Übersicht](versuch/103)|
-|    204|[Übersicht](versuch/204)|
-|    206|[Übersicht](versuch/206)|
-|    302|[Übersicht](versuch/302)|
-|    702|[Übersicht](versuch/702)|
-|    703|[Übersicht](versuch/703)|
+|     Versuch      |                                                   Ordner                                                    |PDF|
+|------------------|-------------------------------------------------------------------------------------------------------------|---|
+|[103](versuch/103)|[V103_Biegung_elastischer_Staebe](https://github.com/NicoWeio/AP/tree/master/V103_Biegung_elastischer_Staebe)|–  |
+|[204](versuch/204)|[V204_Waermeleitung](https://github.com/NicoWeio/AP/tree/master/V204_Waermeleitung)                          |–  |
+|[206](versuch/206)|[D206_Waermepumpe](https://github.com/NicoWeio/AP/tree/master/D206_Waermepumpe)                              |–  |
+|[302](versuch/302)|[V302_Brueckenschaltung](https://github.com/NicoWeio/AP/tree/master/V302_Brueckenschaltung)                  |–  |
+|[702](versuch/702)|[D702_Aktivierung_mit_Neutronen](https://github.com/NicoWeio/AP/tree/master/D702_Aktivierung_mit_Neutronen)  |–  |
+|[703](versuch/703)|[D703_Geiger_Mueller_Zaehlrohr](https://github.com/NicoWeio/AP/tree/master/D703_Geiger_Mueller_Zaehlrohr)    |–  |
