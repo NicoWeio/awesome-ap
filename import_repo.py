@@ -28,7 +28,7 @@ def getVersuchNummerAdvanced(dir, dirs_to_versuche, repo):
         if not num:
             print(f'cannot resolve "{raw_num}"')
         return num
-    except github.GithubException: # file not found
+    except github.UnknownObjectException: # file not found
         pass
 
 def printable_files(files):

@@ -1,4 +1,4 @@
-from github import Github
+import github
 from dotenv import load_dotenv
 import os
 import yaml
@@ -11,7 +11,7 @@ load_dotenv()
 
 # funktioniert auch ohne Token
 TOKEN = os.getenv('GITHUB_TOKEN') or os.getenv('INPUT_GITHUB_TOKEN')
-gh = Github(TOKEN)
+gh = github.Github(TOKEN)
 
 with open("sources.yaml", 'r') as stream:
     sources = yaml.safe_load(stream)
@@ -21,8 +21,9 @@ repos_to_versuche = []
 for source in sources:
     try:
         repos_to_versuche.append(import_repo(source, gh))
-    except Exception as e:
-        print("CAUGHT EXCEPTION", e)
+    except github.RateLimitExceededException:
+        print("Rate limit exceeded!")
+        exit(1)
 
 versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
 
