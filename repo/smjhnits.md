@@ -1,6 +1,6 @@
 # Repo von *smjhnits*
 
-## [zum Repo auf GitHub](https://github.com/smjhnits/Praktikum_TU_D_16-17/tree/master/Anf%C3%A4ngerpraktikum/Protokolle)
+## [zum Repo auf GitHub](https://github.com/smjhnits/Praktikum_TU_D_16-17)
 
 Letzter Commit: 30.01.2019 12:22:48
 

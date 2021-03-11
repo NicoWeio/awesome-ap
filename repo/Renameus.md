@@ -1,6 +1,6 @@
 # Repo von *Renameus*
 
-## [zum Repo auf GitHub](https://github.com/Renameus/PhysikPraktikum1/tree/master/Versuche)
+## [zum Repo auf GitHub](https://github.com/Renameus/PhysikPraktikum1)
 
 Letzter Commit: 20.12.2012 18:07:06
 
