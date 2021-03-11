@@ -56,6 +56,9 @@
   pdfs:
     in_source_dir: true
 - name: rleven/richard_joell_Praktikum
+  dirs_to_versuche:
+    "Hook'sches_Gesetz[done]": 803
+    "Lock-In-Verstärker[done]": 303
 - name: SamGTex/Physik_Praktikum_Samuel_Max
 - name: SHilgers/Praktikum2
 - name: smjhnits/Praktikum_TU_D_16-17
