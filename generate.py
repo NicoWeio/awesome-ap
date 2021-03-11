@@ -3,14 +3,6 @@ import os
 import pytablewriter
 import urllib
 
-def get_url(repo, type='pdfs'):
-    base = f"https://github.com/{repo['name']}"
-    if 'subdirectory' in repo:
-        subdir = urllib.parse.quote(repo['subdirectory'])
-        return f"{base}/tree/master/{subdir}"
-    else:
-        return base
-
 def fmt_repo(repo):
     owner = repo["name"].split("/")[0]
     return f'[{owner}](../repo/{owner})'
@@ -56,7 +48,7 @@ def generate_md(repos_to_versuche, versuche_to_repos):
         owner = repo['name'].split('/')[0]
         with open(f'build/repo/{owner}.md', 'w') as g:
             out = f'# Repo von *{owner}*\n\n'
-            out += f'## [zum Repo auf GitHub]({get_url(repo)})\n\n'
+            out += f'## [zum Repo auf GitHub]({repo["repo"].html_url})\n\n'
 
             lastCommit = repo['lastCommit'].strftime('%d.%m.%Y %H:%M:%S')
             out += f'Letzter Commit: {lastCommit}\n\n'
@@ -100,7 +92,7 @@ def generate_md(repos_to_versuche, versuche_to_repos):
             lastCommit = r['lastCommit'].strftime('%d.%m.%Y %H:%M:%S')
             versuche = [versuch for versuch, repos in versuche_to_repos.items() if r in repos]
             writer.value_matrix.append((
-                f'[{name}]({get_url(r, "home")})',
+                f'[{name}]({r["repo"].html_url})',
                 f'[Übersicht](repo/{name})',
                 f'{lastCommit}',
                 f'{len(versuche)}'))

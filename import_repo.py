@@ -59,7 +59,13 @@ def import_repo(source, gh):
     branches = repo.get_branches()
     if branches.totalCount > 1:
         print(f"[yellow]Found multiple branches: {', '.join(b.name for b in branches)}[/yellow]")
-    contents = repo.get_contents(source.get('subdirectory', ''))
+
+    subdirs = source.get('subdirectory', '')
+    if isinstance(subdirs, str):
+        subdirs = [subdirs]
+    contents = []
+    for subdir in subdirs:
+        contents.extend(repo.get_contents(subdir))
     dir_candidates = [c for c in contents if c.type == 'dir']
 
     versuche = dict()
@@ -103,6 +109,7 @@ def import_repo(source, gh):
 
     source['contributors'] = list(repo.get_contributors())
     source['lastCommit'] = getLastCommit(repo)
+    source['repo'] = repo
     source['versuche'] = versuche
 
     print(

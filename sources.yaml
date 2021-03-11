@@ -1,9 +1,16 @@
-# TODO: Mehrere Unterordner
 - name: aknierim/AP
+  subdirectory:
+    - SoSe
+    - WiSe
   pdfs:
     directory: Protokolle
 # TODO: Mehrere Unterordner, auch für PDFs
 - name: BenediktSan/AnfaengerPraktikum2020
+  subdirectory:
+    # - Finale_Abgaben
+    - Versuche Semester 3
+  pdfs:
+    in_source_dir: true
 - name: chrbeckm/anfaenger-praktikum
 - name: chris-topher6/Anfaenger-Praktikum
 - name: dagbjoern/AP-Physik
@@ -76,8 +83,10 @@
 - name: Tahirbanane/AP
   pdfs:
     in_source_dir: true
-# TODO: mehrere Unterordner
 - name: vsulaiman/Praktikum
+  subdirectory:
+    - SS17
+    - WS1617
   pdfs:
     directory: AP Protokolle
 - name: woklop9/Anfaengerpraktikum
