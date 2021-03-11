@@ -34,8 +34,23 @@
     in_source_dir: true
 # TODO: unvollständige Versuch-Nummern
 - name: LiigaSoolane/Paktikum
-# TODO: keine Versuch-Nummern; keine main.tex – suche stattdessen nach "\newcommand{\VNr}{…}"
+# keine Versuch-Nummern oder main.tex – suche stattdessen nach "\newcommand{\VNr}{…}"
 - name: LuckyJosh/APPhysik
+  dirs_to_versuche:
+    "Alphastrahlung[X]": 701
+    "Dopplereffekt[X]": 104
+    "Elektronen[X]": 501
+    "Fourier[X]": 351
+    "FranckHertz[X]": 601
+    "Geigerzaehler[ ]": 703
+    "Gekoppleteschwingkreise[X]": 355
+    "Lockin[X]": 303
+    "Millikan[ ]": 503
+    "Neutronen[ ]": 702
+    "PhotoeffektII[ ]": 500
+    "Photoeffekt[ ]": 500
+    "Relaxation[X]": 353
+    "geomOptik[X]": 408
 - name: MagischeMiesmuschel/AnfaengerPraktikum
 - name: Mampfzwerg/Praktikum
   pdfs:
