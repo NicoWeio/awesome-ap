@@ -1,6 +1,6 @@
 # Startseite
 
-Zuletzt aktualisiert: 11.03.2021 17:43:31
+Zuletzt aktualisiert: 11.03.2021 20:52:45
 
 
 ## Versuche
@@ -15,7 +15,7 @@ Zuletzt aktualisiert: 11.03.2021 17:43:31
 |    101|[Übersicht](versuch/101)|   18|
 |    102|[Übersicht](versuch/102)|   12|
 |    103|[Übersicht](versuch/103)|   21|
-|    104|[Übersicht](versuch/104)|    7|
+|    104|[Übersicht](versuch/104)|    8|
 |    105|[Übersicht](versuch/105)|    4|
 |    106|[Übersicht](versuch/106)|   11|
 |    107|[Übersicht](versuch/107)|    5|
@@ -26,31 +26,31 @@ Zuletzt aktualisiert: 11.03.2021 17:43:31
 |    207|[Übersicht](versuch/207)|    8|
 |    301|[Übersicht](versuch/301)|   15|
 |    302|[Übersicht](versuch/302)|   19|
-|    303|[Übersicht](versuch/303)|   14|
+|    303|[Übersicht](versuch/303)|   15|
 |    308|[Übersicht](versuch/308)|    7|
 |    311|[Übersicht](versuch/311)|   12|
-|    351|[Übersicht](versuch/351)|   13|
-|    353|[Übersicht](versuch/353)|   20|
+|    351|[Übersicht](versuch/351)|   14|
+|    353|[Übersicht](versuch/353)|   21|
 |    354|[Übersicht](versuch/354)|   20|
-|    355|[Übersicht](versuch/355)|   12|
+|    355|[Übersicht](versuch/355)|   13|
 |    356|[Übersicht](versuch/356)|    5|
 |    401|[Übersicht](versuch/401)|   14|
 |    402|[Übersicht](versuch/402)|    9|
 |    406|[Übersicht](versuch/406)|   21|
-|    408|[Übersicht](versuch/408)|   15|
-|    500|[Übersicht](versuch/500)|   18|
-|    501|[Übersicht](versuch/501)|   13|
+|    408|[Übersicht](versuch/408)|   16|
+|    500|[Übersicht](versuch/500)|   19|
+|    501|[Übersicht](versuch/501)|   14|
 |    502|[Übersicht](versuch/502)|    2|
-|    503|[Übersicht](versuch/503)|    5|
+|    503|[Übersicht](versuch/503)|    6|
 |    504|[Übersicht](versuch/504)|   15|
-|    601|[Übersicht](versuch/601)|   19|
+|    601|[Übersicht](versuch/601)|   20|
 |    602|[Übersicht](versuch/602)|   19|
 |    603|[Übersicht](versuch/603)|    4|
 |    605|[Übersicht](versuch/605)|    4|
 |    606|[Übersicht](versuch/606)|   11|
-|    701|[Übersicht](versuch/701)|    9|
-|    702|[Übersicht](versuch/702)|   27|
-|    703|[Übersicht](versuch/703)|   27|
+|    701|[Übersicht](versuch/701)|   10|
+|    702|[Übersicht](versuch/702)|   28|
+|    703|[Übersicht](versuch/703)|   28|
 |    704|[Übersicht](versuch/704)|   11|
 |    801|[Übersicht](versuch/801)|    2|
 |    802|[Übersicht](versuch/802)|    5|
@@ -78,7 +78,7 @@ Zuletzt aktualisiert: 11.03.2021 17:43:31
 |[LarsKolk](https://github.com/LarsKolk/Anfaengerpraktikum)                      |[Übersicht](repo/LarsKolk)           |11.08.2018 16:09:33|        21|
 |[lassestern](https://github.com/lassestern/praktikum-david-lasse)               |[Übersicht](repo/lassestern)         |24.07.2020 22:21:57|         5|
 |[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum)                        |[Übersicht](repo/LiigaSoolane)       |02.02.2021 07:08:40|         6|
-|[LuckyJosh](https://github.com/LuckyJosh/APPhysik)                              |[Übersicht](repo/LuckyJosh)          |08.07.2014 19:22:20|         0|
+|[LuckyJosh](https://github.com/LuckyJosh/APPhysik)                              |[Übersicht](repo/LuckyJosh)          |08.07.2014 19:22:20|        13|
 |[MagischeMiesmuschel](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)|[Übersicht](repo/MagischeMiesmuschel)|20.08.2018 09:40:55|        21|
 |[Mampfzwerg](https://github.com/Mampfzwerg/Praktikum)                           |[Übersicht](repo/Mampfzwerg)         |22.06.2019 00:18:30|        22|
 |[moritzbo](https://github.com/moritzbo/anfaenger_praktikum)                     |[Übersicht](repo/moritzbo)           |06.02.2021 15:00:54|         5|
@@ -106,4 +106,4 @@ Zuletzt aktualisiert: 11.03.2021 17:43:31
 ## Statistiken
 - **38** Repos
 - **50** Versuche
-- **557** Protokolle
+- **570** Protokolle
