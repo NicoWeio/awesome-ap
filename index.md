@@ -1,6 +1,6 @@
 # Startseite
 
-Zuletzt aktualisiert: 11.03.2021 15:13:54
+Zuletzt aktualisiert: 11.03.2021 16:11:32
 
 
 ## Versuche
@@ -26,7 +26,7 @@ Zuletzt aktualisiert: 11.03.2021 15:13:54
 |    207|[Übersicht](versuch/207)|    8|
 |    301|[Übersicht](versuch/301)|   15|
 |    302|[Übersicht](versuch/302)|   19|
-|    303|[Übersicht](versuch/303)|   13|
+|    303|[Übersicht](versuch/303)|   14|
 |    308|[Übersicht](versuch/308)|    7|
 |    311|[Übersicht](versuch/311)|   11|
 |    351|[Übersicht](versuch/351)|   13|
@@ -54,7 +54,7 @@ Zuletzt aktualisiert: 11.03.2021 15:13:54
 |    704|[Übersicht](versuch/704)|   11|
 |    801|[Übersicht](versuch/801)|    2|
 |    802|[Übersicht](versuch/802)|    5|
-|    803|[Übersicht](versuch/803)|    5|
+|    803|[Übersicht](versuch/803)|    6|
 |    901|[Übersicht](versuch/901)|    1|
 |    903|[Übersicht](versuch/903)|    1|
 
@@ -91,7 +91,7 @@ Zuletzt aktualisiert: 11.03.2021 15:13:54
 |[phlipo95](https://github.com/phlipo95/AP-Praktikum)                                                      |[Übersicht](repo/phlipo95)           |25.11.2019 18:36:53|        20|
 |[Renameus](https://github.com/Renameus/PhysikPraktikum1/tree/master/Versuche)                             |[Übersicht](repo/Renameus)           |20.12.2012 18:07:06|         8|
 |[rkallo](https://github.com/rkallo/APWS1718)                                                              |[Übersicht](repo/rkallo)             |21.11.2019 18:05:29|        23|
-|[rleven](https://github.com/rleven/richard_joell_Praktikum)                                               |[Übersicht](repo/rleven)             |06.02.2020 12:21:22|         6|
+|[rleven](https://github.com/rleven/richard_joell_Praktikum)                                               |[Übersicht](repo/rleven)             |06.02.2020 12:21:22|         8|
 |[SamGTex](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max)                                         |[Übersicht](repo/SamGTex)            |31.01.2021 10:43:48|        19|
 |[SHilgers](https://github.com/SHilgers/Praktikum2)                                                        |[Übersicht](repo/SHilgers)           |04.02.2020 08:43:30|        18|
 |[smjhnits](https://github.com/smjhnits/Praktikum_TU_D_16-17/tree/master/Anf%C3%A4ngerpraktikum/Protokolle)|[Übersicht](repo/smjhnits)           |30.01.2019 12:22:48|        20|
@@ -106,4 +106,4 @@ Zuletzt aktualisiert: 11.03.2021 15:13:54
 ## Statistiken
 - **38** Repos
 - **50** Versuche
-- **547** Protokolle
+- **549** Protokolle
