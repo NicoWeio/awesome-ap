@@ -11,31 +11,45 @@ def get_url(repo, type='pdfs'):
     else:
         return base
 
+def fmt_repo(repo):
+    owner = repo["name"].split("/")[0]
+    return f'[{owner}](../repo/{owner})'
+
+def fmt_dir(dir):
+    return fmt_content(dir)
+
+def fmt_pdf(pdf):
+    return fmt_content(pdf)
+
+def fmt_content(c):
+    return f"[{c.name}]({c.html_url})" if c else '–'
+
 def generate_md(repos_to_versuche, versuche_to_repos):
     os.makedirs('build/versuch', exist_ok=True)
     os.makedirs('build/repo', exist_ok=True)
+    writer = pytablewriter.MarkdownTableWriter()
 
     ## Versuch → Repos
     for versuch, repos in versuche_to_repos.items():
         with open(f'build/versuch/{versuch}.md', 'w') as g:
-            repoNames = [r['name'].split('/')[0] for r in repos]
             out = f'# Versuch *{versuch}*\n\n'
             out += f'## Repos\n\n'
 
-            writer = pytablewriter.MarkdownTableWriter()
-            writer.headers = ['Repo', 'Link']
-            writer.value_matrix = list(
-            [(r['name'].split('/')[0],
-              f'[Übersicht](../repo/{r["name"].split("/")[0]})')
-            for r in sorted(repos, key=lambda r: r['name'].lower())])
+            writer.headers = ['Repo von', 'Ordner', 'PDF']
+            writer.value_matrix = []
+            for r in repos:
+                versuch_data = r['versuche'][versuch]
+                writer.value_matrix.append((
+                    fmt_repo(r),
+                    fmt_dir(versuch_data.get('dir')),
+                    fmt_pdf(versuch_data.get('pdf'))
+                 ))
             out += writer.dumps()
-
             g.write(out)
 
     ## Repo → Versuche
     for repo in repos_to_versuche:
         owner = repo['name'].split('/')[0]
-        versuche = sorted(repo['versuchNummern'])
         with open(f'build/repo/{owner}.md', 'w') as g:
             out = f'# Repo von *{owner}*\n\n'
             out += f'## [zum Repo auf GitHub]({get_url(repo)})\n\n'
@@ -48,10 +62,17 @@ def generate_md(repos_to_versuche, versuche_to_repos):
                 out += '## Autoren\n' + contributors + '\n\n'
 
             out += f'## Versuche\n\n'
-            writer.headers = ['Versuch', 'Link']
-            writer.value_matrix = [(v, f'[Übersicht](versuch/{v})') for v in versuche]
+            writer.headers = ['Versuch', 'Ordner', 'PDF']
+            writer.value_matrix = []
+            for num in sorted(repo['versuche']):
+                v = repo['versuche'][num]
+                writer.value_matrix.append((
+                    f'[{num}](../versuch/{num})',
+                    fmt_dir(v.get('dir')),
+                    fmt_pdf(v.get('pdf'))
+                ))
             out += writer.dumps()
-            
+
             g.write(out)
 
     ## Startseite
@@ -62,20 +83,23 @@ def generate_md(repos_to_versuche, versuche_to_repos):
         out += f'\n\n'
 
         out += f'## Versuche\n\n'
-        writer = pytablewriter.MarkdownTableWriter()
-        writer.headers = ['Versuch', 'Link', 'Repos']
+        writer.headers = ['Versuch', '', 'Repos']
         writer.value_matrix = [(v, f'[Übersicht](versuch/{v})', len(versuche_to_repos[v])) for v in sorted(versuche_to_repos.keys())]
         out += writer.dumps()
         out += '\n\n'
 
         out += f'## Repos\n\n'
-        writer.headers = ['Repo', 'Link', 'Letzter Commit', '# Versuche']
+        writer.headers = ['Repo von', '', 'Letzter Commit', '# Versuche']
         writer.value_matrix = []
         for r in sorted(repos_to_versuche, key=lambda r: r['name'].lower()):
             name = r['name'].split('/')[0]
             lastCommit = r['lastCommit'].strftime('%d.%m.%Y %H:%M:%S')
             versuche = [versuch for versuch, repos in versuche_to_repos.items() if r in repos]
-            writer.value_matrix.append((f'[{name}]({get_url(r, "home")})', f'[Übersicht](repo/{name})', f'{lastCommit}', f'{len(versuche)}'))
+            writer.value_matrix.append((
+                f'[{name}]({get_url(r, "home")})',
+                f'[Übersicht](repo/{name})',
+                f'{lastCommit}',
+                f'{len(versuche)}'))
         out += writer.dumps()
         out += '\n\n'
 

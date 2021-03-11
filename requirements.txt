@@ -2,3 +2,4 @@ PyGithub
 pytablewriter
 python-dotenv
 pyyaml
+rich

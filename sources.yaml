@@ -1,42 +1,81 @@
+# TODO: Mehrere Unterordner
 - name: aknierim/AP
+  pdfs:
+    directory: Protokolle
+# TODO: Mehrere Unterordner, auch für PDFs
 - name: BenediktSan/AnfaengerPraktikum2020
 - name: chrbeckm/anfaenger-praktikum
 - name: chris-topher6/Anfaenger-Praktikum
 - name: dagbjoern/AP-Physik
+  pdfs:
+    in_source_dir: true
 - name: dlmsr/praktikum
 - name: dormail/ap
 - name: Fresoquark/Anfaengerpraktikum
 - name: HelenaCarlArne/ProtokolleAP
 - name: Jean1995/Praktikum
+  pdfs:
+    directory: Protokolle_Fertig
 - name: JLammering/Physikalisches-Praktikum
+# TODO: PDFs unregelmäßig benannt
 - name: komrozik/AP2019
+  pdfs:
+    in_source_dir: true
+# TODO: unvollständige Versuch-Nummern; PDFs unregelmäßig benannt
 - name: lassestern/praktikum-david-lasse
+  pdfs:
+    in_source_dir: true
+# TODO: unvollständige Versuch-Nummern
 - name: LiigaSoolane/Paktikum
+# TODO: keine Versuch-Nummern; keine main.tex – suche stattdessen nach "\newcommand{\VNr}{…}"
 - name: LuckyJosh/APPhysik
 - name: MagischeMiesmuschel/AnfaengerPraktikum
 - name: Mampfzwerg/Praktikum
+  pdfs:
+    in_source_dir: true
 - name: moritzbo/anfaenger_praktikum
 - name: mwindau/praktikum
+  pdfs:
+    in_source_dir: true
 - name: NicoJG/Anfaengerpraktikum
+  pdfs:
+    in_source_dir: true
+# die PDFs sind auf GitHub Pages…
 - name: NicoWeio/AP
-- name: NiklasD/AnfaengerPraktikum2020
+# Fork von BenediktSan/AnfaengerPraktikum2020
+# - name: NiklasD/AnfaengerPraktikum2020
 - name: nsalewski/laboratory
 - name: pascalgutjahr/Praktikum-1
 - name: paul-stoerbrock/Praktikum
 - name: phlipo95/AP-Praktikum
 - name: Renameus/PhysikPraktikum1
+  pdfs:
+    in_source_dir: true
   subdirectory: Versuche
 - name: rkallo/APWS1718
+  pdfs:
+    in_source_dir: true
 - name: rleven/richard_joell_Praktikum
 - name: SamGTex/Physik_Praktikum_Samuel_Max
 - name: SHilgers/Praktikum2
 - name: smjhnits/Praktikum_TU_D_16-17
+  pdfs:
+    directory: Anfängerpraktikum/Fertige Protokolle
   subdirectory: Anfängerpraktikum/Protokolle
 - name: smjolame/Praktikum_1
+  pdfs:
+    in_source_dir: true
 - name: stefangri/s_s_productions
-- name: syhon/Anfaengerpraktikum
+  subdirectory: PHY341
+- name: LarsKolk/Anfaengerpraktikum
+  pdfs:
+    in_source_dir: true
 - name: Tahirbanane/AP
+  pdfs:
+    in_source_dir: true
+# TODO: mehrere Unterordner
 - name: vsulaiman/Praktikum
-  subdirectory: AP Protokolle
+  pdfs:
+    directory: AP Protokolle
 - name: woklop9/Anfaengerpraktikum
 - name: YanickKi/AP_T_Y
