@@ -15,8 +15,10 @@ def fmt_repo(repo):
     owner = repo["name"].split("/")[0]
     return f'[{owner}](../repo/{owner})'
 
-def fmt_dir(dir):
-    return fmt_content(dir)
+def fmt_dirs(dirs):
+    if not dirs:
+        return '–'
+    return '<br/>'.join(fmt_content(dir) for dir in dirs)
 
 def fmt_pdfs(pdfs):
     if not pdfs:
@@ -43,7 +45,7 @@ def generate_md(repos_to_versuche, versuche_to_repos):
                 versuch_data = r['versuche'][versuch]
                 writer.value_matrix.append((
                     fmt_repo(r),
-                    fmt_dir(versuch_data.get('dir')),
+                    fmt_dirs(versuch_data.get('dirs')),
                     fmt_pdfs(versuch_data.get('pdfs'))
                  ))
             out += writer.dumps()
@@ -70,7 +72,7 @@ def generate_md(repos_to_versuche, versuche_to_repos):
                 v = repo['versuche'][num]
                 writer.value_matrix.append((
                     f'[{num}](../versuch/{num})',
-                    fmt_dir(v.get('dir')),
+                    fmt_dirs(v.get('dirs')),
                     fmt_pdfs(v.get('pdfs'))
                 ))
             out += writer.dumps()

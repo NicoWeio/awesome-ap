@@ -68,9 +68,9 @@ def import_repo(source, gh):
         if not num:
             continue
         elif num in versuche:
-            print(f'[yellow]{num}: multiple elements are not supported[/yellow]')
+            versuche[num]['dirs'].append(dir)
         else:
-            versuche.setdefault(num, {})['dir'] = dir
+            versuche.setdefault(num, {})['dirs'] = [dir]
 
     if 'pdfs' in source:
         if 'directory' in source['pdfs']:
@@ -92,9 +92,14 @@ def import_repo(source, gh):
             print("[green]PDFs in source dir[/green]")
             for num, v in versuche.items():
                 print("Checking", num)
-                pdfs = find_pdfs(v['dir'].path, num, repo)
-                if pdfs:
-                    versuche.setdefault(num, {})['pdfs'] = pdfs
+                for dir in v['dirs']:
+                    pdfs = find_pdfs(dir.path, num, repo)
+                    if not pdfs:
+                        continue
+                    elif num in versuche and 'pdfs' in versuche[num]:
+                        versuche[num]['pdfs'].extend(pdfs)
+                    else:
+                        versuche.setdefault(num, {})['pdfs'] = pdfs
 
     source['contributors'] = list(repo.get_contributors())
     source['lastCommit'] = getLastCommit(repo)
@@ -102,7 +107,7 @@ def import_repo(source, gh):
 
     print(
         f'{len(versuche)} Versuche erkannt;',
-        f'{sum(1 for v in versuche.values() if "dir" in v)} Ordner,',
+        f'{sum(1 for v in versuche.values() if "dirs" in v)} Ordner,',
         f'{sum(1 for v in versuche.values() if "pdfs" in v)} PDFs',
         )
     return source
