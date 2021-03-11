@@ -74,9 +74,9 @@ def generate_md(repos_to_versuche, versuche_to_repos):
     ## Startseite
     with open(f'build/index.md', 'w') as g:
         out = '# Startseite\n\n'
-        now = datetime.today().strftime('%d.%m.%Y %H:%M:%S')
-        out += f'Zuletzt aktualisiert: {now}\n'
-        out += f'\n\n'
+        # now = datetime.today().strftime('%d.%m.%Y %H:%M:%S')
+        # out += f'Zuletzt aktualisiert: {now}\n'
+        # out += f'\n\n'
 
         out += f'## Versuche\n\n'
         writer.headers = ['Versuch', '', 'Repos']
