@@ -18,8 +18,10 @@ def fmt_repo(repo):
 def fmt_dir(dir):
     return fmt_content(dir)
 
-def fmt_pdf(pdf):
-    return fmt_content(pdf)
+def fmt_pdfs(pdfs):
+    if not pdfs:
+        return '–'
+    return '<br/>'.join(fmt_content(pdf) for pdf in pdfs)
 
 def fmt_content(c):
     return f"[{c.name}]({c.html_url})" if c else '–'
@@ -35,14 +37,14 @@ def generate_md(repos_to_versuche, versuche_to_repos):
             out = f'# Versuch *{versuch}*\n\n'
             out += f'## Repos\n\n'
 
-            writer.headers = ['Repo von', 'Ordner', 'PDF']
+            writer.headers = ['Repo von', 'Ordner', 'PDFs']
             writer.value_matrix = []
             for r in repos:
                 versuch_data = r['versuche'][versuch]
                 writer.value_matrix.append((
                     fmt_repo(r),
                     fmt_dir(versuch_data.get('dir')),
-                    fmt_pdf(versuch_data.get('pdf'))
+                    fmt_pdfs(versuch_data.get('pdfs'))
                  ))
             out += writer.dumps()
             g.write(out)
@@ -62,14 +64,14 @@ def generate_md(repos_to_versuche, versuche_to_repos):
                 out += '## Autoren\n' + contributors + '\n\n'
 
             out += f'## Versuche\n\n'
-            writer.headers = ['Versuch', 'Ordner', 'PDF']
+            writer.headers = ['Versuch', 'Ordner', 'PDFs']
             writer.value_matrix = []
             for num in sorted(repo['versuche']):
                 v = repo['versuche'][num]
                 writer.value_matrix.append((
                     f'[{num}](../versuch/{num})',
                     fmt_dir(v.get('dir')),
-                    fmt_pdf(v.get('pdf'))
+                    fmt_pdfs(v.get('pdfs'))
                 ))
             out += writer.dumps()
 

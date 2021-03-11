@@ -34,7 +34,7 @@ def getVersuchNummerAdvanced(dir, dirs_to_versuche, repo):
 def printable_files(files):
     return ', '.join([f'[link={f.html_url}]{f.name}[/link]' for f in files])
 
-def find_pdf(base_dir, num, repo):
+def find_pdfs(base_dir, num, repo):
     contents = repo.get_contents(base_dir)
     pdf_files_in_base = [c for c in contents if c.type == 'file' and c.name.endswith('.pdf')]
     RE_VALID_NAMES = rf'(abgabe|korrektur|main|protokoll|[VD]?[._\s]*{num})(.*)\.pdf'
@@ -42,16 +42,14 @@ def find_pdf(base_dir, num, repo):
     pdf_matches = [f for f in pdf_files_in_base if re.search(RE_VALID_NAMES, f.name, re.IGNORECASE)]
     print("pdf_files_in_base:", printable_files(pdf_files_in_base))
     print("pdf_matches:", printable_files(pdf_matches))
-    if len(pdf_matches):
-        if len(pdf_matches) > 1:
-            print(f"[yellow]Ignoring {len(pdf_matches)-1} PDF(s)[/yellow]")
-        return pdf_matches[0]
+    if pdf_matches:
+        return pdf_matches
     else:
         VALID_SUBDIR_NAMES = ['latex-template'] # Mampfzwerg
         subdirs = [c for c in contents if c.type == 'dir' and c.name in VALID_SUBDIR_NAMES]
         for subdir in subdirs:
             print("Recursing into", subdir.path)
-            result = find_pdf(subdir.path, num, repo)
+            result = find_pdfs(subdir.path, num, repo)
             if result:
                 return result
 
@@ -79,25 +77,24 @@ def import_repo(source, gh):
             print(f"[green]PDFs in \"{source['pdfs']['directory']}\"[/green]")
             pdf_contents = repo.get_contents(source['pdfs']['directory'])
             pdf_candidates = [c for c in pdf_contents if c.type == 'file' and c.name.endswith('.pdf')]
-            print("pdf_contents:", printable_files(pdf_contents))
             print("pdf_candidates:", printable_files(pdf_candidates))
 
             for pdf in pdf_candidates:
                 num = getVersuchNummer(pdf.name, source.get('dirs_to_versuche'))
                 if not num:
                     continue
-                elif num in versuche and 'pdf' in versuche[num]:
-                    print(f'[yellow]{num}: multiple elements are not supported[/yellow]')
+                elif num in versuche and 'pdfs' in versuche[num]:
+                    versuche[num]['pdfs'].append(pdf)
                 else:
-                    versuche.setdefault(num, {})['pdf'] = pdf
+                    versuche.setdefault(num, {})['pdfs'] = [pdf]
 
         elif source['pdfs'].get('in_source_dir'):
             print("[green]PDFs in source dir[/green]")
             for num, v in versuche.items():
                 print("Checking", num)
-                pdf = find_pdf(v['dir'].path, num, repo)
-                if pdf and pdf.type == 'file':
-                    versuche.setdefault(num, {})['pdf'] = pdf
+                pdfs = find_pdfs(v['dir'].path, num, repo)
+                if pdfs:
+                    versuche.setdefault(num, {})['pdfs'] = pdfs
 
     source['contributors'] = list(repo.get_contributors())
     source['lastCommit'] = getLastCommit(repo)
@@ -106,6 +103,6 @@ def import_repo(source, gh):
     print(
         f'{len(versuche)} Versuche erkannt;',
         f'{sum(1 for v in versuche.values() if "dir" in v)} Ordner,',
-        f'{sum(1 for v in versuche.values() if "pdf" in v)} PDFs',
+        f'{sum(1 for v in versuche.values() if "pdfs" in v)} PDFs',
         )
     return source
