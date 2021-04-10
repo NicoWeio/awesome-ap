@@ -8,7 +8,8 @@
 - name: BenediktSan/AnfaengerPraktikum2020
   subdirectory:
     # - Finale_Abgaben
-    - Versuche Semester 3
+    - Versuche Semester III
+    - Versuche Semester IV
   pdfs:
     in_source_dir: true
 - name: chrbeckm/anfaenger-praktikum
