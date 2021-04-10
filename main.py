@@ -24,6 +24,9 @@ for source in sources:
     except github.RateLimitExceededException:
         print("Rate limit exceeded!")
         exit(1)
+    except github.UnknownObjectException:
+        # happens e.g. when a subdirectory from sources.yaml does not exist
+        print("Something was not found – ignoring!")
 
 versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
 
