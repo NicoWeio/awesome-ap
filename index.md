@@ -62,9 +62,9 @@
 |                                    Repo von                                    |                                     |  Letzter Commit   |# Versuche|
 |--------------------------------------------------------------------------------|-------------------------------------|-------------------|---------:|
 |[aknierim](https://github.com/aknierim/AP)                                      |[Übersicht](repo/aknierim)           |09.10.2019 08:28:34|        20|
-|[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |09.04.2021 20:17:03|        18|
+|[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |10.04.2021 21:30:35|        18|
 |[chrbeckm](https://github.com/chrbeckm/anfaenger-praktikum)                     |[Übersicht](repo/chrbeckm)           |09.11.2019 16:04:46|        18|
-|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |09.04.2021 14:43:57|         7|
+|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |10.04.2021 14:54:52|         7|
 |[dagbjoern](https://github.com/dagbjoern/AP-Physik)                             |[Übersicht](repo/dagbjoern)          |12.07.2016 09:19:16|        21|
 |[dlmsr](https://github.com/dlmsr/praktikum)                                     |[Übersicht](repo/dlmsr)              |12.03.2020 11:10:24|        26|
 |[dormail](https://github.com/dormail/ap)                                        |[Übersicht](repo/dormail)            |03.03.2021 22:17:40|         6|
