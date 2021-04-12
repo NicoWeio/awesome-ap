@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/smjolame/Praktikum_1)
 
-Letzter Commit: 25.08.2020 16:20:38
+Letzter Commit: 11.04.2021 11:36:04
 
 ## Autoren
 - [smjolame](https://github.com/smjolame)

@@ -31,7 +31,7 @@
 |    354|[Übersicht](versuch/354)|   20|
 |    355|[Übersicht](versuch/355)|   13|
 |    356|[Übersicht](versuch/356)|    5|
-|    400|[Übersicht](versuch/400)|    2|
+|    400|[Übersicht](versuch/400)|    3|
 |    401|[Übersicht](versuch/401)|   15|
 |    402|[Übersicht](versuch/402)|    9|
 |    406|[Übersicht](versuch/406)|   22|
@@ -62,9 +62,9 @@
 |                                    Repo von                                    |                                     |  Letzter Commit   |# Versuche|
 |--------------------------------------------------------------------------------|-------------------------------------|-------------------|---------:|
 |[aknierim](https://github.com/aknierim/AP)                                      |[Übersicht](repo/aknierim)           |09.10.2019 08:28:34|        20|
-|[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |10.04.2021 21:30:35|        18|
+|[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |11.04.2021 16:07:43|        18|
 |[chrbeckm](https://github.com/chrbeckm/anfaenger-praktikum)                     |[Übersicht](repo/chrbeckm)           |09.11.2019 16:04:46|        18|
-|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |10.04.2021 14:54:52|         7|
+|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |11.04.2021 20:03:52|         7|
 |[dagbjoern](https://github.com/dagbjoern/AP-Physik)                             |[Übersicht](repo/dagbjoern)          |12.07.2016 09:19:16|        21|
 |[dlmsr](https://github.com/dlmsr/praktikum)                                     |[Übersicht](repo/dlmsr)              |12.03.2020 11:10:24|        26|
 |[dormail](https://github.com/dormail/ap)                                        |[Übersicht](repo/dormail)            |03.03.2021 22:17:40|         6|
@@ -75,7 +75,7 @@
 |[komrozik](https://github.com/komrozik/AP2019)                                  |[Übersicht](repo/komrozik)           |18.09.2020 10:47:35|        15|
 |[LarsKolk](https://github.com/LarsKolk/Anfaengerpraktikum)                      |[Übersicht](repo/LarsKolk)           |11.08.2018 16:09:33|        21|
 |[lassestern](https://github.com/lassestern/praktikum-david-lasse)               |[Übersicht](repo/lassestern)         |24.07.2020 22:21:57|         5|
-|[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum)                        |[Übersicht](repo/LiigaSoolane)       |02.02.2021 07:08:40|         6|
+|[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum)                        |[Übersicht](repo/LiigaSoolane)       |11.04.2021 14:39:30|         7|
 |[LuckyJosh](https://github.com/LuckyJosh/APPhysik)                              |[Übersicht](repo/LuckyJosh)          |08.07.2014 19:22:20|        13|
 |[MagischeMiesmuschel](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)|[Übersicht](repo/MagischeMiesmuschel)|20.08.2018 09:40:55|        21|
 |[Mampfzwerg](https://github.com/Mampfzwerg/Praktikum)                           |[Übersicht](repo/Mampfzwerg)         |22.06.2019 00:18:30|        22|
@@ -93,7 +93,7 @@
 |[SamGTex](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max)               |[Übersicht](repo/SamGTex)            |31.01.2021 10:43:48|        19|
 |[SHilgers](https://github.com/SHilgers/Praktikum2)                              |[Übersicht](repo/SHilgers)           |04.02.2020 08:43:30|        18|
 |[smjhnits](https://github.com/smjhnits/Praktikum_TU_D_16-17)                    |[Übersicht](repo/smjhnits)           |30.01.2019 12:22:48|        20|
-|[smjolame](https://github.com/smjolame/Praktikum_1)                             |[Übersicht](repo/smjolame)           |25.08.2020 16:20:38|        18|
+|[smjolame](https://github.com/smjolame/Praktikum_1)                             |[Übersicht](repo/smjolame)           |11.04.2021 11:36:04|        18|
 |[stefangri](https://github.com/stefangri/s_s_productions)                       |[Übersicht](repo/stefangri)          |05.02.2018 06:01:44|        20|
 |[Tahirbanane](https://github.com/Tahirbanane/AP)                                |[Übersicht](repo/Tahirbanane)        |03.02.2021 12:03:40|         7|
 |[vsulaiman](https://github.com/vsulaiman/Praktikum)                             |[Übersicht](repo/vsulaiman)          |13.07.2017 09:46:42|        21|
@@ -104,4 +104,4 @@
 ## Statistiken
 - **38** Repos
 - **51** Versuche
-- **581** Protokolle
+- **582** Protokolle
