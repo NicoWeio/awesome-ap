@@ -40,10 +40,10 @@
 |    501|[Übersicht](versuch/501)|   14|
 |    502|[Übersicht](versuch/502)|    2|
 |    503|[Übersicht](versuch/503)|    6|
-|    504|[Übersicht](versuch/504)|   15|
+|    504|[Übersicht](versuch/504)|   17|
 |    601|[Übersicht](versuch/601)|   21|
 |    602|[Übersicht](versuch/602)|   20|
-|    603|[Übersicht](versuch/603)|    5|
+|    603|[Übersicht](versuch/603)|    6|
 |    605|[Übersicht](versuch/605)|    4|
 |    606|[Übersicht](versuch/606)|   11|
 |    701|[Übersicht](versuch/701)|   10|
@@ -64,7 +64,7 @@
 |[aknierim](https://github.com/aknierim/AP)                                      |[Übersicht](repo/aknierim)           |09.10.2019 08:28:34|        20|
 |[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |13.04.2021 21:21:56|        18|
 |[chrbeckm](https://github.com/chrbeckm/anfaenger-praktikum)                     |[Übersicht](repo/chrbeckm)           |09.11.2019 16:04:46|        18|
-|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |13.04.2021 16:49:41|         7|
+|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |14.04.2021 22:13:11|         7|
 |[dagbjoern](https://github.com/dagbjoern/AP-Physik)                             |[Übersicht](repo/dagbjoern)          |12.07.2016 09:19:16|        21|
 |[dlmsr](https://github.com/dlmsr/praktikum)                                     |[Übersicht](repo/dlmsr)              |12.03.2020 11:10:24|        26|
 |[dormail](https://github.com/dormail/ap)                                        |[Übersicht](repo/dormail)            |13.04.2021 13:46:09|         6|
@@ -75,11 +75,11 @@
 |[komrozik](https://github.com/komrozik/AP2019)                                  |[Übersicht](repo/komrozik)           |18.09.2020 10:47:35|        15|
 |[LarsKolk](https://github.com/LarsKolk/Anfaengerpraktikum)                      |[Übersicht](repo/LarsKolk)           |11.08.2018 16:09:33|        21|
 |[lassestern](https://github.com/lassestern/praktikum-david-lasse)               |[Übersicht](repo/lassestern)         |24.07.2020 22:21:57|         5|
-|[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum)                        |[Übersicht](repo/LiigaSoolane)       |11.04.2021 14:39:30|         7|
+|[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum)                        |[Übersicht](repo/LiigaSoolane)       |14.04.2021 11:24:03|         8|
 |[LuckyJosh](https://github.com/LuckyJosh/APPhysik)                              |[Übersicht](repo/LuckyJosh)          |08.07.2014 19:22:20|        13|
 |[MagischeMiesmuschel](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)|[Übersicht](repo/MagischeMiesmuschel)|20.08.2018 09:40:55|        21|
 |[Mampfzwerg](https://github.com/Mampfzwerg/Praktikum)                           |[Übersicht](repo/Mampfzwerg)         |22.06.2019 00:18:30|        22|
-|[moritzbo](https://github.com/moritzbo/anfaenger_praktikum)                     |[Übersicht](repo/moritzbo)           |13.04.2021 15:07:01|         6|
+|[moritzbo](https://github.com/moritzbo/anfaenger_praktikum)                     |[Übersicht](repo/moritzbo)           |14.04.2021 15:30:25|         6|
 |[mwindau](https://github.com/mwindau/praktikum)                                 |[Übersicht](repo/mwindau)            |10.07.2017 19:33:32|        18|
 |[NicoJG](https://github.com/NicoJG/Anfaengerpraktikum)                          |[Übersicht](repo/NicoJG)             |04.08.2020 12:33:58|        19|
 |[NicoWeio](https://github.com/NicoWeio/AP)                                      |[Übersicht](repo/NicoWeio)           |03.04.2021 21:17:39|         6|
@@ -90,18 +90,18 @@
 |[Renameus](https://github.com/Renameus/PhysikPraktikum1)                        |[Übersicht](repo/Renameus)           |20.12.2012 18:07:06|         8|
 |[rkallo](https://github.com/rkallo/APWS1718)                                    |[Übersicht](repo/rkallo)             |21.11.2019 18:05:29|        23|
 |[rleven](https://github.com/rleven/richard_joell_Praktikum)                     |[Übersicht](repo/rleven)             |06.02.2020 12:21:22|         8|
-|[SamGTex](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max)               |[Übersicht](repo/SamGTex)            |31.01.2021 10:43:48|        19|
+|[SamGTex](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max)               |[Übersicht](repo/SamGTex)            |14.04.2021 10:47:02|        19|
 |[SHilgers](https://github.com/SHilgers/Praktikum2)                              |[Übersicht](repo/SHilgers)           |04.02.2020 08:43:30|        18|
 |[smjhnits](https://github.com/smjhnits/Praktikum_TU_D_16-17)                    |[Übersicht](repo/smjhnits)           |30.01.2019 12:22:48|        20|
 |[smjolame](https://github.com/smjolame/Praktikum_1)                             |[Übersicht](repo/smjolame)           |11.04.2021 11:36:04|        18|
 |[stefangri](https://github.com/stefangri/s_s_productions)                       |[Übersicht](repo/stefangri)          |05.02.2018 06:01:44|        20|
-|[Tahirbanane](https://github.com/Tahirbanane/AP)                                |[Übersicht](repo/Tahirbanane)        |03.02.2021 12:03:40|         7|
+|[Tahirbanane](https://github.com/Tahirbanane/AP)                                |[Übersicht](repo/Tahirbanane)        |14.04.2021 17:21:20|         8|
 |[vsulaiman](https://github.com/vsulaiman/Praktikum)                             |[Übersicht](repo/vsulaiman)          |13.07.2017 09:46:42|        21|
 |[woklop9](https://github.com/woklop9/Anfaengerpraktikum)                        |[Übersicht](repo/woklop9)            |11.07.2018 07:44:51|        19|
-|[YanickKi](https://github.com/YanickKi/AP_T_Y)                                  |[Übersicht](repo/YanickKi)           |05.03.2021 14:51:54|         7|
+|[YanickKi](https://github.com/YanickKi/AP_T_Y)                                  |[Übersicht](repo/YanickKi)           |14.04.2021 22:10:11|         8|
 
 
 ## Statistiken
 - **38** Repos
 - **51** Versuche
-- **583** Protokolle
+- **586** Protokolle

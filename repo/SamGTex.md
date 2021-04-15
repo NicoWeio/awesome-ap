@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max)
 
-Letzter Commit: 31.01.2021 10:43:48
+Letzter Commit: 14.04.2021 10:47:02
 
 ## Autoren
 - [SamGTex](https://github.com/SamGTex)
