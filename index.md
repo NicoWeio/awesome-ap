@@ -64,7 +64,7 @@
 |[aknierim](https://github.com/aknierim/AP)                                      |[Übersicht](repo/aknierim)           |09.10.2019 08:28:34|        20|
 |[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |13.04.2021 21:21:56|        18|
 |[chrbeckm](https://github.com/chrbeckm/anfaenger-praktikum)                     |[Übersicht](repo/chrbeckm)           |09.11.2019 16:04:46|        18|
-|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |14.04.2021 22:13:11|         7|
+|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |15.04.2021 14:33:08|         7|
 |[dagbjoern](https://github.com/dagbjoern/AP-Physik)                             |[Übersicht](repo/dagbjoern)          |12.07.2016 09:19:16|        21|
 |[dlmsr](https://github.com/dlmsr/praktikum)                                     |[Übersicht](repo/dlmsr)              |12.03.2020 11:10:24|        26|
 |[dormail](https://github.com/dormail/ap)                                        |[Übersicht](repo/dormail)            |13.04.2021 13:46:09|         6|
@@ -79,7 +79,7 @@
 |[LuckyJosh](https://github.com/LuckyJosh/APPhysik)                              |[Übersicht](repo/LuckyJosh)          |08.07.2014 19:22:20|        13|
 |[MagischeMiesmuschel](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)|[Übersicht](repo/MagischeMiesmuschel)|20.08.2018 09:40:55|        21|
 |[Mampfzwerg](https://github.com/Mampfzwerg/Praktikum)                           |[Übersicht](repo/Mampfzwerg)         |22.06.2019 00:18:30|        22|
-|[moritzbo](https://github.com/moritzbo/anfaenger_praktikum)                     |[Übersicht](repo/moritzbo)           |14.04.2021 15:30:25|         6|
+|[moritzbo](https://github.com/moritzbo/anfaenger_praktikum)                     |[Übersicht](repo/moritzbo)           |15.04.2021 16:48:07|         6|
 |[mwindau](https://github.com/mwindau/praktikum)                                 |[Übersicht](repo/mwindau)            |10.07.2017 19:33:32|        18|
 |[NicoJG](https://github.com/NicoJG/Anfaengerpraktikum)                          |[Übersicht](repo/NicoJG)             |04.08.2020 12:33:58|        19|
 |[NicoWeio](https://github.com/NicoWeio/AP)                                      |[Übersicht](repo/NicoWeio)           |03.04.2021 21:17:39|         6|
@@ -98,7 +98,7 @@
 |[Tahirbanane](https://github.com/Tahirbanane/AP)                                |[Übersicht](repo/Tahirbanane)        |14.04.2021 17:21:20|         8|
 |[vsulaiman](https://github.com/vsulaiman/Praktikum)                             |[Übersicht](repo/vsulaiman)          |13.07.2017 09:46:42|        21|
 |[woklop9](https://github.com/woklop9/Anfaengerpraktikum)                        |[Übersicht](repo/woklop9)            |11.07.2018 07:44:51|        19|
-|[YanickKi](https://github.com/YanickKi/AP_T_Y)                                  |[Übersicht](repo/YanickKi)           |14.04.2021 22:10:11|         8|
+|[YanickKi](https://github.com/YanickKi/AP_T_Y)                                  |[Übersicht](repo/YanickKi)           |15.04.2021 18:38:48|         8|
 
 
 ## Statistiken
