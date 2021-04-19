@@ -15,7 +15,10 @@ def fmt_dirs(dirs):
 def fmt_pdfs(pdfs):
     if not pdfs:
         return '–'
-    return '<br/>'.join(fmt_content(pdf) for pdf in pdfs)
+    return '<br/>'.join(fmt_pdf(pdf) for pdf in pdfs)
+
+def fmt_pdf(pdf):
+    return f"[{pdf.name}](https://docs.google.com/viewer?url={pdf.download_url})" if pdf else '–'
 
 def fmt_content(c):
     return f"[{c.name}]({c.html_url})" if c else '–'
