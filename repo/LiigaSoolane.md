@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/LiigaSoolane/Paktikum)
 
-Letzter Commit: 19.04.2021 11:57:15
+Letzter Commit: 19.04.2021 20:05:12
 
 ## Autoren
 - [FreddieMercury534](https://github.com/FreddieMercury534)
