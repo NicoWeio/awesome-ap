@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/moritzbo/anfaenger_praktikum)
 
-Letzter Commit: 16.04.2021 14:39:31
+Letzter Commit: 20.04.2021 20:41:33
 
 ## Autoren
 - [moritzbo](https://github.com/moritzbo)
@@ -15,6 +15,7 @@ Letzter Commit: 16.04.2021 14:39:31
 |[203](../versuch/203)|[V203-Verdampfungswärme](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V203-Verdampfungsw%C3%A4rme)                                |–   |
 |[206](../versuch/206)|[D206-Wärmepumpe](https://github.com/moritzbo/anfaenger_praktikum/tree/main/D206-W%C3%A4rmepumpe)                                              |–   |
 |[311](../versuch/311)|[V311-Hall-Effekt](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V311-Hall-Effekt)                                                 |–   |
+|[353](../versuch/353)|[V353-RC](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V353-RC)                                                                   |–   |
 |[602](../versuch/602)|[V602-Röntgenemission und -absorption](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V602-R%C3%B6ntgenemission%20und%20-absorption)|–   |
 |[603](../versuch/603)|[V603-Compton](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V603-Compton)                                                         |–   |
 |[702](../versuch/702)|[V702 Aktivierung mit Neutronen](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V702%20Aktivierung%20mit%20Neutronen)               |–   |
