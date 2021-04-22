@@ -6,7 +6,7 @@ Letzter Commit: 17.07.2020 15:53:36
 
 ## Autoren
 - [paul-stoerbrock](https://github.com/paul-stoerbrock)
-- [truecker](https://github.com/truecker)
+- [Fafnier8](https://github.com/Fafnier8)
 
 ## Versuche
 
