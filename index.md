@@ -36,12 +36,12 @@
 |    402|[Übersicht](versuch/402)|    9|
 |    406|[Übersicht](versuch/406)|   22|
 |    408|[Übersicht](versuch/408)|   16|
-|    500|[Übersicht](versuch/500)|   20|
+|    500|[Übersicht](versuch/500)|   21|
 |    501|[Übersicht](versuch/501)|   14|
 |    502|[Übersicht](versuch/502)|    2|
 |    503|[Übersicht](versuch/503)|    6|
 |    504|[Übersicht](versuch/504)|   17|
-|    601|[Übersicht](versuch/601)|   21|
+|    601|[Übersicht](versuch/601)|   22|
 |    602|[Übersicht](versuch/602)|   20|
 |    603|[Übersicht](versuch/603)|    7|
 |    605|[Übersicht](versuch/605)|    4|
@@ -75,14 +75,14 @@
 |[komrozik](https://github.com/komrozik/AP2019)                                  |[Übersicht](repo/komrozik)           |18.09.2020 10:47:35|        15|
 |[LarsKolk](https://github.com/LarsKolk/Anfaengerpraktikum)                      |[Übersicht](repo/LarsKolk)           |11.08.2018 16:09:33|        21|
 |[lassestern](https://github.com/lassestern/praktikum-david-lasse)               |[Übersicht](repo/lassestern)         |24.07.2020 22:21:57|         5|
-|[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum)                        |[Übersicht](repo/LiigaSoolane)       |20.04.2021 21:14:14|         8|
+|[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum)                        |[Übersicht](repo/LiigaSoolane)       |22.04.2021 20:06:42|         9|
 |[LuckyJosh](https://github.com/LuckyJosh/APPhysik)                              |[Übersicht](repo/LuckyJosh)          |08.07.2014 19:22:20|        13|
 |[MagischeMiesmuschel](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)|[Übersicht](repo/MagischeMiesmuschel)|20.08.2018 09:40:55|        21|
 |[Mampfzwerg](https://github.com/Mampfzwerg/Praktikum)                           |[Übersicht](repo/Mampfzwerg)         |22.06.2019 00:18:30|        22|
-|[moritzbo](https://github.com/moritzbo/anfaenger_praktikum)                     |[Übersicht](repo/moritzbo)           |21.04.2021 11:50:47|         7|
+|[moritzbo](https://github.com/moritzbo/anfaenger_praktikum)                     |[Übersicht](repo/moritzbo)           |22.04.2021 18:14:24|         7|
 |[mwindau](https://github.com/mwindau/praktikum)                                 |[Übersicht](repo/mwindau)            |10.07.2017 19:33:32|        18|
 |[NicoJG](https://github.com/NicoJG/Anfaengerpraktikum)                          |[Übersicht](repo/NicoJG)             |04.08.2020 12:33:58|        19|
-|[NicoWeio](https://github.com/NicoWeio/AP)                                      |[Übersicht](repo/NicoWeio)           |19.04.2021 11:09:59|         7|
+|[NicoWeio](https://github.com/NicoWeio/AP)                                      |[Übersicht](repo/NicoWeio)           |22.04.2021 15:23:31|         8|
 |[nsalewski](https://github.com/nsalewski/laboratory)                            |[Übersicht](repo/nsalewski)          |23.07.2018 07:32:48|        20|
 |[pascalgutjahr](https://github.com/pascalgutjahr/Praktikum-1)                   |[Übersicht](repo/pascalgutjahr)      |08.04.2019 18:36:29|         5|
 |[paul-stoerbrock](https://github.com/paul-stoerbrock/Praktikum)                 |[Übersicht](repo/paul-stoerbrock)    |17.07.2020 15:53:36|        18|
@@ -104,4 +104,4 @@
 ## Statistiken
 - **38** Repos
 - **51** Versuche
-- **589** Protokolle
+- **591** Protokolle
