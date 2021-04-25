@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/LiigaSoolane/Paktikum)
 
-Letzter Commit: 23.04.2021 16:24:28
+Letzter Commit: 24.04.2021 11:25:43
 
 ## Autoren
 - [FreddieMercury534](https://github.com/FreddieMercury534)
@@ -16,6 +16,7 @@ Letzter Commit: 23.04.2021 16:24:28
 |[203](../versuch/203)|[V203_Verdampfungswärme](https://github.com/LiigaSoolane/Paktikum/tree/main/V203_Verdampfungsw%C3%A4rme)         |–   |
 |[206](../versuch/206)|[D206_Wärmepumpe](https://github.com/LiigaSoolane/Paktikum/tree/main/D206_W%C3%A4rmepumpe)                       |–   |
 |[311](../versuch/311)|[V311_Hall-Effekt](https://github.com/LiigaSoolane/Paktikum/tree/main/V311_Hall-Effekt)                          |–   |
+|[354](../versuch/354)|[V354_Schwingungen](https://github.com/LiigaSoolane/Paktikum/tree/main/V354_Schwingungen)                        |–   |
 |[400](../versuch/400)|[V400_ReflexionBrechungBeugung](https://github.com/LiigaSoolane/Paktikum/tree/main/V400_ReflexionBrechungBeugung)|–   |
 |[601](../versuch/601)|[V601](https://github.com/LiigaSoolane/Paktikum/tree/main/V601)                                                  |–   |
 |[603](../versuch/603)|[V603_ComptonEffekt](https://github.com/LiigaSoolane/Paktikum/tree/main/V603_ComptonEffekt)                      |–   |
