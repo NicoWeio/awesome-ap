@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/moritzbo/anfaenger_praktikum)
 
-Letzter Commit: 24.04.2021 09:05:39
+Letzter Commit: 27.04.2021 21:24:29
 
 ## Autoren
 - [moritzbo](https://github.com/moritzbo)
@@ -14,6 +14,7 @@ Letzter Commit: 24.04.2021 09:05:39
 |---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----|
 |[203](../versuch/203)|[V203-Verdampfungswärme](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V203-Verdampfungsw%C3%A4rme)                                |–   |
 |[206](../versuch/206)|[D206-Wärmepumpe](https://github.com/moritzbo/anfaenger_praktikum/tree/main/D206-W%C3%A4rmepumpe)                                              |–   |
+|[302](../versuch/302)|[V302-Brückenschaltung](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V302-Br%C3%BCckenschaltung)                                  |–   |
 |[311](../versuch/311)|[V311-Hall-Effekt](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V311-Hall-Effekt)                                                 |–   |
 |[353](../versuch/353)|[V353-RC](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V353-RC)                                                                   |–   |
 |[602](../versuch/602)|[V602-Röntgenemission und -absorption](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V602-R%C3%B6ntgenemission%20und%20-absorption)|–   |
