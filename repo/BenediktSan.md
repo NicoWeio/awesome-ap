@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/BenediktSan/AnfaengerPraktikum2020)
 
-Letzter Commit: 02.05.2021 20:55:28
+Letzter Commit: 03.05.2021 20:38:54
 
 ## Versuche
 
