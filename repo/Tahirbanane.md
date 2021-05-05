@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/Tahirbanane/AP)
 
-Letzter Commit: 02.05.2021 21:03:59
+Letzter Commit: 04.05.2021 21:44:14
 
 ## Versuche
 
@@ -15,6 +15,6 @@ Letzter Commit: 02.05.2021 21:03:59
 |[353](../versuch/353)|[V353](https://github.com/Tahirbanane/AP/tree/main/V353)|[main.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Tahirbanane/AP/main/V353/main.pdf)|
 |[401](../versuch/401)|[V401](https://github.com/Tahirbanane/AP/tree/main/V401)|–                                                                                                                 |
 |[504](../versuch/504)|[V504](https://github.com/Tahirbanane/AP/tree/main/V504)|–                                                                                                                 |
-|[602](../versuch/602)|[V602](https://github.com/Tahirbanane/AP/tree/main/V602)|–                                                                                                                 |
+|[602](../versuch/602)|[V602](https://github.com/Tahirbanane/AP/tree/main/V602)|[main.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Tahirbanane/AP/main/V602/main.pdf)|
 |[702](../versuch/702)|[V702](https://github.com/Tahirbanane/AP/tree/main/V702)|–                                                                                                                 |
 |[703](../versuch/703)|[V703](https://github.com/Tahirbanane/AP/tree/main/V703)|–                                                                                                                 |
