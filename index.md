@@ -9,47 +9,47 @@
 |     53|[Übersicht](versuch/53) |    1|
 |     61|[Übersicht](versuch/61) |    1|
 |     64|[Übersicht](versuch/64) |    1|
-|    101|[Übersicht](versuch/101)|   17|
-|    102|[Übersicht](versuch/102)|   11|
-|    103|[Übersicht](versuch/103)|   21|
+|    101|[Übersicht](versuch/101)|   16|
+|    102|[Übersicht](versuch/102)|   10|
+|    103|[Übersicht](versuch/103)|   20|
 |    104|[Übersicht](versuch/104)|    7|
-|    105|[Übersicht](versuch/105)|    4|
+|    105|[Übersicht](versuch/105)|    3|
 |    106|[Übersicht](versuch/106)|   10|
 |    107|[Übersicht](versuch/107)|    5|
-|    201|[Übersicht](versuch/201)|   16|
+|    201|[Übersicht](versuch/201)|   15|
 |    203|[Übersicht](versuch/203)|    9|
 |    204|[Übersicht](versuch/204)|   19|
-|    206|[Übersicht](versuch/206)|   26|
-|    207|[Übersicht](versuch/207)|    7|
-|    301|[Übersicht](versuch/301)|   15|
+|    206|[Übersicht](versuch/206)|   25|
+|    207|[Übersicht](versuch/207)|    6|
+|    301|[Übersicht](versuch/301)|   14|
 |    302|[Übersicht](versuch/302)|   20|
-|    303|[Übersicht](versuch/303)|   15|
-|    308|[Übersicht](versuch/308)|    7|
+|    303|[Übersicht](versuch/303)|   14|
+|    308|[Übersicht](versuch/308)|    6|
 |    311|[Übersicht](versuch/311)|   11|
-|    351|[Übersicht](versuch/351)|   14|
+|    351|[Übersicht](versuch/351)|   13|
 |    353|[Übersicht](versuch/353)|   22|
-|    354|[Übersicht](versuch/354)|   22|
+|    354|[Übersicht](versuch/354)|   21|
 |    355|[Übersicht](versuch/355)|   12|
 |    356|[Übersicht](versuch/356)|    4|
 |    400|[Übersicht](versuch/400)|    3|
-|    401|[Übersicht](versuch/401)|   17|
+|    401|[Übersicht](versuch/401)|   16|
 |    402|[Übersicht](versuch/402)|    9|
-|    406|[Übersicht](versuch/406)|   22|
+|    406|[Übersicht](versuch/406)|   21|
 |    408|[Übersicht](versuch/408)|   16|
-|    500|[Übersicht](versuch/500)|   20|
+|    500|[Übersicht](versuch/500)|   19|
 |    501|[Übersicht](versuch/501)|   14|
 |    502|[Übersicht](versuch/502)|    2|
 |    503|[Übersicht](versuch/503)|    6|
-|    504|[Übersicht](versuch/504)|   16|
-|    601|[Übersicht](versuch/601)|   21|
+|    504|[Übersicht](versuch/504)|   15|
+|    601|[Übersicht](versuch/601)|   20|
 |    602|[Übersicht](versuch/602)|   21|
 |    603|[Übersicht](versuch/603)|    7|
 |    605|[Übersicht](versuch/605)|    4|
-|    606|[Übersicht](versuch/606)|   11|
+|    606|[Übersicht](versuch/606)|   10|
 |    701|[Übersicht](versuch/701)|   10|
 |    702|[Übersicht](versuch/702)|   28|
-|    703|[Übersicht](versuch/703)|   28|
-|    704|[Übersicht](versuch/704)|   10|
+|    703|[Übersicht](versuch/703)|   27|
+|    704|[Übersicht](versuch/704)|    9|
 |    801|[Übersicht](versuch/801)|    2|
 |    802|[Übersicht](versuch/802)|    5|
 |    803|[Übersicht](versuch/803)|    6|
@@ -61,10 +61,9 @@
 
 |                                    Repo von                                    |                                     |  Letzter Commit   |# Versuche|
 |--------------------------------------------------------------------------------|-------------------------------------|-------------------|---------:|
-|[aknierim](https://github.com/aknierim/AP)                                      |[Übersicht](repo/aknierim)           |09.10.2019 08:28:34|        20|
 |[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |03.05.2021 20:38:54|        18|
 |[chrbeckm](https://github.com/chrbeckm/anfaenger-praktikum)                     |[Übersicht](repo/chrbeckm)           |09.11.2019 16:04:46|        18|
-|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |04.05.2021 18:28:34|         9|
+|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |05.05.2021 18:58:10|         9|
 |[dagbjoern](https://github.com/dagbjoern/AP-Physik)                             |[Übersicht](repo/dagbjoern)          |12.07.2016 09:19:16|        21|
 |[dlmsr](https://github.com/dlmsr/praktikum)                                     |[Übersicht](repo/dlmsr)              |12.03.2020 11:10:24|        26|
 |[dormail](https://github.com/dormail/ap)                                        |[Übersicht](repo/dormail)            |04.05.2021 21:41:10|         6|
@@ -79,7 +78,7 @@
 |[LuckyJosh](https://github.com/LuckyJosh/APPhysik)                              |[Übersicht](repo/LuckyJosh)          |08.07.2014 19:22:20|        13|
 |[MagischeMiesmuschel](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)|[Übersicht](repo/MagischeMiesmuschel)|20.08.2018 09:40:55|        21|
 |[Mampfzwerg](https://github.com/Mampfzwerg/Praktikum)                           |[Übersicht](repo/Mampfzwerg)         |22.06.2019 00:18:30|        22|
-|[moritzbo](https://github.com/moritzbo/anfaenger_praktikum)                     |[Übersicht](repo/moritzbo)           |04.05.2021 16:12:49|         9|
+|[moritzbo](https://github.com/moritzbo/anfaenger_praktikum)                     |[Übersicht](repo/moritzbo)           |05.05.2021 10:57:42|         9|
 |[mwindau](https://github.com/mwindau/praktikum)                                 |[Übersicht](repo/mwindau)            |10.07.2017 19:33:32|        18|
 |[NicoJG](https://github.com/NicoJG/Anfaengerpraktikum)                          |[Übersicht](repo/NicoJG)             |04.08.2020 12:33:58|        19|
 |[NicoWeio](https://github.com/NicoWeio/AP)                                      |[Übersicht](repo/NicoWeio)           |02.05.2021 20:42:56|         9|
@@ -101,6 +100,6 @@
 
 
 ## Statistiken
-- **37** Repos
+- **36** Repos
 - **51** Versuche
-- **579** Protokolle
+- **559** Protokolle
