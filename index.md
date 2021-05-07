@@ -61,9 +61,9 @@
 
 |                                    Repo von                                    |                                     |  Letzter Commit   |# Versuche|
 |--------------------------------------------------------------------------------|-------------------------------------|-------------------|---------:|
-|[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |03.05.2021 20:38:54|        18|
+|[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |06.05.2021 18:55:21|        18|
 |[chrbeckm](https://github.com/chrbeckm/anfaenger-praktikum)                     |[Übersicht](repo/chrbeckm)           |09.11.2019 16:04:46|        18|
-|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |05.05.2021 18:58:10|         9|
+|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |06.05.2021 14:57:21|         9|
 |[dagbjoern](https://github.com/dagbjoern/AP-Physik)                             |[Übersicht](repo/dagbjoern)          |12.07.2016 09:19:16|        21|
 |[dlmsr](https://github.com/dlmsr/praktikum)                                     |[Übersicht](repo/dlmsr)              |12.03.2020 11:10:24|        26|
 |[dormail](https://github.com/dormail/ap)                                        |[Übersicht](repo/dormail)            |04.05.2021 21:41:10|         6|
@@ -94,7 +94,7 @@
 |[smjhnits](https://github.com/smjhnits/Praktikum_TU_D_16-17)                    |[Übersicht](repo/smjhnits)           |30.01.2019 12:22:48|        20|
 |[smjolame](https://github.com/smjolame/Praktikum_1)                             |[Übersicht](repo/smjolame)           |11.04.2021 11:36:04|        18|
 |[stefangri](https://github.com/stefangri/s_s_productions)                       |[Übersicht](repo/stefangri)          |05.02.2018 06:01:44|        20|
-|[Tahirbanane](https://github.com/Tahirbanane/AP)                                |[Übersicht](repo/Tahirbanane)        |04.05.2021 21:44:14|        10|
+|[Tahirbanane](https://github.com/Tahirbanane/AP)                                |[Übersicht](repo/Tahirbanane)        |06.05.2021 07:32:57|        10|
 |[woklop9](https://github.com/woklop9/Anfaengerpraktikum)                        |[Übersicht](repo/woklop9)            |11.07.2018 07:44:51|        19|
 |[YanickKi](https://github.com/YanickKi/AP_T_Y)                                  |[Übersicht](repo/YanickKi)           |03.05.2021 15:59:08|        10|
 
