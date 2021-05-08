@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/YanickKi/AP_T_Y)
 
-Letzter Commit: 03.05.2021 15:59:08
+Letzter Commit: 07.05.2021 14:51:16
 
 ## Autoren
 - [YanickKi](https://github.com/YanickKi)
@@ -16,6 +16,7 @@ Letzter Commit: 03.05.2021 15:59:08
 |[206](../versuch/206)|[latex-template](https://github.com/YanickKi/AP_T_Y/tree/main/latex-template)|–   |
 |[302](../versuch/302)|[v302](https://github.com/YanickKi/AP_T_Y/tree/main/v302)                    |–   |
 |[353](../versuch/353)|[v353](https://github.com/YanickKi/AP_T_Y/tree/main/v353)                    |–   |
+|[354](../versuch/354)|[v354](https://github.com/YanickKi/AP_T_Y/tree/main/v354)                    |–   |
 |[401](../versuch/401)|[V401](https://github.com/YanickKi/AP_T_Y/tree/main/V401)                    |–   |
 |[406](../versuch/406)|[v406](https://github.com/YanickKi/AP_T_Y/tree/main/v406)                    |–   |
 |[504](../versuch/504)|[v504](https://github.com/YanickKi/AP_T_Y/tree/main/v504)                    |–   |
