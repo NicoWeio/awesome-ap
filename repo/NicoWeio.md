@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/NicoWeio/AP)
 
-Letzter Commit: 02.05.2021 20:42:56
+Letzter Commit: 07.05.2021 16:57:35
 
 ## Autoren
 - [NicoWeio](https://github.com/NicoWeio)
@@ -18,6 +18,7 @@ Letzter Commit: 02.05.2021 20:42:56
 |[302](../versuch/302)|[V302_Brueckenschaltung](https://github.com/NicoWeio/AP/tree/master/V302_Brueckenschaltung)                                                      |–   |
 |[401](../versuch/401)|[V401_Michelson_Interferometer](https://github.com/NicoWeio/AP/tree/master/V401_Michelson_Interferometer)                                        |–   |
 |[500](../versuch/500)|[V500_Photoeffekt](https://github.com/NicoWeio/AP/tree/master/V500_Photoeffekt)                                                                  |–   |
+|[602](../versuch/602)|[D602_Roentgen_EmissionAbsorption](https://github.com/NicoWeio/AP/tree/master/D602_Roentgen_EmissionAbsorption)                                  |–   |
 |[606](../versuch/606)|[V606_Suszeptibilitaet_paramagnetischer_Substanzen](https://github.com/NicoWeio/AP/tree/master/V606_Suszeptibilitaet_paramagnetischer_Substanzen)|–   |
 |[702](../versuch/702)|[D702_Aktivierung_mit_Neutronen](https://github.com/NicoWeio/AP/tree/master/D702_Aktivierung_mit_Neutronen)                                      |–   |
 |[703](../versuch/703)|[D703_Geiger_Mueller_Zaehlrohr](https://github.com/NicoWeio/AP/tree/master/D703_Geiger_Mueller_Zaehlrohr)                                        |–   |
