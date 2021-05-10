@@ -61,12 +61,12 @@
 
 |                                    Repo von                                    |                                     |  Letzter Commit   |# Versuche|
 |--------------------------------------------------------------------------------|-------------------------------------|-------------------|---------:|
-|[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |06.05.2021 18:55:21|        18|
+|[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |09.05.2021 23:43:17|        18|
 |[chrbeckm](https://github.com/chrbeckm/anfaenger-praktikum)                     |[Übersicht](repo/chrbeckm)           |09.11.2019 16:04:46|        18|
 |[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |08.05.2021 20:36:29|        10|
 |[dagbjoern](https://github.com/dagbjoern/AP-Physik)                             |[Übersicht](repo/dagbjoern)          |12.07.2016 09:19:16|        21|
 |[dlmsr](https://github.com/dlmsr/praktikum)                                     |[Übersicht](repo/dlmsr)              |12.03.2020 11:10:24|        26|
-|[dormail](https://github.com/dormail/ap)                                        |[Übersicht](repo/dormail)            |08.05.2021 13:12:36|         8|
+|[dormail](https://github.com/dormail/ap)                                        |[Übersicht](repo/dormail)            |09.05.2021 15:03:27|         8|
 |[Fresoquark](https://github.com/Fresoquark/Anfaengerpraktikum)                  |[Übersicht](repo/Fresoquark)         |08.07.2018 16:41:54|        10|
 |[HelenaCarlArne](https://github.com/HelenaCarlArne/ProtokolleAP)                |[Übersicht](repo/HelenaCarlArne)     |18.09.2015 09:14:52|        20|
 |[Jean1995](https://github.com/Jean1995/Praktikum)                               |[Übersicht](repo/Jean1995)           |01.11.2016 19:09:38|        21|
@@ -74,7 +74,7 @@
 |[komrozik](https://github.com/komrozik/AP2019)                                  |[Übersicht](repo/komrozik)           |02.05.2021 15:27:33|        15|
 |[LarsKolk](https://github.com/LarsKolk/Anfaengerpraktikum)                      |[Übersicht](repo/LarsKolk)           |11.08.2018 16:09:33|        21|
 |[lassestern](https://github.com/lassestern/praktikum-david-lasse)               |[Übersicht](repo/lassestern)         |24.07.2020 22:21:57|         5|
-|[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum)                        |[Übersicht](repo/LiigaSoolane)       |03.05.2021 09:47:28|        10|
+|[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)         |[Übersicht](repo/LiigaSoolane)       |09.05.2021 19:31:38|        10|
 |[LuckyJosh](https://github.com/LuckyJosh/APPhysik)                              |[Übersicht](repo/LuckyJosh)          |08.07.2014 19:22:20|        13|
 |[MagischeMiesmuschel](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)|[Übersicht](repo/MagischeMiesmuschel)|20.08.2018 09:40:55|        21|
 |[Mampfzwerg](https://github.com/Mampfzwerg/Praktikum)                           |[Übersicht](repo/Mampfzwerg)         |22.06.2019 00:18:30|        22|
