@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/Tahirbanane/AP)
 
-Letzter Commit: 07.05.2021 16:46:20
+Letzter Commit: 10.05.2021 23:51:48
 
 ## Autoren
 - [Tahirbanane](https://github.com/Tahirbanane)
@@ -20,6 +20,6 @@ Letzter Commit: 07.05.2021 16:46:20
 |[354](../versuch/354)|[V354](https://github.com/Tahirbanane/AP/tree/main/V354)|–                                                                                                                 |
 |[401](../versuch/401)|[V401](https://github.com/Tahirbanane/AP/tree/main/V401)|–                                                                                                                 |
 |[504](../versuch/504)|[V504](https://github.com/Tahirbanane/AP/tree/main/V504)|–                                                                                                                 |
-|[602](../versuch/602)|[V602](https://github.com/Tahirbanane/AP/tree/main/V602)|[main.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/Tahirbanane/AP/main/V602/main.pdf)|
+|[602](../versuch/602)|[V602](https://github.com/Tahirbanane/AP/tree/main/V602)|–                                                                                                                 |
 |[702](../versuch/702)|[V702](https://github.com/Tahirbanane/AP/tree/main/V702)|–                                                                                                                 |
 |[703](../versuch/703)|[V703](https://github.com/Tahirbanane/AP/tree/main/V703)|–                                                                                                                 |

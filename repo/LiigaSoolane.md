@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)
 
-Letzter Commit: 09.05.2021 19:31:38
+Letzter Commit: 10.05.2021 09:19:59
 
 ## Autoren
 - [FreddieMercury534](https://github.com/FreddieMercury534)
