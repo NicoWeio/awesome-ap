@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)
 
-Letzter Commit: 10.05.2021 09:19:59
+Letzter Commit: 12.05.2021 14:17:13
 
 ## Autoren
 - [FreddieMercury534](https://github.com/FreddieMercury534)
@@ -21,5 +21,6 @@ Letzter Commit: 10.05.2021 09:19:59
 |[400](../versuch/400)|[V400_ReflexionBrechungBeugung](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V400_ReflexionBrechungBeugung)|–   |
 |[601](../versuch/601)|[V601](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V601)                                                  |–   |
 |[603](../versuch/603)|[V603_ComptonEffekt](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V603_ComptonEffekt)                      |–   |
+|[606](../versuch/606)|[V606](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V606)                                                  |–   |
 |[702](../versuch/702)|[V702_Neutronenaktivierung](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V702_Neutronenaktivierung)        |–   |
 |[703](../versuch/703)|[V703_Geigerzähler](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V703_Geigerz%C3%A4hler)                   |–   |
