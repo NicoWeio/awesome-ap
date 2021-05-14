@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/NicoWeio/AP)
 
-Letzter Commit: 10.05.2021 14:18:47
+Letzter Commit: 14.05.2021 17:41:02
 
 ## Autoren
 - [NicoWeio](https://github.com/NicoWeio)
@@ -16,6 +16,7 @@ Letzter Commit: 10.05.2021 14:18:47
 |[204](../versuch/204)|[V204_Waermeleitung](https://github.com/NicoWeio/AP/tree/master/V204_Waermeleitung)                                                              |–   |
 |[206](../versuch/206)|[D206_Waermepumpe](https://github.com/NicoWeio/AP/tree/master/D206_Waermepumpe)                                                                  |–   |
 |[302](../versuch/302)|[V302_Brueckenschaltung](https://github.com/NicoWeio/AP/tree/master/V302_Brueckenschaltung)                                                      |–   |
+|[353](../versuch/353)|[V353_Relaxationsverhalten_eines_RC_Kreises](https://github.com/NicoWeio/AP/tree/master/V353_Relaxationsverhalten_eines_RC_Kreises)              |–   |
 |[401](../versuch/401)|[V401_Michelson_Interferometer](https://github.com/NicoWeio/AP/tree/master/V401_Michelson_Interferometer)                                        |–   |
 |[500](../versuch/500)|[V500_Photoeffekt](https://github.com/NicoWeio/AP/tree/master/V500_Photoeffekt)                                                                  |–   |
 |[602](../versuch/602)|[D602_Roentgenemission_und_Absorption](https://github.com/NicoWeio/AP/tree/master/D602_Roentgenemission_und_Absorption)                          |–   |
