@@ -61,15 +61,15 @@
 
 |                                    Repo von                                    |                                     |  Letzter Commit   |# Versuche|
 |--------------------------------------------------------------------------------|-------------------------------------|-------------------|---------:|
-|[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |14.05.2021 20:46:10|        18|
+|[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |15.05.2021 19:43:13|        18|
 |[chrbeckm](https://github.com/chrbeckm/anfaenger-praktikum)                     |[Übersicht](repo/chrbeckm)           |09.11.2019 16:04:46|        18|
-|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |13.05.2021 18:02:28|        10|
+|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |15.05.2021 22:22:22|        10|
 |[dagbjoern](https://github.com/dagbjoern/AP-Physik)                             |[Übersicht](repo/dagbjoern)          |12.07.2016 09:19:16|        21|
 |[dlmsr](https://github.com/dlmsr/praktikum)                                     |[Übersicht](repo/dlmsr)              |12.03.2020 11:10:24|        26|
-|[dormail](https://github.com/dormail/ap)                                        |[Übersicht](repo/dormail)            |14.05.2021 18:35:37|         8|
+|[dormail](https://github.com/dormail/ap)                                        |[Übersicht](repo/dormail)            |15.05.2021 12:19:22|         8|
 |[Fresoquark](https://github.com/Fresoquark/Anfaengerpraktikum)                  |[Übersicht](repo/Fresoquark)         |08.07.2018 16:41:54|        10|
 |[HelenaCarlArne](https://github.com/HelenaCarlArne/ProtokolleAP)                |[Übersicht](repo/HelenaCarlArne)     |18.09.2015 09:14:52|        20|
-|[jana-banana](https://github.com/jana-banana/AP-2020)                           |[Übersicht](repo/jana-banana)        |11.05.2021 14:42:22|        11|
+|[jana-banana](https://github.com/jana-banana/AP-2020)                           |[Übersicht](repo/jana-banana)        |15.05.2021 12:48:44|        11|
 |[Jean1995](https://github.com/Jean1995/Praktikum)                               |[Übersicht](repo/Jean1995)           |01.11.2016 19:09:38|        21|
 |[JLammering](https://github.com/JLammering/Physikalisches-Praktikum)            |[Übersicht](repo/JLammering)         |03.10.2016 20:42:54|        12|
 |[komrozik](https://github.com/komrozik/AP2019)                                  |[Übersicht](repo/komrozik)           |02.05.2021 15:27:33|        15|
@@ -97,7 +97,7 @@
 |[stefangri](https://github.com/stefangri/s_s_productions)                       |[Übersicht](repo/stefangri)          |05.02.2018 06:01:44|        20|
 |[Tahirbanane](https://github.com/Tahirbanane/AP)                                |[Übersicht](repo/Tahirbanane)        |11.05.2021 17:51:21|        11|
 |[woklop9](https://github.com/woklop9/Anfaengerpraktikum)                        |[Übersicht](repo/woklop9)            |11.07.2018 07:44:51|        19|
-|[YanickKi](https://github.com/YanickKi/AP_T_Y)                                  |[Übersicht](repo/YanickKi)           |14.05.2021 17:46:59|        12|
+|[YanickKi](https://github.com/YanickKi/AP_T_Y)                                  |[Übersicht](repo/YanickKi)           |15.05.2021 17:52:34|        12|
 
 
 ## Statistiken
