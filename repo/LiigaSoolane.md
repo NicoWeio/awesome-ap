@@ -24,3 +24,4 @@ Letzter Commit: 16.05.2021 20:21:51
 |[606](../versuch/606)|[V606](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V606)                                                  |–   |
 |[702](../versuch/702)|[V702_Neutronenaktivierung](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V702_Neutronenaktivierung)        |–   |
 |[703](../versuch/703)|[V703_Geigerzähler](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V703_Geigerz%C3%A4hler)                   |–   |
+|[903](../versuch/903)|[US3](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/US3)                                                    |–   |
