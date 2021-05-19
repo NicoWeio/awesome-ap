@@ -14,7 +14,7 @@
 |    103|[Übersicht](versuch/103)|   21|
 |    104|[Übersicht](versuch/104)|    7|
 |    105|[Übersicht](versuch/105)|    3|
-|    106|[Übersicht](versuch/106)|   10|
+|    106|[Übersicht](versuch/106)|   11|
 |    107|[Übersicht](versuch/107)|    5|
 |    201|[Übersicht](versuch/201)|   15|
 |    203|[Übersicht](versuch/203)|    9|
@@ -40,7 +40,7 @@
 |    501|[Übersicht](versuch/501)|   14|
 |    502|[Übersicht](versuch/502)|    2|
 |    503|[Übersicht](versuch/503)|    6|
-|    504|[Übersicht](versuch/504)|   15|
+|    504|[Übersicht](versuch/504)|   16|
 |    601|[Übersicht](versuch/601)|   21|
 |    602|[Übersicht](versuch/602)|   23|
 |    603|[Übersicht](versuch/603)|    7|
@@ -55,7 +55,7 @@
 |    803|[Übersicht](versuch/803)|    6|
 |    901|[Übersicht](versuch/901)|   16|
 |    902|[Übersicht](versuch/902)|   12|
-|    903|[Übersicht](versuch/903)|   13|
+|    903|[Übersicht](versuch/903)|   14|
 
 
 ## Repos
@@ -64,10 +64,10 @@
 |--------------------------------------------------------------------------------|-------------------------------------|-------------------|---------:|
 |[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |17.05.2021 21:09:49|        19|
 |[chrbeckm](https://github.com/chrbeckm/anfaenger-praktikum)                     |[Übersicht](repo/chrbeckm)           |09.11.2019 16:04:46|        20|
-|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |17.05.2021 22:07:33|        11|
+|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |18.05.2021 20:37:04|        12|
 |[dagbjoern](https://github.com/dagbjoern/AP-Physik)                             |[Übersicht](repo/dagbjoern)          |12.07.2016 09:19:16|        22|
 |[dlmsr](https://github.com/dlmsr/praktikum)                                     |[Übersicht](repo/dlmsr)              |12.03.2020 11:10:24|        26|
-|[dormail](https://github.com/dormail/ap)                                        |[Übersicht](repo/dormail)            |17.05.2021 14:37:29|         9|
+|[dormail](https://github.com/dormail/ap)                                        |[Übersicht](repo/dormail)            |18.05.2021 21:19:22|         9|
 |[Fresoquark](https://github.com/Fresoquark/Anfaengerpraktikum)                  |[Übersicht](repo/Fresoquark)         |08.07.2018 16:41:54|        12|
 |[HelenaCarlArne](https://github.com/HelenaCarlArne/ProtokolleAP)                |[Übersicht](repo/HelenaCarlArne)     |18.09.2015 09:14:52|        21|
 |[jana-banana](https://github.com/jana-banana/AP-2020)                           |[Übersicht](repo/jana-banana)        |17.05.2021 22:52:22|        12|
@@ -76,11 +76,11 @@
 |[komrozik](https://github.com/komrozik/AP2019)                                  |[Übersicht](repo/komrozik)           |02.05.2021 15:27:33|        16|
 |[LarsKolk](https://github.com/LarsKolk/Anfaengerpraktikum)                      |[Übersicht](repo/LarsKolk)           |11.08.2018 16:09:33|        23|
 |[lassestern](https://github.com/lassestern/praktikum-david-lasse)               |[Übersicht](repo/lassestern)         |24.07.2020 22:21:57|         6|
-|[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)         |[Übersicht](repo/LiigaSoolane)       |17.05.2021 19:53:59|        13|
+|[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)         |[Übersicht](repo/LiigaSoolane)       |18.05.2021 09:33:01|        13|
 |[LuckyJosh](https://github.com/LuckyJosh/APPhysik)                              |[Übersicht](repo/LuckyJosh)          |08.07.2014 19:22:20|        13|
 |[MagischeMiesmuschel](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)|[Übersicht](repo/MagischeMiesmuschel)|20.08.2018 09:40:55|        23|
 |[Mampfzwerg](https://github.com/Mampfzwerg/Praktikum)                           |[Übersicht](repo/Mampfzwerg)         |22.06.2019 00:18:30|        23|
-|[moritzbo](https://github.com/moritzbo/anfaenger_praktikum)                     |[Übersicht](repo/moritzbo)           |17.05.2021 12:40:16|        10|
+|[moritzbo](https://github.com/moritzbo/anfaenger_praktikum)                     |[Übersicht](repo/moritzbo)           |18.05.2021 18:04:33|        11|
 |[mwindau](https://github.com/mwindau/praktikum)                                 |[Übersicht](repo/mwindau)            |10.07.2017 19:33:32|        21|
 |[NicoJG](https://github.com/NicoJG/Anfaengerpraktikum)                          |[Übersicht](repo/NicoJG)             |04.08.2020 12:33:58|        21|
 |[NicoWeio](https://github.com/NicoWeio/AP)                                      |[Übersicht](repo/NicoWeio)           |14.05.2021 17:41:02|        11|
@@ -96,7 +96,7 @@
 |[smjhnits](https://github.com/smjhnits/Praktikum_TU_D_16-17)                    |[Übersicht](repo/smjhnits)           |30.01.2019 12:22:48|        21|
 |[smjolame](https://github.com/smjolame/Praktikum_1)                             |[Übersicht](repo/smjolame)           |11.04.2021 11:36:04|        18|
 |[stefangri](https://github.com/stefangri/s_s_productions)                       |[Übersicht](repo/stefangri)          |05.02.2018 06:01:44|        21|
-|[Tahirbanane](https://github.com/Tahirbanane/AP)                                |[Übersicht](repo/Tahirbanane)        |11.05.2021 17:51:21|        11|
+|[Tahirbanane](https://github.com/Tahirbanane/AP)                                |[Übersicht](repo/Tahirbanane)        |18.05.2021 22:12:43|        12|
 |[woklop9](https://github.com/woklop9/Anfaengerpraktikum)                        |[Übersicht](repo/woklop9)            |11.07.2018 07:44:51|        19|
 |[YanickKi](https://github.com/YanickKi/AP_T_Y)                                  |[Übersicht](repo/YanickKi)           |15.05.2021 17:52:34|        12|
 
@@ -104,4 +104,4 @@
 ## Statistiken
 - **37** Repos
 - **52** Versuche
-- **619** Protokolle
+- **622** Protokolle
