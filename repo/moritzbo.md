@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/moritzbo/anfaenger_praktikum)
 
-Letzter Commit: 17.05.2021 12:40:16
+Letzter Commit: 18.05.2021 18:04:33
 
 ## Autoren
 - [moritzbo](https://github.com/moritzbo)
@@ -12,6 +12,7 @@ Letzter Commit: 17.05.2021 12:40:16
 
 |       Versuch       |                                                                    Ordner                                                                     |PDFs|
 |---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------|----|
+|[106](../versuch/106)|[V106-Pendel](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V106-Pendel)                                                           |–   |
 |[203](../versuch/203)|[V203-Verdampfungswärme](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V203-Verdampfungsw%C3%A4rme)                                |–   |
 |[204](../versuch/204)|[V204-Wärmeleitung](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V204-W%C3%A4rmeleitung)                                          |–   |
 |[206](../versuch/206)|[D206-Wärmepumpe](https://github.com/moritzbo/anfaenger_praktikum/tree/main/D206-W%C3%A4rmepumpe)                                              |–   |
