@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/moritzbo/anfaenger_praktikum)
 
-Letzter Commit: 18.05.2021 18:04:33
+Letzter Commit: 19.05.2021 12:24:01
 
 ## Autoren
 - [moritzbo](https://github.com/moritzbo)
