@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)
 
-Letzter Commit: 19.05.2021 15:02:39
+Letzter Commit: 24.05.2021 12:33:17
 
 ## Autoren
 - [FreddieMercury534](https://github.com/FreddieMercury534)
@@ -20,6 +20,7 @@ Letzter Commit: 19.05.2021 15:02:39
 |[353](../versuch/353)|[V353 RC-Kreis](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V353%20RC-Kreis)                              |–   |
 |[354](../versuch/354)|[V354_Schwingungen](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V354_Schwingungen)                        |–   |
 |[400](../versuch/400)|[V400_ReflexionBrechungBeugung](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V400_ReflexionBrechungBeugung)|–   |
+|[406](../versuch/406)|[V406_Beugung](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V406_Beugung)                                  |–   |
 |[601](../versuch/601)|[V601](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V601)                                                  |–   |
 |[603](../versuch/603)|[V603_ComptonEffekt](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V603_ComptonEffekt)                      |–   |
 |[606](../versuch/606)|[V606](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V606)                                                  |–   |
