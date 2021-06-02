@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)
 
-Letzter Commit: 30.05.2021 07:54:43
+Letzter Commit: 01.06.2021 22:52:42
 
 ## Autoren
 - [FreddieMercury534](https://github.com/FreddieMercury534)
@@ -22,6 +22,7 @@ Letzter Commit: 30.05.2021 07:54:43
 |[400](../versuch/400)|[V400_ReflexionBrechungBeugung](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V400_ReflexionBrechungBeugung)|–   |
 |[406](../versuch/406)|[V406_Beugung](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V406_Beugung)                                  |–   |
 |[601](../versuch/601)|[V601](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V601)                                                  |–   |
+|[602](../versuch/602)|[V602_Röntgen](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V602_R%C3%B6ntgen)                             |–   |
 |[603](../versuch/603)|[V603_ComptonEffekt](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V603_ComptonEffekt)                      |–   |
 |[606](../versuch/606)|[V606](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V606)                                                  |–   |
 |[702](../versuch/702)|[V702_Neutronenaktivierung](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V702_Neutronenaktivierung)        |–   |
