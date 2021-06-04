@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/NicoWeio/AP)
 
-Letzter Commit: 31.05.2021 17:14:40
+Letzter Commit: 03.06.2021 10:35:50
 
 ## Autoren
 - [NicoWeio](https://github.com/NicoWeio)
@@ -13,6 +13,7 @@ Letzter Commit: 31.05.2021 17:14:40
 |       Versuch       |                                                                     Ordner                                                                      |PDFs|
 |---------------------|-------------------------------------------------------------------------------------------------------------------------------------------------|----|
 |[103](../versuch/103)|[V103_Biegung_elastischer_Staebe](https://github.com/NicoWeio/AP/tree/master/V103_Biegung_elastischer_Staebe)                                    |–   |
+|[106](../versuch/106)|[V106_Gekoppelte_Pendel](https://github.com/NicoWeio/AP/tree/master/V106_Gekoppelte_Pendel)                                                      |–   |
 |[123](../versuch/123)|[TEMPLATE](https://github.com/NicoWeio/AP/tree/master/TEMPLATE)                                                                                  |–   |
 |[204](../versuch/204)|[V204_Waermeleitung](https://github.com/NicoWeio/AP/tree/master/V204_Waermeleitung)                                                              |–   |
 |[206](../versuch/206)|[D206_Waermepumpe](https://github.com/NicoWeio/AP/tree/master/D206_Waermepumpe)                                                                  |–   |
