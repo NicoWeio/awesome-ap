@@ -68,6 +68,9 @@
     in_source_dir: true
 # die PDFs sind auf GitHub Pages…
 - name: NicoWeio/AP
+  branch: gh-pages
+  pdfs:
+    in_source_dir: true
 # Fork von BenediktSan/AnfaengerPraktikum2020
 # - name: NiklasD/AnfaengerPraktikum2020
 - name: nsalewski/laboratory
