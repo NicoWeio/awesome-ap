@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/chris-topher6/Anfaenger-Praktikum)
 
-Letzter Commit: 05.06.2021 15:01:11
+Letzter Commit: 06.06.2021 18:34:15
 
 ## Autoren
 - [chris-topher6](https://github.com/chris-topher6)
@@ -15,6 +15,7 @@ Letzter Commit: 05.06.2021 15:01:11
 |[106](../versuch/106)|[V106](https://github.com/chris-topher6/Anfaenger-Praktikum/tree/master/V106)|–   |
 |[203](../versuch/203)|[V203](https://github.com/chris-topher6/Anfaenger-Praktikum/tree/master/V203)|–   |
 |[206](../versuch/206)|[D206](https://github.com/chris-topher6/Anfaenger-Praktikum/tree/master/D206)|–   |
+|[302](../versuch/302)|[V302](https://github.com/chris-topher6/Anfaenger-Praktikum/tree/master/V302)|–   |
 |[311](../versuch/311)|[V311](https://github.com/chris-topher6/Anfaenger-Praktikum/tree/master/V311)|–   |
 |[354](../versuch/354)|[V354](https://github.com/chris-topher6/Anfaenger-Praktikum/tree/master/V354)|–   |
 |[400](../versuch/400)|[V400](https://github.com/chris-topher6/Anfaenger-Praktikum/tree/master/V400)|–   |
