@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/NicoWeio/AP)
 
-Letzter Commit: 04.06.2021 16:36:16
+Letzter Commit: 07.06.2021 12:47:48
 
 ## Autoren
 - [NicoWeio](https://github.com/NicoWeio)
@@ -13,6 +13,7 @@ Letzter Commit: 04.06.2021 16:36:16
 |       Versuch       |                                                                      Ordner                                                                       |                                                                                 PDFs                                                                                 |
 |---------------------|---------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |[103](../versuch/103)|[V103_Biegung_elastischer_Staebe](https://github.com/NicoWeio/AP/tree/gh-pages/V103_Biegung_elastischer_Staebe)                                    |[main.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/NicoWeio/AP/gh-pages/V103_Biegung_elastischer_Staebe/build/main.pdf)                  |
+|[106](../versuch/106)|[V106_Gekoppelte_Pendel](https://github.com/NicoWeio/AP/tree/gh-pages/V106_Gekoppelte_Pendel)                                                      |[main.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/NicoWeio/AP/gh-pages/V106_Gekoppelte_Pendel/build/main.pdf)                           |
 |[204](../versuch/204)|[V204_Waermeleitung](https://github.com/NicoWeio/AP/tree/gh-pages/V204_Waermeleitung)                                                              |[main.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/NicoWeio/AP/gh-pages/V204_Waermeleitung/build/main.pdf)                               |
 |[206](../versuch/206)|[D206_Waermepumpe](https://github.com/NicoWeio/AP/tree/gh-pages/D206_Waermepumpe)                                                                  |[main.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/NicoWeio/AP/gh-pages/D206_Waermepumpe/build/main.pdf)                                 |
 |[302](../versuch/302)|[V302_Brueckenschaltung](https://github.com/NicoWeio/AP/tree/gh-pages/V302_Brueckenschaltung)                                                      |[main.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/NicoWeio/AP/gh-pages/V302_Brueckenschaltung/build/main.pdf)                           |
