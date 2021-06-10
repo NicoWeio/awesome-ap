@@ -76,14 +76,14 @@
 |[komrozik](https://github.com/komrozik/AP2019)                                  |[Übersicht](repo/komrozik)           |02.05.2021 15:27:33|        16|
 |[LarsKolk](https://github.com/LarsKolk/Anfaengerpraktikum)                      |[Übersicht](repo/LarsKolk)           |11.08.2018 16:09:33|        23|
 |[lassestern](https://github.com/lassestern/praktikum-david-lasse)               |[Übersicht](repo/lassestern)         |24.07.2020 22:21:57|         6|
-|[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)         |[Übersicht](repo/LiigaSoolane)       |08.06.2021 19:37:52|        15|
+|[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)         |[Übersicht](repo/LiigaSoolane)       |09.06.2021 09:25:43|        15|
 |[LuckyJosh](https://github.com/LuckyJosh/APPhysik)                              |[Übersicht](repo/LuckyJosh)          |08.07.2014 19:22:20|        13|
 |[MagischeMiesmuschel](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)|[Übersicht](repo/MagischeMiesmuschel)|20.08.2018 09:40:55|        23|
 |[Mampfzwerg](https://github.com/Mampfzwerg/Praktikum)                           |[Übersicht](repo/Mampfzwerg)         |22.06.2019 00:18:30|        23|
-|[moritzbo](https://github.com/moritzbo/anfaenger_praktikum)                     |[Übersicht](repo/moritzbo)           |08.06.2021 18:53:52|        14|
+|[moritzbo](https://github.com/moritzbo/anfaenger_praktikum)                     |[Übersicht](repo/moritzbo)           |09.06.2021 18:05:49|        14|
 |[mwindau](https://github.com/mwindau/praktikum)                                 |[Übersicht](repo/mwindau)            |10.07.2017 19:33:32|        21|
 |[NicoJG](https://github.com/NicoJG/Anfaengerpraktikum)                          |[Übersicht](repo/NicoJG)             |04.08.2020 12:33:58|        21|
-|[NicoWeio](https://github.com/NicoWeio/AP)                                      |[Übersicht](repo/NicoWeio)           |07.06.2021 12:47:48|        14|
+|[NicoWeio](https://github.com/NicoWeio/AP)                                      |[Übersicht](repo/NicoWeio)           |09.06.2021 13:15:08|        14|
 |[nsalewski](https://github.com/nsalewski/laboratory)                            |[Übersicht](repo/nsalewski)          |23.07.2018 07:32:48|        23|
 |[pascalgutjahr](https://github.com/pascalgutjahr/Praktikum-1)                   |[Übersicht](repo/pascalgutjahr)      |08.04.2019 18:36:29|         5|
 |[paul-stoerbrock](https://github.com/paul-stoerbrock/Praktikum)                 |[Übersicht](repo/paul-stoerbrock)    |17.07.2020 15:53:36|        18|
