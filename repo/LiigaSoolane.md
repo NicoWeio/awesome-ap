@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)
 
-Letzter Commit: 09.06.2021 09:25:43
+Letzter Commit: 10.06.2021 23:02:43
 
 ## Autoren
 - [FreddieMercury534](https://github.com/FreddieMercury534)
@@ -16,6 +16,7 @@ Letzter Commit: 09.06.2021 09:25:43
 |[106](../versuch/106)|[V106_GekoppeltePendel](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V106_GekoppeltePendel)                                                                                                             |–   |
 |[203](../versuch/203)|[V203_Verdampfungswärme](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V203_Verdampfungsw%C3%A4rme)                                                                                                      |–   |
 |[206](../versuch/206)|[D206_Wärmepumpe](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/D206_W%C3%A4rmepumpe)                                                                                                                    |–   |
+|[302](../versuch/302)|[V302_Brückenschaltungen](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V302_Br%C3%BCckenschaltungen)                                                                                                    |–   |
 |[311](../versuch/311)|[V311_Hall-Effekt](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V311_Hall-Effekt)                                                                                                                       |–   |
 |[353](../versuch/353)|[V353 RC-Kreis](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V353%20RC-Kreis)                                                                                                                           |–   |
 |[354](../versuch/354)|[V354_Schwingungen](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V354_Schwingungen)                                                                                                                     |–   |
