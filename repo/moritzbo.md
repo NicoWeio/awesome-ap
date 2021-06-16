@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/moritzbo/anfaenger_praktikum)
 
-Letzter Commit: 09.06.2021 18:05:49
+Letzter Commit: 15.06.2021 18:18:11
 
 ## Autoren
 - [moritzbo](https://github.com/moritzbo)
@@ -21,6 +21,7 @@ Letzter Commit: 09.06.2021 18:05:49
 |[353](../versuch/353)|[V353-RC](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V353-RC)                                                                   |–   |
 |[400](../versuch/400)|[V400](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V400)                                                                         |–   |
 |[406](../versuch/406)|[V406-Beugung](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V406-Beugung)                                                         |–   |
+|[500](../versuch/500)|[V500-Photoeffekt](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V500-Photoeffekt)                                                 |–   |
 |[602](../versuch/602)|[V602-Röntgenemission und -absorption](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V602-R%C3%B6ntgenemission%20und%20-absorption)|–   |
 |[603](../versuch/603)|[V603-Compton](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V603-Compton)                                                         |–   |
 |[606](../versuch/606)|[V606wermachtPARA](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V606wermachtPARA)                                                 |–   |
