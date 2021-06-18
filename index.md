@@ -23,7 +23,7 @@
 |    207|[Übersicht](versuch/207)|    6|
 |    301|[Übersicht](versuch/301)|   14|
 |    302|[Übersicht](versuch/302)|   22|
-|    303|[Übersicht](versuch/303)|   16|
+|    303|[Übersicht](versuch/303)|   17|
 |    308|[Übersicht](versuch/308)|    6|
 |    311|[Übersicht](versuch/311)|   11|
 |    351|[Übersicht](versuch/351)|   13|
@@ -62,9 +62,9 @@
 
 |                                    Repo von                                    |                                     |  Letzter Commit   |# Versuche|
 |--------------------------------------------------------------------------------|-------------------------------------|-------------------|---------:|
-|[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |15.06.2021 10:14:54|        19|
+|[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |17.06.2021 12:35:47|        19|
 |[chrbeckm](https://github.com/chrbeckm/anfaenger-praktikum)                     |[Übersicht](repo/chrbeckm)           |09.11.2019 16:04:46|        20|
-|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |16.06.2021 20:23:42|        16|
+|[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |17.06.2021 17:38:48|        16|
 |[dagbjoern](https://github.com/dagbjoern/AP-Physik)                             |[Übersicht](repo/dagbjoern)          |12.07.2016 09:19:16|        22|
 |[dlmsr](https://github.com/dlmsr/praktikum)                                     |[Übersicht](repo/dlmsr)              |12.03.2020 11:10:24|        26|
 |[dormail](https://github.com/dormail/ap)                                        |[Übersicht](repo/dormail)            |16.06.2021 06:44:18|        14|
@@ -98,10 +98,10 @@
 |[stefangri](https://github.com/stefangri/s_s_productions)                       |[Übersicht](repo/stefangri)          |05.02.2018 06:01:44|        21|
 |[Tahirbanane](https://github.com/Tahirbanane/AP)                                |[Übersicht](repo/Tahirbanane)        |08.06.2021 21:44:10|        15|
 |[woklop9](https://github.com/woklop9/Anfaengerpraktikum)                        |[Übersicht](repo/woklop9)            |11.07.2018 07:44:51|        19|
-|[YanickKi](https://github.com/YanickKi/AP_T_Y)                                  |[Übersicht](repo/YanickKi)           |10.06.2021 13:13:24|        16|
+|[YanickKi](https://github.com/YanickKi/AP_T_Y)                                  |[Übersicht](repo/YanickKi)           |17.06.2021 21:33:37|        17|
 
 
 ## Statistiken
 - **37** Repos
 - **52** Versuche
-- **641** Protokolle
+- **642** Protokolle
