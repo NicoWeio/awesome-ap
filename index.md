@@ -62,7 +62,7 @@
 
 |                                    Repo von                                    |                                     |  Letzter Commit   |# Versuche|
 |--------------------------------------------------------------------------------|-------------------------------------|-------------------|---------:|
-|[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |17.06.2021 12:35:47|        19|
+|[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |18.06.2021 22:39:45|        19|
 |[chrbeckm](https://github.com/chrbeckm/anfaenger-praktikum)                     |[Übersicht](repo/chrbeckm)           |09.11.2019 16:04:46|        20|
 |[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |17.06.2021 17:38:48|        16|
 |[dagbjoern](https://github.com/dagbjoern/AP-Physik)                             |[Übersicht](repo/dagbjoern)          |12.07.2016 09:19:16|        22|
@@ -83,7 +83,7 @@
 |[moritzbo](https://github.com/moritzbo/anfaenger_praktikum)                     |[Übersicht](repo/moritzbo)           |16.06.2021 16:07:30|        15|
 |[mwindau](https://github.com/mwindau/praktikum)                                 |[Übersicht](repo/mwindau)            |10.07.2017 19:33:32|        21|
 |[NicoJG](https://github.com/NicoJG/Anfaengerpraktikum)                          |[Übersicht](repo/NicoJG)             |04.08.2020 12:33:58|        21|
-|[NicoWeio](https://github.com/NicoWeio/AP)                                      |[Übersicht](repo/NicoWeio)           |14.06.2021 16:15:40|        15|
+|[NicoWeio](https://github.com/NicoWeio/AP)                                      |[Übersicht](repo/NicoWeio)           |18.06.2021 16:13:16|        15|
 |[nsalewski](https://github.com/nsalewski/laboratory)                            |[Übersicht](repo/nsalewski)          |23.07.2018 07:32:48|        23|
 |[pascalgutjahr](https://github.com/pascalgutjahr/Praktikum-1)                   |[Übersicht](repo/pascalgutjahr)      |08.04.2019 18:36:29|         5|
 |[paul-stoerbrock](https://github.com/paul-stoerbrock/Praktikum)                 |[Übersicht](repo/paul-stoerbrock)    |17.07.2020 15:53:36|        18|
@@ -96,7 +96,7 @@
 |[smjhnits](https://github.com/smjhnits/Praktikum_TU_D_16-17)                    |[Übersicht](repo/smjhnits)           |30.01.2019 12:22:48|        21|
 |[smjolame](https://github.com/smjolame/Praktikum_1)                             |[Übersicht](repo/smjolame)           |11.04.2021 11:36:04|        18|
 |[stefangri](https://github.com/stefangri/s_s_productions)                       |[Übersicht](repo/stefangri)          |05.02.2018 06:01:44|        21|
-|[Tahirbanane](https://github.com/Tahirbanane/AP)                                |[Übersicht](repo/Tahirbanane)        |08.06.2021 21:44:10|        15|
+|[Tahirbanane](https://github.com/Tahirbanane/AP)                                |[Übersicht](repo/Tahirbanane)        |18.06.2021 23:30:14|        15|
 |[woklop9](https://github.com/woklop9/Anfaengerpraktikum)                        |[Übersicht](repo/woklop9)            |11.07.2018 07:44:51|        19|
 |[YanickKi](https://github.com/YanickKi/AP_T_Y)                                  |[Übersicht](repo/YanickKi)           |17.06.2021 21:33:37|        17|
 
