@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)
 
-Letzter Commit: 19.06.2021 10:12:52
+Letzter Commit: 21.06.2021 01:39:04
 
 ## Autoren
 - [FreddieMercury534](https://github.com/FreddieMercury534)
@@ -23,6 +23,7 @@ Letzter Commit: 19.06.2021 10:12:52
 |[354](../versuch/354)|[V354_Schwingungen](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V354_Schwingungen)                                                                                                                     |–   |
 |[400](../versuch/400)|[V400_ReflexionBrechungBeugung](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V400_ReflexionBrechungBeugung)                                                                                             |–   |
 |[406](../versuch/406)|[V406_Beugung](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V406_Beugung)                                                                                                                               |–   |
+|[500](../versuch/500)|[V500_Photoeffekt](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V500_Photoeffekt)                                                                                                                       |–   |
 |[601](../versuch/601)|[V601](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V601)                                                                                                                                               |–   |
 |[602](../versuch/602)|[V602 Röntgenemission](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V602%20R%C3%B6ntgenemission)<br/>[V602_Röntgen](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V602_R%C3%B6ntgen)|–   |
 |[603](../versuch/603)|[V603_ComptonEffekt](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V603_ComptonEffekt)                                                                                                                   |–   |
