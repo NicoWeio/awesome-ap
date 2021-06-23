@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/moritzbo/anfaenger_praktikum)
 
-Letzter Commit: 16.06.2021 16:07:30
+Letzter Commit: 22.06.2021 19:59:37
 
 ## Autoren
 - [moritzbo](https://github.com/moritzbo)
@@ -26,4 +26,5 @@ Letzter Commit: 16.06.2021 16:07:30
 |[603](../versuch/603)|[V603-Compton](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V603-Compton)                                                         |–   |
 |[606](../versuch/606)|[V606wermachtPARA](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V606wermachtPARA)                                                 |–   |
 |[702](../versuch/702)|[V702 Aktivierung mit Neutronen](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V702%20Aktivierung%20mit%20Neutronen)               |–   |
+|[901](../versuch/901)|[US1](https://github.com/moritzbo/anfaenger_praktikum/tree/main/US1)                                                                           |–   |
 |[903](../versuch/903)|[US3](https://github.com/moritzbo/anfaenger_praktikum/tree/main/US3)                                                                           |–   |
