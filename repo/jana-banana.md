@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/jana-banana/AP-2020)
 
-Letzter Commit: 27.06.2021 11:50:32
+Letzter Commit: 28.06.2021 15:31:30
 
 ## Autoren
 - [jana-banana](https://github.com/jana-banana)
@@ -10,8 +10,8 @@ Letzter Commit: 27.06.2021 11:50:32
 
 ## Versuche
 
-|       Versuch       |                           Ordner                            |PDFs|
-|---------------------|-------------------------------------------------------------|----|
-|[400](../versuch/400)|[V400](https://github.com/jana-banana/AP-2020/tree/main/V400)|–   |
-|[601](../versuch/601)|[V601](https://github.com/jana-banana/AP-2020/tree/main/V601)|–   |
-|[603](../versuch/603)|[V603](https://github.com/jana-banana/AP-2020/tree/main/V603)|–   |
+|       Versuch       |                           Ordner                            |                                                            PDFs                                                             |
+|---------------------|-------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|
+|[400](../versuch/400)|[V400](https://github.com/jana-banana/AP-2020/tree/main/V400)|–                                                                                                                            |
+|[601](../versuch/601)|[V601](https://github.com/jana-banana/AP-2020/tree/main/V601)|[main.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jana-banana/AP-2020/main/V601/build/main.pdf)|
+|[603](../versuch/603)|[V603](https://github.com/jana-banana/AP-2020/tree/main/V603)|–                                                                                                                            |
