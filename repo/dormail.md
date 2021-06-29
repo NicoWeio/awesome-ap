@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/dormail/ap)
 
-Letzter Commit: 27.06.2021 07:06:14
+Letzter Commit: 28.06.2021 19:54:52
 
 ## Autoren
 - [dormail](https://github.com/dormail)
@@ -13,6 +13,7 @@ Letzter Commit: 27.06.2021 07:06:14
 |       Versuch       |                       Ordner                       |PDFs|
 |---------------------|----------------------------------------------------|----|
 |[103](../versuch/103)|[V103](https://github.com/dormail/ap/tree/main/V103)|–   |
+|[106](../versuch/106)|[V106](https://github.com/dormail/ap/tree/main/V106)|–   |
 |[203](../versuch/203)|[V203](https://github.com/dormail/ap/tree/main/V203)|–   |
 |[206](../versuch/206)|[D206](https://github.com/dormail/ap/tree/main/D206)|–   |
 |[302](../versuch/302)|[V302](https://github.com/dormail/ap/tree/main/V302)|–   |

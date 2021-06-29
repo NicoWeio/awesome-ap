@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/NicoWeio/AP)
 
-Letzter Commit: 26.06.2021 15:52:24
+Letzter Commit: 28.06.2021 10:04:09
 
 ## Autoren
 - [NicoWeio](https://github.com/NicoWeio)
@@ -22,6 +22,7 @@ Letzter Commit: 26.06.2021 15:52:24
 |[401](../versuch/401)|[V401_Michelson_Interferometer](https://github.com/NicoWeio/AP/tree/gh-pages/V401_Michelson_Interferometer)                                                                                                        |[main.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/NicoWeio/AP/gh-pages/V401_Michelson_Interferometer/build/main.pdf)                                                        |
 |[500](../versuch/500)|[V500_Photoeffekt](https://github.com/NicoWeio/AP/tree/gh-pages/V500_Photoeffekt)                                                                                                                                  |[main.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/NicoWeio/AP/gh-pages/V500_Photoeffekt/build/main.pdf)                                                                     |
 |[501](../versuch/501)|[V501_V502_Ablenkung_eines_Elektronenstrahls_im_elektrischen∕magnetischen_Feld](https://github.com/NicoWeio/AP/tree/gh-pages/V501_V502_Ablenkung_eines_Elektronenstrahls_im_elektrischen%E2%88%95magnetischen_Feld)|[main.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/NicoWeio/AP/gh-pages/V501_V502_Ablenkung_eines_Elektronenstrahls_im_elektrischen%E2%88%95magnetischen_Feld/build/main.pdf)|
+|[601](../versuch/601)|[V601_Franck_Hertz_Versuch](https://github.com/NicoWeio/AP/tree/gh-pages/V601_Franck_Hertz_Versuch)                                                                                                                |[main.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/NicoWeio/AP/gh-pages/V601_Franck_Hertz_Versuch/build/main.pdf)                                                            |
 |[602](../versuch/602)|[D602_Roentgenemission_und_Absorption](https://github.com/NicoWeio/AP/tree/gh-pages/D602_Roentgenemission_und_Absorption)                                                                                          |[main.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/NicoWeio/AP/gh-pages/D602_Roentgenemission_und_Absorption/build/main.pdf)                                                 |
 |[603](../versuch/603)|[D603_Compton_Effekt](https://github.com/NicoWeio/AP/tree/gh-pages/D603_Compton_Effekt)                                                                                                                            |[main.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/NicoWeio/AP/gh-pages/D603_Compton_Effekt/build/main.pdf)                                                                  |
 |[606](../versuch/606)|[V606_Suszeptibilitaet_paramagnetischer_Substanzen](https://github.com/NicoWeio/AP/tree/gh-pages/V606_Suszeptibilitaet_paramagnetischer_Substanzen)                                                                |[main.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/NicoWeio/AP/gh-pages/V606_Suszeptibilitaet_paramagnetischer_Substanzen/build/main.pdf)                                    |
