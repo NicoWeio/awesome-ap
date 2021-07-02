@@ -62,7 +62,7 @@
 
 |                                    Repo von                                    |                                     |  Letzter Commit   |# Versuche|
 |--------------------------------------------------------------------------------|-------------------------------------|-------------------|---------:|
-|[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |29.06.2021 18:30:55|        19|
+|[BenediktSan](https://github.com/BenediktSan/AnfaengerPraktikum2020)            |[Übersicht](repo/BenediktSan)        |01.07.2021 14:47:09|        19|
 |[chrbeckm](https://github.com/chrbeckm/anfaenger-praktikum)                     |[Übersicht](repo/chrbeckm)           |09.11.2019 16:04:46|        20|
 |[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |30.06.2021 21:24:58|        17|
 |[dagbjoern](https://github.com/dagbjoern/AP-Physik)                             |[Übersicht](repo/dagbjoern)          |12.07.2016 09:19:16|        22|
@@ -76,7 +76,7 @@
 |[komrozik](https://github.com/komrozik/AP2019)                                  |[Übersicht](repo/komrozik)           |02.05.2021 15:27:33|        16|
 |[LarsKolk](https://github.com/LarsKolk/Anfaengerpraktikum)                      |[Übersicht](repo/LarsKolk)           |11.08.2018 16:09:33|        23|
 |[lassestern](https://github.com/lassestern/praktikum-david-lasse)               |[Übersicht](repo/lassestern)         |24.07.2020 22:21:57|         6|
-|[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)         |[Übersicht](repo/LiigaSoolane)       |29.06.2021 16:57:36|        18|
+|[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)         |[Übersicht](repo/LiigaSoolane)       |01.07.2021 20:28:00|        18|
 |[LuckyJosh](https://github.com/LuckyJosh/APPhysik)                              |[Übersicht](repo/LuckyJosh)          |08.07.2014 19:22:20|        13|
 |[MagischeMiesmuschel](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)|[Übersicht](repo/MagischeMiesmuschel)|20.08.2018 09:40:55|        23|
 |[Mampfzwerg](https://github.com/Mampfzwerg/Praktikum)                           |[Übersicht](repo/Mampfzwerg)         |22.06.2019 00:18:30|        23|
