@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)
 
-Letzter Commit: 01.07.2021 20:28:00
+Letzter Commit: 02.07.2021 17:02:25
 
 ## Autoren
 - [FreddieMercury534](https://github.com/FreddieMercury534)
@@ -13,6 +13,7 @@ Letzter Commit: 01.07.2021 20:28:00
 
 |       Versuch       |                                                                                                           Ordner                                                                                                            |PDFs|
 |---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
+|[103](../versuch/103)|[V103_Biegung elastischer Stäbe](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V103_Biegung%20elastischer%20St%C3%A4be)                                                                                  |–   |
 |[106](../versuch/106)|[V106_GekoppeltePendel](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V106_GekoppeltePendel)                                                                                                             |–   |
 |[203](../versuch/203)|[V203_Verdampfungswärme](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V203_Verdampfungsw%C3%A4rme)                                                                                                      |–   |
 |[204](../versuch/204)|[V204_Wärmeleitung](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel/tree/main/V204_W%C3%A4rmeleitung)                                                                                                                |–   |
