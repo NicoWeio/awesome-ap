@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/YanickKi/AP_T_Y)
 
-Letzter Commit: 28.06.2021 19:47:07
+Letzter Commit: 02.07.2021 11:17:11
 
 ## Autoren
 - [YanickKi](https://github.com/YanickKi)
@@ -24,6 +24,7 @@ Letzter Commit: 28.06.2021 19:47:07
 |[401](../versuch/401)|[V401](https://github.com/YanickKi/AP_T_Y/tree/main/V401)                    |–   |
 |[406](../versuch/406)|[v406](https://github.com/YanickKi/AP_T_Y/tree/main/v406)                    |–   |
 |[504](../versuch/504)|[v504](https://github.com/YanickKi/AP_T_Y/tree/main/v504)                    |–   |
+|[601](../versuch/601)|[v601](https://github.com/YanickKi/AP_T_Y/tree/main/v601)                    |–   |
 |[602](../versuch/602)|[V602](https://github.com/YanickKi/AP_T_Y/tree/main/V602)                    |–   |
 |[603](../versuch/603)|[v603](https://github.com/YanickKi/AP_T_Y/tree/main/v603)                    |–   |
 |[606](../versuch/606)|[v606](https://github.com/YanickKi/AP_T_Y/tree/main/v606)                    |–   |
