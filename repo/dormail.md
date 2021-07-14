@@ -2,7 +2,7 @@
 
 ## [zum Repo auf GitHub](https://github.com/dormail/ap)
 
-Letzter Commit: 12.07.2021 21:50:14
+Letzter Commit: 13.07.2021 14:54:03
 
 ## Autoren
 - [dormail](https://github.com/dormail)
@@ -23,6 +23,7 @@ Letzter Commit: 12.07.2021 21:50:14
 |[400](../versuch/400)|[V400](https://github.com/dormail/ap/tree/main/V400)|–   |
 |[401](../versuch/401)|[V401](https://github.com/dormail/ap/tree/main/V401)|–   |
 |[500](../versuch/500)|[V500](https://github.com/dormail/ap/tree/main/V500)|–   |
+|[601](../versuch/601)|[V601](https://github.com/dormail/ap/tree/main/V601)|–   |
 |[602](../versuch/602)|[V602](https://github.com/dormail/ap/tree/main/V602)|–   |
 |[603](../versuch/603)|[V603](https://github.com/dormail/ap/tree/main/V603)|–   |
 |[606](../versuch/606)|[V606](https://github.com/dormail/ap/tree/main/V606)|–   |

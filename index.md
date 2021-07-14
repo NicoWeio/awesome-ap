@@ -41,7 +41,7 @@
 |    502|[Übersicht](versuch/502)|    2|
 |    503|[Übersicht](versuch/503)|    6|
 |    504|[Übersicht](versuch/504)|   15|
-|    601|[Übersicht](versuch/601)|   23|
+|    601|[Übersicht](versuch/601)|   24|
 |    602|[Übersicht](versuch/602)|   25|
 |    603|[Übersicht](versuch/603)|   12|
 |    605|[Übersicht](versuch/605)|    4|
@@ -67,7 +67,7 @@
 |[chris-topher6](https://github.com/chris-topher6/Anfaenger-Praktikum)           |[Übersicht](repo/chris-topher6)      |06.07.2021 17:55:23|        18|
 |[dagbjoern](https://github.com/dagbjoern/AP-Physik)                             |[Übersicht](repo/dagbjoern)          |12.07.2016 09:19:16|        22|
 |[dlmsr](https://github.com/dlmsr/praktikum)                                     |[Übersicht](repo/dlmsr)              |12.03.2020 11:10:24|        26|
-|[dormail](https://github.com/dormail/ap)                                        |[Übersicht](repo/dormail)            |12.07.2021 21:50:14|        17|
+|[dormail](https://github.com/dormail/ap)                                        |[Übersicht](repo/dormail)            |13.07.2021 14:54:03|        18|
 |[Fresoquark](https://github.com/Fresoquark/Anfaengerpraktikum)                  |[Übersicht](repo/Fresoquark)         |08.07.2018 16:41:54|        12|
 |[HelenaCarlArne](https://github.com/HelenaCarlArne/ProtokolleAP)                |[Übersicht](repo/HelenaCarlArne)     |18.09.2015 09:14:52|        21|
 |[jana-banana](https://github.com/jana-banana/AP-2020)                           |[Übersicht](repo/jana-banana)        |04.07.2021 20:26:03|         3|
@@ -103,4 +103,4 @@
 ## Statistiken
 - **36** Repos
 - **52** Versuche
-- **638** Protokolle
+- **639** Protokolle
