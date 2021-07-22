@@ -31,7 +31,7 @@
 |    354|[Übersicht](versuch/354)|   24|
 |    355|[Übersicht](versuch/355)|   11|
 |    356|[Übersicht](versuch/356)|    4|
-|    400|[Übersicht](versuch/400)|    9|
+|    400|[Übersicht](versuch/400)|    8|
 |    401|[Übersicht](versuch/401)|   16|
 |    402|[Übersicht](versuch/402)|    9|
 |    406|[Übersicht](versuch/406)|   22|
@@ -41,9 +41,9 @@
 |    502|[Übersicht](versuch/502)|    2|
 |    503|[Übersicht](versuch/503)|    6|
 |    504|[Übersicht](versuch/504)|   15|
-|    601|[Übersicht](versuch/601)|   24|
+|    601|[Übersicht](versuch/601)|   23|
 |    602|[Übersicht](versuch/602)|   25|
-|    603|[Übersicht](versuch/603)|   12|
+|    603|[Übersicht](versuch/603)|   11|
 |    605|[Übersicht](versuch/605)|    4|
 |    606|[Übersicht](versuch/606)|   14|
 |    701|[Übersicht](versuch/701)|   10|
@@ -70,7 +70,7 @@
 |[dormail](https://github.com/dormail/ap)                                        |[Übersicht](repo/dormail)            |15.07.2021 06:59:00|        18|
 |[Fresoquark](https://github.com/Fresoquark/Anfaengerpraktikum)                  |[Übersicht](repo/Fresoquark)         |08.07.2018 16:41:54|        12|
 |[HelenaCarlArne](https://github.com/HelenaCarlArne/ProtokolleAP)                |[Übersicht](repo/HelenaCarlArne)     |18.09.2015 09:14:52|        21|
-|[jana-banana](https://github.com/jana-banana/AP-2020)                           |[Übersicht](repo/jana-banana)        |04.07.2021 20:26:03|         3|
+|[jana-banana](https://github.com/jana-banana/AP-2020)                           |[Übersicht](repo/jana-banana)        |21.07.2021 21:12:22|         0|
 |[Jean1995](https://github.com/Jean1995/Praktikum)                               |[Übersicht](repo/Jean1995)           |01.11.2016 19:09:38|        23|
 |[JLammering](https://github.com/JLammering/Physikalisches-Praktikum)            |[Übersicht](repo/JLammering)         |03.10.2016 20:42:54|        14|
 |[komrozik](https://github.com/komrozik/AP2019)                                  |[Übersicht](repo/komrozik)           |02.05.2021 15:27:33|        16|
@@ -103,4 +103,4 @@
 ## Statistiken
 - **36** Repos
 - **52** Versuche
-- **639** Protokolle
+- **636** Protokolle
