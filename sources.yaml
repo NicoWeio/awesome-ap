@@ -22,6 +22,7 @@
 - name: Fresoquark/Anfaengerpraktikum
 - name: HelenaCarlArne/ProtokolleAP
 - name: jana-banana/AP-2020
+  subdirectory: we did that
   pdfs:
     in_source_dir: true
 - name: Jean1995/Praktikum
