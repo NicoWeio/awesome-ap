@@ -21,7 +21,13 @@ def fmt_pdf(pdf):
     return f"[{pdf.name}](https://docs.google.com/viewer?url={pdf.download_url})" if pdf else '–'
 
 def fmt_content(c):
-    return f"[{c.name}]({c.html_url})" if c else '–'
+    from pathlib import Path
+    assert isinstance(c, Path)
+    html_url = content_url("CHR", "PRAKT", c)
+    return f"[{c.name}]({html_url})" if c else '–'
+
+def content_url(username, repo_name, path):
+    return f"https://github.com/{username}/{repo_name}/tree/master/{path}"
 
 def generate_md(repos_to_versuche, versuche_to_repos):
     os.makedirs('build/versuch', exist_ok=True)

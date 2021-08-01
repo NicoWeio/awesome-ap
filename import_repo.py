@@ -7,7 +7,7 @@ def getLastCommit(repo):
     dates = [b.commit.commit.author.date for b in branches]
     return sorted(dates)[-1]
 
-def getVersuchNummer(dirname, dirs_to_versuche=None):
+def parseVersuchNummer(dirname, dirs_to_versuche=None):
     if dirname in (dirs_to_versuche or []):
         return dirs_to_versuche[dirname]
     if not dirname:
@@ -23,19 +23,25 @@ def getVersuchNummer(dirname, dirs_to_versuche=None):
     if s:
         return int(s.group(1))
 
-def getVersuchNummerAdvanced(dir, dirs_to_versuche, repo, ref=None):
-    basic_result = getVersuchNummer(dir.name, dirs_to_versuche)
+def getVersuchNummerAdvanced(dir, dirs_to_versuche, ref=None):
+    print(f"{dir=}")
+    basic_result = parseVersuchNummer(dir.name, dirs_to_versuche)
     if basic_result:
-        return basic_result
+        # return basic_result
+        pass
     try:
-        main_tex_content = repo.get_contents(dir.path + '/main.tex', ref=ref).decoded_content.decode()
+        main_tex_files = list(dir.rglob('main.tex'))
+        print(f"{ main_tex_files=}")
+        assert len(main_tex_files) == 1
+        with open(main_tex_files[0], 'r') as f:
+            main_tex_content = f.read()
         search_result = re.search(r'\\subject{(.*)}', main_tex_content)
         raw_num = search_result.group(1).strip() if search_result else None
-        num = getVersuchNummer(raw_num)
+        num = parseVersuchNummer(raw_num)
         if not num:
             print(f'cannot resolve "{raw_num}"')
         return num
-    except github.UnknownObjectException: # file not found
+    except AssertionError:
         pass
 
 def printable_files(files):
@@ -65,24 +71,36 @@ def find_pdfs(base_dir, num, repo, ref=None):
                 return result
 
 def import_repo(source, gh):
-    repo = gh.get_repo(source['name'])
-    print(f"+++ [link={repo.html_url}]{source['name']}[/link]: ")
-    branches = repo.get_branches()
-    ref = source.get('branch', github.GithubObject.NotSet)
-    if branches.totalCount > 1 and source.get('branch'):
-        print(f"[yellow]Found multiple branches: {', '.join(b.name for b in branches)}[/yellow]")
+    import subprocess
+    import os.path
+    from pathlib import Path
+    print("→ ", source['name'])
+    gh_repo = gh.get_repo(source['name'])
+    print(f"+++ [link={gh_repo.html_url}]{source['name']}[/link]: ")
+
+    # TODO: https://stackoverflow.com/a/34396983/6371758
+    # -c core.askPass=""
+    cwd = source['name'].replace('/', '∕')
+    cwd_path = Path(cwd)
+    if not os.path.exists(cwd):
+        print("Does not exist – cloning…")
+        subprocess.call(["git", "clone", "--depth", "1", "https://github.com/" + source['name'], cwd])
+    else:
+        print("Exists – pulling…")
+        subprocess.call(["git", "pull"], cwd=cwd)
+
 
     subdirs = source.get('subdirectory', '')
     if isinstance(subdirs, str):
         subdirs = [subdirs]
-    contents = []
+    dir_candidates = []
     for subdir in subdirs:
-        contents.extend(repo.get_contents(subdir, ref=ref))
-    dir_candidates = [c for c in contents if c.type == 'dir']
+        dir_candidates.extend([f.relative_to(cwd_path) for f in cwd_path.iterdir() if f.is_dir()])
+    print(f"{dir_candidates=}")
 
     versuche = dict()
     for dir in dir_candidates:
-        num = getVersuchNummerAdvanced(dir, source.get('dirs_to_versuche'), repo, ref=ref)
+        num = getVersuchNummerAdvanced(cwd_path / dir, source.get('dirs_to_versuche'))
         if not num:
             continue
         elif num in versuche:
@@ -98,7 +116,7 @@ def import_repo(source, gh):
             print("pdf_candidates:", printable_files(pdf_candidates))
 
             for pdf in pdf_candidates:
-                num = getVersuchNummer(pdf.name, source.get('dirs_to_versuche'))
+                num = parseVersuchNummer(pdf.name, source.get('dirs_to_versuche'))
                 if not num:
                     continue
                 elif num in versuche and 'pdfs' in versuche[num]:
@@ -119,9 +137,9 @@ def import_repo(source, gh):
                     else:
                         versuche.setdefault(num, {})['pdfs'] = pdfs
 
-    source['contributors'] = list(repo.get_contributors())
-    source['lastCommit'] = getLastCommit(repo)
-    source['repo'] = repo
+    source['contributors'] = list(gh_repo.get_contributors())
+    source['lastCommit'] = getLastCommit(gh_repo)
+    source['repo'] = gh_repo
     source['versuche'] = versuche
 
     print(
