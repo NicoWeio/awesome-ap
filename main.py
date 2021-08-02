@@ -10,9 +10,8 @@ import transpose
 load_dotenv()
 
 # funktioniert auch ohne Token
-# TOKEN = os.getenv('GITHUB_TOKEN') or os.getenv('INPUT_GITHUB_TOKEN')
-# gh = github.Github(TOKEN)
-gh = github.Github()
+TOKEN = os.getenv('GITHUB_TOKEN') or os.getenv('INPUT_GITHUB_TOKEN')
+gh = github.Github(TOKEN)
 
 with open("sources.yaml", 'r') as stream:
     sources = yaml.safe_load(stream)
@@ -28,9 +27,9 @@ for source in sources:
     #     # happens e.g. when a subdirectory from sources.yaml does not exist
     #     print("Something was not found – ignoring!")
 
-versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
+# versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
 
 ### Generieren der statischen Website-Inhalte:
-generate_md(repos_to_versuche, versuche_to_repos)
+# generate_md(repos_to_versuche, versuche_to_repos)
 
 print("Done! 🎉")

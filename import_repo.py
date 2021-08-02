@@ -24,14 +24,12 @@ def parseVersuchNummer(dirname, dirs_to_versuche=None):
         return int(s.group(1))
 
 def getVersuchNummerAdvanced(dir, dirs_to_versuche, ref=None):
-    print(f"{dir=}")
     basic_result = parseVersuchNummer(dir.name, dirs_to_versuche)
     if basic_result:
         # return basic_result
         pass
     try:
         main_tex_files = list(dir.rglob('main.tex'))
-        print(f"{ main_tex_files=}")
         assert len(main_tex_files) == 1
         with open(main_tex_files[0], 'r') as f:
             main_tex_content = f.read()
@@ -45,15 +43,16 @@ def getVersuchNummerAdvanced(dir, dirs_to_versuche, ref=None):
         pass
 
 def printable_files(files):
-    return ', '.join([f'[link={f.html_url}]{f.name}[/link]' for f in files])
+    # return ', '.join([f'[link={f.html_url}]{f.name}[/link]' for f in files])
+    return ', '.join([f'{f.name}' for f in files])
 
-def find_pdfs(base_dir, num, repo, ref=None):
+def find_pdfs(base_dir, num):
+    print(f"{base_dir=}")
     try:
-        contents = repo.get_contents(base_dir, ref=ref)
+        pdf_files_in_base = base_dir.glob('*.pdf')
     except github.UnknownObjectException as e: # file not found
         print(f'[yellow]Not found: {base_dir=}, {ref=}[/yellow]')
         return
-    pdf_files_in_base = [c for c in contents if c.type == 'file' and c.name.endswith('.pdf')]
     RE_VALID_NAMES = rf'(abgabe|korrektur|main|protokoll|[VD]?[._\s]*{num})(.*)\.pdf'
     # RE_INVALID_NAMES = rf'(graph|plot)(.*)\.pdf'
     pdf_matches = [f for f in pdf_files_in_base if re.search(RE_VALID_NAMES, f.name, re.IGNORECASE)]
@@ -63,10 +62,10 @@ def find_pdfs(base_dir, num, repo, ref=None):
         return pdf_matches
     else:
         VALID_SUBDIR_NAMES = ['build', 'latex-template']
-        subdirs = [c for c in contents if c.type == 'dir' and c.name in VALID_SUBDIR_NAMES]
+        subdirs = [c for c in base_dir.iterdir() if c.is_dir() and c.name in VALID_SUBDIR_NAMES]
         for subdir in subdirs:
-            print("Recursing into", subdir.path)
-            result = find_pdfs(subdir.path, num, repo, ref=ref)
+            print("Recursing into", subdir)
+            result = find_pdfs(subdir, num)
             if result:
                 return result
 
@@ -80,14 +79,16 @@ def import_repo(source, gh):
 
     # TODO: https://stackoverflow.com/a/34396983/6371758
     # -c core.askPass=""
-    cwd = source['name'].replace('/', '∕')
-    cwd_path = Path(cwd)
-    if not os.path.exists(cwd):
+    cwd_path = Path('./REPOS') / source['name'].replace('/', '∕')
+    print(f"{cwd_path=}")
+    if not Path('./REPOS').exists():
+        Path('./REPOS').mkdir(exist_ok=True)
+    if not cwd_path.exists():
         print("Does not exist – cloning…")
-        subprocess.call(["git", "clone", "--depth", "1", "https://github.com/" + source['name'], cwd])
+        subprocess.call(["git", "clone", "--depth", "1", "https://github.com/" + source['name'], cwd_path])
     else:
         print("Exists – pulling…")
-        subprocess.call(["git", "pull"], cwd=cwd)
+        subprocess.call(["git", "pull"], cwd=cwd_path)
 
 
     subdirs = source.get('subdirectory', '')
@@ -96,7 +97,6 @@ def import_repo(source, gh):
     dir_candidates = []
     for subdir in subdirs:
         dir_candidates.extend([f.relative_to(cwd_path) for f in cwd_path.iterdir() if f.is_dir()])
-    print(f"{dir_candidates=}")
 
     versuche = dict()
     for dir in dir_candidates:
@@ -111,8 +111,7 @@ def import_repo(source, gh):
     if 'pdfs' in source:
         if 'directory' in source['pdfs']:
             print(f"[green]PDFs in \"{source['pdfs']['directory']}\"[/green]")
-            pdf_contents = repo.get_contents(source['pdfs']['directory'], ref=ref)
-            pdf_candidates = [c for c in pdf_contents if c.type == 'file' and c.name.endswith('.pdf')]
+            pdf_candidates = (cwd_path / source['pdfs']['directory']).rglob('*.pdf')
             print("pdf_candidates:", printable_files(pdf_candidates))
 
             for pdf in pdf_candidates:
@@ -129,7 +128,7 @@ def import_repo(source, gh):
             for num, v in versuche.items():
                 print("Checking", num)
                 for dir in v['dirs']:
-                    pdfs = find_pdfs(dir.path, num, repo, ref=ref)
+                    pdfs = find_pdfs(cwd_path / dir, num)
                     if not pdfs:
                         continue
                     elif num in versuche and 'pdfs' in versuche[num]:
