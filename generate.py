@@ -81,6 +81,8 @@ def generate_md(repos_to_versuche, versuche_to_repos):
         # out += f'Zuletzt aktualisiert: {now}\n'
         # out += f'\n\n'
 
+        out += '[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L25K04F)\n\n'
+
         out += f'## Versuche\n\n'
         writer.headers = ['Versuch', '', 'Repos']
         writer.value_matrix = [(v, f'[Übersicht](versuch/{v})', len(versuche_to_repos[v])) for v in sorted(versuche_to_repos.keys())]
