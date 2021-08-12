@@ -82,6 +82,7 @@ def generate_md(repos_to_versuche, versuche_to_repos):
         # out += f'\n\n'
 
         out += '[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/L4L25K04F)\n\n'
+        out += '<script src="https://liberapay.com/NicoWeio/widgets/button.js"></script><noscript><a href="https://liberapay.com/NicoWeio/donate"><img alt="Spenden mittels Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>\n\n'
 
         out += f'## Versuche\n\n'
         writer.headers = ['Versuch', '', 'Repos']
