@@ -1,11 +1,14 @@
 import github
 import re
 from rich import print
+import subprocess
+import os.path
+from pathlib import Path
 
-def getLastCommit(repo):
-    branches = list(repo.get_branches())
-    dates = [b.commit.commit.author.date for b in branches]
-    return sorted(dates)[-1]
+from single_versuch import SingleVersuch
+from pdf import Pdf
+
+REPOS_BASE_PATH = Path('/mnt/Daten & Backup/Daten (noBackup)/Studium (große)/Praktikum/awesome-ap-cache')
 
 def parseVersuchNummer(dirname, dirs_to_versuche=None):
     if dirname in (dirs_to_versuche or []):
@@ -70,37 +73,44 @@ def find_pdfs(base_dir, num):
                 return result
 
 def import_repo(source, gh):
-    import subprocess
-    import os.path
-    from pathlib import Path
-    print("→ ", source['name'])
-    gh_repo = gh.get_repo(source['name'])
-    print(f"+++ [link={gh_repo.html_url}]{source['name']}[/link]: ")
+    print("→", source)
+    # try:
+    #     gh_repo = gh.get_repo(source['name'])
+    # except github.UnknownObjectException:
+    #     print(f"[yellow]Not found: {source}[/yellow]")
+    #     raise
+    print(f"+++ [link={source.html_url}]{source.name}[/link]: ")
 
     # TODO: https://stackoverflow.com/a/34396983/6371758
     # -c core.askPass=""
-    cwd_path = Path('./REPOS') / source['name'].replace('/', '∕')
+    # cwd =
+    cwd_path = REPOS_BASE_PATH / source.name.replace('/', '∕')
     print(f"{cwd_path=}")
-    if not Path('./REPOS').exists():
-        Path('./REPOS').mkdir(exist_ok=True)
+    REPOS_BASE_PATH.mkdir(exist_ok=True)
     if not cwd_path.exists():
         print("Does not exist – cloning…")
-        subprocess.call(["git", "clone", "--depth", "1", "https://github.com/" + source['name'], cwd_path])
+        # subprocess.call(["git", "clone", "--depth", "1", "https://github.com/" + source['name'], cwd_path])
+        command = ["git", "clone", "--depth", "1", "-c", 'core.askPass=""', "https://github.com/" + source['name'], cwd_path]
+        print(f'[blue]$ {" ".join(map(str, command))}[/blue]')
+        subprocess.check_call(command)
     else:
         print("Exists – pulling…")
-        subprocess.call(["git", "pull"], cwd=cwd_path)
+        command = ["git", "pull"]
+        # hier gibt es kein `"-c", 'core.askPass=""'` – sollte aber durch den clone-code oben in der lokalen Konfiguration stehen
+        print(f'[blue]$ {" ".join(map(str, command))}[/blue]')
+        # subprocess.check_call(command, cwd=cwd_path)
+        # subprocess.check_call(command, cwd=cwd_path, stdin=subprocess.DEVNULL)
+        # subprocess.check_call(command, cwd=cwd_path, shell=False)
+        subprocess.run(command, cwd=cwd_path)
 
 
-    subdirs = source.get('subdirectory', '')
-    if isinstance(subdirs, str):
-        subdirs = [subdirs]
     dir_candidates = []
-    for subdir in subdirs:
+    for subdir in source.subdirs:
         dir_candidates.extend([f.relative_to(cwd_path) for f in cwd_path.iterdir() if f.is_dir()])
 
     versuche = dict()
     for dir in dir_candidates:
-        num = getVersuchNummerAdvanced(cwd_path / dir, source.get('dirs_to_versuche'))
+        num = getVersuchNummerAdvanced(cwd_path / dir, source.data.get('dirs_to_versuche'))
         if not num:
             continue
         elif num in versuche:
@@ -108,14 +118,15 @@ def import_repo(source, gh):
         else:
             versuche.setdefault(num, {})['dirs'] = [dir]
 
-    if 'pdfs' in source:
-        if 'directory' in source['pdfs']:
-            print(f"[green]PDFs in \"{source['pdfs']['directory']}\"[/green]")
-            pdf_candidates = (cwd_path / source['pdfs']['directory']).rglob('*.pdf')
+    if source.pdfs:
+        if 'directory' in source.pdfs:
+            print(f"[green]PDFs in \"{source.pdfs['directory']}\"[/green]")
+            pdf_candidates = (cwd_path / source.pdfs['directory']).rglob('*.pdf')
+            pdf_candidates = list(Pdf(path, source) for path in pdf_candidates)
             print("pdf_candidates:", printable_files(pdf_candidates))
 
             for pdf in pdf_candidates:
-                num = parseVersuchNummer(pdf.name, source.get('dirs_to_versuche'))
+                num = parseVersuchNummer(pdf.name, source.data.get('dirs_to_versuche'))
                 if not num:
                     continue
                 elif num in versuche and 'pdfs' in versuche[num]:
@@ -123,12 +134,13 @@ def import_repo(source, gh):
                 else:
                     versuche.setdefault(num, {})['pdfs'] = [pdf]
 
-        elif source['pdfs'].get('in_source_dir'):
+        elif source.pdfs.get('in_source_dir'):
             print("[green]PDFs in source dir[/green]")
             for num, v in versuche.items():
                 print("Checking", num)
                 for dir in v['dirs']:
                     pdfs = find_pdfs(cwd_path / dir, num)
+                    pdfs = list(Pdf(path, source) for path in pdfs) if pdfs else None
                     if not pdfs:
                         continue
                     elif num in versuche and 'pdfs' in versuche[num]:
@@ -136,10 +148,11 @@ def import_repo(source, gh):
                     else:
                         versuche.setdefault(num, {})['pdfs'] = pdfs
 
-    source['contributors'] = list(gh_repo.get_contributors())
-    source['lastCommit'] = getLastCommit(gh_repo)
-    source['repo'] = gh_repo
-    source['versuche'] = versuche
+    # source.contributors = list(gh_repo.get_contributors())
+    # source.lastCommit = getLastCommit(gh_repo)
+    # source.repo = gh_repo
+    source.versuche = versuche
+    # source['versuche'] = [SingleVersuch(num, data['dirs']) for num, data in versuche.items()]
 
     print(
         f'{len(versuche)} Versuche erkannt;',

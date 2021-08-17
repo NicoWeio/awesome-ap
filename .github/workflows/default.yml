@@ -8,7 +8,6 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.8
@@ -18,15 +17,14 @@ jobs:
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Repo-Cache 
+        pip install -r requirements.txt
+    - name: Repo-Cache
       uses: actions/cache@v2
       with:
         path: REPOS
         key: repo-cache
     - name: Execute…
-      run: |
-        python main.py
+      run: python main.py
       env:
           INPUT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     # - name: Deploy to GitHub Pages 🚀

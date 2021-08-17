@@ -1,116 +1,104 @@
-# - name: aknierim/AP
-#   subdirectory:
-#     - SoSe
-#     - WiSe
-#   pdfs:
-#     directory: Protokolle
-# # TODO: Mehrere Unterordner, auch für PDFs
-# - name: BenediktSan/AnfaengerPraktikum2020
-#   subdirectory:
-#     # - Finale_Abgaben
-#     - Versuche Semester III
-#     - Versuche Semester IV
-#   pdfs:
-#     in_source_dir: true
-# - name: chrbeckm/anfaenger-praktikum
+# TODO: Mehrere Unterordner, auch für PDFs
+- name: BenediktSan/AnfaengerPraktikum2020
+  subdirectory:
+    # - Finale_Abgaben
+    - Versuche Semester III
+    - Versuche Semester IV
+  pdfs:
+    in_source_dir: true
+- name: chrbeckm/anfaenger-praktikum
 - name: chris-topher6/Anfaenger-Praktikum
-# - name: dagbjoern/AP-Physik
-#   pdfs:
-#     in_source_dir: true
-# - name: dlmsr/praktikum
+- name: dagbjoern/AP-Physik
+  pdfs:
+    in_source_dir: true
+- name: dlmsr/praktikum
 - name: dormail/ap
-# - name: Fresoquark/Anfaengerpraktikum
-# - name: HelenaCarlArne/ProtokolleAP
-# - name: jana-banana/AP-2020
-#   subdirectory: we did that
-#   pdfs:
-#     in_source_dir: true
-# - name: Jean1995/Praktikum
-#   pdfs:
-#     directory: Protokolle_Fertig
-# - name: JLammering/Physikalisches-Praktikum
-# # TODO: PDFs unregelmäßig benannt
-# - name: komrozik/AP2019
-#   pdfs:
-#     in_source_dir: true
-# # TODO: unvollständige Versuch-Nummern; PDFs unregelmäßig benannt
-# - name: lassestern/praktikum-david-lasse
-#   pdfs:
-#     in_source_dir: true
-# # TODO: unvollständige Versuch-Nummern
-# - name: LiigaSoolane/Paktikum
-# # keine Versuch-Nummern oder main.tex – suche stattdessen nach "\newcommand{\VNr}{…}"
-# - name: LuckyJosh/APPhysik
-#   dirs_to_versuche:
-#     "Alphastrahlung[X]": 701
-#     "Dopplereffekt[X]": 104
-#     "Elektronen[X]": 501
-#     "Fourier[X]": 351
-#     "FranckHertz[X]": 601
-#     "Geigerzaehler[ ]": 703
-#     "Gekoppleteschwingkreise[X]": 355
-#     "Lockin[X]": 303
-#     "Millikan[ ]": 503
-#     "Neutronen[ ]": 702
-#     "PhotoeffektII[ ]": 500
-#     "Photoeffekt[ ]": 500
-#     "Relaxation[X]": 353
-#     "geomOptik[X]": 408
-# - name: MagischeMiesmuschel/AnfaengerPraktikum
-# - name: Mampfzwerg/Praktikum
-#   pdfs:
-#     in_source_dir: true
-# - name: moritzbo/anfaenger_praktikum
+- name: Fresoquark/Anfaengerpraktikum
+- name: HelenaCarlArne/ProtokolleAP
+- name: jana-banana/AP-2020
+  subdirectory: we did that
+  pdfs:
+    in_source_dir: true
+- name: Jean1995/Praktikum
+  pdfs:
+    directory: Protokolle_Fertig
+- name: JLammering/Physikalisches-Praktikum
+# TODO: PDFs unregelmäßig benannt
+- name: komrozik/AP2019
+  pdfs:
+    in_source_dir: true
+# TODO: unvollständige Versuch-Nummern; PDFs unregelmäßig benannt
+- name: lassestern/praktikum-david-lasse
+  pdfs:
+    in_source_dir: true
+# TODO: unvollständige Versuch-Nummern
+- name: LiigaSoolane/Paktikum
+# keine Versuch-Nummern oder main.tex – suche stattdessen nach "\newcommand{\VNr}{…}"
+- name: LuckyJosh/APPhysik
+  dirs_to_versuche:
+    "Alphastrahlung[X]": 701
+    "Dopplereffekt[X]": 104
+    "Elektronen[X]": 501
+    "Fourier[X]": 351
+    "FranckHertz[X]": 601
+    "Geigerzaehler[ ]": 703
+    "Gekoppleteschwingkreise[X]": 355
+    "Lockin[X]": 303
+    "Millikan[ ]": 503
+    "Neutronen[ ]": 702
+    "PhotoeffektII[ ]": 500
+    "Photoeffekt[ ]": 500
+    "Relaxation[X]": 353
+    "geomOptik[X]": 408
+- name: MagischeMiesmuschel/AnfaengerPraktikum
+- name: Mampfzwerg/Praktikum
+  pdfs:
+    in_source_dir: true
+- name: moritzbo/anfaenger_praktikum
 # - name: mwindau/praktikum
 #   pdfs:
 #     in_source_dir: true
-# - name: NicoJG/Anfaengerpraktikum
-#   pdfs:
-#     in_source_dir: true
-# # die PDFs sind auf GitHub Pages…
+- name: NicoJG/Anfaengerpraktikum
+  pdfs:
+    in_source_dir: true
+# die PDFs sind auf GitHub Pages…
 - name: NicoWeio/AP
   branch: gh-pages
   pdfs:
     in_source_dir: true
-# # Fork von BenediktSan/AnfaengerPraktikum2020
-# # - name: NiklasD/AnfaengerPraktikum2020
-# - name: nsalewski/laboratory
-# - name: pascalgutjahr/Praktikum-1
-# - name: paul-stoerbrock/Praktikum
-# - name: phlipo95/AP-Praktikum
-# - name: Renameus/PhysikPraktikum1
-#   pdfs:
-#     in_source_dir: true
-#   subdirectory: Versuche
-# - name: rkallo/APWS1718
-#   pdfs:
-#     in_source_dir: true
-# - name: rleven/richard_joell_Praktikum
-#   dirs_to_versuche:
-#     "Hook'sches_Gesetz[done]": 803
-#     "Lock-In-Verstärker[done]": 303
-# - name: SamGTex/Physik_Praktikum_Samuel_Max
-# - name: SHilgers/Praktikum2
-# - name: smjhnits/Praktikum_TU_D_16-17
-#   pdfs:
-#     directory: Anfängerpraktikum/Fertige Protokolle
-#   subdirectory: Anfängerpraktikum/Protokolle
-# - name: smjolame/Praktikum_1
-#   pdfs:
-#     in_source_dir: true
-# - name: stefangri/s_s_productions
-#   subdirectory: PHY341
-# - name: LarsKolk/Anfaengerpraktikum
-#   pdfs:
-#     in_source_dir: true
-# - name: Tahirbanane/AP
-#   pdfs:
-#     in_source_dir: true
-# - name: vsulaiman/Praktikum
-#   subdirectory:
-#     - SS17
-#     - WS1617
-#   pdfs:
-#     directory: AP Protokolle
-# - name: woklop9/Anfaengerpraktikum
-# - name: YanickKi/AP_T_Y
+# Fork von BenediktSan/AnfaengerPraktikum2020
+# - name: NiklasD/AnfaengerPraktikum2020
+- name: nsalewski/laboratory
+- name: pascalgutjahr/Praktikum-1
+- name: paul-stoerbrock/Praktikum
+- name: phlipo95/AP-Praktikum
+- name: Renameus/PhysikPraktikum1
+  pdfs:
+    in_source_dir: true
+  subdirectory: Versuche
+- name: rkallo/APWS1718
+  pdfs:
+    in_source_dir: true
+- name: rleven/richard_joell_Praktikum
+  dirs_to_versuche:
+    "Hook'sches_Gesetz[done]": 803
+    "Lock-In-Verstärker[done]": 303
+- name: SamGTex/Physik_Praktikum_Samuel_Max
+- name: SHilgers/Praktikum2
+- name: smjhnits/Praktikum_TU_D_16-17
+  pdfs:
+    directory: Anfängerpraktikum/Fertige Protokolle
+  subdirectory: Anfängerpraktikum/Protokolle
+- name: smjolame/Praktikum_1
+  pdfs:
+    in_source_dir: true
+- name: stefangri/s_s_productions
+  subdirectory: PHY341
+- name: LarsKolk/Anfaengerpraktikum
+  pdfs:
+    in_source_dir: true
+- name: Tahirbanane/AP
+  pdfs:
+    in_source_dir: true
+- name: woklop9/Anfaengerpraktikum
+- name: YanickKi/AP_T_Y
