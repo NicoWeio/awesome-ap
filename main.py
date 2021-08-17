@@ -23,13 +23,10 @@ with open("sources.yaml", 'r') as stream:
 repos_to_versuche = []
 for repo in repos:
     try:
-        repos_to_versuche.append(import_repo(repo, gh))
+        repos_to_versuche.append(import_repo(repo, gh, refresh=False))
     except:
         print(f'Could not import {repo}')
         raise #TODO
-    # except github.RateLimitExceededException:
-    #     print("Rate limit exceeded!")
-    #     exit(1)
     # except github.UnknownObjectException:
     #     # happens e.g. when a subdirectory from sources.yaml does not exist
     #     print("Something was not found – ignoring!")

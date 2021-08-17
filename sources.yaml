@@ -55,9 +55,6 @@
   pdfs:
     in_source_dir: true
 - name: moritzbo/anfaenger_praktikum
-# - name: mwindau/praktikum
-#   pdfs:
-#     in_source_dir: true
 - name: NicoJG/Anfaengerpraktikum
   pdfs:
     in_source_dir: true
