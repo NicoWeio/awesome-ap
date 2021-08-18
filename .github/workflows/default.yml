@@ -27,7 +27,7 @@ jobs:
       run: python main.py
       env:
           INPUT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          REPOS_BASE_PATH: .
+          REPOS_BASE_PATH: REPOS
     # - name: Deploy to GitHub Pages 🚀
     #   uses: JamesIves/github-pages-deploy-action@3.7.1
     #   with:

@@ -11,6 +11,7 @@ from analyze_content import parse_versuch_nummer, find_from_candidates, extract_
 
 load_dotenv()
 REPOS_BASE_PATH = Path(os.getenv('REPOS_BASE_PATH') or os.getenv('INPUT_REPOS_BASE_PATH'))
+REPOS_BASE_PATH.mkdir(exist_ok=True)
 print(f"{os.getenv('REPOS_BASE_PATH')=}")
 print(f"{os.getenv('INPUT_REPOS_BASE_PATH')=}")
 
