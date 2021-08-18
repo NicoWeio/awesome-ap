@@ -108,3 +108,5 @@
 - **36** Repos
 - **52** Versuche
 - **654** Protokolle
+- **201** Protokolle mit PDFs
+- **271** PDFs insgesamt
