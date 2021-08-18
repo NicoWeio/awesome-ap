@@ -15,22 +15,17 @@ TOKEN = os.getenv('GITHUB_TOKEN') or os.getenv('INPUT_GITHUB_TOKEN')
 gh = github.Github(TOKEN)
 
 with open("sources.yaml", 'r') as stream:
-# with open("sources_test.yaml", 'r') as stream:
     repos = yaml.safe_load(stream)
-    repos = list([Repo(repo, gh) for repo in repos])
+    repos = list(Repo(repo, gh) for repo in repos)
 
 ### Laden der Daten:
 repos_to_versuche = []
 for repo in repos:
     try:
-        # repos_to_versuche.append(import_repo(repo, gh))
-        repos_to_versuche.append(import_repo(repo, gh, refresh=False))
+        repos_to_versuche.append(import_repo(repo, gh))
     except:
         print(f'Could not import {repo}')
-        raise #TODO
-    # except github.UnknownObjectException:
-    #     # happens e.g. when a subdirectory from sources.yaml does not exist
-    #     print("Something was not found – ignoring!")
+        raise #TODO: error-handling
 
 versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
 
@@ -39,7 +34,7 @@ versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
 
 def stats():
     out = ""
-    out += '-'*10
+    out += '-'*10 + '\n'
     out += '## Statistiken\n'
     out += f'- {len(repos_to_versuche)} Repos\n'
     out += f'- {len(versuche_to_repos.keys())} Versuche\n'

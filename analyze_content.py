@@ -38,6 +38,7 @@ def extract_versuch(file):
     raw_num = search_result.group(1).strip() if search_result else None
     return parse_versuch_nummer(raw_num)
 
+
 def extract_title(file):
     with open(file, 'r') as f:
         content = f.read()
