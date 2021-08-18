@@ -124,9 +124,14 @@ def import_repo(source, gh):
     source['repo'] = repo
     source['versuche'] = versuche
 
+    source['num_dirs'] = sum(1 for v in versuche.values() if 'dirs' in v)
+    source['num_pdfs'] = sum(1 for v in versuche.values() if 'pdfs' in v)
+    source['num_pdfs_total'] = sum(len(v['pdfs']) for v in versuche.values() if 'pdfs' in v)
+
     print(
         f'{len(versuche)} Versuche erkannt;',
-        f'{sum(1 for v in versuche.values() if "dirs" in v)} Ordner,',
-        f'{sum(1 for v in versuche.values() if "pdfs" in v)} PDFs',
+        f'{source["num_dirs"]} Ordner,',
+        f'{source["num_pdfs"]} Versuche mit PDFs,',
+        f'{source["num_pdfs_total"]} PDFs insgesamt',
         )
     return source

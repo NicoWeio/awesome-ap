@@ -91,17 +91,17 @@ def generate_md(repos_to_versuche, versuche_to_repos):
         out += '\n\n'
 
         out += f'## Repos\n\n'
-        writer.headers = ['Repo von', '', 'Letzter Commit', '# Versuche']
+        writer.headers = ['Repo von', '', 'Letzter Commit', '# Protokolle', '# Protokolle mit PDFs']
         writer.value_matrix = []
         for r in sorted(repos_to_versuche, key=lambda r: r['name'].lower()):
             name = r['name'].split('/')[0]
             lastCommit = r['lastCommit'].strftime('%d.%m.%Y %H:%M:%S')
-            versuche = [versuch for versuch, repos in versuche_to_repos.items() if r in repos]
             writer.value_matrix.append((
                 f'[{name}]({r["repo"].html_url})',
                 f'[Übersicht](repo/{name})',
                 f'{lastCommit}',
-                f'{len(versuche)}'))
+                f'{len(r["versuche"])}',
+                f'{sum(1 for versuch in r["versuche"].values() if "pdfs" in versuch)}'))
         out += writer.dumps()
         out += '\n\n'
 
@@ -109,5 +109,7 @@ def generate_md(repos_to_versuche, versuche_to_repos):
         out += f'- **{len(repos_to_versuche)}** Repos\n'
         out += f'- **{len(versuche_to_repos.keys())}** Versuche\n'
         out += f'- **{sum([len(repos) for versuch, repos in versuche_to_repos.items()])}** Protokolle\n'
+        out += f'- **{sum(repo["num_pdfs"] for repo in repos_to_versuche)}** Protokolle mit PDFs\n'
+        out += f'- **{sum(repo["num_pdfs_total"] for repo in repos_to_versuche)}** PDFs insgesamt\n'
 
         g.write(out)
