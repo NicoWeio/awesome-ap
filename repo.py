@@ -9,7 +9,7 @@ def get_last_commit(repo):
 
 class Repo:
     def __init__(self, data, gh):
-        self.data = data
+        self.data = data # TODO: Übergangslösung
         self.name = data.get('name')
         self.pdfs = data.get('pdfs')
 

@@ -37,3 +37,10 @@ def extract_versuch(file):
     search_result = re.search(r'\\subject{(.*)}', content)
     raw_num = search_result.group(1).strip() if search_result else None
     return parse_versuch_nummer(raw_num)
+
+def extract_title(file):
+    with open(file, 'r') as f:
+        content = f.read()
+        search_result = re.search(r'\\title{(.*)}', content)
+        title = search_result.group(1).strip() if search_result else None
+        return title

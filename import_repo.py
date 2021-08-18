@@ -7,46 +7,25 @@ from pathlib import Path
 
 from single_versuch import SingleVersuch
 from pdf import Pdf
-from analyze_content import parse_versuch_nummer, find_from_candidates, extract_versuch
+from analyze_content import parse_versuch_nummer, find_from_candidates, extract_title, extract_versuch
 
 REPOS_BASE_PATH = Path('/mnt/Daten & Backup/Daten (noBackup)/Studium (große)/Praktikum/awesome-ap-cache')
 
-def get_versuch_nummer_advanced(dir, dirs_to_versuche, ref=None):
+def get_versuch_nummer_advanced(dir, dirs_to_versuche):
+    ##TEST
+    # main_tex_files = list(dir.rglob('main.tex'))
+    # title = find_from_candidates(main_tex_files, extract_title)
+    # print(f"{title=}")
+    ##TEST
+
     basic_result = parse_versuch_nummer(dir.name, dirs_to_versuche)
     if basic_result:
         return basic_result
-
     main_tex_files = list(dir.rglob('main.tex'))
-    # def analyzer(file):
-    #     with open(main_tex_files[0], 'r') as f:
-    #         main_tex_content = f.read()
-    #     search_result = re.search(r'\\subject{(.*)}', main_tex_content)
-    #     raw_num = search_result.group(1).strip() if search_result else None
-    #     return parse_versuch_nummer(raw_num)
-
-    return find_from_candidates(main_tex_files, extract_versuch)
-    if not num:
-        print(f'cannot resolve "{raw_num}"')
+    num = find_from_candidates(main_tex_files, extract_versuch)
+    if main_tex_files and not num:
+        print(f'cannot resolve versuch using {main_tex_files}')
     return num
-
-# def get_versuch_nummer_advanced(dir, dirs_to_versuche, ref=None):
-#     basic_result = parse_versuch_nummer(dir.name, dirs_to_versuche)
-#     if basic_result:
-#         return basic_result
-#     try:
-#         main_tex_files = list(dir.rglob('main.tex'))
-#         assert len(main_tex_files) == 1
-#         with open(main_tex_files[0], 'r') as f:
-#             main_tex_content = f.read()
-#         search_result = re.search(r'\\subject{(.*)}', main_tex_content)
-#         raw_num = search_result.group(1).strip() if search_result else None
-#         num = parse_versuch_nummer(raw_num)
-#         if not num:
-#             print(f'cannot resolve "{raw_num}"')
-#         return num
-#     except AssertionError:
-#         print('EDGE CASE: multiple main.tex')
-#         pass
 
 def printable_files(files):
     # return ', '.join([f'[link={f.html_url}]{f.name}[/link]' for f in files])
@@ -91,16 +70,26 @@ def import_repo(source, gh, refresh=True):
         print("Exists – NOT pulling, because refresh=False was passed…")
     else:
         print("Exists – pulling…")
+        # TODO: später vmtl. besser mit `git reset` arbeiten
         command = ["git", "pull"]
         # hier gibt es kein `"-c", 'core.askPass=""'` – sollte aber durch den clone-code oben in der lokalen Konfiguration stehen
         print(f'[blue]$ {" ".join(map(str, command))}[/blue]')
-        subprocess.run(command, cwd=cwd_path)
+        subprocess.run(command, cwd=cwd_path) #TODO: prüft `run` die exit-codes?
+        # TODO: Viele edge cases wegen des Cachings: Z.B wird nicht zurückgewechselt, wenn zuvor branch angegeben war und jetzt nicht mehr…
+        if branch := source.data.get('branch'):
+            print(f"Checking out {branch}")
+            # command = ["git", "reset", "--hard", f"origin/{branch}"]
+            command = ["git", "switch", "-f", f"origin/{branch}"]
+            print(f'[blue]$ {" ".join(map(str, command))}[/blue]')
+            subprocess.run(command, cwd=cwd_path)
 
 
     dir_candidates = []
     for subdir in source.subdirs:
         #DAFUQ? dir_candidates.extend([f.relative_to(cwd_path) for f in cwd_path.iterdir() if f.is_dir()])
         dir_candidates.extend([f.relative_to(cwd_path) for f in (cwd_path / subdir).iterdir() if f.is_dir()])
+    #TODO. Kann ich machen, aber ist nur für NicoWeio/AP:TEMPLATE nötig, und das nur, weil ich noch nicht die branches berücksichtige…
+    # dir_candidates = filter(lambda dir: str(dir.relative_to(cwd_path)) not in source.data.get('ignore_subdirectory'), dir_candidates)
     print(f"{dir_candidates=}")
 
     versuche = dict()

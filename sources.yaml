@@ -27,6 +27,9 @@
 - name: komrozik/AP2019
   pdfs:
     in_source_dir: true
+- name: LarsKolk/Anfaengerpraktikum
+  pdfs:
+  in_source_dir: true
 # TODO: unvollständige Versuch-Nummern; PDFs unregelmäßig benannt
 - name: lassestern/praktikum-david-lasse
   pdfs:
@@ -91,9 +94,6 @@
     in_source_dir: true
 - name: stefangri/s_s_productions
   subdirectory: PHY341
-- name: LarsKolk/Anfaengerpraktikum
-  pdfs:
-    in_source_dir: true
 - name: Tahirbanane/AP
   pdfs:
     in_source_dir: true
