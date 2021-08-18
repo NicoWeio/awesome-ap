@@ -22,7 +22,7 @@ jobs:
       uses: actions/cache@v2
       with:
         path: REPOS
-        key: repo-cache
+        key: repo-cache-${{ github.sha }}
     - name: Execute…
       run: python main.py
       env:
