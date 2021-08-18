@@ -5,7 +5,6 @@ import subprocess
 import os.path
 from pathlib import Path
 
-from single_versuch import SingleVersuch
 from pdf import Pdf
 from analyze_content import parse_versuch_nummer, find_from_candidates, extract_title, extract_versuch
 
