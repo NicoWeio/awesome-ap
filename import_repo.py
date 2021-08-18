@@ -68,7 +68,7 @@ def import_repo(source, gh, refresh=True):
     if not cwd_path.exists():
         print("Does not exist – cloning…")
         # lege einen „shallow clone“ an, um Speicherplatz zu sparen
-        run_command(["git", "clone", "--depth", "1", "https://github.com/" + source.name, cwd_path], cwd=None)
+        run_command(["git", "clone"] + (["--branch", source.branch] if source.branch else []) + ["--depth", "1", "https://github.com/" + source.name, cwd_path], cwd=None)
         # ↓ https://stackoverflow.com/a/34396983/6371758
         # run_command(["git", "-c", 'core.askPass=""', "clone", "--depth", "1", "https://github.com/" + source.name, cwd_path])
     elif not refresh:
@@ -76,12 +76,12 @@ def import_repo(source, gh, refresh=True):
     else:
         print("Exists – pulling…")
         run_command(["git", "pull"])
-        if branch := source.branch:
+        if source.branch:
             # TODO: Viele edge cases wegen des Cachings!
             # Z.B wird nicht zurückgewechselt, wenn zuvor ein branch angegeben war und jetzt nicht mehr…
-            run_command(["git", "remote", "set-branches", "origin", branch])
+            run_command(["git", "remote", "set-branches", "origin", source.branch])
             run_command(["git", "fetch"])
-            run_command(["git", "switch", "-f", branch])
+            run_command(["git", "switch", "-f", source.branch])
 
     dir_candidates = []
     for subdir in source.subdirs:
