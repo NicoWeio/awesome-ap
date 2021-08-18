@@ -1,3 +1,4 @@
+from dotenv import load_dotenv
 import github
 import re
 from rich import print
@@ -8,7 +9,10 @@ from pathlib import Path
 from pdf import Pdf
 from analyze_content import parse_versuch_nummer, find_from_candidates, extract_title, extract_versuch
 
-REPOS_BASE_PATH = Path('/mnt/Daten & Backup/Daten (noBackup)/Studium (große)/Praktikum/awesome-ap-cache')
+load_dotenv()
+REPOS_BASE_PATH = Path(os.getenv('REPOS_BASE_PATH') or os.getenv('INPUT_REPOS_BASE_PATH'))
+print(f"{os.getenv('REPOS_BASE_PATH')=}")
+print(f"{os.getenv('INPUT_REPOS_BASE_PATH')=}")
 
 def get_versuch_nummer_advanced(dir, dirs_to_versuche):
     ##TEST
