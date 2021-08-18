@@ -57,13 +57,17 @@ def find_pdfs(base_dir, num):
 def import_repo(source, gh, refresh=True):
     print(f"→ [link={source.html_url}]{source.name}[/link]")
 
+    def run_command(command):
+        print(f'[blue]$ {" ".join(map(str, command))}[/blue]')
+        return subprocess.run(command, cwd=cwd_path)
+
     # TODO: https://stackoverflow.com/a/34396983/6371758
     cwd_path = REPOS_BASE_PATH / source.name.replace('/', '∕')
     REPOS_BASE_PATH.mkdir(exist_ok=True)
     if not cwd_path.exists():
         print("Does not exist – cloning…")
-        # subprocess.call(["git", "clone", "--depth", "1", "https://github.com/" + source['name'], cwd_path])
-        command = ["git", "clone", "--depth", "1", "-c", 'core.askPass=""', "https://github.com/" + source['name'], cwd_path]
+        # subprocess.call(["git", "clone", "--depth", "1", "https://github.com/" + source.name, cwd_path])
+        command = ["git", "clone", "--depth", "1", "-c", 'core.askPass=""', "https://github.com/" + source.name, cwd_path]
         print(f'[blue]$ {" ".join(map(str, command))}[/blue]')
         subprocess.check_call(command)
     elif not refresh:
@@ -77,12 +81,9 @@ def import_repo(source, gh, refresh=True):
         subprocess.run(command, cwd=cwd_path) #TODO: prüft `run` die exit-codes?
         # TODO: Viele edge cases wegen des Cachings: Z.B wird nicht zurückgewechselt, wenn zuvor branch angegeben war und jetzt nicht mehr…
         if branch := source.data.get('branch'):
-            print(f"Checking out {branch}")
-            # command = ["git", "reset", "--hard", f"origin/{branch}"]
-            command = ["git", "switch", "-f", f"origin/{branch}"]
-            print(f'[blue]$ {" ".join(map(str, command))}[/blue]')
-            subprocess.run(command, cwd=cwd_path)
-
+            run_command(["git", "remote", "set-branches", "origin", branch])
+            run_command(["git", "fetch"])
+            run_command(["git", "switch", "-f", branch])
 
     dir_candidates = []
     for subdir in source.subdirs:
@@ -137,9 +138,14 @@ def import_repo(source, gh, refresh=True):
 
     print('Erkannte Versuche:', sorted(list(versuche.keys())))
 
+    source.num_dirs = sum(1 for v in versuche.values() if 'dirs' in v)
+    source.num_pdfs = sum(1 for v in versuche.values() if 'pdfs' in v)
+    source.num_pdfs_total = sum(len(v['pdfs']) for v in versuche.values() if 'pdfs' in v)
     print(
         f'{len(versuche)} Versuche erkannt;',
-        f'{sum(1 for v in versuche.values() if "dirs" in v)} Ordner,',
-        f'{sum(1 for v in versuche.values() if "pdfs" in v)} PDFs',
+        f'{source.num_dirs} Ordner,',
+        f'{source.num_pdfs} Versuche mit PDFs,',
+        f'{source.num_pdfs_total} PDFs insgesamt',
         )
+
     return source

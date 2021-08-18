@@ -29,7 +29,7 @@
     in_source_dir: true
 - name: LarsKolk/Anfaengerpraktikum
   pdfs:
-  in_source_dir: true
+    in_source_dir: true
 # TODO: unvollständige Versuch-Nummern; PDFs unregelmäßig benannt
 - name: lassestern/praktikum-david-lasse
   pdfs:

@@ -23,6 +23,7 @@ with open("sources.yaml", 'r') as stream:
 repos_to_versuche = []
 for repo in repos:
     try:
+        # repos_to_versuche.append(import_repo(repo, gh))
         repos_to_versuche.append(import_repo(repo, gh, refresh=False))
     except:
         print(f'Could not import {repo}')
@@ -43,6 +44,8 @@ def stats():
     out += f'- {len(repos_to_versuche)} Repos\n'
     out += f'- {len(versuche_to_repos.keys())} Versuche\n'
     out += f'- {sum([len(repos) for versuch, repos in versuche_to_repos.items()])} Protokolle\n'
+    out += f'- {sum(repo.num_pdfs for repo in repos_to_versuche)} Protokolle mit PDFs\n'
+    out += f'- {sum(repo.num_pdfs_total for repo in repos_to_versuche)} PDFs insgesamt\n'
     return out
 
 print("Done! 🎉")
