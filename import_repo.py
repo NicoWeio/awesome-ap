@@ -59,17 +59,16 @@ def find_pdfs(base_dir, num):
 
 def import_repo(source, gh, refresh=True):
     print(f"→ [link={source.html_url}]{source.name}[/link]")
-
-    def run_command(command):
-        print(f'[blue]$ {" ".join(map(str, command))}[/blue]')
-        subprocess.run(command, cwd=cwd_path) # raises subprocess.CalledProcessError ✓
-
     cwd_path = REPOS_BASE_PATH / source.name.replace('/', '∕')
-    REPOS_BASE_PATH.mkdir(exist_ok=True)
+
+    def run_command(command, cwd=cwd_path):
+        print(f'[blue]$ {" ".join(map(str, command))}[/blue]')
+        subprocess.run(command, cwd=cwd) # raises subprocess.CalledProcessError ✓
+
     if not cwd_path.exists():
         print("Does not exist – cloning…")
         # lege einen „shallow clone“ an, um Speicherplatz zu sparen
-        run_command(["git", "clone", "--depth", "1", "https://github.com/" + source.name, cwd_path])
+        run_command(["git", "clone", "--depth", "1", "https://github.com/" + source.name, cwd_path], cwd=None)
         # ↓ https://stackoverflow.com/a/34396983/6371758
         # run_command(["git", "-c", 'core.askPass=""', "clone", "--depth", "1", "https://github.com/" + source.name, cwd_path])
     elif not refresh:
