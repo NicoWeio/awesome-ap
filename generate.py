@@ -95,16 +95,16 @@ def generate_md(repos_to_versuche, versuche_to_repos):
         out += '\n\n'
 
         out += f'## Repos\n\n'
-        writer.headers = ['Repo von', '', 'Letzter Commit', '# Versuche']
+        writer.headers = ['Repo von', '', 'Letzter Commit', '# Protokolle', '# Protokolle mit PDFs']
         writer.value_matrix = []
         for r in sorted(repos_to_versuche, key=lambda r: r.name.lower()):
             lastCommit = r.last_commit.strftime('%d.%m.%Y %H:%M:%S')
-            versuche = [versuch for versuch, repos in versuche_to_repos.items() if r in repos]
             writer.value_matrix.append((
                 f'[{r.login}]({r.html_url})',
                 f'[Übersicht](repo/{r.login})',
                 f'{lastCommit}',
-                f'{len(versuche)}'))
+                f'{len(r["versuche"])}',
+                f'{sum(1 for versuch in r["versuche"].values() if "pdfs" in versuch)}'))
         out += writer.dumps()
         out += '\n\n'
 
