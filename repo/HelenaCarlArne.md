@@ -1,0 +1,31 @@
+# Repo von *HelenaCarlArne*
+
+## [zum Repo auf GitHub](https://github.com/HelenaCarlArne/ProtokolleAP)
+
+Letzter Commit: 18.09.2015 09:14:52
+
+## Versuche
+
+|       Versuch       |                                                                                                                 Ordner                                                                                                                  |PDFs|
+|---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
+|[101](../versuch/101)|[V101 - Angular Momentum](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V101 - Angular Momentum)                                                                                                                            |–   |
+|[102](../versuch/102)|[V102 - Drehschwingung](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V102 - Drehschwingung)                                                                                                                                |–   |
+|[103](../versuch/103)|[V103 - Bending properties of matter](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V103 - Bending properties of matter)                                                                                                    |–   |
+|[107](../versuch/107)|[V107 - Viskosimeter](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V107 - Viskosimeter)                                                                                                                                    |–   |
+|[201](../versuch/201)|[V201 - Dulong-Petit-Gesetz](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V201 - Dulong-Petit-Gesetz)                                                                                                                      |–   |
+|[204](../versuch/204)|[V204 - Thermal conduction in metals](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V204 - Thermal conduction in metals)                                                                                                    |–   |
+|[206](../versuch/206)|[V206 - Thermal transfer](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V206 - Thermal transfer)                                                                                                                            |–   |
+|[301](../versuch/301)|[V301 - Leerlaufspannung und Innenwiderstand](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V301 - Leerlaufspannung und Innenwiderstand)                                                                                    |–   |
+|[303](../versuch/303)|[V303 - Lock-In amplifier](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V303 - Lock-In amplifier)                                                                                                                          |–   |
+|[351](../versuch/351)|[V351 - Fourieranalyse](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V351 - Fourieranalyse)                                                                                                                                |–   |
+|[354](../versuch/354)|[V354 - Damped and driven oscillation](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V354 - Damped and driven oscillation)                                                                                                  |–   |
+|[355](../versuch/355)|[V355 - Coupled oscillation](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V355 - Coupled oscillation)                                                                                                                      |–   |
+|[406](../versuch/406)|[V406 - Beugung am Spalt](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V406 - Beugung am Spalt)                                                                                                                            |–   |
+|[408](../versuch/408)|[V408 - Geometrische Optik](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V408 - Geometrische Optik)                                                                                                                        |–   |
+|[500](../versuch/500)|[V500 - Photoeffekt](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V500 - Photoeffekt)                                                                                                                                      |–   |
+|[503](../versuch/503)|[SV - Orientierung des Erdmagnetfeldes](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/SV - Orientierung des Erdmagnetfeldes)<br/>[V503 - Milikan](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V503 - Milikan)|–   |
+|[601](../versuch/601)|[V601 - Franck-Hertz](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V601 - Franck-Hertz)                                                                                                                                    |–   |
+|[605](../versuch/605)|[V605 - Alkali-Spektrum](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V605 - Alkali-Spektrum)                                                                                                                              |–   |
+|[702](../versuch/702)|[V702 - Aktivierung mit Neutronen](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V702 - Aktivierung mit Neutronen)                                                                                                          |–   |
+|[704](../versuch/704)|[V704 - Absorption  von Strahlung](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/V704 - Absorption  von Strahlung)                                                                                                          |–   |
+|[901](../versuch/901)|[US1 - Grundlagen der US-Technik](https://github.com/HelenaCarlArne/ProtokolleAP/tree/master/US1 - Grundlagen der US-Technik)                                                                                                            |–   |
