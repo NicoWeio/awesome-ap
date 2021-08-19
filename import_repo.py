@@ -1,88 +1,97 @@
+from datetime import datetime
+from dotenv import load_dotenv
 import github
 import re
 from rich import print
+import subprocess
+import os.path
+from pathlib import Path
 
-def getLastCommit(repo):
-    branches = list(repo.get_branches())
-    dates = [b.commit.commit.author.date for b in branches]
-    return sorted(dates)[-1]
+from pdf import Pdf
+from analyze_content import parse_versuch_nummer, find_from_candidates, extract_title, extract_versuch
 
-def getVersuchNummer(dirname, dirs_to_versuche=None):
-    if dirname in (dirs_to_versuche or []):
-        return dirs_to_versuche[dirname]
-    if not dirname:
-        return None
+load_dotenv()
+REPOS_BASE_PATH = Path(os.getenv('REPOS_BASE_PATH'))
+REPOS_BASE_PATH.mkdir(exist_ok=True)
 
-    # Die Ultraschall-Versuche heißen auch US1 etc.
-    # Der Einheitlichkeit halber wird aber ihre *Nummer*, also z.B. 901 verwendet.
-    s = re.search(r'US[._\s]*(\d)(?!\d)', dirname, re.IGNORECASE)
-    if s:
-        return 900 + int(s.group(1))
-
-    s = re.search(r'(?<!\d)[VD]?[._\s]*(\d{3})(?!\d)', dirname, re.IGNORECASE)
-    if s:
-        return int(s.group(1))
-
-def getVersuchNummerAdvanced(dir, dirs_to_versuche, repo, ref=None):
-    basic_result = getVersuchNummer(dir.name, dirs_to_versuche)
+def get_versuch_nummer_advanced(dir, dirs_to_versuche):
+    basic_result = parse_versuch_nummer(dir.name, dirs_to_versuche)
     if basic_result:
         return basic_result
-    try:
-        main_tex_content = repo.get_contents(dir.path + '/main.tex', ref=ref).decoded_content.decode()
-        search_result = re.search(r'\\subject{(.*)}', main_tex_content)
-        raw_num = search_result.group(1).strip() if search_result else None
-        num = getVersuchNummer(raw_num)
-        if not num:
-            print(f'cannot resolve "{raw_num}"')
-        return num
-    except github.UnknownObjectException: # file not found
-        pass
+    main_tex_files = list(dir.rglob('main.tex'))
+    if len(main_tex_files) > 5:
+        print(f'[yellow]Skipping detection of {dir} – too many ({len(main_tex_files)}) candidates[/yellow]')
+        return None
+    num = find_from_candidates(main_tex_files, extract_versuch)
+    if main_tex_files and not num:
+        print(f'[yellow]cannot resolve versuch using {main_tex_files}[/yellow]')
+    return num
 
 def printable_files(files):
-    return ', '.join([f'[link={f.html_url}]{f.name}[/link]' for f in files])
+    # return ', '.join([f'[link={f.html_url}]{f.name}[/link]' for f in files])
+    return ', '.join([f'{f.name}' for f in files])
 
-def find_pdfs(base_dir, num, repo, ref=None):
+def find_pdfs(base_dir, num):
+    # print(f"{base_dir=}")
     try:
-        contents = repo.get_contents(base_dir, ref=ref)
+        pdf_files_in_base = base_dir.glob('*.pdf')
     except github.UnknownObjectException as e: # file not found
-        print(f'[yellow]Not found: {base_dir=}, {ref=}[/yellow]')
+        # print(f'[yellow]Not found: {base_dir=}, {ref=}[/yellow]')
         return
-    pdf_files_in_base = [c for c in contents if c.type == 'file' and c.name.endswith('.pdf')]
     RE_VALID_NAMES = rf'(abgabe|korrektur|main|protokoll|[VD]?[._\s]*{num})(.*)\.pdf'
     # RE_INVALID_NAMES = rf'(graph|plot)(.*)\.pdf'
     pdf_matches = [f for f in pdf_files_in_base if re.search(RE_VALID_NAMES, f.name, re.IGNORECASE)]
-    print("pdf_files_in_base:", printable_files(pdf_files_in_base))
-    print("pdf_matches:", printable_files(pdf_matches))
+    # print("pdf_files_in_base:", printable_files(pdf_files_in_base))
+    # print("pdf_matches:", printable_files(pdf_matches))
     if pdf_matches:
         return pdf_matches
     else:
         VALID_SUBDIR_NAMES = ['build', 'latex-template']
-        subdirs = [c for c in contents if c.type == 'dir' and c.name in VALID_SUBDIR_NAMES]
+        subdirs = [c for c in base_dir.iterdir() if c.is_dir() and c.name in VALID_SUBDIR_NAMES]
         for subdir in subdirs:
-            print("Recursing into", subdir.path)
-            result = find_pdfs(subdir.path, num, repo, ref=ref)
+            # print("Recursing into", subdir)
+            result = find_pdfs(subdir, num)
             if result:
                 return result
 
-def import_repo(source, gh):
-    repo = gh.get_repo(source['name'])
-    print(f"+++ [link={repo.html_url}]{source['name']}[/link]: ")
-    branches = repo.get_branches()
-    ref = source.get('branch', github.GithubObject.NotSet)
-    if branches.totalCount > 1 and source.get('branch'):
-        print(f"[yellow]Found multiple branches: {', '.join(b.name for b in branches)}[/yellow]")
+def import_repo(source, gh, refresh=True):
+    print(f"→ [link={source.html_url}]{source.name}[/link]")
+    cwd_path = REPOS_BASE_PATH / source.name.replace('/', '∕')
 
-    subdirs = source.get('subdirectory', '')
-    if isinstance(subdirs, str):
-        subdirs = [subdirs]
-    contents = []
-    for subdir in subdirs:
-        contents.extend(repo.get_contents(subdir, ref=ref))
-    dir_candidates = [c for c in contents if c.type == 'dir']
+    def run_command(command, cwd=cwd_path):
+        print(f'[blue]$ {" ".join(map(str, command))}[/blue]')
+        subprocess.run(command, cwd=cwd) # raises subprocess.CalledProcessError ✓
+
+    if not cwd_path.exists():
+        print("Does not exist – cloning…")
+        # lege einen „shallow clone“ an, um Speicherplatz zu sparen
+        run_command(["git", "clone"] + (["--branch", source.branch] if source.branch else []) + ["--depth", "1", "https://github.com/" + source.name, cwd_path], cwd=None)
+        # ↓ https://stackoverflow.com/a/34396983/6371758
+        # run_command(["git", "-c", 'core.askPass=""', "clone", "--depth", "1", "https://github.com/" + source.name, cwd_path])
+    elif not refresh:
+        print("Exists – NOT pulling, because refresh=False was passed")
+    else:
+        print("Exists – pulling…")
+        run_command(["git", "pull"])
+        if source.branch:
+            # TODO: Viele edge cases wegen des Cachings!
+            run_command(["git", "remote", "set-branches", "origin", source.branch])
+            run_command(["git", "fetch"])
+            run_command(["git", "switch", "-f", source.branch])
+
+    source.last_commit = datetime.utcfromtimestamp(int(subprocess.check_output(["git", "log", "-1", "--format=%at"], cwd=cwd_path)))
+
+    # Unsauber: Ursprünglich ist `branch` nur angegeben, wenn es sich nicht um den default branch handelt.
+    # Hiermit stellen wir sicher, dass `branch` immer korrekt gesetzt ist, weil wir ihn zwingend benötigen.
+    source.branch = subprocess.check_output(["git", "branch", "--show-current"], cwd=cwd_path).decode().strip()
+
+    dir_candidates = []
+    for subdir in source.subdirs:
+        dir_candidates.extend([f.relative_to(cwd_path) for f in (cwd_path / subdir).iterdir() if f.is_dir()])
 
     versuche = dict()
     for dir in dir_candidates:
-        num = getVersuchNummerAdvanced(dir, source.get('dirs_to_versuche'), repo, ref=ref)
+        num = get_versuch_nummer_advanced(cwd_path / dir, source.dirs_to_versuche)
         if not num:
             continue
         elif num in versuche:
@@ -90,15 +99,15 @@ def import_repo(source, gh):
         else:
             versuche.setdefault(num, {})['dirs'] = [dir]
 
-    if 'pdfs' in source:
-        if 'directory' in source['pdfs']:
-            print(f"[green]PDFs in \"{source['pdfs']['directory']}\"[/green]")
-            pdf_contents = repo.get_contents(source['pdfs']['directory'], ref=ref)
-            pdf_candidates = [c for c in pdf_contents if c.type == 'file' and c.name.endswith('.pdf')]
-            print("pdf_candidates:", printable_files(pdf_candidates))
+    if source.pdfs:
+        if 'directory' in source.pdfs:
+            print(f"[green]PDFs in \"{source.pdfs['directory']}\"[/green]")
+            pdf_candidate_files = (cwd_path / source.pdfs['directory']).rglob('*.pdf')
+            pdf_candidates = list(Pdf(path.relative_to(cwd_path), source) for path in pdf_candidate_files)
+            print(f"{pdf_candidates=}")
 
             for pdf in pdf_candidates:
-                num = getVersuchNummer(pdf.name, source.get('dirs_to_versuche'))
+                num = parse_versuch_nummer(pdf.name, source.dirs_to_versuche)
                 if not num:
                     continue
                 elif num in versuche and 'pdfs' in versuche[num]:
@@ -106,12 +115,12 @@ def import_repo(source, gh):
                 else:
                     versuche.setdefault(num, {})['pdfs'] = [pdf]
 
-        elif source['pdfs'].get('in_source_dir'):
+        elif source.pdfs.get('in_source_dir'):
             print("[green]PDFs in source dir[/green]")
             for num, v in versuche.items():
-                print("Checking", num)
                 for dir in v['dirs']:
-                    pdfs = find_pdfs(dir.path, num, repo, ref=ref)
+                    pdfs = find_pdfs(cwd_path / dir, num)
+                    pdfs = list(Pdf(path.relative_to(cwd_path), source) for path in pdfs) if pdfs else None
                     if not pdfs:
                         continue
                     elif num in versuche and 'pdfs' in versuche[num]:
@@ -119,19 +128,18 @@ def import_repo(source, gh):
                     else:
                         versuche.setdefault(num, {})['pdfs'] = pdfs
 
-    source['contributors'] = list(repo.get_contributors())
-    source['lastCommit'] = getLastCommit(repo)
-    source['repo'] = repo
-    source['versuche'] = versuche
 
-    source['num_dirs'] = sum(1 for v in versuche.values() if 'dirs' in v)
-    source['num_pdfs'] = sum(1 for v in versuche.values() if 'pdfs' in v)
-    source['num_pdfs_total'] = sum(len(v['pdfs']) for v in versuche.values() if 'pdfs' in v)
+    source.versuche = versuche
+    source.num_dirs = sum(1 for v in versuche.values() if 'dirs' in v)
+    source.num_pdfs = sum(1 for v in versuche.values() if 'pdfs' in v)
+    source.num_pdfs_total = sum(len(v['pdfs']) for v in versuche.values() if 'pdfs' in v)
 
+    print('Erkannte Versuche:', sorted(list(versuche.keys())))
     print(
-        f'{len(versuche)} Versuche erkannt;',
-        f'{source["num_dirs"]} Ordner,',
-        f'{source["num_pdfs"]} Versuche mit PDFs,',
-        f'{source["num_pdfs_total"]} PDFs insgesamt',
+        f'{len(source.versuche)} Versuche erkannt;',
+        f'{source.num_dirs} Ordner,',
+        f'{source.num_pdfs} Versuche mit PDFs,',
+        f'{source.num_pdfs_total} PDFs insgesamt',
         )
+
     return source

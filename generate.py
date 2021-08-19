@@ -1,18 +1,17 @@
 from datetime import datetime
 import os
 import pytablewriter
-import urllib
+from urllib.parse import quote
 
 def fmt_repo(repo):
-    owner = repo["name"].split("/")[0]
-    return f'[{owner}](../repo/{owner})'
+    return f'[{repo.login}](../repo/{repo.login})'
 
-def fmt_dirs(dirs):
+def fmt_dirs(repo, dirs):
     if not dirs:
         return '–'
-    return '<br/>'.join(fmt_content(dir) for dir in sorted(dirs, key=lambda dir: dir.name.lower()))
+    return '<br/>'.join(fmt_content(repo, dir) for dir in sorted(dirs, key=lambda dir: dir.name.lower()))
 
-def fmt_pdfs(pdfs):
+def fmt_pdfs(repo, pdfs):
     if not pdfs:
         return '–'
     return '<br/>'.join(fmt_pdf(pdf) for pdf in sorted(pdfs, key=lambda pdf: pdf.name.lower()))
@@ -20,8 +19,15 @@ def fmt_pdfs(pdfs):
 def fmt_pdf(pdf):
     return f"[{pdf.name}](https://docs.google.com/viewer?url={pdf.download_url})" if pdf else '–'
 
-def fmt_content(c):
-    return f"[{c.name}]({c.html_url})" if c else '–'
+def fmt_content(repo, c):
+    from pathlib import Path
+    assert isinstance(c, Path)
+    html_url = content_url(repo, c)
+    return f"[{c.name}]({html_url})" if c else '–'
+
+def content_url(repo, path):
+    safe = "/[()]'&,"
+    return f'{repo.html_url}/tree/{repo.branch}/{quote(str(path), safe=safe)}'  # TODO: wieder escapen!
 
 def generate_md(repos_to_versuche, versuche_to_repos):
     os.makedirs('build/versuch', exist_ok=True)
@@ -36,39 +42,38 @@ def generate_md(repos_to_versuche, versuche_to_repos):
 
             writer.headers = ['Repo von', 'Ordner', 'PDFs']
             writer.value_matrix = []
-            for r in sorted(repos, key=lambda r: r['name'].lower()):
-                versuch_data = r['versuche'][versuch]
+            for r in sorted(repos, key=lambda r: r.name.lower()):
+                versuch_data = r.versuche[versuch]
                 writer.value_matrix.append((
                     fmt_repo(r),
-                    fmt_dirs(versuch_data.get('dirs')),
-                    fmt_pdfs(versuch_data.get('pdfs'))
+                    fmt_dirs(r, versuch_data.get('dirs')),
+                    fmt_pdfs(r, versuch_data.get('pdfs'))
                  ))
             out += writer.dumps()
             g.write(out)
 
     ## Repo → Versuche
     for repo in repos_to_versuche:
-        owner = repo['name'].split('/')[0]
-        with open(f'build/repo/{owner}.md', 'w') as g:
-            out = f'# Repo von *{owner}*\n\n'
-            out += f'## [zum Repo auf GitHub]({repo["repo"].html_url})\n\n'
+        with open(f'build/repo/{repo.login}.md', 'w') as g:
+            out = f'# Repo von *{repo.login}*\n\n'
+            out += f'## [zum Repo auf GitHub]({repo.html_url})\n\n'
 
-            lastCommit = repo['lastCommit'].strftime('%d.%m.%Y %H:%M:%S')
+            lastCommit = repo.last_commit.strftime('%d.%m.%Y %H:%M:%S')
             out += f'Letzter Commit: {lastCommit}\n\n'
 
-            if len(repo['contributors']) > 1:
-                contributors = "\n".join([f'- [{c.login}]({c.html_url})' for c in repo['contributors']])
+            if len(repo.contributors) > 1:
+                contributors = "\n".join([f'- [{c.login}]({c.html_url})' for c in repo.contributors])
                 out += '## Autoren\n' + contributors + '\n\n'
 
             out += f'## Versuche\n\n'
             writer.headers = ['Versuch', 'Ordner', 'PDFs']
             writer.value_matrix = []
-            for num in sorted(repo['versuche']):
-                v = repo['versuche'][num]
+            for num in sorted(repo.versuche):
+                v = repo.versuche[num]
                 writer.value_matrix.append((
                     f'[{num}](../versuch/{num})',
-                    fmt_dirs(v.get('dirs')),
-                    fmt_pdfs(v.get('pdfs'))
+                    fmt_dirs(repo, v.get('dirs')),
+                    fmt_pdfs(repo, v.get('pdfs'))
                 ))
             out += writer.dumps()
 
@@ -93,15 +98,13 @@ def generate_md(repos_to_versuche, versuche_to_repos):
         out += f'## Repos\n\n'
         writer.headers = ['Repo von', '', 'Letzter Commit', '# Protokolle', '# Protokolle mit PDFs']
         writer.value_matrix = []
-        for r in sorted(repos_to_versuche, key=lambda r: r['name'].lower()):
-            name = r['name'].split('/')[0]
-            lastCommit = r['lastCommit'].strftime('%d.%m.%Y %H:%M:%S')
+        for r in sorted(repos_to_versuche, key=lambda r: r.name.lower()):
             writer.value_matrix.append((
-                f'[{name}]({r["repo"].html_url})',
-                f'[Übersicht](repo/{name})',
-                f'{lastCommit}',
-                f'{len(r["versuche"])}',
-                f'{sum(1 for versuch in r["versuche"].values() if "pdfs" in versuch)}'))
+                f'[{r.login}]({r.html_url})',
+                f'[Übersicht](repo/{r.login})',
+                f'{r.last_commit.strftime("%d.%m.%Y %H:%M:%S")}',
+                f'{len(r.versuche)}',
+                f'{sum(1 for versuch in r.versuche.values() if "pdfs" in versuch)}'))
         out += writer.dumps()
         out += '\n\n'
 
@@ -109,7 +112,7 @@ def generate_md(repos_to_versuche, versuche_to_repos):
         out += f'- **{len(repos_to_versuche)}** Repos\n'
         out += f'- **{len(versuche_to_repos.keys())}** Versuche\n'
         out += f'- **{sum([len(repos) for versuch, repos in versuche_to_repos.items()])}** Protokolle\n'
-        out += f'- **{sum(repo["num_pdfs"] for repo in repos_to_versuche)}** Protokolle mit PDFs\n'
-        out += f'- **{sum(repo["num_pdfs_total"] for repo in repos_to_versuche)}** PDFs insgesamt\n'
+        out += f'- **{sum(repo.num_pdfs for repo in repos_to_versuche)}** Protokolle mit PDFs\n'
+        out += f'- **{sum(repo.num_pdfs_total for repo in repos_to_versuche)}** PDFs insgesamt\n'
 
         g.write(out)
