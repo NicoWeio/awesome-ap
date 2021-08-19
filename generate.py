@@ -9,12 +9,12 @@ def fmt_repo(repo):
 def fmt_dirs(repo, dirs):
     if not dirs:
         return '–'
-    return '<br/>'.join(fmt_content(repo, dir) for dir in dirs)
+    return '<br/>'.join(fmt_content(repo, dir) for dir in sorted(dirs, key=lambda dir: dir.name.lower()))
 
 def fmt_pdfs(repo, pdfs):
     if not pdfs:
         return '–'
-    return '<br/>'.join(fmt_pdf(pdf) for pdf in pdfs)
+    return '<br/>'.join(fmt_pdf(pdf) for pdf in sorted(pdfs, key=lambda pdf: pdf.name.lower()))
 
 def fmt_pdf(pdf):
     return f"[{pdf.name}](https://docs.google.com/viewer?url={pdf.download_url})" if pdf else '–'
