@@ -7,6 +7,7 @@ from generate import generate_md
 from import_repo import import_repo
 import transpose
 from repo import Repo
+from export import generate_yaml
 
 load_dotenv()
 
@@ -30,6 +31,9 @@ versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
 
 ### Generieren der statischen Website-Inhalte:
 generate_md(repos_to_versuche, versuche_to_repos)
+
+### Generieren einer (in erster Linie) maschinenlesbaren Datenbank:
+generate_yaml(repos_to_versuche)
 
 def stats():
     out = ""
