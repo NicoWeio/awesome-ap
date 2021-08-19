@@ -10,12 +10,12 @@ def fmt_repo(repo):
 def fmt_dirs(dirs):
     if not dirs:
         return '–'
-    return '<br/>'.join(fmt_content(dir) for dir in dirs)
+    return '<br/>'.join(fmt_content(dir) for dir in sorted(dirs, key=lambda dir: dir.name.lower()))
 
 def fmt_pdfs(pdfs):
     if not pdfs:
         return '–'
-    return '<br/>'.join(fmt_pdf(pdf) for pdf in pdfs)
+    return '<br/>'.join(fmt_pdf(pdf) for pdf in sorted(pdfs, key=lambda pdf: pdf.name.lower()))
 
 def fmt_pdf(pdf):
     return f"[{pdf.name}](https://docs.google.com/viewer?url={pdf.download_url})" if pdf else '–'
@@ -36,7 +36,7 @@ def generate_md(repos_to_versuche, versuche_to_repos):
 
             writer.headers = ['Repo von', 'Ordner', 'PDFs']
             writer.value_matrix = []
-            for r in repos:
+            for r in sorted(repos, key=lambda r: r['name'].lower()):
                 versuch_data = r['versuche'][versuch]
                 writer.value_matrix.append((
                     fmt_repo(r),
