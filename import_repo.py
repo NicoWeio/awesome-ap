@@ -15,12 +15,6 @@ REPOS_BASE_PATH = Path(os.getenv('REPOS_BASE_PATH'))
 REPOS_BASE_PATH.mkdir(exist_ok=True)
 
 def get_versuch_nummer_advanced(dir, dirs_to_versuche):
-    ##TEST
-    # main_tex_files = list(dir.rglob('main.tex'))
-    # title = find_from_candidates(main_tex_files, extract_title)
-    # print(f"{title=}")
-    ##TEST
-
     basic_result = parse_versuch_nummer(dir.name, dirs_to_versuche)
     if basic_result:
         return basic_result
@@ -30,7 +24,7 @@ def get_versuch_nummer_advanced(dir, dirs_to_versuche):
         return None
     num = find_from_candidates(main_tex_files, extract_versuch)
     if main_tex_files and not num:
-        print(f'cannot resolve versuch using {main_tex_files}')
+        print(f'[yellow]cannot resolve versuch using {main_tex_files}[/yellow]')
     return num
 
 def printable_files(files):
