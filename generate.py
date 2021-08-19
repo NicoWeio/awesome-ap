@@ -49,7 +49,7 @@ def generate_md(repos_to_versuche, versuche_to_repos):
                     fmt_pdfs(r, versuch_data.get('pdfs'))
                  ))
             out += writer.dumps()
-            # g.write(out)
+            g.write(out)
 
     ## Repo → Versuche
     for repo in repos_to_versuche:
@@ -76,7 +76,7 @@ def generate_md(repos_to_versuche, versuche_to_repos):
                 ))
             out += writer.dumps()
 
-            # g.write(out)
+            g.write(out)
 
     ## Startseite
     with open(f'build/index.md', 'w') as g:
@@ -110,4 +110,4 @@ def generate_md(repos_to_versuche, versuche_to_repos):
         out += f'- **{len(versuche_to_repos.keys())}** Versuche\n'
         out += f'- **{sum([len(repos) for versuch, repos in versuche_to_repos.items()])}** Protokolle\n'
 
-        # g.write(out)
+        g.write(out)
