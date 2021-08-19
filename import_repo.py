@@ -25,6 +25,9 @@ def get_versuch_nummer_advanced(dir, dirs_to_versuche):
     if basic_result:
         return basic_result
     main_tex_files = list(dir.rglob('main.tex'))
+    if len(main_tex_files) > 5:
+        print(f'[yellow]Skipping detection of {dir} – too many ({len(main_tex_files)}) candidates[/yellow]')
+        return None
     num = find_from_candidates(main_tex_files, extract_versuch)
     if main_tex_files and not num:
         print(f'cannot resolve versuch using {main_tex_files}')
