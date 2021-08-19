@@ -86,7 +86,7 @@
 |[Mampfzwerg](https://github.com/Mampfzwerg/Praktikum)                           |[Übersicht](repo/Mampfzwerg)         |22.06.2019 00:18:30|          23|                   22|
 |[moritzbo](https://github.com/moritzbo/anfaenger_praktikum)                     |[Übersicht](repo/moritzbo)           |30.06.2021 11:21:40|          17|                    0|
 |[NicoJG](https://github.com/NicoJG/Anfaengerpraktikum)                          |[Übersicht](repo/NicoJG)             |04.08.2020 12:33:58|          21|                   20|
-|[NicoWeio](https://github.com/NicoWeio/AP)                                      |[Übersicht](repo/NicoWeio)           |29.07.2021 13:22:34|          18|                   18|
+|[NicoWeio](https://github.com/NicoWeio/AP)                                      |[Übersicht](repo/NicoWeio)           |29.07.2021 13:01:02|          18|                   18|
 |[nsalewski](https://github.com/nsalewski/laboratory)                            |[Übersicht](repo/nsalewski)          |23.07.2018 07:32:48|          23|                    0|
 |[pascalgutjahr](https://github.com/pascalgutjahr/Praktikum-1)                   |[Übersicht](repo/pascalgutjahr)      |08.04.2019 18:36:29|           5|                    0|
 |[paul-stoerbrock](https://github.com/paul-stoerbrock/Praktikum)                 |[Übersicht](repo/paul-stoerbrock)    |17.07.2020 15:53:36|          18|                    0|
