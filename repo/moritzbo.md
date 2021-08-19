@@ -17,7 +17,7 @@ Letzter Commit: 30.06.2021 11:21:40
 |[204](../versuch/204)|[V204-Wärmeleitung](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V204-W%C3%A4rmeleitung)                                          |–   |
 |[206](../versuch/206)|[D206-Wärmepumpe](https://github.com/moritzbo/anfaenger_praktikum/tree/main/D206-W%C3%A4rmepumpe)                                              |–   |
 |[302](../versuch/302)|[V302-Brückenschaltung](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V302-Br%C3%BCckenschaltung)                                  |–   |
-|[303](../versuch/303)|[V303Locked&Loaded](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V303Locked%26Loaded)                                             |–   |
+|[303](../versuch/303)|[V303Locked&Loaded](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V303Locked&Loaded)                                               |–   |
 |[311](../versuch/311)|[V311-Hall-Effekt](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V311-Hall-Effekt)                                                 |–   |
 |[353](../versuch/353)|[V353-RC](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V353-RC)                                                                   |–   |
 |[400](../versuch/400)|[V400](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V400)                                                                         |–   |
