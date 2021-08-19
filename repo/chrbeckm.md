@@ -14,7 +14,7 @@ Letzter Commit: 09.11.2019 16:04:46
 |[206](../versuch/206)|[v206](https://github.com/chrbeckm/anfaenger-praktikum/tree/master/v206)                                                                                     |–   |
 |[301](../versuch/301)|[v301](https://github.com/chrbeckm/anfaenger-praktikum/tree/master/v301)                                                                                     |–   |
 |[302](../versuch/302)|[v302](https://github.com/chrbeckm/anfaenger-praktikum/tree/master/v302)                                                                                     |–   |
-|[308](../versuch/308)|[v308_2](https://github.com/chrbeckm/anfaenger-praktikum/tree/master/v308_2)<br/>[v308_1](https://github.com/chrbeckm/anfaenger-praktikum/tree/master/v308_1)|–   |
+|[308](../versuch/308)|[v308_1](https://github.com/chrbeckm/anfaenger-praktikum/tree/master/v308_1)<br/>[v308_2](https://github.com/chrbeckm/anfaenger-praktikum/tree/master/v308_2)|–   |
 |[351](../versuch/351)|[v351](https://github.com/chrbeckm/anfaenger-praktikum/tree/master/v351)                                                                                     |–   |
 |[353](../versuch/353)|[v353](https://github.com/chrbeckm/anfaenger-praktikum/tree/master/v353)                                                                                     |–   |
 |[354](../versuch/354)|[v354](https://github.com/chrbeckm/anfaenger-praktikum/tree/master/v354)                                                                                     |–   |

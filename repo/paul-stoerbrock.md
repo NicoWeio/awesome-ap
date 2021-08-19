@@ -23,10 +23,10 @@ Letzter Commit: 17.07.2020 15:53:36
 |[406](../versuch/406)|[V406](https://github.com/paul-stoerbrock/Praktikum/tree/master/V406)                                                                                  |–   |
 |[500](../versuch/500)|[V500](https://github.com/paul-stoerbrock/Praktikum/tree/master/V500)                                                                                  |–   |
 |[601](../versuch/601)|[V601](https://github.com/paul-stoerbrock/Praktikum/tree/master/V601)                                                                                  |–   |
-|[602](../versuch/602)|[V602_T](https://github.com/paul-stoerbrock/Praktikum/tree/master/V602_T)<br/>[V602_P](https://github.com/paul-stoerbrock/Praktikum/tree/master/V602_P)|–   |
-|[603](../versuch/603)|[V603_T](https://github.com/paul-stoerbrock/Praktikum/tree/master/V603_T)<br/>[V603_P](https://github.com/paul-stoerbrock/Praktikum/tree/master/V603_P)|–   |
+|[602](../versuch/602)|[V602_P](https://github.com/paul-stoerbrock/Praktikum/tree/master/V602_P)<br/>[V602_T](https://github.com/paul-stoerbrock/Praktikum/tree/master/V602_T)|–   |
+|[603](../versuch/603)|[V603_P](https://github.com/paul-stoerbrock/Praktikum/tree/master/V603_P)<br/>[V603_T](https://github.com/paul-stoerbrock/Praktikum/tree/master/V603_T)|–   |
 |[702](../versuch/702)|[V702](https://github.com/paul-stoerbrock/Praktikum/tree/master/V702)                                                                                  |–   |
-|[703](../versuch/703)|[V703_T](https://github.com/paul-stoerbrock/Praktikum/tree/master/V703_T)<br/>[V703_P](https://github.com/paul-stoerbrock/Praktikum/tree/master/V703_P)|–   |
+|[703](../versuch/703)|[V703_P](https://github.com/paul-stoerbrock/Praktikum/tree/master/V703_P)<br/>[V703_T](https://github.com/paul-stoerbrock/Praktikum/tree/master/V703_T)|–   |
 |[802](../versuch/802)|[V802](https://github.com/paul-stoerbrock/Praktikum/tree/master/V802)                                                                                  |–   |
 |[803](../versuch/803)|[V803](https://github.com/paul-stoerbrock/Praktikum/tree/master/V803)                                                                                  |–   |
 |[903](../versuch/903)|[V903](https://github.com/paul-stoerbrock/Praktikum/tree/master/V903)                                                                                  |–   |
