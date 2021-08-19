@@ -21,15 +21,9 @@ class Repo:
         if isinstance(self.subdirs, str):
             self.subdirs = [self.subdirs]
 
-        # print(f'Initializing {self.name}…')
-        # try:
-        #     gh_repo = gh.get_repo(self.name)
-        # except github.UnknownObjectException:
-        #     print(f"[yellow]Not found: {self.name}[/yellow]")
-        #     raise
         self.contributors = []  # list(gh_repo.get_contributors())
+        # TODO: missing branch ↓
         self.html_url = f'https://github.com/{self.name}'  # gh_repo.html_url
-        self.last_commit = None  # get_last_commit(gh_repo)
 
     def __str__(self):
         return self.name

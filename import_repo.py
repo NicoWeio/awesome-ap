@@ -85,8 +85,9 @@ def import_repo(source, gh, refresh=True):
 
     source.last_commit = datetime.utcfromtimestamp(int(subprocess.check_output(["git", "log", "-1", "--format=%at"], cwd=cwd_path)))
 
-    # output = subprocess.check_output(["git", "log", "-1", "--format=%aI"], cwd=cwd_path)
-    # source.last_commit = datetime.fromisoformat(output.decode().strip())
+    # Unsauber: Ursprünglich ist `branch` nur angegeben, wenn es sich nicht um den default branch handelt.
+    # Hiermit stellen wir sicher, dass `branch` immer korrekt gesetzt ist, weil wir ihn zwingend benötigen.
+    source.branch = subprocess.check_output(["git", "branch", "--show-current"], cwd=cwd_path).decode().strip()
 
     dir_candidates = []
     for subdir in source.subdirs:
@@ -106,7 +107,7 @@ def import_repo(source, gh, refresh=True):
         if 'directory' in source.pdfs:
             print(f"[green]PDFs in \"{source.pdfs['directory']}\"[/green]")
             pdf_candidate_files = (cwd_path / source.pdfs['directory']).rglob('*.pdf')
-            pdf_candidates = list(Pdf(path, source) for path in pdf_candidate_files)
+            pdf_candidates = list(Pdf(path.relative_to(cwd_path), source) for path in pdf_candidate_files)
             print(f"{pdf_candidates=}")
 
             for pdf in pdf_candidates:
@@ -123,7 +124,7 @@ def import_repo(source, gh, refresh=True):
             for num, v in versuche.items():
                 for dir in v['dirs']:
                     pdfs = find_pdfs(cwd_path / dir, num)
-                    pdfs = list(Pdf(path, source) for path in pdfs) if pdfs else None
+                    pdfs = list(Pdf(path.relative_to(cwd_path), source) for path in pdfs) if pdfs else None
                     if not pdfs:
                         continue
                     elif num in versuche and 'pdfs' in versuche[num]:

@@ -1,9 +1,11 @@
+from urllib.parse import quote
+
 class Pdf:
     def __init__(self, path, repo):
         self.path = path
         self.repo = repo
 
-        self.download_url = str(path)  # TODO
+        self.download_url = f'https://github.com/{repo.name}/raw/{repo.branch}/{quote(str(path))}'
         self.name = self.path.name
 
     def __str__(self):
