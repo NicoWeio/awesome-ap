@@ -1,3 +1,4 @@
+from datetime import datetime
 from dotenv import load_dotenv
 import github
 import re
@@ -10,10 +11,8 @@ from pdf import Pdf
 from analyze_content import parse_versuch_nummer, find_from_candidates, extract_title, extract_versuch
 
 load_dotenv()
-REPOS_BASE_PATH = Path(os.getenv('REPOS_BASE_PATH') or os.getenv('INPUT_REPOS_BASE_PATH'))
+REPOS_BASE_PATH = Path(os.getenv('REPOS_BASE_PATH'))
 REPOS_BASE_PATH.mkdir(exist_ok=True)
-print(f"{os.getenv('REPOS_BASE_PATH')=}")
-print(f"{os.getenv('INPUT_REPOS_BASE_PATH')=}")
 
 def get_versuch_nummer_advanced(dir, dirs_to_versuche):
     ##TEST
@@ -83,6 +82,11 @@ def import_repo(source, gh, refresh=True):
             run_command(["git", "remote", "set-branches", "origin", source.branch])
             run_command(["git", "fetch"])
             run_command(["git", "switch", "-f", source.branch])
+
+    source.last_commit = datetime.utcfromtimestamp(int(subprocess.check_output(["git", "log", "-1", "--format=%at"], cwd=cwd_path)))
+
+    # output = subprocess.check_output(["git", "log", "-1", "--format=%aI"], cwd=cwd_path)
+    # source.last_commit = datetime.fromisoformat(output.decode().strip())
 
     dir_candidates = []
     for subdir in source.subdirs:
