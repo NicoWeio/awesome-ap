@@ -109,5 +109,7 @@ def generate_md(repos_to_versuche, versuche_to_repos):
         out += f'- **{len(repos_to_versuche)}** Repos\n'
         out += f'- **{len(versuche_to_repos.keys())}** Versuche\n'
         out += f'- **{sum([len(repos) for versuch, repos in versuche_to_repos.items()])}** Protokolle\n'
+        out += f'- **{sum(repo.num_pdfs for repo in repos_to_versuche)}** Protokolle mit PDFs\n'
+        out += f'- **{sum(repo.num_pdfs_total for repo in repos_to_versuche)}** PDFs insgesamt\n'
 
         g.write(out)
