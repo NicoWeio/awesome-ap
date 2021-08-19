@@ -1,0 +1,3214 @@
+- branch: main
+  contributors:
+  - html_url: https://github.com/BenediktSan
+    login: BenediktSan
+  last_commit: 2021-07-05 21:32:58
+  name: BenediktSan/AnfaengerPraktikum2020
+  protokolle:
+    103:
+      dirs:
+      - Versuche Semester III/8. 103
+      pdfs:
+      - Versuche Semester III/8. 103/V103.pdf
+    106:
+      dirs:
+      - Versuche Semester III/7. 106
+      - Versuche Semester IV/7. 106
+      pdfs:
+      - Versuche Semester III/7. 106/V106.pdf
+      - Versuche Semester IV/7. 106/V106.pdf
+    203:
+      dirs:
+      - Versuche Semester III/4. V203
+      pdfs:
+      - Versuche Semester III/4. V203/Protokoll_V203.pdf
+      - Versuche Semester III/4. V203/V203.pdf
+    204:
+      dirs:
+      - Versuche Semester IV/11. V204
+      pdfs:
+      - Versuche Semester IV/11. V204/V204.pdf
+    206:
+      dirs:
+      - Versuche Semester III/3. D206
+      pdfs: []
+    302:
+      dirs:
+      - Versuche Semester IV/10. V302
+      pdfs:
+      - Versuche Semester IV/10. V302/V302.pdf
+    311:
+      dirs:
+      - Versuche Semester III/5. V311
+      pdfs:
+      - Versuche Semester III/5. V311/V311.pdf
+    353:
+      dirs:
+      - Versuche Semester IV/4. V353
+      pdfs:
+      - Versuche Semester IV/4. V353/V353.pdf
+    354:
+      dirs:
+      - Versuche Semester III/6. V354
+      pdfs:
+      - Versuche Semester III/6. V354/V354.pdf
+      - Versuche Semester III/6. V354/altV354.pdf
+    400:
+      dirs:
+      - Versuche Semester IV/2. V400
+      pdfs:
+      - Versuche Semester IV/2. V400/V400.pdf
+    401:
+      dirs:
+      - Versuche Semester IV/8. V401
+      pdfs:
+      - Versuche Semester IV/8. V401/V401.pdf
+    406:
+      dirs:
+      - Versuche Semester IV/12. V406
+      pdfs:
+      - Versuche Semester IV/12. V406/V406.pdf
+    500:
+      dirs:
+      - Versuche Semester IV/1. 500
+      pdfs:
+      - Versuche Semester IV/1. 500/V500.pdf
+    601:
+      dirs:
+      - Versuche Semester IV/6. 601
+      pdfs:
+      - Versuche Semester IV/6. 601/V601.pdf
+    602:
+      dirs:
+      - Versuche Semester IV/9. V602
+      pdfs:
+      - Versuche Semester IV/9. V602/V602.pdf
+    603:
+      dirs:
+      - Versuche Semester IV/3. 603
+      pdfs: []
+    702:
+      dirs:
+      - Versuche Semester III/10. V702
+      pdfs:
+      - Versuche Semester III/10. V702/Altprotokoll.pdf
+    703:
+      dirs:
+      - Versuche Semester III/9.V703
+      pdfs: []
+    901:
+      dirs:
+      - Versuche Semester IV/5. US1
+      pdfs:
+      - Versuche Semester IV/5. US1/V901.pdf
+- branch: master
+  contributors:
+  - html_url: https://github.com/chrbeckm
+    login: chrbeckm
+  last_commit: 2019-11-09 16:04:46
+  name: chrbeckm/anfaenger-praktikum
+  protokolle:
+    103:
+      dirs:
+      - v103
+      pdfs: []
+    201:
+      dirs:
+      - v201
+      pdfs: []
+    204:
+      dirs:
+      - v204
+      pdfs: []
+    206:
+      dirs:
+      - v206
+      pdfs: []
+    301:
+      dirs:
+      - v301
+      pdfs: []
+    302:
+      dirs:
+      - v302
+      pdfs: []
+    308:
+      dirs:
+      - v308_2
+      - v308_1
+      pdfs: []
+    351:
+      dirs:
+      - v351
+      pdfs: []
+    353:
+      dirs:
+      - v353
+      pdfs: []
+    354:
+      dirs:
+      - v354
+      pdfs: []
+    401:
+      dirs:
+      - v401
+      pdfs: []
+    406:
+      dirs:
+      - v406
+      pdfs: []
+    501:
+      dirs:
+      - v501_502
+      pdfs: []
+    504:
+      dirs:
+      - v504
+      pdfs: []
+    601:
+      dirs:
+      - v601
+      pdfs: []
+    602:
+      dirs:
+      - v602
+      pdfs: []
+    702:
+      dirs:
+      - v702
+      pdfs: []
+    703:
+      dirs:
+      - v703
+      pdfs: []
+    901:
+      dirs:
+      - us1
+      pdfs: []
+    902:
+      dirs:
+      - us2
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/chris-topher6
+    login: chris-topher6
+  - html_url: https://github.com/Hernyoo
+    login: Hernyoo
+  - html_url: https://github.com/NicoWeio
+    login: NicoWeio
+  last_commit: 2021-07-28 13:57:22
+  name: chris-topher6/Anfaenger-Praktikum
+  protokolle:
+    103:
+      dirs:
+      - V103
+      pdfs: []
+    106:
+      dirs:
+      - V106
+      pdfs: []
+    203:
+      dirs:
+      - V203
+      pdfs: []
+    204:
+      dirs:
+      - V204
+      pdfs: []
+    206:
+      dirs:
+      - D206
+      pdfs: []
+    302:
+      dirs:
+      - V302
+      pdfs: []
+    311:
+      dirs:
+      - V311
+      pdfs: []
+    354:
+      dirs:
+      - V354
+      pdfs: []
+    400:
+      dirs:
+      - V400
+      pdfs: []
+    406:
+      dirs:
+      - V406
+      pdfs: []
+    500:
+      dirs:
+      - V500
+      pdfs: []
+    504:
+      dirs:
+      - V504
+      pdfs: []
+    601:
+      dirs:
+      - V601
+      pdfs: []
+    602:
+      dirs:
+      - V602
+      pdfs: []
+    603:
+      dirs:
+      - V603
+      pdfs: []
+    702:
+      dirs:
+      - V702
+      pdfs: []
+    703:
+      dirs:
+      - V703
+      pdfs: []
+    903:
+      dirs:
+      - US3
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/larsfu
+    login: larsfu
+  - html_url: https://github.com/dagbjoern
+    login: dagbjoern
+  last_commit: 2016-07-12 09:19:16
+  name: dagbjoern/AP-Physik
+  protokolle:
+    101:
+      dirs:
+      - V101
+      pdfs:
+      - V101/main.pdf
+    104:
+      dirs:
+      - V104
+      pdfs:
+      - V104/main.pdf
+    107:
+      dirs:
+      - V107
+      pdfs:
+      - V107/main.pdf
+    201:
+      dirs:
+      - V201
+      pdfs:
+      - V201/main.pdf
+    203:
+      dirs:
+      - V203
+      pdfs:
+      - V203/main.pdf
+    204:
+      dirs:
+      - V204
+      pdfs:
+      - V204/main.pdf
+    301:
+      dirs:
+      - V301
+      pdfs: []
+    302:
+      dirs:
+      - V302
+      pdfs: []
+    303:
+      dirs:
+      - V303
+      pdfs: []
+    311:
+      dirs:
+      - V311
+      pdfs: []
+    353:
+      dirs:
+      - V353
+      pdfs:
+      - V353/main.pdf
+    355:
+      dirs:
+      - V355
+      pdfs:
+      - V355/main.pdf
+    406:
+      dirs:
+      - V406
+      pdfs: []
+    408:
+      dirs:
+      - V408
+      pdfs: []
+    500:
+      dirs:
+      - V500
+      pdfs: []
+    501:
+      dirs:
+      - V501-2
+      pdfs: []
+    504:
+      dirs:
+      - V504
+      pdfs: []
+    605:
+      dirs:
+      - V605
+      pdfs: []
+    606:
+      dirs:
+      - V606
+      pdfs: []
+    703:
+      dirs:
+      - V703
+      pdfs: []
+    704:
+      dirs:
+      - V704
+      pdfs: []
+    903:
+      dirs:
+      - US3
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/dlmsr
+    login: dlmsr
+  - html_url: https://github.com/kevinmoc
+    login: kevinmoc
+  last_commit: 2020-03-12 11:10:24
+  name: dlmsr/praktikum
+  protokolle:
+    46:
+      dirs:
+      - V046
+      pdfs: []
+    52:
+      dirs:
+      - V052
+      pdfs: []
+    53:
+      dirs:
+      - V053
+      pdfs: []
+    61:
+      dirs:
+      - V061
+      pdfs: []
+    64:
+      dirs:
+      - V064
+      pdfs: []
+    101:
+      dirs:
+      - V101
+      pdfs: []
+    103:
+      dirs:
+      - V103
+      pdfs: []
+    107:
+      dirs:
+      - V107
+      pdfs: []
+    201:
+      dirs:
+      - V201
+      pdfs: []
+    204:
+      dirs:
+      - V204
+      pdfs: []
+    207:
+      dirs:
+      - V207
+      pdfs: []
+    301:
+      dirs:
+      - V301
+      pdfs: []
+    302:
+      dirs:
+      - V302
+      pdfs: []
+    303:
+      dirs:
+      - V303
+      pdfs: []
+    351:
+      dirs:
+      - V351
+      pdfs: []
+    353:
+      dirs:
+      - V353
+      pdfs: []
+    354:
+      dirs:
+      - V354
+      pdfs: []
+    406:
+      dirs:
+      - V406
+      pdfs: []
+    408:
+      dirs:
+      - V408
+      pdfs: []
+    501:
+      dirs:
+      - V501_2
+      pdfs: []
+    504:
+      dirs:
+      - V504
+      pdfs: []
+    602:
+      dirs:
+      - V602
+      pdfs: []
+    606:
+      dirs:
+      - V606
+      pdfs: []
+    701:
+      dirs:
+      - V701
+      pdfs: []
+    702:
+      dirs:
+      - V702
+      pdfs: []
+    703:
+      dirs:
+      - V703
+      pdfs: []
+- branch: main
+  contributors:
+  - html_url: https://github.com/dormail
+    login: dormail
+  - html_url: https://github.com/philipjy
+    login: philipjy
+  last_commit: 2021-07-15 06:59:00
+  name: dormail/ap
+  protokolle:
+    103:
+      dirs:
+      - V103
+      pdfs: []
+    106:
+      dirs:
+      - V106
+      pdfs: []
+    203:
+      dirs:
+      - V203
+      pdfs: []
+    206:
+      dirs:
+      - D206
+      pdfs: []
+    302:
+      dirs:
+      - V302
+      pdfs: []
+    303:
+      dirs:
+      - V303
+      pdfs: []
+    353:
+      dirs:
+      - V353
+      pdfs: []
+    354:
+      dirs:
+      - V354
+      pdfs: []
+    400:
+      dirs:
+      - V400
+      pdfs: []
+    401:
+      dirs:
+      - V401
+      pdfs: []
+    500:
+      dirs:
+      - V500
+      pdfs: []
+    601:
+      dirs:
+      - V601
+      pdfs: []
+    602:
+      dirs:
+      - V602
+      pdfs: []
+    603:
+      dirs:
+      - V603
+      pdfs: []
+    606:
+      dirs:
+      - V606
+      pdfs: []
+    702:
+      dirs:
+      - D702
+      pdfs: []
+    703:
+      dirs:
+      - D703
+      pdfs: []
+    901:
+      dirs:
+      - US1
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/TRose27
+    login: TRose27
+  - html_url: https://github.com/Fresoquark
+    login: Fresoquark
+  last_commit: 2018-07-08 16:41:54
+  name: Fresoquark/Anfaengerpraktikum
+  protokolle:
+    402:
+      dirs:
+      - V402
+      pdfs: []
+    406:
+      dirs:
+      - V406
+      pdfs: []
+    408:
+      dirs:
+      - V408
+      pdfs: []
+    500:
+      dirs:
+      - V500
+      pdfs: []
+    501:
+      dirs:
+      - V501_502
+      pdfs: []
+    602:
+      dirs:
+      - V602
+      pdfs: []
+    606:
+      dirs:
+      - V606
+      pdfs: []
+    701:
+      dirs:
+      - V701
+      pdfs: []
+    702:
+      dirs:
+      - V702
+      pdfs: []
+    704:
+      dirs:
+      - V704
+      pdfs: []
+    902:
+      dirs:
+      - US2
+      pdfs: []
+    903:
+      dirs:
+      - US3
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/HelenaChiara
+    login: HelenaChiara
+  last_commit: 2015-09-18 09:14:52
+  name: HelenaCarlArne/ProtokolleAP
+  protokolle:
+    101:
+      dirs:
+      - V101 - Angular Momentum
+      pdfs: []
+    102:
+      dirs:
+      - V102 - Drehschwingung
+      pdfs: []
+    103:
+      dirs:
+      - V103 - Bending properties of matter
+      pdfs: []
+    107:
+      dirs:
+      - V107 - Viskosimeter
+      pdfs: []
+    201:
+      dirs:
+      - V201 - Dulong-Petit-Gesetz
+      pdfs: []
+    204:
+      dirs:
+      - V204 - Thermal conduction in metals
+      pdfs: []
+    206:
+      dirs:
+      - V206 - Thermal transfer
+      pdfs: []
+    301:
+      dirs:
+      - V301 - Leerlaufspannung und Innenwiderstand
+      pdfs: []
+    303:
+      dirs:
+      - V303 - Lock-In amplifier
+      pdfs: []
+    351:
+      dirs:
+      - V351 - Fourieranalyse
+      pdfs: []
+    354:
+      dirs:
+      - V354 - Damped and driven oscillation
+      pdfs: []
+    355:
+      dirs:
+      - V355 - Coupled oscillation
+      pdfs: []
+    406:
+      dirs:
+      - V406 - Beugung am Spalt
+      pdfs: []
+    408:
+      dirs:
+      - V408 - Geometrische Optik
+      pdfs: []
+    500:
+      dirs:
+      - V500 - Photoeffekt
+      pdfs: []
+    503:
+      dirs:
+      - SV - Orientierung des Erdmagnetfeldes
+      - V503 - Milikan
+      pdfs: []
+    601:
+      dirs:
+      - V601 - Franck-Hertz
+      pdfs: []
+    605:
+      dirs:
+      - V605 - Alkali-Spektrum
+      pdfs: []
+    702:
+      dirs:
+      - V702 - Aktivierung mit Neutronen
+      pdfs: []
+    704:
+      dirs:
+      - V704 - Absorption  von Strahlung
+      pdfs: []
+    901:
+      dirs:
+      - US1 - Grundlagen der US-Technik
+      pdfs: []
+- branch: main
+  contributors:
+  - html_url: https://github.com/jana-banana
+    login: jana-banana
+  - html_url: https://github.com/sonia-cyber
+    login: sonia-cyber
+  last_commit: 2021-07-21 21:12:22
+  name: jana-banana/AP-2020
+  protokolle:
+    103:
+      dirs:
+      - we did that/103
+      pdfs:
+      - we did that/103/103_2-1.pdf
+      - we did that/103/103_1.pdf
+    106:
+      dirs:
+      - we did that/V106
+      pdfs: []
+    204:
+      dirs:
+      - we did that/V204
+      pdfs: []
+    206:
+      dirs:
+      - we did that/D206
+      pdfs: []
+    302:
+      dirs:
+      - we did that/V302
+      pdfs: []
+    303:
+      dirs:
+      - we did that/V303
+      pdfs: []
+    353:
+      dirs:
+      - we did that/V353
+      pdfs: []
+    400:
+      dirs:
+      - we did that/V400
+      pdfs: []
+    401:
+      dirs:
+      - we did that/V401
+      pdfs: []
+    500:
+      dirs:
+      - we did that/V500
+      pdfs: []
+    501:
+      dirs:
+      - we did that/V501-2
+      pdfs: []
+    601:
+      dirs:
+      - we did that/V601
+      pdfs:
+      - we did that/V601/build/main.pdf
+    602:
+      dirs:
+      - we did that/V602
+      pdfs: []
+    603:
+      dirs:
+      - we did that/V603
+      pdfs: []
+    606:
+      dirs:
+      - we did that/V606
+      pdfs: []
+    702:
+      dirs:
+      - we did that/V702
+      pdfs: []
+    703:
+      dirs:
+      - we did that/V703
+      pdfs: []
+    901:
+      dirs:
+      - we did that/US1
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/Jean1995
+    login: Jean1995
+  last_commit: 2016-11-01 19:09:38
+  name: Jean1995/Praktikum
+  protokolle:
+    101:
+      dirs:
+      - V101
+      pdfs:
+      - Protokolle_Fertig/V101.pdf
+    102:
+      dirs:
+      - V102
+      pdfs:
+      - Protokolle_Fertig/V102.pdf
+    104:
+      dirs:
+      - V104
+      pdfs:
+      - Protokolle_Fertig/V104.pdf
+    201:
+      dirs:
+      - V201
+      pdfs:
+      - Protokolle_Fertig/V201.pdf
+    204:
+      dirs:
+      - V204
+      pdfs:
+      - Protokolle_Fertig/V204.pdf
+    206:
+      dirs:
+      - V206
+      pdfs:
+      - Protokolle_Fertig/V206.pdf
+    207:
+      dirs:
+      - V207
+      pdfs:
+      - Protokolle_Fertig/V207.pdf
+    301:
+      dirs:
+      - V301
+      pdfs:
+      - Protokolle_Fertig/V301.pdf
+    302:
+      dirs:
+      - V302
+      pdfs:
+      - Protokolle_Fertig/V302.pdf
+    353:
+      dirs:
+      - V353
+      pdfs:
+      - Protokolle_Fertig/V353.pdf
+    355:
+      dirs:
+      - V355
+      pdfs:
+      - Protokolle_Fertig/V355.pdf
+    356:
+      dirs:
+      - V356
+      pdfs:
+      - Protokolle_Fertig/V356.pdf
+    401:
+      dirs:
+      - V401
+      pdfs:
+      - Protokolle_Fertig/V401.pdf
+    402:
+      dirs:
+      - V402
+      pdfs:
+      - Protokolle_Fertig/V402.pdf
+    500:
+      dirs:
+      - V500
+      pdfs:
+      - Protokolle_Fertig/V500.pdf
+    501:
+      dirs:
+      - V501
+      pdfs:
+      - Protokolle_Fertig/V501.pdf
+    503:
+      dirs:
+      - V503
+      pdfs:
+      - Protokolle_Fertig/V503.pdf
+    601:
+      dirs:
+      - V601
+      pdfs:
+      - Protokolle_Fertig/V601.pdf
+    602:
+      dirs:
+      - V602
+      pdfs:
+      - Protokolle_Fertig/V602.pdf
+    701:
+      dirs:
+      - V701
+      pdfs:
+      - Protokolle_Fertig/V701.pdf
+    702:
+      dirs:
+      - V702
+      pdfs:
+      - Protokolle_Fertig/V702.pdf
+    901:
+      dirs:
+      - US1
+      pdfs: []
+    902:
+      dirs:
+      - US2
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/JLammering
+    login: JLammering
+  - html_url: https://github.com/TIm097
+    login: TIm097
+  - html_url: https://github.com/larsfu
+    login: larsfu
+  last_commit: 2016-10-03 20:42:54
+  name: JLammering/Physikalisches-Praktikum
+  protokolle:
+    102:
+      dirs:
+      - 12 Drehschwingungen
+      pdfs: []
+    103:
+      dirs:
+      - "13 Biegung elastischer St\xE4be"
+      pdfs: []
+    107:
+      dirs:
+      - 11 Viskosimeter
+      pdfs: []
+    206:
+      dirs:
+      - 14 Waermepumpe
+      pdfs: []
+    402:
+      dirs:
+      - 21 Dispersionsmessungen am Glasprisma
+      pdfs: []
+    406:
+      dirs:
+      - 22 Beugung am Spalt
+      pdfs: []
+    500:
+      dirs:
+      - 25 Photoeffekt
+      pdfs: []
+    503:
+      dirs:
+      - 23 Milikan Versuch
+      pdfs: []
+    504:
+      dirs:
+      - 24 Thermische Elektronenemission
+      pdfs: []
+    605:
+      dirs:
+      - "15 R\xF6ntgenemission -absorption "
+      - 16 Alkali-Spektren
+      pdfs: []
+    702:
+      dirs:
+      - 19 Aktivierung mit Neutronen
+      pdfs: []
+    703:
+      dirs:
+      - 20 Geiger-Mueller-Zaehlrohr
+      pdfs: []
+    902:
+      dirs:
+      - 17 Ultraschall-Scan
+      pdfs: []
+    903:
+      dirs:
+      - 18 Doppler-Sonographie
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/marcelkebe
+    login: marcelkebe
+  - html_url: https://github.com/komrozik
+    login: komrozik
+  last_commit: 2021-05-02 15:27:33
+  name: komrozik/AP2019
+  protokolle:
+    102:
+      dirs:
+      - 102_Drehschwingung
+      pdfs:
+      - 102_Drehschwingung/PV102_Rueckgabe.pdf
+    106:
+      dirs:
+      - 106_Gekoppelte_Pendel
+      pdfs:
+      - 106_Gekoppelte_Pendel/V106 - Protokoll_Anmerkung1.pdf
+      - 106_Gekoppelte_Pendel/V106-Protokoll-Version2.pdf
+      - 106_Gekoppelte_Pendel/V106 - Protokoll.pdf
+    203:
+      dirs:
+      - 203_Verdampfungswaerme
+      pdfs:
+      - 203_Verdampfungswaerme/V203_Verdampfungswaerme.pdf
+    206:
+      dirs:
+      - 206_Waermepumpe
+      pdfs:
+      - 206_Waermepumpe/206_Waermepumpe.pdf
+    303:
+      dirs:
+      - 303_Lock-In-Verstaerker
+      pdfs:
+      - "303_Lock-In-Verstaerker/303_Lock_In_Verst\xE4rker.pdf"
+    311:
+      dirs:
+      - 311_Hall-Effekt
+      pdfs:
+      - 311_Hall-Effekt/V311_Hall_Effekt.pdf
+    354:
+      dirs:
+      - "354_Ged\xE4mpfte_und_erzwungene_Schwinungen"
+      pdfs:
+      - "354_Ged\xE4mpfte_und_erzwungene_Schwinungen/Messwerte354.pdf"
+      - "354_Ged\xE4mpfte_und_erzwungene_Schwinungen/V354_Gedaempfe_Schwinung.pdf"
+    355:
+      dirs:
+      - 355_Gekoppelte_Schwingkreise
+      pdfs:
+      - 355_Gekoppelte_Schwingkreise/V355_Gekopelte_Schwingkreise.pdf
+    401:
+      dirs:
+      - 401_Michelson_Interferometer
+      pdfs:
+      - 401_Michelson_Interferometer/V401-mrozik-kebekus.pdf
+      - 401_Michelson_Interferometer/V401.pdf
+    408:
+      dirs:
+      - 408_Geometrische_Optik
+      pdfs:
+      - 408_Geometrische_Optik/V408.pdf
+      - 408_Geometrische_Optik/V408-mrozik-kebekus.pdf
+    501:
+      dirs:
+      - 501_Elektronen_im_E-Feld
+      pdfs:
+      - 501_Elektronen_im_E-Feld/V501_kebekus_Mrozik.pdf
+      - 501_Elektronen_im_E-Feld/V501.pdf
+    702:
+      dirs:
+      - 702-Aktivierung_mit_Neutronen
+      pdfs:
+      - 702-Aktivierung_mit_Neutronen/main.pdf
+    801:
+      dirs:
+      - 801_Messuebung
+      pdfs: []
+    802:
+      dirs:
+      - 802_Fouriersynthese
+      pdfs: []
+    803:
+      dirs:
+      - 803_Das_Hooksche_Gesetz
+      pdfs: []
+    901:
+      dirs:
+      - US1_Grundlagen_der_Ultraschalltechnik
+      pdfs:
+      - US1_Grundlagen_der_Ultraschalltechnik/US1(V901).pdf
+- branch: master
+  contributors:
+  - html_url: https://github.com/lassestern
+    login: lassestern
+  - html_url: https://github.com/DaGutn
+    login: DaGutn
+  last_commit: 2020-07-24 22:21:57
+  name: lassestern/praktikum-david-lasse
+  protokolle:
+    354:
+      dirs:
+      - V354-gedaempfte_erzwungene-Schwingungen
+      pdfs:
+      - V354-gedaempfte_erzwungene-Schwingungen/Theorie354.pdf
+    406:
+      dirs:
+      - V406_Beugung
+      pdfs:
+      - V406_Beugung/V406.pdf
+    500:
+      dirs:
+      - V500_Photoeffekt
+      pdfs: []
+    601:
+      dirs:
+      - V601_FranckHertz
+      pdfs: []
+    702:
+      dirs:
+      - V702_AktivierungvonNeutronen
+      pdfs: []
+    902:
+      dirs:
+      - US2
+      pdfs: []
+- branch: main
+  contributors:
+  - html_url: https://github.com/FreddieMercury534
+    login: FreddieMercury534
+  - html_url: https://github.com/LiigaSoolane
+    login: LiigaSoolane
+  - html_url: https://github.com/VorniV
+    login: VorniV
+  last_commit: 2021-07-04 12:03:23
+  name: LiigaSoolane/Paktikum
+  protokolle:
+    103:
+      dirs:
+      - V103_Biegung
+      - "V103_Biegung elastischer St\xE4be"
+      pdfs: []
+    106:
+      dirs:
+      - V106_GekoppeltePendel
+      pdfs: []
+    203:
+      dirs:
+      - "V203_Verdampfungsw\xE4rme"
+      pdfs: []
+    204:
+      dirs:
+      - "V204_W\xE4rmeleitung"
+      pdfs: []
+    206:
+      dirs:
+      - "D206_W\xE4rmepumpe"
+      pdfs: []
+    302:
+      dirs:
+      - "V302_Br\xFCckenschaltungen"
+      pdfs: []
+    311:
+      dirs:
+      - V311_Hall-Effekt
+      pdfs: []
+    353:
+      dirs:
+      - V353 RC-Kreis
+      pdfs: []
+    354:
+      dirs:
+      - V354_Schwingungen
+      pdfs: []
+    400:
+      dirs:
+      - V400_ReflexionBrechungBeugung
+      pdfs: []
+    406:
+      dirs:
+      - V406_Beugung
+      pdfs: []
+    500:
+      dirs:
+      - V500_Photoeffekt
+      pdfs: []
+    601:
+      dirs:
+      - V601
+      pdfs: []
+    602:
+      dirs:
+      - "V602 R\xF6ntgenemission"
+      - "V602_R\xF6ntgen"
+      pdfs: []
+    603:
+      dirs:
+      - V603_ComptonEffekt
+      pdfs: []
+    606:
+      dirs:
+      - V606
+      pdfs: []
+    702:
+      dirs:
+      - V702_Neutronenaktivierung
+      pdfs: []
+    703:
+      dirs:
+      - "V703_Geigerz\xE4hler"
+      pdfs: []
+    903:
+      dirs:
+      - US3
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/LuckyJosh
+    login: LuckyJosh
+  - html_url: https://github.com/absolutePermittivity
+    login: absolutePermittivity
+  last_commit: 2014-07-08 19:22:20
+  name: LuckyJosh/APPhysik
+  protokolle:
+    104:
+      dirs:
+      - Dopplereffekt[X]
+      pdfs: []
+    303:
+      dirs:
+      - Lockin[X]
+      pdfs: []
+    351:
+      dirs:
+      - Fourier[X]
+      pdfs: []
+    353:
+      dirs:
+      - Relaxation[X]
+      pdfs: []
+    355:
+      dirs:
+      - Gekoppleteschwingkreise[X]
+      pdfs: []
+    408:
+      dirs:
+      - geomOptik[X]
+      pdfs: []
+    500:
+      dirs:
+      - Photoeffekt[ ]
+      - PhotoeffektII[ ]
+      pdfs: []
+    501:
+      dirs:
+      - Elektronen[X]
+      pdfs: []
+    503:
+      dirs:
+      - Millikan[ ]
+      pdfs: []
+    601:
+      dirs:
+      - FranckHertz[X]
+      pdfs: []
+    701:
+      dirs:
+      - Alphastrahlung[X]
+      pdfs: []
+    702:
+      dirs:
+      - Neutronen[ ]
+      pdfs: []
+    703:
+      dirs:
+      - Geigerzaehler[ ]
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/MagischeMiesmuschel
+    login: MagischeMiesmuschel
+  last_commit: 2018-08-20 09:40:55
+  name: MagischeMiesmuschel/AnfaengerPraktikum
+  protokolle:
+    103:
+      dirs:
+      - V103
+      pdfs: []
+    105:
+      dirs:
+      - V105
+      pdfs: []
+    106:
+      dirs:
+      - V106
+      pdfs: []
+    201:
+      dirs:
+      - V201
+      pdfs: []
+    204:
+      dirs:
+      - V204
+      pdfs: []
+    206:
+      dirs:
+      - V206
+      pdfs: []
+    301:
+      dirs:
+      - V301
+      pdfs: []
+    302:
+      dirs:
+      - V302
+      pdfs: []
+    303:
+      dirs:
+      - V303
+      pdfs: []
+    351:
+      dirs:
+      - V351
+      pdfs: []
+    354:
+      dirs:
+      - V354
+      pdfs: []
+    401:
+      dirs:
+      - V401
+      pdfs: []
+    402:
+      dirs:
+      - V402
+      pdfs: []
+    406:
+      dirs:
+      - V406
+      pdfs: []
+    501:
+      dirs:
+      - V501_2
+      pdfs: []
+    504:
+      dirs:
+      - V504
+      pdfs: []
+    601:
+      dirs:
+      - V601
+      pdfs: []
+    602:
+      dirs:
+      - V602
+      pdfs: []
+    701:
+      dirs:
+      - V701
+      pdfs: []
+    702:
+      dirs:
+      - V702
+      pdfs: []
+    703:
+      dirs:
+      - V703
+      pdfs: []
+    901:
+      dirs:
+      - US1
+      pdfs: []
+    902:
+      dirs:
+      - US2
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/Mampfzwerg
+    login: Mampfzwerg
+  last_commit: 2019-06-22 00:18:30
+  name: Mampfzwerg/Praktikum
+  protokolle:
+    101:
+      dirs:
+      - V.101
+      pdfs:
+      - V.101/latex-template/main.pdf
+    102:
+      dirs:
+      - V.102
+      pdfs:
+      - V.102/latex-template/main.pdf
+    103:
+      dirs:
+      - V.103
+      pdfs:
+      - V.103/latex-template/main.pdf
+    201:
+      dirs:
+      - V.201
+      pdfs:
+      - V.201/latex-template/main.pdf
+    206:
+      dirs:
+      - V.206
+      pdfs:
+      - V.206/latex-template/main.pdf
+    207:
+      dirs:
+      - V.207
+      pdfs:
+      - V.207/latex-template/main.pdf
+    301:
+      dirs:
+      - V. 301
+      pdfs:
+      - V. 301/latex-template/main.pdf
+    302:
+      dirs:
+      - V.302
+      pdfs: []
+    351:
+      dirs:
+      - V.351
+      pdfs:
+      - V.351/latex-template/main.pdf
+    353:
+      dirs:
+      - V.353
+      pdfs:
+      - V.353/latex-template/main.pdf
+    354:
+      dirs:
+      - V.354
+      pdfs:
+      - V.354/latex-template/main.pdf
+    401:
+      dirs:
+      - V.401
+      pdfs:
+      - V.401/latex-template/main.pdf
+    406:
+      dirs:
+      - V.406
+      pdfs:
+      - V.406/latex-template/main.pdf
+    408:
+      dirs:
+      - V.408
+      pdfs:
+      - V.408/latex-template/main.pdf
+    500:
+      dirs:
+      - V.500
+      pdfs:
+      - V.500/latex-template/main.pdf
+    504:
+      dirs:
+      - V.504
+      pdfs:
+      - V.504/latex-template/main.pdf
+    601:
+      dirs:
+      - V.601
+      pdfs:
+      - V.601/latex-template/main.pdf
+    602:
+      dirs:
+      - V.602
+      pdfs:
+      - V.602/latex-template/main.pdf
+    606:
+      dirs:
+      - V.606
+      pdfs:
+      - V.606/latex-template/main.pdf
+    701:
+      dirs:
+      - V.701
+      pdfs:
+      - V.701/latex-template/main.pdf
+    703:
+      dirs:
+      - V.703
+      pdfs:
+      - V.703/latex-template/main.pdf
+    704:
+      dirs:
+      - V.704
+      pdfs:
+      - V.704/latex-template/main.pdf
+    902:
+      dirs:
+      - V.US2
+      pdfs:
+      - V.US2/latex-template/main.pdf
+- branch: main
+  contributors:
+  - html_url: https://github.com/moritzbo
+    login: moritzbo
+  - html_url: https://github.com/Zypha
+    login: Zypha
+  last_commit: 2021-06-30 11:21:40
+  name: moritzbo/anfaenger_praktikum
+  protokolle:
+    106:
+      dirs:
+      - V106-Pendel
+      pdfs: []
+    203:
+      dirs:
+      - "V203-Verdampfungsw\xE4rme"
+      pdfs: []
+    204:
+      dirs:
+      - "V204-W\xE4rmeleitung"
+      pdfs: []
+    206:
+      dirs:
+      - "D206-W\xE4rmepumpe"
+      pdfs: []
+    302:
+      dirs:
+      - "V302-Br\xFCckenschaltung"
+      pdfs: []
+    303:
+      dirs:
+      - V303Locked&Loaded
+      pdfs: []
+    311:
+      dirs:
+      - V311-Hall-Effekt
+      pdfs: []
+    353:
+      dirs:
+      - V353-RC
+      pdfs: []
+    400:
+      dirs:
+      - V400
+      pdfs: []
+    406:
+      dirs:
+      - V406-Beugung
+      pdfs: []
+    500:
+      dirs:
+      - V500-Photoeffekt
+      pdfs: []
+    602:
+      dirs:
+      - "V602-R\xF6ntgenemission und -absorption"
+      pdfs: []
+    603:
+      dirs:
+      - V603-Compton
+      pdfs: []
+    606:
+      dirs:
+      - V606wermachtPARA
+      pdfs: []
+    702:
+      dirs:
+      - V702 Aktivierung mit Neutronen
+      pdfs: []
+    901:
+      dirs:
+      - US1
+      pdfs: []
+    903:
+      dirs:
+      - US3
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/NicoJG
+    login: NicoJG
+  - html_url: https://github.com/Daverku
+    login: Daverku
+  last_commit: 2020-08-04 12:33:58
+  name: NicoJG/Anfaengerpraktikum
+  protokolle:
+    101:
+      dirs:
+      - V101
+      pdfs:
+      - V101/Abgabe.pdf
+      - V101/V101_Feedback.pdf
+      - V101/Abgabe_korrigiert.pdf
+    103:
+      dirs:
+      - V103
+      pdfs:
+      - V103/V103_Feedback.pdf
+      - V103/Abgabe.pdf
+      - V103/Abgabe_korrigiert.pdf
+    203:
+      dirs:
+      - V203
+      pdfs:
+      - V203/Abgabe.pdf
+      - V203/Abgabe_korrigiert.pdf
+      - V203/V203_Feedback.pdf
+    206:
+      dirs:
+      - V206
+      pdfs:
+      - V206/Abgabe.pdf
+      - V206/V206_Feedback.pdf
+    303:
+      dirs:
+      - V303
+      pdfs:
+      - V303/Abgabe.pdf
+    311:
+      dirs:
+      - V311
+      pdfs:
+      - V311/Abgabe.pdf
+      - V311/V311_Feedback.pdf
+    353:
+      dirs:
+      - V353
+      pdfs:
+      - V353/Abgabe.pdf
+      - V353/V353_Feedback.pdf
+      - V353/Abgabe_korrigiert.pdf
+    355:
+      dirs:
+      - V355
+      pdfs:
+      - V355/Abgabe.pdf
+      - V355/V355_Feedback.pdf
+      - V355/Abgabe_Korrigiert.pdf
+    401:
+      dirs:
+      - V401
+      pdfs:
+      - V401/Abgabe.pdf
+    408:
+      dirs:
+      - V408
+      pdfs:
+      - V408/Abgabe.pdf
+    501:
+      dirs:
+      - V501
+      pdfs:
+      - V501/Abgabe.pdf
+      - V501/V501_Feedback.pdf
+    601:
+      dirs:
+      - V601
+      pdfs:
+      - V601/Abgabe.pdf
+      - V601/Abgabe_korrigiert.pdf
+      - V601/V601_Feedback.pdf
+    602:
+      dirs:
+      - V602_David
+      - V602_Nico
+      pdfs:
+      - V602_Nico/Abgabe.pdf
+      - V602_Nico/V602_Feedback.pdf
+    603:
+      dirs:
+      - V603_Nico
+      - V603_David
+      pdfs:
+      - V603_Nico/Abgabe.pdf
+      - V603_Nico/V603_Feedback.pdf
+      - V603_Nico/Abgabe_korrigiert.pdf
+    702:
+      dirs:
+      - V702
+      pdfs:
+      - V702/Abgabe.pdf
+      - V702/V702_Feedback.pdf
+    703:
+      dirs:
+      - V703_Nico
+      - V703_David
+      pdfs:
+      - V703_Nico/Abgabe.pdf
+      - V703_Nico/V703_Feedback.pdf
+      - V703_Nico/V703_Feedback2.pdf
+      - V703_Nico/Abgabe_korrigiert.pdf
+    801:
+      dirs:
+      - V801
+      pdfs: []
+    802:
+      dirs:
+      - V802
+      pdfs:
+      - V802/Abgabe.pdf
+      - V802/V802_Feedback.pdf
+    803:
+      dirs:
+      - V803
+      pdfs:
+      - V803/V803_ausgefuellt.pdf
+      - V803/Abgabe.pdf
+      - V803/V803_Feedback.pdf
+    901:
+      dirs:
+      - US1
+      pdfs:
+      - US1/Abgabe.pdf
+    903:
+      dirs:
+      - US3
+      pdfs:
+      - US3/Abgabe.pdf
+- branch: gh-pages
+  contributors:
+  - html_url: https://github.com/NicoWeio
+    login: NicoWeio
+  - html_url: https://github.com/KathiPopp
+    login: KathiPopp
+  last_commit: 2021-07-29 13:01:02
+  name: NicoWeio/AP
+  protokolle:
+    103:
+      dirs:
+      - V103_Biegung_elastischer_Staebe
+      pdfs:
+      - V103_Biegung_elastischer_Staebe/build/main.pdf
+    106:
+      dirs:
+      - V106_Gekoppelte_Pendel
+      pdfs:
+      - V106_Gekoppelte_Pendel/build/main.pdf
+    204:
+      dirs:
+      - V204_Waermeleitung
+      pdfs:
+      - V204_Waermeleitung/build/main.pdf
+    206:
+      dirs:
+      - D206_Waermepumpe
+      pdfs:
+      - D206_Waermepumpe/build/main.pdf
+    302:
+      dirs:
+      - V302_Brueckenschaltung
+      pdfs:
+      - V302_Brueckenschaltung/build/main.pdf
+    303:
+      dirs:
+      - V303_Der_Lock_In_Verstaerker
+      pdfs:
+      - V303_Der_Lock_In_Verstaerker/build/main.pdf
+    353:
+      dirs:
+      - V353_Relaxationsverhalten_eines_RC_Kreises
+      pdfs:
+      - V353_Relaxationsverhalten_eines_RC_Kreises/build/main.pdf
+    400:
+      dirs:
+      - V400_Reflexion_Brechung_und_Beugung
+      pdfs:
+      - V400_Reflexion_Brechung_und_Beugung/build/main.pdf
+    401:
+      dirs:
+      - V401_Michelson_Interferometer
+      pdfs:
+      - V401_Michelson_Interferometer/build/main.pdf
+    500:
+      dirs:
+      - V500_Photoeffekt
+      pdfs:
+      - V500_Photoeffekt/build/main.pdf
+    501:
+      dirs:
+      - "V501_V502_Ablenkung_eines_Elektronenstrahls_im_elektrischen\u2215magnetischen_Feld"
+      pdfs:
+      - "V501_V502_Ablenkung_eines_Elektronenstrahls_im_elektrischen\u2215magnetischen_Feld/build/main.pdf"
+    601:
+      dirs:
+      - V601_Franck_Hertz_Versuch
+      pdfs:
+      - V601_Franck_Hertz_Versuch/build/main.pdf
+    602:
+      dirs:
+      - D602_Roentgenemission_und_Absorption
+      pdfs:
+      - D602_Roentgenemission_und_Absorption/build/main.pdf
+    603:
+      dirs:
+      - D603_Compton_Effekt
+      pdfs:
+      - D603_Compton_Effekt/build/main.pdf
+    606:
+      dirs:
+      - V606_Suszeptibilitaet_paramagnetischer_Substanzen
+      pdfs:
+      - V606_Suszeptibilitaet_paramagnetischer_Substanzen/build/main.pdf
+    702:
+      dirs:
+      - D702_Aktivierung_mit_Neutronen
+      pdfs:
+      - D702_Aktivierung_mit_Neutronen/build/main.pdf
+    703:
+      dirs:
+      - D703_Geiger_Mueller_Zaehlrohr
+      pdfs:
+      - D703_Geiger_Mueller_Zaehlrohr/build/main.pdf
+    901:
+      dirs:
+      - V901_Grundlagen_der_Ultraschalltechnik
+      pdfs:
+      - V901_Grundlagen_der_Ultraschalltechnik/main.pdf
+- branch: master
+  contributors:
+  - html_url: https://github.com/Julian-Hochhaus
+    login: Julian-Hochhaus
+  - html_url: https://github.com/nsalewski
+    login: nsalewski
+  last_commit: 2018-07-23 07:32:48
+  name: nsalewski/laboratory
+  protokolle:
+    102:
+      dirs:
+      - V102
+      pdfs: []
+    103:
+      dirs:
+      - V103
+      pdfs: []
+    104:
+      dirs:
+      - V104
+      pdfs: []
+    106:
+      dirs:
+      - V106
+      pdfs: []
+    203:
+      dirs:
+      - V203
+      pdfs: []
+    204:
+      dirs:
+      - V204
+      pdfs: []
+    206:
+      dirs:
+      - V206
+      pdfs: []
+    301:
+      dirs:
+      - V301
+      pdfs: []
+    302:
+      dirs:
+      - V302
+      pdfs: []
+    353:
+      dirs:
+      - V353
+      pdfs: []
+    354:
+      dirs:
+      - V354
+      pdfs: []
+    356:
+      dirs:
+      - V356
+      pdfs: []
+    401:
+      dirs:
+      - V401
+      pdfs: []
+    408:
+      dirs:
+      - V408
+      pdfs: []
+    500:
+      dirs:
+      - V500
+      pdfs: []
+    501:
+      dirs:
+      - V501
+      pdfs: []
+    601:
+      dirs:
+      - V601
+      pdfs: []
+    602:
+      dirs:
+      - V602
+      pdfs: []
+    702:
+      dirs:
+      - V702
+      pdfs: []
+    703:
+      dirs:
+      - V703
+      pdfs: []
+    901:
+      dirs:
+      - US1
+      pdfs: []
+    902:
+      dirs:
+      - US2
+      pdfs: []
+    903:
+      dirs:
+      - US3
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/julianjung92
+    login: julianjung92
+  - html_url: https://github.com/pascalgutjahr
+    login: pascalgutjahr
+  last_commit: 2019-04-08 18:36:29
+  name: pascalgutjahr/Praktikum-1
+  protokolle:
+    601:
+      dirs:
+      - V601_Franck_Hertz
+      pdfs: []
+    602:
+      dirs:
+      - V602_Roentgen_Em_Absorp
+      pdfs: []
+    606:
+      dirs:
+      - V606_Suszeptibilitaet
+      pdfs: []
+    703:
+      dirs:
+      - V703_GeigerMueller
+      pdfs: []
+    704:
+      dirs:
+      - V704_Absorp_Beta_Gamma
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/paul-stoerbrock
+    login: paul-stoerbrock
+  - html_url: https://github.com/Fafnier8
+    login: Fafnier8
+  last_commit: 2020-07-17 15:53:36
+  name: paul-stoerbrock/Praktikum
+  protokolle:
+    101:
+      dirs:
+      - V101
+      pdfs: []
+    103:
+      dirs:
+      - V103
+      pdfs: []
+    203:
+      dirs:
+      - V203
+      pdfs: []
+    206:
+      dirs:
+      - V206
+      pdfs: []
+    303:
+      dirs:
+      - V303
+      pdfs: []
+    311:
+      dirs:
+      - V311
+      pdfs: []
+    353:
+      dirs:
+      - V353
+      pdfs: []
+    354:
+      dirs:
+      - V354
+      pdfs: []
+    406:
+      dirs:
+      - V406
+      pdfs: []
+    500:
+      dirs:
+      - V500
+      pdfs: []
+    601:
+      dirs:
+      - V601
+      pdfs: []
+    602:
+      dirs:
+      - V602_T
+      - V602_P
+      pdfs: []
+    603:
+      dirs:
+      - V603_T
+      - V603_P
+      pdfs: []
+    702:
+      dirs:
+      - V702
+      pdfs: []
+    703:
+      dirs:
+      - V703_T
+      - V703_P
+      pdfs: []
+    802:
+      dirs:
+      - V802
+      pdfs: []
+    803:
+      dirs:
+      - V803
+      pdfs: []
+    903:
+      dirs:
+      - V903
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/phlipo95
+    login: phlipo95
+  last_commit: 2019-11-25 18:36:53
+  name: phlipo95/AP-Praktikum
+  protokolle:
+    101:
+      dirs:
+      - "V101 - Das Tr\xE4gheitsmoment"
+      pdfs: []
+    102:
+      dirs:
+      - V102 - Drehschwingungen
+      pdfs: []
+    103:
+      dirs:
+      - "V103 - Elastizit\xE4tsmodul"
+      pdfs: []
+    204:
+      dirs:
+      - "V204 - W\xE4rmeleitung von Metallen"
+      pdfs: []
+    206:
+      dirs:
+      - "V206 - Die W\xE4rmepumpe"
+      pdfs: []
+    207:
+      dirs:
+      - V207 - Das Stefan-Boltzmann Gesetz
+      pdfs: []
+    302:
+      dirs:
+      - "V302 - Elektrische Br\xFCckenschaltung"
+      pdfs: []
+    303:
+      dirs:
+      - "V303 - Der Lock-In-Verst\xE4rker"
+      pdfs: []
+    311:
+      dirs:
+      - "V311 - Der Hall-Effekt und Elektrizit\xE4tsleitung bei Metallen"
+      pdfs: []
+    351:
+      dirs:
+      - V351 - Fourier-Analyse und Synthese
+      pdfs: []
+    354:
+      dirs:
+      - "V354 - Ged\xE4mpfte und erzwungene Schwingungen"
+      pdfs: []
+    355:
+      dirs:
+      - V355 - Fourier-Analyse und Synthese
+      pdfs: []
+    406:
+      dirs:
+      - V406 - Beugung am Spalt
+      pdfs: []
+    408:
+      dirs:
+      - V408 - Geometrische Optik
+      pdfs: []
+    501:
+      dirs:
+      - V501-502 - Elektronen im elektrischen und magnetischen Feld
+      pdfs: []
+    504:
+      dirs:
+      - V504 - Thermische Elektronenemissionen
+      pdfs: []
+    601:
+      dirs:
+      - V601 - Der Franck-Hertz-Versuch
+      pdfs: []
+    605:
+      dirs:
+      - V605 - Die Spektren der Alkali-Atome
+      pdfs: []
+    703:
+      dirs:
+      - "V703 - Geiger-M\xFCller-Z\xE4hlrohr"
+      pdfs: []
+    704:
+      dirs:
+      - V704 - Absorbtion von gamma- und beta-Strahlung
+      pdfs: []
+    903:
+      dirs:
+      - US3 - Doppler-Sonographie
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/mposorske
+    login: mposorske
+  - html_url: https://github.com/Renameus
+    login: Renameus
+  last_commit: 2012-12-20 18:07:06
+  name: Renameus/PhysikPraktikum1
+  protokolle:
+    101:
+      dirs:
+      - Versuche/101
+      pdfs:
+      - Versuche/101/protokoll.pdf
+    201:
+      dirs:
+      - Versuche/201
+      pdfs:
+      - Versuche/201/protokoll.pdf
+      - Versuche/201/protokoll0.pdf
+    301:
+      dirs:
+      - Versuche/301
+      pdfs:
+      - Versuche/301/protokoll.pdf
+    351:
+      dirs:
+      - Versuche/351
+      pdfs:
+      - Versuche/351/protokoll.pdf
+      - Versuche/351/V351.pdf
+    402:
+      dirs:
+      - Versuche/402
+      pdfs:
+      - Versuche/402/protokoll.pdf
+    504:
+      dirs:
+      - Versuche/504
+      pdfs:
+      - Versuche/504/protokoll.pdf
+    606:
+      dirs:
+      - Versuche/606
+      pdfs:
+      - Versuche/606/protokoll.pdf
+      - Versuche/606/protokoll - Copy.pdf
+    703:
+      dirs:
+      - Versuche/703
+      pdfs:
+      - Versuche/703/protokoll.pdf
+      - Versuche/703/V703.pdf
+- branch: master
+  contributors:
+  - html_url: https://github.com/rkallo
+    login: rkallo
+  last_commit: 2019-11-21 18:05:29
+  name: rkallo/APWS1718
+  protokolle:
+    101:
+      dirs:
+      - '101'
+      pdfs:
+      - 101/Korrektur .pdf
+    102:
+      dirs:
+      - '102'
+      pdfs:
+      - 102/V102-Protokoll.pdf
+      - 102/V_102.pdf
+      - 102/V102.pdf
+    103:
+      dirs:
+      - Nachholversuch
+      pdfs:
+      - Nachholversuch/main.pdf
+    105:
+      dirs:
+      - '105'
+      pdfs:
+      - 105/V105.pdf
+    107:
+      dirs:
+      - '107'
+      pdfs:
+      - 107/main.pdf
+      - 107/V107.pdf
+    201:
+      dirs:
+      - '201'
+      pdfs:
+      - 201/KorrekturV201.pdf
+    204:
+      dirs:
+      - '204'
+      pdfs:
+      - 204/V204korrektur.pdf
+      - 204/V204.pdf
+    301:
+      dirs:
+      - '301'
+      pdfs:
+      - 301/main.pdf
+      - 301/301m2.pdf
+      - 301/V301.pdf
+      - 301/301m1.pdf
+      - 301/Protokoll_Lars.pdf
+    303:
+      dirs:
+      - '303'
+      pdfs:
+      - 303/V303.pdf
+      - 303/protokoll_Lars.pdf
+    308:
+      dirs:
+      - '308'
+      pdfs:
+      - 308/main.pdf
+      - 308/main1.pdf
+      - 308/V308.pdf
+    351:
+      dirs:
+      - '351'
+      pdfs:
+      - 351/main.pdf
+      - 351/protokoll.pdf
+      - 351/main_korrigiert.pdf
+    353:
+      dirs:
+      - '353'
+      pdfs:
+      - 353/V353.pdf
+    354:
+      dirs:
+      - '354'
+      pdfs:
+      - 354/main_fertig.pdf
+    402:
+      dirs:
+      - '402'
+      pdfs:
+      - 402/main.pdf
+    406:
+      dirs:
+      - '406'
+      pdfs:
+      - 406/main.pdf
+    408:
+      dirs:
+      - '408'
+      pdfs:
+      - 408/main.pdf
+    500:
+      dirs:
+      - '500'
+      pdfs:
+      - 500/main.pdf
+    501:
+      dirs:
+      - 501 bzw 502
+      pdfs:
+      - 501 bzw 502/main.pdf
+      - 501 bzw 502/V501.pdf
+    602:
+      dirs:
+      - '602'
+      pdfs:
+      - 602/main.pdf
+    606:
+      dirs:
+      - '606'
+      pdfs:
+      - 606/main.pdf
+    701:
+      dirs:
+      - '701'
+      pdfs:
+      - 701/main.pdf
+    703:
+      dirs:
+      - '703'
+      pdfs:
+      - 703/main.pdf
+      - 703/Anleitung703.pdf
+      - 703/Korrektur.pdf
+    704:
+      dirs:
+      - '704'
+      pdfs:
+      - 704/main704.pdf
+      - 704/main.pdf
+    902:
+      dirs:
+      - US2
+      pdfs:
+      - US2/main.pdf
+    903:
+      dirs:
+      - US3
+      pdfs:
+      - US3/main.pdf
+- branch: master
+  contributors:
+  - html_url: https://github.com/rleven
+    login: rleven
+  last_commit: 2020-02-06 12:21:22
+  name: rleven/richard_joell_Praktikum
+  protokolle:
+    102:
+      dirs:
+      - Drehschwingungen[done]
+      pdfs: []
+    106:
+      dirs:
+      - Pendel[done]
+      pdfs: []
+    201:
+      dirs:
+      - Dulong-Petit [done]
+      pdfs: []
+    204:
+      dirs:
+      - Waermeleitstaebe[done]
+      pdfs: []
+    303:
+      dirs:
+      - "Lock-In-Verst\xE4rker[done]"
+      pdfs: []
+    354:
+      dirs:
+      - Schwingungen[done]
+      pdfs: []
+    355:
+      dirs:
+      - Gekoppelte_Schwingungen[done]
+      pdfs: []
+    803:
+      dirs:
+      - Hook'sches_Gesetz[done]
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/SamGTex
+    login: SamGTex
+  - html_url: https://github.com/maaxxns
+    login: maaxxns
+  last_commit: 2021-04-14 10:47:02
+  name: SamGTex/Physik_Praktikum_Samuel_Max
+  protokolle:
+    101:
+      dirs:
+      - 101_traegheitsmoment
+      pdfs: []
+    103:
+      dirs:
+      - 103_staebe_biegen
+      pdfs: []
+    201:
+      dirs:
+      - 201_dulong_petische_gesetz
+      pdfs: []
+    204:
+      dirs:
+      - 204_waermeleitfaehigkeit
+      pdfs: []
+    302:
+      dirs:
+      - 302_brueckenschaltung
+      pdfs: []
+    308:
+      dirs:
+      - 308_Magnetfelder_und_Spulen
+      pdfs: []
+    353:
+      dirs:
+      - 353_Relaxationsverhalten_eines_rc_kreis
+      pdfs: []
+    354:
+      dirs:
+      - 354_Gedaempfte_und_erzwungene_Schwingungen
+      pdfs: []
+    406:
+      dirs:
+      - 406_Beugung_am_Spalt
+      pdfs: []
+    408:
+      dirs:
+      - 408_geometrsiche_optik
+      pdfs: []
+    500:
+      dirs:
+      - 500_photoeffekt
+      pdfs: []
+    504:
+      dirs:
+      - 504_thermische_elektronenemission
+      pdfs: []
+    601:
+      dirs:
+      - 601_Franck_Hertz_Versuch
+      pdfs: []
+    602:
+      dirs:
+      - V602_Roentgenemission_Max
+      - 602_roentgenemission_und_absorption_haefs
+      pdfs: []
+    603:
+      dirs:
+      - 603_compton_effekt_haefs
+      - V603_Comptoneffekt_Max
+      pdfs: []
+    702:
+      dirs:
+      - 702_Aktivierung_mit_Neutronen
+      pdfs: []
+    703:
+      dirs:
+      - V703_Geiger_Mueller_Zaehlrohr_Max
+      - 703_geiger_mueller_haefs
+      pdfs: []
+    802:
+      dirs:
+      - 802_Fourier
+      pdfs: []
+    803:
+      dirs:
+      - 803_Hook
+      pdfs: []
+    903:
+      dirs:
+      - US3_doppler_sonographie
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/SHilgers
+    login: SHilgers
+  - html_url: https://github.com/Nolara
+    login: Nolara
+  last_commit: 2020-02-04 08:43:30
+  name: SHilgers/Praktikum2
+  protokolle:
+    204:
+      dirs:
+      - V204
+      pdfs: []
+    206:
+      dirs:
+      - V206
+      pdfs: []
+    301:
+      dirs:
+      - V301
+      pdfs: []
+    302:
+      dirs:
+      - V302
+      pdfs: []
+    308:
+      dirs:
+      - V308
+      pdfs: []
+    351:
+      dirs:
+      - V351
+      - LeerDruck
+      pdfs: []
+    353:
+      dirs:
+      - V353
+      pdfs: []
+    354:
+      dirs:
+      - V354
+      pdfs: []
+    401:
+      dirs:
+      - V401
+      pdfs: []
+    402:
+      dirs:
+      - V402
+      pdfs: []
+    406:
+      dirs:
+      - V406
+      pdfs: []
+    502:
+      dirs:
+      - V502
+      pdfs: []
+    504:
+      dirs:
+      - V504
+      pdfs: []
+    601:
+      dirs:
+      - V601
+      pdfs: []
+    602:
+      dirs:
+      - V602
+      pdfs: []
+    701:
+      dirs:
+      - V701
+      pdfs: []
+    702:
+      dirs:
+      - V702
+      pdfs: []
+    703:
+      dirs:
+      - V703
+      pdfs: []
+    901:
+      dirs:
+      - US1
+      pdfs: []
+    902:
+      dirs:
+      - US2
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/smjhnits
+    login: smjhnits
+  last_commit: 2019-01-30 12:22:48
+  name: smjhnits/Praktikum_TU_D_16-17
+  protokolle:
+    101:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V101_Das_Tr\xE4gheitsmoment"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V101.pdf"
+    104:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V104_DopplerEffekt"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V104.pdf"
+    106:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V106_Gekoppelte_Pendel"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V106.pdf"
+    201:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V201_Das_Dulong-Petitsche_Gesetz"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V201.pdf"
+    206:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V206_Die_W\xE4rmepumpe"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V206.pdf"
+    207:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V207_Das_Kugelfallviskosimeter"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V207.pdf"
+    302:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V302_Br\xFCckenschaltungen"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V302.pdf"
+    311:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V311_Hall_Effekt"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V311.pdf"
+    353:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V353_Relaxationsverhalten"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V353.pdf"
+    354:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V354_Ged\xE4mpfte_Erzwungene_Schwingungen"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V354.pdf"
+    355:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V355_Gekoppelte_Schwingungen"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V355.pdf"
+    356:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V356_Kettenschaltung_mit_LC-Kette"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V356.pdf"
+    401:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V401_Michelson-Interferometer"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V401.pdf"
+    408:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V408_Geometrische_Optik"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V408.pdf"
+    500:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V500_Der_Photoeffekt"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V500.pdf"
+    503:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V503_Der_Milikan_Versuch"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V503.pdf"
+    601:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V601_Franck_Hertz"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V601.pdf"
+    602:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V602_Roentgenemission"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V602.pdf"
+    702:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V702_Aktivierung_mit_Neutronen"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V702.pdf"
+    703:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/V703_Geiger_M\xFCller"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/V703.pdf"
+    901:
+      dirs:
+      - "Anf\xE4ngerpraktikum/Protokolle/US1"
+      pdfs:
+      - "Anf\xE4ngerpraktikum/Fertige Protokolle/US1.pdf"
+- branch: master
+  contributors:
+  - html_url: https://github.com/smjolame
+    login: smjolame
+  - html_url: https://github.com/smsnfi12
+    login: smsnfi12
+  last_commit: 2021-04-11 11:36:04
+  name: smjolame/Praktikum_1
+  protokolle:
+    101:
+      dirs:
+      - Traegheitsmoment_V101
+      pdfs: []
+    103:
+      dirs:
+      - Biegung_Stab_103
+      pdfs: []
+    201:
+      dirs:
+      - Dulong_Petit_201
+      pdfs: []
+    204:
+      dirs:
+      - Waermeleitfaehigkeit_204
+      pdfs: []
+    206:
+      dirs:
+      - Waermepumpe
+      pdfs: []
+    302:
+      dirs:
+      - "br\xFCckenschaltung_302"
+      pdfs: []
+    308:
+      dirs:
+      - Spulen_und_Magnetfelder_308
+      pdfs: []
+    353:
+      dirs:
+      - RC_Kreis
+      pdfs: []
+    355:
+      dirs:
+      - gekoppelte_schwingkreise_v355
+      pdfs: []
+    406:
+      dirs:
+      - Beugung_am_Spalt
+      pdfs:
+      - Beugung_am_Spalt/V406.pdf
+    408:
+      dirs:
+      - Geometrische_Optik
+      pdfs:
+      - Geometrische_Optik/V408.pdf
+    500:
+      dirs:
+      - Der_Photoeffekt
+      pdfs:
+      - Der_Photoeffekt/V500.pdf
+    502:
+      dirs:
+      - Elektronen_im_B_Feld
+      pdfs:
+      - Elektronen_im_B_Feld/V502.pdf
+    504:
+      dirs:
+      - Thermische_Elektronenemission
+      pdfs:
+      - Thermische_Elektronenemission/V504.pdf
+    702:
+      dirs:
+      - Aktivierung_mit_Neutronen
+      pdfs:
+      - Aktivierung_mit_Neutronen/V702.pdf
+    802:
+      dirs:
+      - Fouriersynthese_802
+      pdfs: []
+    803:
+      dirs:
+      - Das_Hooksche_Gesetz_803
+      pdfs: []
+    901:
+      dirs:
+      - Grundlagen_der_Ultraschalltechnik
+      pdfs:
+      - Grundlagen_der_Ultraschalltechnik/V901.pdf
+- branch: master
+  contributors:
+  - html_url: https://github.com/stefangri
+    login: stefangri
+  - html_url: https://github.com/beckstev
+    login: beckstev
+  last_commit: 2018-02-05 06:01:44
+  name: stefangri/s_s_productions
+  protokolle:
+    101:
+      dirs:
+      - "PHY341/V101_Tr\xE4gheitsmoment"
+      pdfs: []
+    104:
+      dirs:
+      - PHY341/V104_Doppler_Effekt
+      pdfs: []
+    106:
+      dirs:
+      - PHY341/V106_Pendel
+      pdfs: []
+    201:
+      dirs:
+      - PHY341/V201_Dulong_Petit
+      pdfs: []
+    206:
+      dirs:
+      - "PHY341/V206_W\xE4rmepumpe"
+      pdfs: []
+    207:
+      dirs:
+      - PHY341/V207_Viskosimeter
+      pdfs: []
+    302:
+      dirs:
+      - PHY341/V_302_Brueckenschaltung
+      pdfs: []
+    311:
+      dirs:
+      - PHY341/V311_Halleffekt
+      pdfs: []
+    353:
+      dirs:
+      - PHY341/V353_Relaxation
+      pdfs: []
+    354:
+      dirs:
+      - "PHY341/V354_Ged\xE4mpfte_Schwingungen"
+      pdfs: []
+    355:
+      dirs:
+      - PHY341/V355_Gekoppelte_Schwingungen
+      pdfs: []
+    356:
+      dirs:
+      - PHY341/V356_Kettenschaltungen
+      pdfs: []
+    401:
+      dirs:
+      - PHY341/V401_Interferometer
+      pdfs: []
+    408:
+      dirs:
+      - PHY341/V408_Geometrische_Optik
+      pdfs: []
+    500:
+      dirs:
+      - PHY341/V500_Photoeffekt
+      pdfs: []
+    503:
+      dirs:
+      - PHY341/V503_Millikan
+      pdfs: []
+    601:
+      dirs:
+      - PHY341/V601_Franck_Hertz
+      pdfs: []
+    602:
+      dirs:
+      - PHY341/V602_Roentgenemission
+      pdfs: []
+    702:
+      dirs:
+      - PHY341/V702_Neutronen_Aktivierung
+      pdfs: []
+    703:
+      dirs:
+      - PHY341/V703_Geiger_Mueller_Zaehlrohr
+      pdfs: []
+    901:
+      dirs:
+      - PHY341/US1
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/LarsKolk
+    login: LarsKolk
+  last_commit: 2018-08-11 16:09:33
+  name: LarsKolk/Anfaengerpraktikum
+  protokolle:
+    103:
+      dirs:
+      - "V103-Biegung elastischer St\xE4be"
+      pdfs:
+      - "V103-Biegung elastischer St\xE4be/main.pdf"
+    105:
+      dirs:
+      - V105-Magnetisches Moment
+      pdfs: []
+    106:
+      dirs:
+      - V106-Gekoppelte Pendel
+      pdfs: []
+    201:
+      dirs:
+      - V201-Das Dulong-Petitsche Gesetz
+      pdfs:
+      - V201-Das Dulong-Petitsche Gesetz/main.pdf
+      - V201-Das Dulong-Petitsche Gesetz/V201_alt.pdf
+    204:
+      dirs:
+      - "V204-W\xE4rmeleitung von Metallen"
+      pdfs:
+      - "V204-W\xE4rmeleitung von Metallen/V204_alt.pdf"
+      - "V204-W\xE4rmeleitung von Metallen/V204_alt2.pdf"
+    206:
+      dirs:
+      - "V206-Die W\xE4rmepumpe"
+      pdfs:
+      - "V206-Die W\xE4rmepumpe/main.pdf"
+      - "V206-Die W\xE4rmepumpe/V206-altp.pdf"
+      - "V206-Die W\xE4rmepumpe/main_itemize.pdf"
+    301:
+      dirs:
+      - V301-EMK und Innenwiderstand von Spannungsquellen
+      pdfs:
+      - V301-EMK und Innenwiderstand von Spannungsquellen/V301-altp.pdf
+    303:
+      dirs:
+      - "V303-Lock-In-Verst\xE4rker"
+      pdfs:
+      - "V303-Lock-In-Verst\xE4rker/main.pdf"
+    308:
+      dirs:
+      - V308-Spulen und Magnetfelder
+      pdfs:
+      - V308-Spulen und Magnetfelder/main.pdf
+    351:
+      dirs:
+      - V351-Fourierreihen
+      pdfs:
+      - V351-Fourierreihen/V351-altp2.pdf
+      - V351-Fourierreihen/V351-altp.pdf
+    354:
+      dirs:
+      - V354-Gedaempfte und Erzwungene Schwingungen
+      pdfs:
+      - V354-Gedaempfte und Erzwungene Schwingungen/main.pdf
+      - V354-Gedaempfte und Erzwungene Schwingungen/V354-altp.pdf
+    401:
+      dirs:
+      - V401-Das-Michelson-Interferometer
+      pdfs:
+      - V401-Das-Michelson-Interferometer/main.pdf
+      - V401-Das-Michelson-Interferometer/V401_alt.pdf
+      - V401-Das-Michelson-Interferometer/V401_github.pdf
+    402:
+      dirs:
+      - V402-Dispersionsmessung-am-Glasprisma
+      pdfs:
+      - V402-Dispersionsmessung-am-Glasprisma/V402_alt.pdf
+    406:
+      dirs:
+      - V406-Beugung-am-Spalt
+      pdfs:
+      - V406-Beugung-am-Spalt/main.pdf
+      - V406-Beugung-am-Spalt/V406.pdf
+    501:
+      dirs:
+      - V501-V502-Elektronen-im-E-oder-B-Feld
+      pdfs:
+      - V501-V502-Elektronen-im-E-oder-B-Feld/V501+2_alt.pdf
+      - V501-V502-Elektronen-im-E-oder-B-Feld/main2.pdf
+    504:
+      dirs:
+      - V504-Thermische-Elektronenemission
+      pdfs:
+      - V504-Thermische-Elektronenemission/main.pdf
+      - V504-Thermische-Elektronenemission/V504_alt.pdf
+      - V504-Thermische-Elektronenemission/main2.pdf
+    601:
+      dirs:
+      - V601-Franck-Hertz-Versuch
+      pdfs: []
+    602:
+      dirs:
+      - V602-Roentgenemission-und--absorption
+      pdfs: []
+    701:
+      dirs:
+      - V701-Reichweite-von-alpha-Strahlung
+      pdfs: []
+    702:
+      dirs:
+      - V702-Aktivierung-mit-Neutronen
+      pdfs:
+      - V702-Aktivierung-mit-Neutronen/V702_github.pdf
+      - V702-Aktivierung-mit-Neutronen/V702_alt.pdf
+      - V702-Aktivierung-mit-Neutronen/V702-Korrektur.pdf
+    703:
+      dirs:
+      - V703-Geiger-Mueller-Zaehlrohr
+      pdfs: []
+    901:
+      dirs:
+      - US1-Grundlagen-der-Ultraschalltechnik
+      pdfs:
+      - US1-Grundlagen-der-Ultraschalltechnik/main.pdf
+    902:
+      dirs:
+      - US2-Scanverfahren-in-der-Ultraschalltechnik
+      pdfs:
+      - US2-Scanverfahren-in-der-Ultraschalltechnik/main.pdf
+- branch: main
+  contributors:
+  - html_url: https://github.com/Tahirbanane
+    login: Tahirbanane
+  - html_url: https://github.com/Marinaan
+    login: Marinaan
+  - html_url: https://github.com/dormail
+    login: dormail
+  last_commit: 2021-07-08 14:44:07
+  name: Tahirbanane/AP
+  protokolle:
+    103:
+      dirs:
+      - V103
+      pdfs: []
+    203:
+      dirs:
+      - V203
+      pdfs: []
+    204:
+      dirs:
+      - V204
+      pdfs: []
+    206:
+      dirs:
+      - D206
+      pdfs: []
+    302:
+      dirs:
+      - V302
+      pdfs: []
+    303:
+      dirs:
+      - V303
+      pdfs: []
+    353:
+      dirs:
+      - V353
+      pdfs:
+      - V353/main.pdf
+    354:
+      dirs:
+      - V354
+      pdfs: []
+    400:
+      dirs:
+      - V400
+      pdfs: []
+    401:
+      dirs:
+      - V401
+      pdfs: []
+    504:
+      dirs:
+      - V504
+      pdfs: []
+    602:
+      dirs:
+      - V602
+      pdfs: []
+    603:
+      dirs:
+      - V603
+      pdfs: []
+    606:
+      dirs:
+      - V606
+      pdfs: []
+    702:
+      dirs:
+      - V702
+      pdfs: []
+    703:
+      dirs:
+      - V703
+      pdfs: []
+    901:
+      dirs:
+      - US1
+      pdfs: []
+    903:
+      dirs:
+      - US3
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/Christopherkrause1
+    login: Christopherkrause1
+  - html_url: https://github.com/woklop9
+    login: woklop9
+  last_commit: 2018-07-11 07:44:51
+  name: woklop9/Anfaengerpraktikum
+  protokolle:
+    101:
+      dirs:
+      - V101-Traegheitsmoment
+      pdfs: []
+    103:
+      dirs:
+      - V103-Biegung
+      pdfs: []
+    206:
+      dirs:
+      - V206-Waermepumpe
+      pdfs: []
+    301:
+      dirs:
+      - V301-EMK
+      pdfs: []
+    302:
+      dirs:
+      - V302-Brueckenschaltung
+      pdfs: []
+    303:
+      dirs:
+      - V303-Lock-In
+      pdfs: []
+    351:
+      dirs:
+      - V351-Fourier
+      pdfs: []
+    353:
+      dirs:
+      - V353-Relaxation
+      pdfs: []
+    354:
+      dirs:
+      - V354-Schwingung
+      pdfs: []
+    402:
+      dirs:
+      - V402-Dispersion
+      pdfs: []
+    406:
+      dirs:
+      - V406-Beugung
+      pdfs: []
+    408:
+      dirs:
+      - V408-Optik
+      pdfs: []
+    500:
+      dirs:
+      - V500-Photoeffekt
+      pdfs: []
+    501:
+      dirs:
+      - V501,2- Elektronenstrahl
+      pdfs: []
+    602:
+      dirs:
+      - V602-Roentgenemission
+      pdfs: []
+    606:
+      dirs:
+      - V606-Suszeptibilitaet
+      pdfs: []
+    701:
+      dirs:
+      - V701-Alphastrahlung
+      pdfs: []
+    703:
+      dirs:
+      - V703-Geigerzaehler
+      pdfs: []
+    704:
+      dirs:
+      - V704-Strahlungsabsorption
+      pdfs: []
+- branch: main
+  contributors:
+  - html_url: https://github.com/YanickKi
+    login: YanickKi
+  - html_url: https://github.com/Till-Will
+    login: Till-Will
+  last_commit: 2021-07-05 12:36:30
+  name: YanickKi/AP_T_Y
+  protokolle:
+    103:
+      dirs:
+      - v103
+      pdfs: []
+    203:
+      dirs:
+      - v203
+      pdfs: []
+    204:
+      dirs:
+      - v204
+      pdfs: []
+    206:
+      dirs:
+      - latex-template
+      pdfs: []
+    302:
+      dirs:
+      - v302
+      pdfs: []
+    303:
+      dirs:
+      - v303
+      pdfs: []
+    353:
+      dirs:
+      - v353
+      pdfs: []
+    354:
+      dirs:
+      - v354
+      pdfs: []
+    400:
+      dirs:
+      - v400
+      pdfs: []
+    401:
+      dirs:
+      - V401
+      pdfs: []
+    406:
+      dirs:
+      - v406
+      pdfs: []
+    504:
+      dirs:
+      - v504
+      pdfs: []
+    601:
+      dirs:
+      - v601
+      pdfs: []
+    602:
+      dirs:
+      - V602
+      pdfs: []
+    603:
+      dirs:
+      - v603
+      pdfs: []
+    606:
+      dirs:
+      - v606
+      pdfs: []
+    702:
+      dirs:
+      - v702
+      pdfs: []
+    703:
+      dirs:
+      - v703
+      pdfs: []
+    903:
+      dirs:
+      - v903
+      pdfs: []
