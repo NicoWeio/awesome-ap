@@ -30,7 +30,7 @@ for repo in repos:
 versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
 
 ### Generieren der statischen Website-Inhalte:
-# generate_md(repos_to_versuche, versuche_to_repos)
+generate_md(repos_to_versuche, versuche_to_repos)
 
 def stats():
     out = ""
