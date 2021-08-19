@@ -1,7 +1,7 @@
 from datetime import datetime
 import os
 import pytablewriter
-import urllib
+from urllib.parse import quote
 
 def fmt_repo(repo):
     return f'[{repo.login}](../repo/{repo.login})'
@@ -26,7 +26,7 @@ def fmt_content(repo, c):
     return f"[{c.name}]({html_url})" if c else '–'
 
 def content_url(repo, path):
-    return f"{repo.html_url}/tree/master/{path}"
+    return f"{repo.html_url}/tree/{repo.branch}/{quote(str(path))}"
 
 def generate_md(repos_to_versuche, versuche_to_repos):
     os.makedirs('build/versuch', exist_ok=True)
