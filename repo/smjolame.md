@@ -4,6 +4,10 @@
 
 Letzter Commit: 11.04.2021 11:36:04
 
+## Autoren
+- [smjolame](https://github.com/smjolame)
+- [smsnfi12](https://github.com/smsnfi12)
+
 ## Versuche
 
 |       Versuch       |                                                          Ordner                                                          |                                                                         PDFs                                                                          |

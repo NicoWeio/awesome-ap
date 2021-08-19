@@ -4,6 +4,10 @@
 
 Letzter Commit: 05.02.2018 06:01:44
 
+## Autoren
+- [stefangri](https://github.com/stefangri)
+- [beckstev](https://github.com/beckstev)
+
 ## Versuche
 
 |       Versuch       |                                                            Ordner                                                             |PDFs|

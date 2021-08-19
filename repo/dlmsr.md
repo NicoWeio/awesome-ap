@@ -4,6 +4,10 @@
 
 Letzter Commit: 12.03.2020 11:10:24
 
+## Autoren
+- [dlmsr](https://github.com/dlmsr)
+- [kevinmoc](https://github.com/kevinmoc)
+
 ## Versuche
 
 |       Versuch       |                            Ordner                             |PDFs|

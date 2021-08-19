@@ -4,6 +4,10 @@
 
 Letzter Commit: 30.06.2021 11:21:40
 
+## Autoren
+- [moritzbo](https://github.com/moritzbo)
+- [Zypha](https://github.com/Zypha)
+
 ## Versuche
 
 |       Versuch       |                                                                    Ordner                                                                     |PDFs|

@@ -4,6 +4,10 @@
 
 Letzter Commit: 29.07.2021 13:01:02
 
+## Autoren
+- [NicoWeio](https://github.com/NicoWeio)
+- [KathiPopp](https://github.com/KathiPopp)
+
 ## Versuche
 
 |       Versuch       |                                                                                                      Ordner                                                                                                       |                                                                                                   PDFs                                                                                                   |

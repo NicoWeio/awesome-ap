@@ -4,6 +4,10 @@
 
 Letzter Commit: 12.07.2016 09:19:16
 
+## Autoren
+- [larsfu](https://github.com/larsfu)
+- [dagbjoern](https://github.com/dagbjoern)
+
 ## Versuche
 
 |       Versuch       |                              Ordner                               |                                                          PDFs                                                           |

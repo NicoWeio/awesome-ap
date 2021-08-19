@@ -4,6 +4,11 @@
 
 Letzter Commit: 28.07.2021 13:57:22
 
+## Autoren
+- [chris-topher6](https://github.com/chris-topher6)
+- [Hernyoo](https://github.com/Hernyoo)
+- [NicoWeio](https://github.com/NicoWeio)
+
 ## Versuche
 
 |       Versuch       |                                   Ordner                                    |PDFs|

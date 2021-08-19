@@ -76,7 +76,7 @@
 |[komrozik](https://github.com/komrozik/AP2019)                                  |[Übersicht](repo/komrozik)           |02.05.2021 15:27:33|        16|
 |[LarsKolk](https://github.com/LarsKolk/Anfaengerpraktikum)                      |[Übersicht](repo/LarsKolk)           |11.08.2018 16:09:33|        23|
 |[lassestern](https://github.com/lassestern/praktikum-david-lasse)               |[Übersicht](repo/lassestern)         |24.07.2020 22:21:57|         6|
-|[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum)                        |[Übersicht](repo/LiigaSoolane)       |04.07.2021 12:03:23|        19|
+|[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)         |[Übersicht](repo/LiigaSoolane)       |04.07.2021 12:03:23|        19|
 |[LuckyJosh](https://github.com/LuckyJosh/APPhysik)                              |[Übersicht](repo/LuckyJosh)          |08.07.2014 19:22:20|        13|
 |[MagischeMiesmuschel](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)|[Übersicht](repo/MagischeMiesmuschel)|20.08.2018 09:40:55|        23|
 |[Mampfzwerg](https://github.com/Mampfzwerg/Praktikum)                           |[Übersicht](repo/Mampfzwerg)         |22.06.2019 00:18:30|        23|

@@ -4,6 +4,10 @@
 
 Letzter Commit: 23.07.2018 07:32:48
 
+## Autoren
+- [Julian-Hochhaus](https://github.com/Julian-Hochhaus)
+- [nsalewski](https://github.com/nsalewski)
+
 ## Versuche
 
 |       Versuch       |                             Ordner                             |PDFs|

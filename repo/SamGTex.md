@@ -4,6 +4,10 @@
 
 Letzter Commit: 14.04.2021 10:47:02
 
+## Autoren
+- [SamGTex](https://github.com/SamGTex)
+- [maaxxns](https://github.com/maaxxns)
+
 ## Versuche
 
 |       Versuch       |                                                                                                                                        Ordner                                                                                                                                         |PDFs|

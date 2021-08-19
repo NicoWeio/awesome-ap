@@ -4,6 +4,10 @@
 
 Letzter Commit: 04.08.2020 12:33:58
 
+## Autoren
+- [NicoJG](https://github.com/NicoJG)
+- [Daverku](https://github.com/Daverku)
+
 ## Versuche
 
 |       Versuch       |                                                                               Ordner                                                                                |                                                                                                                                                                                                                                                                                                               PDFs                                                                                                                                                                                                                                                                                                                |

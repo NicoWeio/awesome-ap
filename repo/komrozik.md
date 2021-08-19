@@ -4,6 +4,10 @@
 
 Letzter Commit: 02.05.2021 15:27:33
 
+## Autoren
+- [marcelkebe](https://github.com/marcelkebe)
+- [komrozik](https://github.com/komrozik)
+
 ## Versuche
 
 |       Versuch       |                                                                 Ordner                                                                 |                                                                                                                                                                                                                                                                      PDFs                                                                                                                                                                                                                                                                      |

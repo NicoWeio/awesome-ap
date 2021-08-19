@@ -4,6 +4,10 @@
 
 Letzter Commit: 11.07.2018 07:44:51
 
+## Autoren
+- [Christopherkrause1](https://github.com/Christopherkrause1)
+- [woklop9](https://github.com/woklop9)
+
 ## Versuche
 
 |       Versuch       |                                                      Ordner                                                      |PDFs|

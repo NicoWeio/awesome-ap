@@ -4,6 +4,10 @@
 
 Letzter Commit: 04.02.2020 08:43:30
 
+## Autoren
+- [SHilgers](https://github.com/SHilgers)
+- [Nolara](https://github.com/Nolara)
+
 ## Versuche
 
 |       Versuch       |                                                                   Ordner                                                                    |PDFs|

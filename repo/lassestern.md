@@ -4,6 +4,10 @@
 
 Letzter Commit: 24.07.2020 22:21:57
 
+## Autoren
+- [lassestern](https://github.com/lassestern)
+- [DaGutn](https://github.com/DaGutn)
+
 ## Versuche
 
 |       Versuch       |                                                                      Ordner                                                                      |                                                                                        PDFs                                                                                         |

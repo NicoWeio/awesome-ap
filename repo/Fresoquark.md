@@ -4,6 +4,10 @@
 
 Letzter Commit: 08.07.2018 16:41:54
 
+## Autoren
+- [TRose27](https://github.com/TRose27)
+- [Fresoquark](https://github.com/Fresoquark)
+
 ## Versuche
 
 |       Versuch       |                                     Ordner                                      |PDFs|

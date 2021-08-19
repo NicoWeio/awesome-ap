@@ -4,6 +4,10 @@
 
 Letzter Commit: 15.07.2021 06:59:00
 
+## Autoren
+- [dormail](https://github.com/dormail)
+- [philipjy](https://github.com/philipjy)
+
 ## Versuche
 
 |       Versuch       |                       Ordner                       |PDFs|

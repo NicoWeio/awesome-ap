@@ -4,6 +4,10 @@
 
 Letzter Commit: 05.07.2021 12:36:30
 
+## Autoren
+- [YanickKi](https://github.com/YanickKi)
+- [Till-Will](https://github.com/Till-Will)
+
 ## Versuche
 
 |       Versuch       |                                   Ordner                                    |PDFs|
