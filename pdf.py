@@ -5,8 +5,7 @@ class Pdf:
         self.path = path
         self.repo = repo
 
-        safe = "/[()]'&,"
-        self.download_url = f'https://raw.githubusercontent.com/{repo.name}/{repo.branch}/{quote(str(path), safe=safe)}'  # TODO: wieder escapen!
+        self.download_url = f'https://raw.githubusercontent.com/{repo.name}/{repo.branch}/{quote(str(path))}'
         self.name = self.path.name
 
     def __str__(self):
