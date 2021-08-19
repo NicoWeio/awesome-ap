@@ -26,7 +26,8 @@ def fmt_content(repo, c):
     return f"[{c.name}]({html_url})" if c else '–'
 
 def content_url(repo, path):
-    return f"{repo.html_url}/tree/{repo.branch}/{quote(str(path))}"
+    safe = "/[()]'&,"
+    return f'{repo.html_url}/tree/{repo.branch}/{quote(str(path), safe=safe)}'  # TODO: wieder escapen!
 
 def generate_md(repos_to_versuche, versuche_to_repos):
     os.makedirs('build/versuch', exist_ok=True)
