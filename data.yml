@@ -134,8 +134,8 @@
       pdfs: []
     308:
       dirs:
-      - v308_2
       - v308_1
+      - v308_2
       pdfs: []
     351:
       dirs:
@@ -733,8 +733,8 @@
       dirs:
       - we did that/103
       pdfs:
-      - we did that/103/103_2-1.pdf
       - we did that/103/103_1.pdf
+      - we did that/103/103_2-1.pdf
     106:
       dirs:
       - we did that/V106
@@ -1010,9 +1010,9 @@
       dirs:
       - 106_Gekoppelte_Pendel
       pdfs:
+      - 106_Gekoppelte_Pendel/V106 - Protokoll.pdf
       - 106_Gekoppelte_Pendel/V106 - Protokoll_Anmerkung1.pdf
       - 106_Gekoppelte_Pendel/V106-Protokoll-Version2.pdf
-      - 106_Gekoppelte_Pendel/V106 - Protokoll.pdf
     203:
       dirs:
       - 203_Verdampfungswaerme
@@ -1054,14 +1054,14 @@
       dirs:
       - 408_Geometrische_Optik
       pdfs:
-      - 408_Geometrische_Optik/V408.pdf
       - 408_Geometrische_Optik/V408-mrozik-kebekus.pdf
+      - 408_Geometrische_Optik/V408.pdf
     501:
       dirs:
       - 501_Elektronen_im_E-Feld
       pdfs:
-      - 501_Elektronen_im_E-Feld/V501_kebekus_Mrozik.pdf
       - 501_Elektronen_im_E-Feld/V501.pdf
+      - 501_Elektronen_im_E-Feld/V501_kebekus_Mrozik.pdf
     702:
       dirs:
       - 702-Aktivierung_mit_Neutronen
@@ -1243,8 +1243,8 @@
       pdfs: []
     500:
       dirs:
-      - Photoeffekt[ ]
       - PhotoeffektII[ ]
+      - Photoeffekt[ ]
       pdfs: []
     501:
       dirs:
@@ -1581,15 +1581,15 @@
       - V101
       pdfs:
       - V101/Abgabe.pdf
-      - V101/V101_Feedback.pdf
       - V101/Abgabe_korrigiert.pdf
+      - V101/V101_Feedback.pdf
     103:
       dirs:
       - V103
       pdfs:
-      - V103/V103_Feedback.pdf
       - V103/Abgabe.pdf
       - V103/Abgabe_korrigiert.pdf
+      - V103/V103_Feedback.pdf
     203:
       dirs:
       - V203
@@ -1619,15 +1619,15 @@
       - V353
       pdfs:
       - V353/Abgabe.pdf
-      - V353/V353_Feedback.pdf
       - V353/Abgabe_korrigiert.pdf
+      - V353/V353_Feedback.pdf
     355:
       dirs:
       - V355
       pdfs:
       - V355/Abgabe.pdf
-      - V355/V355_Feedback.pdf
       - V355/Abgabe_Korrigiert.pdf
+      - V355/V355_Feedback.pdf
     401:
       dirs:
       - V401
@@ -1660,12 +1660,12 @@
       - V602_Nico/V602_Feedback.pdf
     603:
       dirs:
-      - V603_Nico
       - V603_David
+      - V603_Nico
       pdfs:
       - V603_Nico/Abgabe.pdf
-      - V603_Nico/V603_Feedback.pdf
       - V603_Nico/Abgabe_korrigiert.pdf
+      - V603_Nico/V603_Feedback.pdf
     702:
       dirs:
       - V702
@@ -1674,13 +1674,13 @@
       - V702/V702_Feedback.pdf
     703:
       dirs:
-      - V703_Nico
       - V703_David
+      - V703_Nico
       pdfs:
       - V703_Nico/Abgabe.pdf
+      - V703_Nico/Abgabe_korrigiert.pdf
       - V703_Nico/V703_Feedback.pdf
       - V703_Nico/V703_Feedback2.pdf
-      - V703_Nico/Abgabe_korrigiert.pdf
     801:
       dirs:
       - V801
@@ -1695,9 +1695,9 @@
       dirs:
       - V803
       pdfs:
-      - V803/V803_ausgefuellt.pdf
       - V803/Abgabe.pdf
       - V803/V803_Feedback.pdf
+      - V803/V803_ausgefuellt.pdf
     901:
       dirs:
       - US1
@@ -1992,13 +1992,13 @@
       pdfs: []
     602:
       dirs:
-      - V602_T
       - V602_P
+      - V602_T
       pdfs: []
     603:
       dirs:
-      - V603_T
       - V603_P
+      - V603_T
       pdfs: []
     702:
       dirs:
@@ -2006,8 +2006,8 @@
       pdfs: []
     703:
       dirs:
-      - V703_T
       - V703_P
+      - V703_T
       pdfs: []
     802:
       dirs:
@@ -2141,8 +2141,8 @@
       dirs:
       - Versuche/351
       pdfs:
-      - Versuche/351/protokoll.pdf
       - Versuche/351/V351.pdf
+      - Versuche/351/protokoll.pdf
     402:
       dirs:
       - Versuche/402
@@ -2157,14 +2157,14 @@
       dirs:
       - Versuche/606
       pdfs:
-      - Versuche/606/protokoll.pdf
       - Versuche/606/protokoll - Copy.pdf
+      - Versuche/606/protokoll.pdf
     703:
       dirs:
       - Versuche/703
       pdfs:
-      - Versuche/703/protokoll.pdf
       - Versuche/703/V703.pdf
+      - Versuche/703/protokoll.pdf
 - branch: master
   contributors:
   - html_url: https://github.com/rkallo
@@ -2182,8 +2182,8 @@
       - '102'
       pdfs:
       - 102/V102-Protokoll.pdf
-      - 102/V_102.pdf
       - 102/V102.pdf
+      - 102/V_102.pdf
     103:
       dirs:
       - Nachholversuch
@@ -2198,8 +2198,8 @@
       dirs:
       - '107'
       pdfs:
-      - 107/main.pdf
       - 107/V107.pdf
+      - 107/main.pdf
     201:
       dirs:
       - '201'
@@ -2209,17 +2209,17 @@
       dirs:
       - '204'
       pdfs:
-      - 204/V204korrektur.pdf
       - 204/V204.pdf
+      - 204/V204korrektur.pdf
     301:
       dirs:
       - '301'
       pdfs:
-      - 301/main.pdf
-      - 301/301m2.pdf
-      - 301/V301.pdf
       - 301/301m1.pdf
+      - 301/301m2.pdf
       - 301/Protokoll_Lars.pdf
+      - 301/V301.pdf
+      - 301/main.pdf
     303:
       dirs:
       - '303'
@@ -2230,16 +2230,16 @@
       dirs:
       - '308'
       pdfs:
+      - 308/V308.pdf
       - 308/main.pdf
       - 308/main1.pdf
-      - 308/V308.pdf
     351:
       dirs:
       - '351'
       pdfs:
       - 351/main.pdf
-      - 351/protokoll.pdf
       - 351/main_korrigiert.pdf
+      - 351/protokoll.pdf
     353:
       dirs:
       - '353'
@@ -2274,8 +2274,8 @@
       dirs:
       - 501 bzw 502
       pdfs:
-      - 501 bzw 502/main.pdf
       - 501 bzw 502/V501.pdf
+      - 501 bzw 502/main.pdf
     602:
       dirs:
       - '602'
@@ -2295,15 +2295,15 @@
       dirs:
       - '703'
       pdfs:
-      - 703/main.pdf
       - 703/Anleitung703.pdf
       - 703/Korrektur.pdf
+      - 703/main.pdf
     704:
       dirs:
       - '704'
       pdfs:
-      - 704/main704.pdf
       - 704/main.pdf
+      - 704/main704.pdf
     902:
       dirs:
       - US2
@@ -2416,8 +2416,8 @@
       pdfs: []
     602:
       dirs:
-      - V602_Roentgenemission_Max
       - 602_roentgenemission_und_absorption_haefs
+      - V602_Roentgenemission_Max
       pdfs: []
     603:
       dirs:
@@ -2430,8 +2430,8 @@
       pdfs: []
     703:
       dirs:
-      - V703_Geiger_Mueller_Zaehlrohr_Max
       - 703_geiger_mueller_haefs
+      - V703_Geiger_Mueller_Zaehlrohr_Max
       pdfs: []
     802:
       dirs:
@@ -2476,8 +2476,8 @@
       pdfs: []
     351:
       dirs:
-      - V351
       - LeerDruck
+      - V351
       pdfs: []
     353:
       dirs:
@@ -2852,8 +2852,8 @@
       dirs:
       - V201-Das Dulong-Petitsche Gesetz
       pdfs:
-      - V201-Das Dulong-Petitsche Gesetz/main.pdf
       - V201-Das Dulong-Petitsche Gesetz/V201_alt.pdf
+      - V201-Das Dulong-Petitsche Gesetz/main.pdf
     204:
       dirs:
       - "V204-W\xE4rmeleitung von Metallen"
@@ -2864,8 +2864,8 @@
       dirs:
       - "V206-Die W\xE4rmepumpe"
       pdfs:
-      - "V206-Die W\xE4rmepumpe/main.pdf"
       - "V206-Die W\xE4rmepumpe/V206-altp.pdf"
+      - "V206-Die W\xE4rmepumpe/main.pdf"
       - "V206-Die W\xE4rmepumpe/main_itemize.pdf"
     301:
       dirs:
@@ -2886,21 +2886,21 @@
       dirs:
       - V351-Fourierreihen
       pdfs:
-      - V351-Fourierreihen/V351-altp2.pdf
       - V351-Fourierreihen/V351-altp.pdf
+      - V351-Fourierreihen/V351-altp2.pdf
     354:
       dirs:
       - V354-Gedaempfte und Erzwungene Schwingungen
       pdfs:
-      - V354-Gedaempfte und Erzwungene Schwingungen/main.pdf
       - V354-Gedaempfte und Erzwungene Schwingungen/V354-altp.pdf
+      - V354-Gedaempfte und Erzwungene Schwingungen/main.pdf
     401:
       dirs:
       - V401-Das-Michelson-Interferometer
       pdfs:
-      - V401-Das-Michelson-Interferometer/main.pdf
       - V401-Das-Michelson-Interferometer/V401_alt.pdf
       - V401-Das-Michelson-Interferometer/V401_github.pdf
+      - V401-Das-Michelson-Interferometer/main.pdf
     402:
       dirs:
       - V402-Dispersionsmessung-am-Glasprisma
@@ -2910,8 +2910,8 @@
       dirs:
       - V406-Beugung-am-Spalt
       pdfs:
-      - V406-Beugung-am-Spalt/main.pdf
       - V406-Beugung-am-Spalt/V406.pdf
+      - V406-Beugung-am-Spalt/main.pdf
     501:
       dirs:
       - V501-V502-Elektronen-im-E-oder-B-Feld
@@ -2922,8 +2922,8 @@
       dirs:
       - V504-Thermische-Elektronenemission
       pdfs:
-      - V504-Thermische-Elektronenemission/main.pdf
       - V504-Thermische-Elektronenemission/V504_alt.pdf
+      - V504-Thermische-Elektronenemission/main.pdf
       - V504-Thermische-Elektronenemission/main2.pdf
     601:
       dirs:
@@ -2941,9 +2941,9 @@
       dirs:
       - V702-Aktivierung-mit-Neutronen
       pdfs:
-      - V702-Aktivierung-mit-Neutronen/V702_github.pdf
-      - V702-Aktivierung-mit-Neutronen/V702_alt.pdf
       - V702-Aktivierung-mit-Neutronen/V702-Korrektur.pdf
+      - V702-Aktivierung-mit-Neutronen/V702_alt.pdf
+      - V702-Aktivierung-mit-Neutronen/V702_github.pdf
     703:
       dirs:
       - V703-Geiger-Mueller-Zaehlrohr
