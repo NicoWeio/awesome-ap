@@ -1217,6 +1217,10 @@
   last_commit: 2014-07-08 19:22:20
   name: LuckyJosh/APPhysik
   protokolle:
+    101:
+      dirs:
+      - Traegheit[X]
+      pdfs: []
     102:
       dirs:
       - Drehschwingungen[X]

@@ -12,6 +12,7 @@ Letzter Commit: 08.07.2014 19:22:20
 
 |       Versuch       |                                                                                         Ordner                                                                                          |PDFs|
 |---------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----|
+|[101](../versuch/101)|[Traegheit[X]](https://github.com/LuckyJosh/APPhysik/tree/master/Traegheit%5BX%5D)                                                                                                       |–   |
 |[102](../versuch/102)|[Drehschwingungen[X]](https://github.com/LuckyJosh/APPhysik/tree/master/Drehschwingungen%5BX%5D)                                                                                         |–   |
 |[104](../versuch/104)|[Dopplereffekt[X]](https://github.com/LuckyJosh/APPhysik/tree/master/Dopplereffekt%5BX%5D)                                                                                               |–   |
 |[201](../versuch/201)|[DulongPetit[X]](https://github.com/LuckyJosh/APPhysik/tree/master/DulongPetit%5BX%5D)                                                                                                   |–   |

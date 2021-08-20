@@ -13,7 +13,7 @@
 |     53|[Übersicht](versuch/53) |    1|
 |     61|[Übersicht](versuch/61) |    1|
 |     64|[Übersicht](versuch/64) |    1|
-|    101|[Übersicht](versuch/101)|   15|
+|    101|[Übersicht](versuch/101)|   16|
 |    102|[Übersicht](versuch/102)|   10|
 |    103|[Übersicht](versuch/103)|   23|
 |    104|[Übersicht](versuch/104)|    6|
@@ -81,7 +81,7 @@
 |[LarsKolk](https://github.com/LarsKolk/Anfaengerpraktikum)                      |[Übersicht](repo/LarsKolk)           |11.08.2018 16:09:33|          23|                   17|
 |[lassestern](https://github.com/lassestern/praktikum-david-lasse)               |[Übersicht](repo/lassestern)         |24.07.2020 22:21:57|           6|                    2|
 |[LiigaSoolane](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)         |[Übersicht](repo/LiigaSoolane)       |04.07.2021 12:03:23|          19|                    0|
-|[LuckyJosh](https://github.com/LuckyJosh/APPhysik)                              |[Übersicht](repo/LuckyJosh)          |08.07.2014 19:22:20|          19|                    0|
+|[LuckyJosh](https://github.com/LuckyJosh/APPhysik)                              |[Übersicht](repo/LuckyJosh)          |08.07.2014 19:22:20|          20|                    0|
 |[MagischeMiesmuschel](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)|[Übersicht](repo/MagischeMiesmuschel)|20.08.2018 09:40:55|          23|                    0|
 |[Mampfzwerg](https://github.com/Mampfzwerg/Praktikum)                           |[Übersicht](repo/Mampfzwerg)         |22.06.2019 00:18:30|          23|                   22|
 |[moritzbo](https://github.com/moritzbo/anfaenger_praktikum)                     |[Übersicht](repo/moritzbo)           |30.06.2021 11:21:40|          17|                    0|
@@ -107,6 +107,6 @@
 ## Statistiken
 - **36** Repos
 - **52** Versuche
-- **662** Protokolle
+- **663** Protokolle
 - **201** Protokolle mit PDFs
 - **271** PDFs insgesamt
