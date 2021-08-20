@@ -58,8 +58,8 @@
 |    802|[Übersicht](versuch/802)|    5|
 |    803|[Übersicht](versuch/803)|    6|
 |    901|[Übersicht](versuch/901)|   18|
-|    902|[Übersicht](versuch/902)|   11|
-|    903|[Übersicht](versuch/903)|   14|
+|    902|[Übersicht](versuch/902)|   12|
+|    903|[Übersicht](versuch/903)|   15|
 
 
 ## Repos
@@ -100,13 +100,13 @@
 |[smjolame](https://github.com/smjolame/Praktikum_1)                             |[Übersicht](repo/smjolame)           |11.04.2021 11:36:04|          18|                    7|
 |[stefangri](https://github.com/stefangri/s_s_productions)                       |[Übersicht](repo/stefangri)          |05.02.2018 06:01:44|          21|                    0|
 |[Tahirbanane](https://github.com/Tahirbanane/AP)                                |[Übersicht](repo/Tahirbanane)        |08.07.2021 14:44:07|          18|                    1|
-|[woklop9](https://github.com/woklop9/Anfaengerpraktikum)                        |[Übersicht](repo/woklop9)            |11.07.2018 07:44:51|          19|                    0|
+|[woklop9](https://github.com/woklop9/Anfaengerpraktikum)                        |[Übersicht](repo/woklop9)            |11.07.2018 07:44:51|          21|                    0|
 |[YanickKi](https://github.com/YanickKi/AP_T_Y)                                  |[Übersicht](repo/YanickKi)           |05.07.2021 12:36:30|          19|                    0|
 
 
 ## Statistiken
 - **36** Repos
 - **52** Versuche
-- **660** Protokolle
+- **662** Protokolle
 - **201** Protokolle mit PDFs
 - **271** PDFs insgesamt

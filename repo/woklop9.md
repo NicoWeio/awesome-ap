@@ -31,3 +31,5 @@ Letzter Commit: 11.07.2018 07:44:51
 |[701](../versuch/701)|[V701-Alphastrahlung](https://github.com/woklop9/Anfaengerpraktikum/tree/master/V701-Alphastrahlung)              |–   |
 |[703](../versuch/703)|[V703-Geigerzaehler](https://github.com/woklop9/Anfaengerpraktikum/tree/master/V703-Geigerzaehler)                |–   |
 |[704](../versuch/704)|[V704-Strahlungsabsorption](https://github.com/woklop9/Anfaengerpraktikum/tree/master/V704-Strahlungsabsorption)  |–   |
+|[902](../versuch/902)|[US-2](https://github.com/woklop9/Anfaengerpraktikum/tree/master/US-2)                                            |–   |
+|[903](../versuch/903)|[US-3](https://github.com/woklop9/Anfaengerpraktikum/tree/master/US-3)                                            |–   |
