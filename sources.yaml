@@ -43,7 +43,11 @@
 - name: LuckyJosh/APPhysik
   dirs_to_versuche:
     "Alphastrahlung[X]": 701
+    "Brueckenschaltungen[X]": 302
+    "Dampfdruck[X]": 203
     "Dopplereffekt[X]": 104
+    "Drehschwingungen[X]": 102
+    "DulongPetit[X]": 201
     "Elektronen[X]": 501
     "Fourier[X]": 351
     "FranckHertz[X]": 601
@@ -52,9 +56,13 @@
     "Lockin[X]": 303
     "Millikan[ ]": 503
     "Neutronen[ ]": 702
-    "PhotoeffektII[ ]": 500
+    "PhotoeffektII[ ]": 500 # V500a
     "Photoeffekt[ ]": 500
     "Relaxation[X]": 353
+    # "Solarzelle[ ]": Nachholversuch
+    "Traegheit[X]": 101 # aus dem Inhalt erschlossen
+    "Viskositaet[X]": 207 # aus dem Inhalt erschlossen
+    "Waermepumpe[X]": 206
     "geomOptik[X]": 408
 - name: MagischeMiesmuschel/AnfaengerPraktikum
 - name: Mampfzwerg/Praktikum
