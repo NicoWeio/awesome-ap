@@ -1,5 +1,12 @@
+import os
 from rich.console import Console
-console = Console()
+
+
+def should_force_terminal():
+    return True if any(os.getenv(key) for key in ['GITHUB_ACTIONS', 'FORCE_COLOR', 'PY_COLORS']) else None
+
+
+console = Console(force_terminal=True, width=80 * 2) if should_force_terminal() else Console()
 
 
 def makeLogFn(style):
