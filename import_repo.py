@@ -18,8 +18,8 @@ def get_versuch_nummer_advanced(dir, dirs_to_versuche):
     basic_result = parse_versuch_nummer(dir.name, dirs_to_versuche)
     if basic_result:
         return basic_result
-    main_tex_files = list(dir.rglob('main.tex'))
-    if len(main_tex_files) > 5:
+    main_tex_files = set(dir.glob('*.tex')) | set(dir.rglob('main.tex'))
+    if len(main_tex_files) > 10:
         warn(f'Skipping detection of {dir} – too many ({len(main_tex_files)}) candidates')
         return None
     num = find_from_candidates(main_tex_files, extract_versuch)
