@@ -1217,9 +1217,33 @@
   last_commit: 2014-07-08 19:22:20
   name: LuckyJosh/APPhysik
   protokolle:
+    102:
+      dirs:
+      - Drehschwingungen[X]
+      pdfs: []
     104:
       dirs:
       - Dopplereffekt[X]
+      pdfs: []
+    201:
+      dirs:
+      - DulongPetit[X]
+      pdfs: []
+    203:
+      dirs:
+      - Dampfdruck[X]
+      pdfs: []
+    206:
+      dirs:
+      - Waermepumpe[X]
+      pdfs: []
+    207:
+      dirs:
+      - Viskositaet[X]
+      pdfs: []
+    302:
+      dirs:
+      - Brueckenschaltungen[X]
       pdfs: []
     303:
       dirs:
