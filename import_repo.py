@@ -37,7 +37,7 @@ def find_pdfs(base_dir, num):
     except github.UnknownObjectException as e: # file not found
         # print(f'[yellow]Not found: {base_dir=}, {ref=}[/yellow]')
         return
-    RE_VALID_NAMES = rf'(abgabe|korrektur|main|protokoll|[VD]?[._\s]*{num})(.*)\.pdf'
+    RE_VALID_NAMES = rf'(abgabe|korrektur|main|protokoll|[VD]?[._\s\-]*{num})(.*)\.pdf'
     # RE_INVALID_NAMES = rf'(graph|plot)(.*)\.pdf'
     pdf_matches = [f for f in pdf_files_in_base if re.search(RE_VALID_NAMES, f.name, re.IGNORECASE)]
     # debug("pdf_files_in_base:", printable_files(pdf_files_in_base))
