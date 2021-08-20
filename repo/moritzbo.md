@@ -27,5 +27,6 @@ Letzter Commit: 30.06.2021 11:21:40
 |[603](../versuch/603)|[V603-Compton](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V603-Compton)                                                         |–   |
 |[606](../versuch/606)|[V606wermachtPARA](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V606wermachtPARA)                                                 |–   |
 |[702](../versuch/702)|[V702 Aktivierung mit Neutronen](https://github.com/moritzbo/anfaenger_praktikum/tree/main/V702%20Aktivierung%20mit%20Neutronen)               |–   |
+|[703](../versuch/703)|[Das Geiger-Müllerzählrohr](https://github.com/moritzbo/anfaenger_praktikum/tree/main/Das%20Geiger-M%C3%BCllerz%C3%A4hlrohr)                   |–   |
 |[901](../versuch/901)|[US1](https://github.com/moritzbo/anfaenger_praktikum/tree/main/US1)                                                                           |–   |
 |[903](../versuch/903)|[US3](https://github.com/moritzbo/anfaenger_praktikum/tree/main/US3)                                                                           |–   |

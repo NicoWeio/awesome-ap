@@ -1587,6 +1587,10 @@
       dirs:
       - V702 Aktivierung mit Neutronen
       pdfs: []
+    703:
+      dirs:
+      - "Das Geiger-M\xFCllerz\xE4hlrohr"
+      pdfs: []
     901:
       dirs:
       - US1
@@ -1945,6 +1949,50 @@
   last_commit: 2019-04-08 18:36:29
   name: pascalgutjahr/Praktikum-1
   protokolle:
+    101:
+      dirs:
+      - Traegheitsmoment
+      pdfs: []
+    102:
+      dirs:
+      - Drehschwingungen
+      pdfs: []
+    106:
+      dirs:
+      - GekoppeltePendel
+      pdfs: []
+    201:
+      dirs:
+      - Dulong-Petitsche
+      pdfs: []
+    203:
+      dirs:
+      - Verdampfungswaerme
+      pdfs: []
+    206:
+      dirs:
+      - Waermepumpe
+      pdfs: []
+    301:
+      dirs:
+      - Leerlaufspannung
+      pdfs: []
+    303:
+      dirs:
+      - Lock-In
+      pdfs: []
+    351:
+      dirs:
+      - Fourier
+      pdfs: []
+    354:
+      dirs:
+      - Schwingung
+      pdfs: []
+    406:
+      dirs:
+      - Beugung
+      pdfs: []
     601:
       dirs:
       - V601_Franck_Hertz
@@ -1964,6 +2012,10 @@
     704:
       dirs:
       - V704_Absorp_Beta_Gamma
+      pdfs: []
+    902:
+      dirs:
+      - Ultraschall
       pdfs: []
 - branch: master
   contributors:
@@ -2025,6 +2077,7 @@
       pdfs: []
     603:
       dirs:
+      - Compton_P
       - V603_P
       - V603_T
       pdfs: []
