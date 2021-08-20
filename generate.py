@@ -2,6 +2,7 @@ from datetime import datetime
 import os
 import pytablewriter
 from urllib.parse import quote
+from console import *
 
 def fmt_repo(repo):
     return f'[{repo.login}](../repo/{repo.login})'

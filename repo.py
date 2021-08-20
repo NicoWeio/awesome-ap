@@ -1,5 +1,5 @@
 import github
-from rich import print
+from console import *
 
 
 class Repo:
@@ -21,7 +21,7 @@ class Repo:
             self.contributors = list(gh_repo.get_contributors())
             self.html_url = gh_repo.html_url
         except github.UnknownObjectException:
-            print(f"[yellow]Not found: {self.name}[/yellow]")
+            error(f"Not found: {self.name}")
             raise
 
         # Platzhalter für Testläufe ohne GitHub-API:

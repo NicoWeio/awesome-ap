@@ -1,4 +1,5 @@
 import yaml
+from console import *
 
 
 def generate_yaml(repos_to_versuche):
@@ -6,7 +7,7 @@ def generate_yaml(repos_to_versuche):
 
     with open('build/data.yml', 'w') as outfile:
         yaml.dump(data, outfile, default_flow_style=False)
-    print('YAML file written successfully')
+    debug('YAML file written successfully')
 
 
 def serialize_repo(repo):

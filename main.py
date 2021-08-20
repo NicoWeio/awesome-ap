@@ -3,6 +3,7 @@ from dotenv import load_dotenv
 import os
 import yaml
 
+from console import *
 from generate import generate_md
 from import_repo import import_repo
 import transpose
@@ -24,8 +25,8 @@ for repo in repos:
     try:
         repos_to_versuche.append(import_repo(Repo(repo, gh), gh, refresh=False))
     except Exception as e:
-        print(f'[red]Could not import {repo["name"]}[/red]')
-        print(e)
+        error(f'Could not import {repo["name"]}')
+        error(e)
 
 versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
 
@@ -46,5 +47,5 @@ def stats():
     out += f'- {sum(repo.num_pdfs_total for repo in repos_to_versuche)} PDFs insgesamt\n'
     return out
 
-print("Done! 🎉")
-print(stats())
+console.print("Done! 🎉", style='blink bold')
+info(stats())
