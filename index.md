@@ -39,12 +39,12 @@
 |    401|[Übersicht](versuch/401)|     18|
 |    402|[Übersicht](versuch/402)|     10|
 |    406|[Übersicht](versuch/406)|     24|
-|    408|[Übersicht](versuch/408)|     17|
+|    408|[Übersicht](versuch/408)|     18|
 |    500|[Übersicht](versuch/500)|     24|
 |    501|[Übersicht](versuch/501)|     16|
 |    502|[Übersicht](versuch/502)|      2|
-|    503|[Übersicht](versuch/503)|      6|
-|    504|[Übersicht](versuch/504)|     15|
+|    503|[Übersicht](versuch/503)|      7|
+|    504|[Übersicht](versuch/504)|     16|
 |    601|[Übersicht](versuch/601)|     25|
 |    602|[Übersicht](versuch/602)|     28|
 |    603|[Übersicht](versuch/603)|     14|
@@ -59,7 +59,7 @@
 |    803|[Übersicht](versuch/803)|      6|
 |    901|[Übersicht](versuch/901)|     18|
 |    902|[Übersicht](versuch/902)|     13|
-|    903|[Übersicht](versuch/903)|     15|
+|    903|[Übersicht](versuch/903)|     16|
 
 
 ## Repos
@@ -89,7 +89,7 @@
 |[NicoJG/Anfaengerpraktikum](https://github.com/NicoJG/Anfaengerpraktikum)                          |[Übersicht](repo/NicoJG/Anfaengerpraktikum)             |04.08.2020 12:33:58|          21|                   20|
 |[NicoWeio/AP](https://github.com/NicoWeio/AP)                                                      |[Übersicht](repo/NicoWeio/AP)                           |29.07.2021 13:01:02|          18|                   18|
 |[nsalewski/laboratory](https://github.com/nsalewski/laboratory)                                    |[Übersicht](repo/nsalewski/laboratory)                  |23.07.2018 07:32:48|          23|                    0|
-|[pascalgutjahr/Praktikum-1](https://github.com/pascalgutjahr/Praktikum-1)                          |[Übersicht](repo/pascalgutjahr/Praktikum-1)             |08.04.2019 18:36:29|          17|                    0|
+|[pascalgutjahr/Praktikum-1](https://github.com/pascalgutjahr/Praktikum-1)                          |[Übersicht](repo/pascalgutjahr/Praktikum-1)             |08.04.2019 18:36:29|          21|                    0|
 |[paul-stoerbrock/Praktikum](https://github.com/paul-stoerbrock/Praktikum)                          |[Übersicht](repo/paul-stoerbrock/Praktikum)             |17.07.2020 15:53:36|          18|                    0|
 |[phlipo95/AP-Praktikum](https://github.com/phlipo95/AP-Praktikum)                                  |[Übersicht](repo/phlipo95/AP-Praktikum)                 |25.11.2019 18:36:53|          21|                    0|
 |[Renameus/PhysikPraktikum1](https://github.com/Renameus/PhysikPraktikum1)                          |[Übersicht](repo/Renameus/PhysikPraktikum1)             |20.12.2012 18:07:06|           8|                    8|
@@ -110,6 +110,6 @@
 ## Statistiken
 - **39** Repos
 - **52** Versuche
-- **690** Protokolle
+- **694** Protokolle
 - **204** Protokolle mit PDFs
 - **277** PDFs insgesamt

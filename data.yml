@@ -2012,6 +2012,18 @@
       dirs:
       - Beugung
       pdfs: []
+    408:
+      dirs:
+      - GeometOptik
+      pdfs: []
+    503:
+      dirs:
+      - Millikan
+      pdfs: []
+    504:
+      dirs:
+      - Elektronenemission
+      pdfs: []
     601:
       dirs:
       - V601_Franck_Hertz
@@ -2035,6 +2047,10 @@
     902:
       dirs:
       - Ultraschall
+      pdfs: []
+    903:
+      dirs:
+      - DopplerSono
       pdfs: []
 - branch: master
   contributors:
