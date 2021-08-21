@@ -1,4 +1,5 @@
 import re
+import parse_tex
 
 
 def parse_versuch_nummer(dirname, dirs_to_versuche=None):
@@ -31,26 +32,8 @@ def find_from_candidates(candidates, analyzer):
     return most_common
 
 
-def extract_header(file):
-    with open(file, 'r') as f:
-        content = f.read()
-    attributes = ['date', 'subject', 'title']
-
-    def do_search(attr):
-        search_result = re.search(r'\\' + attr + r'{(.*)}', content)
-        return search_result.group(1).strip() if search_result else None
-
-    return {attr: do_search(attr) for attr in attributes}
-
-
 def extract_versuch(file):
-    data = extract_header(file)
-    return parse_versuch_nummer(data['subject']) or parse_versuch_nummer(data['title'])
-
-
-def extract_title(file):
     with open(file, 'r') as f:
         content = f.read()
-        search_result = re.search(r'\\title{(.*)}', content)
-        title = search_result.group(1).strip() if search_result else None
-        return title
+    data = parse_tex.parse(content)
+    return parse_versuch_nummer(data.get('subject')) or parse_versuch_nummer(data.get('title'))

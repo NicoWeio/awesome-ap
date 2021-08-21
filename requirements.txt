@@ -1,4 +1,5 @@
 PyGithub
+pylatexenc
 pytablewriter
 python-dotenv
 pyyaml

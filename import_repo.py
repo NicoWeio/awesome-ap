@@ -8,7 +8,7 @@ from pathlib import Path
 
 from console import *
 from pdf import Pdf
-from analyze_content import parse_versuch_nummer, find_from_candidates, extract_title, extract_versuch
+from analyze_content import parse_versuch_nummer, find_from_candidates, extract_versuch
 
 load_dotenv()
 REPOS_BASE_PATH = Path(os.getenv('REPOS_BASE_PATH'))
