@@ -33,6 +33,15 @@
 - name: komrozik/AP2019
   pdfs:
     in_source_dir: true
+# TODO: Versuch-Nummern aus den Literaturangaben übernommen; PDFs unregelmäßig benannt
+- name: lassestern/Lasse_Praktikum
+  dirs_to_versuche:
+    Compton_Effekt: 603
+    Geiger: 703
+    Roentgenabsorption: 602
+    # Wiederholungsaufgaben: …
+  pdfs:
+    in_source_dir: true
 # TODO: unvollständige Versuch-Nummern; PDFs unregelmäßig benannt
 - name: lassestern/praktikum-david-lasse
   pdfs:
@@ -90,9 +99,14 @@
   pdfs:
     in_source_dir: true
   subdirectory: Versuche
+- name: Renameus/PhysikPraktikum2
+  pdfs:
+    in_source_dir: true
+  subdirectory: Versuche
 - name: rkallo/APWS1718
   pdfs:
     in_source_dir: true
+- name: rleven/Praktikum2020
 - name: rleven/richard_joell_Praktikum
 - name: SamGTex/Physik_Praktikum_Samuel_Max
 - name: SHilgers/Praktikum2
