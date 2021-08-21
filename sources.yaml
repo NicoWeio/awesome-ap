@@ -92,7 +92,13 @@
 # Fork von BenediktSan/AnfaengerPraktikum2020
 # - name: NiklasD/AnfaengerPraktikum2020
 - name: nsalewski/laboratory
+# einige Versuch-Nummern stehen nicht in separaten Makros
 - name: pascalgutjahr/Praktikum-1
+  dirs_to_versuche:
+    DopplerSono: 903
+    Elektronenemission: 504
+    GeometOptik: 408
+    Millikan: 503
 - name: paul-stoerbrock/Praktikum
 - name: phlipo95/AP-Praktikum
 - name: Renameus/PhysikPraktikum1
