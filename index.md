@@ -46,13 +46,13 @@
 |    503|[Übersicht](versuch/503)|      7|
 |    504|[Übersicht](versuch/504)|     16|
 |    601|[Übersicht](versuch/601)|     25|
-|    602|[Übersicht](versuch/602)|     28|
-|    603|[Übersicht](versuch/603)|     14|
+|    602|[Übersicht](versuch/602)|     29|
+|    603|[Übersicht](versuch/603)|     15|
 |    605|[Übersicht](versuch/605)|      4|
 |    606|[Übersicht](versuch/606)|     16|
 |    701|[Übersicht](versuch/701)|     10|
 |    702|[Übersicht](versuch/702)|     29|
-|    703|[Übersicht](versuch/703)|     31|
+|    703|[Übersicht](versuch/703)|     32|
 |    704|[Übersicht](versuch/704)|      8|
 |    801|[Übersicht](versuch/801)|      2|
 |    802|[Übersicht](versuch/802)|      5|
@@ -78,6 +78,7 @@
 |[Jean1995/Praktikum](https://github.com/Jean1995/Praktikum)                                        |[Übersicht](repo/Jean1995/Praktikum)                    |01.11.2016 19:09:38|          23|                   21|
 |[JLammering/Physikalisches-Praktikum](https://github.com/JLammering/Physikalisches-Praktikum)      |[Übersicht](repo/JLammering/Physikalisches-Praktikum)   |03.10.2016 20:42:54|          14|                    0|
 |[komrozik/AP2019](https://github.com/komrozik/AP2019)                                              |[Übersicht](repo/komrozik/AP2019)                       |02.05.2021 15:27:33|          16|                   13|
+|[komrozik/AP2020](https://github.com/komrozik/AP2020)                                              |[Übersicht](repo/komrozik/AP2020)                       |10.06.2020 06:07:44|           3|                    3|
 |[LarsKolk/Anfaengerpraktikum](https://github.com/LarsKolk/Anfaengerpraktikum)                      |[Übersicht](repo/LarsKolk/Anfaengerpraktikum)           |11.08.2018 16:09:33|          23|                   17|
 |[lassestern/Lasse_Praktikum](https://github.com/lassestern/Lasse_Praktikum)                        |[Übersicht](repo/lassestern/Lasse_Praktikum)            |26.05.2020 06:37:27|           3|                    0|
 |[lassestern/praktikum-david-lasse](https://github.com/lassestern/praktikum-david-lasse)            |[Übersicht](repo/lassestern/praktikum-david-lasse)      |24.07.2020 22:21:57|           6|                    2|
@@ -108,8 +109,8 @@
 
 
 ## Statistiken
-- **39** Repos
+- **40** Repos
 - **52** Versuche
-- **694** Protokolle
-- **204** Protokolle mit PDFs
-- **277** PDFs insgesamt
+- **697** Protokolle
+- **207** Protokolle mit PDFs
+- **282** PDFs insgesamt

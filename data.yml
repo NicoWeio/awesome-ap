@@ -1086,6 +1086,30 @@
       - US1_Grundlagen_der_Ultraschalltechnik/US1(V901).pdf
 - branch: master
   contributors:
+  - html_url: https://github.com/komrozik
+    login: komrozik
+  full_name: komrozik/AP2020
+  last_commit: 2020-06-10 06:07:44
+  protokolle:
+    602:
+      dirs:
+      - V602_Roentgenemission
+      pdfs:
+      - V602_Roentgenemission/main.pdf
+      - V602_Roentgenemission/main_200509.pdf
+    603:
+      dirs:
+      - V603_Compton_Effekt
+      pdfs:
+      - V603_Compton_Effekt/main.pdf
+      - V603_Compton_Effekt/main_V2.pdf
+    703:
+      dirs:
+      - V703_Geiger_Mueller_Zaehlrohr
+      pdfs:
+      - V703_Geiger_Mueller_Zaehlrohr/main_200509.pdf
+- branch: master
+  contributors:
   - html_url: https://github.com/lassestern
     login: lassestern
   full_name: lassestern/Lasse_Praktikum
