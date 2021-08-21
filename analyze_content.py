@@ -10,7 +10,7 @@ def parse_versuch_nummer(dirname, dirs_to_versuche=None):
 
     # Die Ultraschall-Versuche heißen auch US1 etc.
     # Der Einheitlichkeit halber wird aber ihre *Nummer*, also z.B. 901, verwendet.
-    s = re.search(r'US[._\s\-]*(\d)(?!\d)', dirname, re.IGNORECASE)
+    s = re.search(r'US[._\s\-0]*(\d)(?!\d)', dirname, re.IGNORECASE)
     if s:
         return 900 + int(s.group(1))
 
