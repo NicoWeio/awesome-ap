@@ -11,7 +11,7 @@ def generate_yaml(repos_to_versuche):
 
 
 def serialize_repo(repo):
-    return {a: getattr(repo, a) for a in ['branch', 'last_commit', 'name']} | \
+    return {a: getattr(repo, a) for a in ['branch', 'last_commit', 'full_name']} | \
         {
         'contributors': [{a: getattr(contributor, a) for a in ['html_url', 'login']} for contributor in repo.contributors],
         'protokolle': {versuch: serialize_protokoll(protokoll) for versuch, protokoll in repo.versuche.items()},

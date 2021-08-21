@@ -55,8 +55,8 @@ def find_pdfs(base_dir, num):
 
 def import_repo(source, gh, refresh=True):
     console.print()
-    console.rule(source.name)
-    cwd_path = REPOS_BASE_PATH / source.name.replace('/', '∕')
+    console.rule(source.full_name)
+    cwd_path = REPOS_BASE_PATH / source.full_name.replace('/', '∕')
 
     def run_command(command, cwd=cwd_path):
         console.print(f'$ {" ".join(map(str, command))}', style='blue')
@@ -65,9 +65,9 @@ def import_repo(source, gh, refresh=True):
     if not cwd_path.exists():
         debug("Does not exist – cloning…")
         # lege einen „shallow clone“ an, um Speicherplatz zu sparen
-        run_command(["git", "clone"] + (["--branch", source.branch] if source.branch else []) + ["--depth", "1", "https://github.com/" + source.name, cwd_path], cwd=None)
+        run_command(["git", "clone"] + (["--branch", source.branch] if source.branch else []) + ["--depth", "1", "https://github.com/" + source.full_name, cwd_path], cwd=None)
         # ↓ https://stackoverflow.com/a/34396983/6371758
-        # run_command(["git", "-c", 'core.askPass=""', "clone", "--depth", "1", "https://github.com/" + source.name, cwd_path])
+        # run_command(["git", "-c", 'core.askPass=""', "clone", "--depth", "1", "https://github.com/" + source.full_name, cwd_path])
     elif not refresh:
         debug("Exists – NOT pulling, because refresh=False was passed")
     else:

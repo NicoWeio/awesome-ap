@@ -42,7 +42,7 @@ def generate_md(repos_to_versuche, versuche_to_repos):
 
             writer.headers = ['Repo von', 'Ordner', 'PDFs']
             writer.value_matrix = []
-            for r in sorted(repos, key=lambda r: r.name.lower()):
+            for r in sorted(repos, key=lambda r: r.full_name.lower()):
                 versuch_data = r.versuche[versuch]
                 writer.value_matrix.append((
                     fmt_repo(r),
@@ -98,7 +98,7 @@ def generate_md(repos_to_versuche, versuche_to_repos):
         out += f'## Repos\n\n'
         writer.headers = ['Repo von', '', 'Letzter Commit', '# Protokolle', '# Protokolle mit PDFs']
         writer.value_matrix = []
-        for r in sorted(repos_to_versuche, key=lambda r: r.name.lower()):
+        for r in sorted(repos_to_versuche, key=lambda r: r.full_name.lower()):
             writer.value_matrix.append((
                 f'[{r.login}]({r.html_url})',
                 f'[Übersicht](repo/{r.login})',
