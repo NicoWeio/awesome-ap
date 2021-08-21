@@ -1088,6 +1088,25 @@
   contributors:
   - html_url: https://github.com/lassestern
     login: lassestern
+  full_name: lassestern/Lasse_Praktikum
+  last_commit: 2020-05-26 06:37:27
+  protokolle:
+    602:
+      dirs:
+      - Roentgenabsorption
+      pdfs: []
+    603:
+      dirs:
+      - Compton_Effekt
+      pdfs: []
+    703:
+      dirs:
+      - Geiger
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/lassestern
+    login: lassestern
   - html_url: https://github.com/DaGutn
     login: DaGutn
   full_name: lassestern/praktikum-david-lasse
@@ -2248,6 +2267,33 @@
       - Versuche/703/protokoll.pdf
 - branch: master
   contributors:
+  - html_url: https://github.com/olitek
+    login: olitek
+  - html_url: https://github.com/Renameus
+    login: Renameus
+  full_name: Renameus/PhysikPraktikum2
+  last_commit: 2013-02-14 10:50:06
+  protokolle:
+    402:
+      dirs:
+      - Versuche/402
+      pdfs:
+      - Versuche/402/V402.pdf
+      - Versuche/402/protokoll.pdf
+    500:
+      dirs:
+      - Versuche/500
+      pdfs:
+      - Versuche/500/V500.pdf
+      - Versuche/500/protokoll.pdf
+    601:
+      dirs:
+      - Versuche/601
+      pdfs:
+      - Versuche/601/V601.pdf
+      - Versuche/601/protokoll.pdf
+- branch: master
+  contributors:
   - html_url: https://github.com/rkallo
     login: rkallo
   full_name: rkallo/APWS1718
@@ -2395,6 +2441,45 @@
       - US3
       pdfs:
       - US3/main.pdf
+- branch: master
+  contributors:
+  - html_url: https://github.com/rleven
+    login: rleven
+  full_name: rleven/Praktikum2020
+  last_commit: 2020-08-04 22:34:52
+  protokolle:
+    401:
+      dirs:
+      - Michaelson-Interferometer
+      pdfs: []
+    406:
+      dirs:
+      - Beugung am Spalt
+      pdfs: []
+    408:
+      dirs:
+      - Geometrische Optik
+      pdfs: []
+    602:
+      dirs:
+      - "R\xF6ntgenemission und -absorption-20200512"
+      pdfs: []
+    603:
+      dirs:
+      - Der Compton-Effekt-20200429
+      pdfs: []
+    606:
+      dirs:
+      - "Suszeptibilit\xE4t paramagnetischer Stoffe"
+      pdfs: []
+    702:
+      dirs:
+      - Aktivierung von Neutronen
+      pdfs: []
+    703:
+      dirs:
+      - "Das Geiger-M\xFCller Z\xE4hlrohr-20200524"
+      pdfs: []
 - branch: master
   contributors:
   - html_url: https://github.com/rleven
