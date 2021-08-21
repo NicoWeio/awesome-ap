@@ -33,6 +33,9 @@
 - name: komrozik/AP2019
   pdfs:
     in_source_dir: true
+- name: komrozik/AP2020
+  pdfs:
+    in_source_dir: true
 # TODO: Versuch-Nummern aus den Literaturangaben übernommen; PDFs unregelmäßig benannt
 - name: lassestern/Lasse_Praktikum
   dirs_to_versuche:
