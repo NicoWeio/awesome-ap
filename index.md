@@ -9,26 +9,28 @@
 |Versuch|                        |# Repos|
 |------:|------------------------|------:|
 |      1|[Übersicht](versuch/1)  |      6|
-|     14|[Übersicht](versuch/14) |      5|
-|     16|[Übersicht](versuch/16) |      2|
+|     14|[Übersicht](versuch/14) |      7|
+|     16|[Übersicht](versuch/16) |      3|
 |     18|[Übersicht](versuch/18) |      5|
-|     21|[Übersicht](versuch/21) |      7|
+|     21|[Übersicht](versuch/21) |      8|
 |     23|[Übersicht](versuch/23) |      2|
 |     25|[Übersicht](versuch/25) |      2|
-|     27|[Übersicht](versuch/27) |      9|
-|     28|[Übersicht](versuch/28) |      3|
+|     27|[Übersicht](versuch/27) |     11|
+|     28|[Übersicht](versuch/28) |      4|
+|     41|[Übersicht](versuch/41) |      1|
 |     44|[Übersicht](versuch/44) |      3|
-|     46|[Übersicht](versuch/46) |     11|
-|     47|[Übersicht](versuch/47) |      9|
+|     46|[Übersicht](versuch/46) |     12|
+|     47|[Übersicht](versuch/47) |     10|
 |     48|[Übersicht](versuch/48) |      6|
 |     49|[Übersicht](versuch/49) |      4|
-|     51|[Übersicht](versuch/51) |      1|
+|     51|[Übersicht](versuch/51) |      2|
 |     52|[Übersicht](versuch/52) |      1|
-|     53|[Übersicht](versuch/53) |      6|
-|     60|[Übersicht](versuch/60) |      3|
-|     61|[Übersicht](versuch/61) |     11|
+|     53|[Übersicht](versuch/53) |      7|
+|     59|[Übersicht](versuch/59) |      1|
+|     60|[Übersicht](versuch/60) |      4|
+|     61|[Übersicht](versuch/61) |     12|
 |     64|[Übersicht](versuch/64) |      6|
-|     70|[Übersicht](versuch/70) |      1|
+|     70|[Übersicht](versuch/70) |      2|
 |    101|[Übersicht](versuch/101)|     17|
 |    102|[Übersicht](versuch/102)|     11|
 |    103|[Übersicht](versuch/103)|     23|
@@ -105,6 +107,7 @@
 |[lassestern/praktikum-david-lasse](https://github.com/lassestern/praktikum-david-lasse)            |[Übersicht](repo/lassestern/praktikum-david-lasse)      |24.07.2020 22:21:57|           6|                    2|
 |[LiigaSoolane/Paktikum](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)                   |[Übersicht](repo/LiigaSoolane/Paktikum)                 |04.07.2021 12:03:23|          19|                    0|
 |[LuckyJosh/APPhysik](https://github.com/LuckyJosh/APPhysik)                                        |[Übersicht](repo/LuckyJosh/APPhysik)                    |08.07.2014 19:22:20|          20|                    0|
+|[LuckyJosh/PhysikFP2015](https://github.com/LuckyJosh/PhysikFP2015)                                |[Übersicht](repo/LuckyJosh/PhysikFP2015)                |04.04.2020 14:53:48|          11|                    3|
 |[MagischeMiesmuschel/AnfaengerPraktikum](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)|[Übersicht](repo/MagischeMiesmuschel/AnfaengerPraktikum)|20.08.2018 09:40:55|          23|                    0|
 |[MagischeMiesmuschel/FPMaster](https://github.com/MagischeMiesmuschel/FPMaster)                    |[Übersicht](repo/MagischeMiesmuschel/FPMaster)          |06.07.2020 13:31:42|           5|                    5|
 |[Mampfzwerg/FP](https://github.com/Mampfzwerg/FP)                                                  |[Übersicht](repo/Mampfzwerg/FP)                         |22.02.2021 15:33:50|          10|                   10|
@@ -122,6 +125,7 @@
 |[Renameus/PhysikPraktikum1](https://github.com/Renameus/PhysikPraktikum1)                          |[Übersicht](repo/Renameus/PhysikPraktikum1)             |20.12.2012 18:07:06|           8|                    8|
 |[Renameus/PhysikPraktikum2](https://github.com/Renameus/PhysikPraktikum2)                          |[Übersicht](repo/Renameus/PhysikPraktikum2)             |14.02.2013 10:50:06|           3|                    3|
 |[rkallo/APWS1718](https://github.com/rkallo/APWS1718)                                              |[Übersicht](repo/rkallo/APWS1718)                       |21.11.2019 18:05:29|          25|                   25|
+|[rkallo/FPWS1819](https://github.com/rkallo/FPWS1819)                                              |[Übersicht](repo/rkallo/FPWS1819)                       |21.11.2019 18:10:39|           5|                    2|
 |[rleven/Praktikum2020](https://github.com/rleven/Praktikum2020)                                    |[Übersicht](repo/rleven/Praktikum2020)                  |04.08.2020 22:34:52|           8|                    0|
 |[rleven/richard_joell_Praktikum](https://github.com/rleven/richard_joell_Praktikum)                |[Übersicht](repo/rleven/richard_joell_Praktikum)        |06.02.2020 12:21:22|           8|                    0|
 |[SamGTex/Physik_Praktikum_Samuel_Max](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max)      |[Übersicht](repo/SamGTex/Physik_Praktikum_Samuel_Max)   |14.04.2021 10:47:02|          20|                    0|
@@ -137,8 +141,8 @@
 
 
 ## Statistiken
-- **52** Repos
-- **68** Versuche
-- **795** Protokolle
-- **243** Protokolle mit PDFs
-- **322** PDFs insgesamt
+- **54** Repos
+- **70** Versuche
+- **811** Protokolle
+- **248** Protokolle mit PDFs
+- **328** PDFs insgesamt

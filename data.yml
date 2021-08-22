@@ -1500,6 +1500,63 @@
       pdfs: []
 - branch: master
   contributors:
+  - html_url: https://github.com/LuckyJosh
+    login: LuckyJosh
+  - html_url: https://github.com/Leongrim
+    login: Leongrim
+  full_name: LuckyJosh/PhysikFP2015
+  last_commit: 2020-04-04 14:53:48
+  protokolle:
+    14:
+      dirs:
+      - 01_TomographieGamma[X]
+      pdfs: []
+    21:
+      dirs:
+      - 03_OptischesPumpen[X]
+      pdfs:
+      - 03_OptischesPumpen[X]/Protokoll_OptischesPumpen_Luckey_Wollenberg.pdf
+    27:
+      dirs:
+      - 06_ZeemannEffekt[X]
+      pdfs: []
+    28:
+      dirs:
+      - 5_ElektronenSpinResonanz[X]
+      pdfs: []
+    41:
+      dirs:
+      - 4_DebyeScherrer[X]
+      pdfs: []
+    51:
+      dirs:
+      - 05_Operationsverstaerker[X]
+      pdfs:
+      - 05_Operationsverstaerker[X]/OPV_Protokoll.pdf
+    53:
+      dirs:
+      - 3_Mikrowellen[X]
+      pdfs: []
+    59:
+      dirs:
+      - 02_ModulationDemodulation[X]
+      pdfs: []
+    60:
+      dirs:
+      - 04_Diodenlaser[X]
+      pdfs: []
+    61:
+      dirs:
+      - 1_HeNe_Laser[X]
+      pdfs: []
+    70:
+      dirs:
+      - 2_Vakuumphysik[X]
+      pdfs:
+      - 2_Vakuumphysik[X]/Protokoll_Messwerte.pdf
+      - 2_Vakuumphysik[X]/V70_150527_Luckey_Wollenberg_Kor1.pdf
+- branch: master
+  contributors:
   - html_url: https://github.com/MagischeMiesmuschel
     login: MagischeMiesmuschel
   full_name: MagischeMiesmuschel/AnfaengerPraktikum
@@ -2866,6 +2923,35 @@
       - US3
       pdfs:
       - US3/main.pdf
+- branch: master
+  contributors:
+  - html_url: https://github.com/rkallo
+    login: rkallo
+  full_name: rkallo/FPWS1819
+  last_commit: 2019-11-21 18:10:39
+  protokolle:
+    14:
+      dirs:
+      - V14 - Tomographie mit gamma-Strahlung
+      pdfs:
+      - V14 - Tomographie mit gamma-Strahlung/main.pdf
+    16:
+      dirs:
+      - V16 - Rutherford-Streeung
+      pdfs: []
+    27:
+      dirs:
+      - V27 - Zeeman-Effekt
+      pdfs:
+      - V27 - Zeeman-Effekt/V27.pdf
+    46:
+      dirs:
+      - V46 - Faraday Effekt an Halbleitern
+      pdfs: []
+    47:
+      dirs:
+      - "V47 - Molw\xE4rme von Cu"
+      pdfs: []
 - branch: master
   contributors:
   - html_url: https://github.com/rleven
