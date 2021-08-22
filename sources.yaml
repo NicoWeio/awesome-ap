@@ -87,6 +87,23 @@
     "Viskositaet[X]": 207 # aus dem Inhalt erschlossen
     "Waermepumpe[X]": 206
     "geomOptik[X]": 408
+# suche nach "\newcommand{\ENo}{…}"
+- name: LuckyJosh/PhysikFP2015
+  dirs_to_versuche:
+    01_TomographieGamma[X]: 14
+    02_ModulationDemodulation[X]: 59
+    03_OptischesPumpen[X]: 21
+    04_Diodenlaser[X]: 60
+    05_Operationsverstaerker[X]: 51
+    05_Operationsvertaerker[ ]: false
+    06_ZeemannEffekt[X]: 27
+    1_HeNe_Laser[X]: 61
+    2_Vakuumphysik[X]: 70
+    3_Mikrowellen[X]: 53
+    4_DebyeScherrer[X]: 41
+    5_ElektronenSpinResonanz[X]: 28
+  pdfs:
+    in_source_dir: true
 - name: MagischeMiesmuschel/AnfaengerPraktikum
 - name: MagischeMiesmuschel/FPMaster
   pdfs:
@@ -150,8 +167,12 @@
     "703": 703 # in der Datei steht fälschlicherweise V606
   pdfs:
     in_source_dir: true
+- name: rkallo/FPWS1819
+  pdfs:
+    in_source_dir: true
 - name: rleven/Praktikum2020
 - name: rleven/richard_joell_Praktikum
+# - name: SamGTex/FP # TODO: noch leer
 - name: SamGTex/Physik_Praktikum_Samuel_Max
 - name: SHilgers/Praktikum2
 - name: smjhnits/Praktikum_TU_D_16-17
