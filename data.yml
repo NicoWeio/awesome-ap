@@ -919,11 +919,13 @@
     901:
       dirs:
       - US1
-      pdfs: []
+      pdfs:
+      - Protokolle_Fertig/US01.pdf
     902:
       dirs:
       - US2
-      pdfs: []
+      pdfs:
+      - Protokolle_Fertig/US02.pdf
 - branch: master
   contributors:
   - html_url: https://github.com/JLammering

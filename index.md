@@ -75,7 +75,7 @@
 |[Fresoquark/Anfaengerpraktikum](https://github.com/Fresoquark/Anfaengerpraktikum)                  |[Übersicht](repo/Fresoquark/Anfaengerpraktikum)         |08.07.2018 16:41:54|          12|                    0|
 |[HelenaCarlArne/ProtokolleAP](https://github.com/HelenaCarlArne/ProtokolleAP)                      |[Übersicht](repo/HelenaCarlArne/ProtokolleAP)           |18.09.2015 09:14:52|          21|                    0|
 |[jana-banana/AP-2020](https://github.com/jana-banana/AP-2020)                                      |[Übersicht](repo/jana-banana/AP-2020)                   |21.07.2021 21:12:22|          18|                    2|
-|[Jean1995/Praktikum](https://github.com/Jean1995/Praktikum)                                        |[Übersicht](repo/Jean1995/Praktikum)                    |01.11.2016 19:09:38|          23|                   21|
+|[Jean1995/Praktikum](https://github.com/Jean1995/Praktikum)                                        |[Übersicht](repo/Jean1995/Praktikum)                    |01.11.2016 19:09:38|          23|                   23|
 |[JLammering/Physikalisches-Praktikum](https://github.com/JLammering/Physikalisches-Praktikum)      |[Übersicht](repo/JLammering/Physikalisches-Praktikum)   |03.10.2016 20:42:54|          14|                    0|
 |[komrozik/AP2019](https://github.com/komrozik/AP2019)                                              |[Übersicht](repo/komrozik/AP2019)                       |02.05.2021 15:27:33|          16|                   13|
 |[komrozik/AP2020](https://github.com/komrozik/AP2020)                                              |[Übersicht](repo/komrozik/AP2020)                       |10.06.2020 06:07:44|           3|                    3|
@@ -112,5 +112,5 @@
 - **40** Repos
 - **52** Versuche
 - **697** Protokolle
-- **207** Protokolle mit PDFs
-- **282** PDFs insgesamt
+- **209** Protokolle mit PDFs
+- **284** PDFs insgesamt
