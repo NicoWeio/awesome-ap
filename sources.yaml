@@ -14,6 +14,8 @@
     in_source_dir: true
 - name: chrbeckm/anfaenger-praktikum
 - name: chris-topher6/Anfaenger-Praktikum
+  dirs_to_versuche:
+    V302: 302 # in der Datei steht fälschlicherweise V301
 - name: dagbjoern/AP-Physik
   pdfs:
     in_source_dir: true
@@ -113,6 +115,9 @@
     in_source_dir: true
   subdirectory: Versuche
 - name: rkallo/APWS1718
+  dirs_to_versuche:
+    "105": 105 # in der Datei steht fälschlicherweise V101
+    "703": 703 # in der Datei steht fälschlicherweise V606
   pdfs:
     in_source_dir: true
 - name: rleven/Praktikum2020
@@ -129,6 +134,8 @@
 - name: stefangri/s_s_productions
   subdirectory: PHY341
 - name: LarsKolk/Anfaengerpraktikum
+  dirs_to_versuche:
+    V303-Lock-In-Verstärker: 303 # in der Datei steht fälschlicherweise V351
   pdfs:
     in_source_dir: true
 - name: Tahirbanane/AP

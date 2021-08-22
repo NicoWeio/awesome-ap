@@ -8,28 +8,48 @@ from pathlib import Path
 
 from console import *
 from pdf import Pdf
-from analyze_content import parse_versuch_nummer, find_from_candidates, extract_versuch
+from analyze_content import parse_versuch_nummer, find_from_candidates_dict, extract_versuch
 
 load_dotenv()
 REPOS_BASE_PATH = Path(os.getenv('REPOS_BASE_PATH'))
 REPOS_BASE_PATH.mkdir(exist_ok=True)
 
-def get_versuch_nummer_advanced(dir, dirs_to_versuche):
-    basic_result = parse_versuch_nummer(dir.name, dirs_to_versuche)
-    if basic_result:
-        return basic_result
+
+def get_versuch_nummer_from_content(dir):
     main_tex_files = set(dir.glob('*.tex')) | set(dir.rglob('main.tex'))
     if len(main_tex_files) > 10:
         warn(f'Skipping detection of {dir} – too many ({len(main_tex_files)}) candidates')
-        return None
-    num = find_from_candidates(main_tex_files, extract_versuch)
-    if main_tex_files and not num:
-        warn(f'cannot resolve versuch using {main_tex_files}')
-    return num
+        return None, []
+    return find_from_candidates_dict(main_tex_files, extract_versuch, lambda file: str(file))
+
+
+def get_versuch_nummer_advanced(dir, dirs_to_versuche):
+
+    dir_result, dir_keys = get_versuch_nummer_from_content(dir)
+
+    results = [  # absteigend nach Priorität sortiert ↓
+        dirs_to_versuche.get(dir.name) if dirs_to_versuche else None,  # explizit angegeben
+        dir_result,  # Datei-Inhalte
+        parse_versuch_nummer(dir.name),  # Dateipfad
+    ]
+
+    valid_results = [result for result in results if result]
+    valid_results_unique = set(valid_results)
+
+    if valid_results:
+        chosen_result = valid_results[0]
+        if len(valid_results_unique) > 1:
+            warn(f'ambiguous results: {valid_results}; using {chosen_result}')
+            warn(f'{dir_result} was found in {dir_keys}')
+        return chosen_result
+    else:
+        debug(f'Cannot resolve (at all): {dir}')
+
 
 def printable_files(files):
     # return ', '.join([f'[link={f.html_url}]{f.name}[/link]' for f in files])
     return ', '.join([f'{f.name}' for f in files])
+
 
 def find_pdfs(base_dir, num):
     try:

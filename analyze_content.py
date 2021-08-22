@@ -1,4 +1,5 @@
 import re
+from console import *
 import parse_tex
 
 
@@ -14,9 +15,14 @@ def parse_versuch_nummer(dirname, dirs_to_versuche=None):
     if s:
         return 900 + int(s.group(1))
 
-    s = re.search(r'(?<!\d)[VD]?[._\s\-]*(\d{3})(?!\d)', dirname, re.IGNORECASE)
-    if s:
-        return int(s.group(1))
+    matches = re.finditer(r'(?<!\d)[VD]?[._\s\-]*(\d{3})(?!\d)', dirname, re.IGNORECASE)
+    matches = list(int(match.group(1)) for match in matches)
+    if matches:
+        if set(matches) == set([501, 502]):  # Doppelversuch
+            return 501
+        if len(matches) > 1:
+            warn(f'multiple matches: {matches}, using the last one')
+        return matches[-1]
 
 
 def find_from_candidates(candidates, analyzer):
@@ -32,8 +38,26 @@ def find_from_candidates(candidates, analyzer):
     return most_common
 
 
+def find_from_candidates_dict(candidates, analyzer, namer):
+    # Analyse für jeden Kandidaten laufen lassen
+    results = {namer(candidate): analyzer(candidate) for candidate in candidates}
+    # `None`-Werte entfernen
+    results = {k: v for k, v in results.items() if v is not None}
+    result_values = list(results.values())
+    # abbrechen, falls keine gültigen Werte verbleiben
+    if not any(result_values):
+        return None, []
+    # den häufigsten Wert zurückgeben
+    most_common = max(set(result_values), key=result_values.count)
+    keys = [k for k, v in results.items() if v == most_common]
+    return most_common, keys
+
+
 def extract_versuch(file):
-    with open(file, 'r') as f:
-        content = f.read()
-    data = parse_tex.parse(content)
-    return parse_versuch_nummer(data.get('subject')) or parse_versuch_nummer(data.get('title'))
+    try:
+        with open(file, 'r') as f:
+            content = f.read()
+        data = parse_tex.parse(content)
+        return parse_versuch_nummer(data.get('subject')) or parse_versuch_nummer(data.get('title'))
+    except UnicodeDecodeError:
+        pass
