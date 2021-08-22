@@ -2229,6 +2229,26 @@
   full_name: nsalewski/laboratory
   last_commit: 2018-07-23 07:32:48
   protokolle:
+    1:
+      dirs:
+      - FP/V01_myonen
+      pdfs: []
+    21:
+      dirs:
+      - FP/V21_optical_pumping
+      pdfs: []
+    27:
+      dirs:
+      - FP/V27_Zeeman_effect
+      pdfs: []
+    46:
+      dirs:
+      - FP/V46_faraday_effect
+      pdfs: []
+    61:
+      dirs:
+      - FP/V61_henelaser
+      pdfs: []
     102:
       dirs:
       - V102
