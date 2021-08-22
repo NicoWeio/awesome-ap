@@ -122,8 +122,10 @@
 # - name: NiklasD/AnfaengerPraktikum2020
 - name: nsalewski/laboratory
   dirs_to_versuche:
-    FP: false # TODO: mehrere Versuche in diesem Unterordner, aber auch Top-Level…
     Vorlage Protokoll: false
+  subdirectory:
+    - .
+    - FP
 # einige Versuch-Nummern stehen nicht in separaten Makros
 - name: pascalgutjahr/Praktikum-1
   dirs_to_versuche:

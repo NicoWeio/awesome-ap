@@ -113,11 +113,15 @@ def import_repo(source, gh, refresh=True):
     source.branch = subprocess.check_output(["git", "branch", "--show-current"], cwd=cwd_path).decode().strip()
 
     dir_candidates = []
-    for subdir in source.subdirs:
-        dir_candidates.extend([f.relative_to(cwd_path) for f in (cwd_path / subdir).iterdir() if f.is_dir()])
+    explicit_subdirs = list(cwd_path / subdir for subdir in source.subdirs)
+    for subdir in explicit_subdirs:
+        dir_candidates.extend([f.relative_to(cwd_path) for f in subdir.iterdir() if f.is_dir()])
 
     versuche = dict()
     for dir in dir_candidates:
+        if (cwd_path / dir) in explicit_subdirs:
+            info(f'skipping explicit subdir "{dir}"')
+            continue
         num = get_versuch_nummer_advanced(cwd_path / dir, source.dirs_to_versuche)
         if not num:
             continue
