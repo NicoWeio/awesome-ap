@@ -10,6 +10,15 @@ Letzter Commit: 04.02.2020 08:43:30
 
 |        Versuch         |                                                                   Ordner                                                                    |PDFs|
 |------------------------|---------------------------------------------------------------------------------------------------------------------------------------------|----|
+|[16](../../versuch/16)  |[Rutherford](https://github.com/SHilgers/Praktikum2/tree/master/Rutherford)                                                                  |–   |
+|[27](../../versuch/27)  |[Zeemann](https://github.com/SHilgers/Praktikum2/tree/master/Zeemann)                                                                        |–   |
+|[44](../../versuch/44)  |[Röntgen](https://github.com/SHilgers/Praktikum2/tree/master/R%C3%B6ntgen)                                                                   |–   |
+|[46](../../versuch/46)  |[Faraday](https://github.com/SHilgers/Praktikum2/tree/master/Faraday)                                                                        |–   |
+|[47](../../versuch/47)  |[Molwarme](https://github.com/SHilgers/Praktikum2/tree/master/Molwarme)                                                                      |–   |
+|[48](../../versuch/48)  |[Dipol](https://github.com/SHilgers/Praktikum2/tree/master/Dipol)<br/>[Dipol2](https://github.com/SHilgers/Praktikum2/tree/master/Dipol2)    |–   |
+|[53](../../versuch/53)  |[Mikrowellen](https://github.com/SHilgers/Praktikum2/tree/master/Mikrowellen)                                                                |–   |
+|[61](../../versuch/61)  |[HeNe_Laser](https://github.com/SHilgers/Praktikum2/tree/master/HeNe_Laser)                                                                  |–   |
+|[64](../../versuch/64)  |[Interferometrie](https://github.com/SHilgers/Praktikum2/tree/master/Interferometrie)                                                        |–   |
 |[204](../../versuch/204)|[V204](https://github.com/SHilgers/Praktikum2/tree/master/V204)                                                                              |–   |
 |[206](../../versuch/206)|[V206](https://github.com/SHilgers/Praktikum2/tree/master/V206)                                                                              |–   |
 |[301](../../versuch/301)|[V301](https://github.com/SHilgers/Praktikum2/tree/master/V301)                                                                              |–   |
