@@ -21,7 +21,7 @@ Letzter Commit: 04.02.2020 08:43:30
 |[401](../../versuch/401)|[V401](https://github.com/SHilgers/Praktikum2/tree/master/V401)                                                                              |–   |
 |[402](../../versuch/402)|[V402](https://github.com/SHilgers/Praktikum2/tree/master/V402)                                                                              |–   |
 |[406](../../versuch/406)|[V406](https://github.com/SHilgers/Praktikum2/tree/master/V406)                                                                              |–   |
-|[502](../../versuch/502)|[V502](https://github.com/SHilgers/Praktikum2/tree/master/V502)                                                                              |–   |
+|[501](../../versuch/501)|[V502](https://github.com/SHilgers/Praktikum2/tree/master/V502)                                                                              |–   |
 |[504](../../versuch/504)|[V504](https://github.com/SHilgers/Praktikum2/tree/master/V504)                                                                              |–   |
 |[601](../../versuch/601)|[V601](https://github.com/SHilgers/Praktikum2/tree/master/V601)                                                                              |–   |
 |[602](../../versuch/602)|[V602](https://github.com/SHilgers/Praktikum2/tree/master/V602)                                                                              |–   |

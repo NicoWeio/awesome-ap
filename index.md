@@ -41,8 +41,8 @@
 |    406|[Übersicht](versuch/406)|     24|
 |    408|[Übersicht](versuch/408)|     18|
 |    500|[Übersicht](versuch/500)|     24|
-|    501|[Übersicht](versuch/501)|     16|
-|    502|[Übersicht](versuch/502)|      2|
+|    501|[Übersicht](versuch/501)|     17|
+|    502|[Übersicht](versuch/502)|      1|
 |    503|[Übersicht](versuch/503)|      7|
 |    504|[Übersicht](versuch/504)|     16|
 |    601|[Übersicht](versuch/601)|     25|
