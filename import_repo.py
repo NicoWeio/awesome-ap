@@ -135,10 +135,10 @@ def import_repo(source, gh, refresh=True):
                 else:
                     versuche.setdefault(num, {})['pdfs'] = [pdf]
 
-        elif source.pdfs.get('in_source_dir'):
+        if source.pdfs.get('in_source_dir'):
             info("PDFs in source dir")
             for num, v in versuche.items():
-                for dir in v['dirs']:
+                for dir in v.get('dirs', []):
                     pdfs = find_pdfs(cwd_path / dir, num)
                     pdfs = list(Pdf(path.relative_to(cwd_path), source) for path in pdfs) if pdfs else None
                     if not pdfs:
