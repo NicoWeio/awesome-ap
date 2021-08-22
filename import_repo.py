@@ -15,6 +15,10 @@ REPOS_BASE_PATH = Path(os.getenv('REPOS_BASE_PATH'))
 REPOS_BASE_PATH.mkdir(exist_ok=True)
 
 
+def is_dir_ignored(dir, dirs_to_versuche):
+    return (dirs_to_versuche or {}).get(dir.name, None) is False
+
+
 def get_versuch_nummer_from_content(dir):
     main_tex_files = set(dir.glob('*.tex')) | set(dir.rglob('main.tex'))
     if len(main_tex_files) > 10:
@@ -24,11 +28,14 @@ def get_versuch_nummer_from_content(dir):
 
 
 def get_versuch_nummer_advanced(dir, dirs_to_versuche):
+    if is_dir_ignored(dir, dirs_to_versuche):
+        info(f'{dir} is ignored')
+        return None
 
     dir_result, dir_keys = get_versuch_nummer_from_content(dir)
 
     results = [  # absteigend nach Priorität sortiert ↓
-        dirs_to_versuche.get(dir.name) if dirs_to_versuche else None,  # explizit angegeben
+        (dirs_to_versuche or {}).get(dir.name),  # explizit angegeben
         dir_result,  # Datei-Inhalte
         parse_versuch_nummer(dir.name),  # Dateipfad
     ]

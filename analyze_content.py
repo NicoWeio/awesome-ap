@@ -15,7 +15,7 @@ def parse_versuch_nummer(dirname, dirs_to_versuche=None):
     if s:
         return 900 + int(s.group(1))
 
-    matches = re.finditer(r'(?<!\d)[VD]?[._\s\-]*(\d{3})(?!\d)', dirname, re.IGNORECASE)
+    matches = re.finditer(r'(?<!\d)[VD]?[._\s\-]*(\d{2,3})(?!\d)', dirname, re.IGNORECASE)
     matches = list(int(match.group(1)) for match in matches)
     if matches:
         if set(matches) == set([501, 502]):  # Doppelversuch

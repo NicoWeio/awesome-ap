@@ -13,29 +13,38 @@
   pdfs:
     in_source_dir: true
 - name: chrbeckm/anfaenger-praktikum
+- name: chrbeckm/tudo-physik-fp
 - name: chris-topher6/Anfaenger-Praktikum
   dirs_to_versuche:
     V302: 302 # in der Datei steht fälschlicherweise V301
 - name: dagbjoern/AP-Physik
   pdfs:
     in_source_dir: true
+- name: dagbjoern/FP-Physik
 - name: dlmsr/praktikum
 - name: dormail/ap
 - name: Fresoquark/Anfaengerpraktikum
 - name: HelenaCarlArne/ProtokolleAP
+- name: HelenaCarlArne/ProtokolleFP
 - name: jana-banana/AP-2020
   subdirectory: we did that
   pdfs:
     in_source_dir: true
 - name: Jean1995/Praktikum
+  dirs_to_versuche:
+    latex-template_V01: false
   pdfs:
     directory: Protokolle_Fertig
+- name: Jean1995/PraktikumFP
 - name: JLammering/Physikalisches-Praktikum
 # TODO: PDFs unregelmäßig benannt
 - name: komrozik/AP2019
   pdfs:
     in_source_dir: true
 - name: komrozik/AP2020
+  pdfs:
+    in_source_dir: true
+- name: komrozik/FP2021
   pdfs:
     in_source_dir: true
 # TODO: Versuch-Nummern aus den Literaturangaben übernommen; PDFs unregelmäßig benannt
@@ -79,14 +88,29 @@
     "Waermepumpe[X]": 206
     "geomOptik[X]": 408
 - name: MagischeMiesmuschel/AnfaengerPraktikum
+- name: MagischeMiesmuschel/FPMaster
+  pdfs:
+    directory: Protokolle
+- name: Mampfzwerg/FP
+  pdfs:
+    in_source_dir: true
 - name: Mampfzwerg/Praktikum
   pdfs:
     in_source_dir: true
 - name: moritzbo/anfaenger_praktikum
+- name: mwindau/FP
+  pdfs:
+    directory: FP_Bachelor
+    in_source_dir: true
+  subdirectory:
+    - FP_Master
 - name: mwindau/praktikum
   pdfs:
     in_source_dir: true
 - name: NicoJG/Anfaengerpraktikum
+  pdfs:
+    in_source_dir: true
+- name: NicoJG/Fortgeschrittenenpraktikum
   pdfs:
     in_source_dir: true
 # die PDFs sind auf GitHub Pages…
@@ -97,6 +121,9 @@
 # Fork von BenediktSan/AnfaengerPraktikum2020
 # - name: NiklasD/AnfaengerPraktikum2020
 - name: nsalewski/laboratory
+  dirs_to_versuche:
+    FP: false # TODO: mehrere Versuche in diesem Unterordner, aber auch Top-Level…
+    Vorlage Protokoll: false
 # einige Versuch-Nummern stehen nicht in separaten Makros
 - name: pascalgutjahr/Praktikum-1
   dirs_to_versuche:
@@ -106,6 +133,7 @@
     Millikan: 503
 - name: paul-stoerbrock/Praktikum
 - name: phlipo95/AP-Praktikum
+- name: phlipo95/FP-Praktikum
 - name: Renameus/PhysikPraktikum1
   pdfs:
     in_source_dir: true
@@ -127,10 +155,16 @@
 - name: smjhnits/Praktikum_TU_D_16-17
   pdfs:
     directory: Anfängerpraktikum/Fertige Protokolle
-  subdirectory: Anfängerpraktikum/Protokolle
+  subdirectory:
+    - Anfängerpraktikum/Protokolle
+    - Fortgeschrittenenpraktikum/Protokolle
+- name: smjolame/Fortgeschrittenenpraktikum
+  dirs_to_versuche:
+    template: false
 - name: smjolame/Praktikum_1
   pdfs:
     in_source_dir: true
+- name: stefangri/s_s_masterpraktikum
 - name: stefangri/s_s_productions
   subdirectory: PHY341
 - name: LarsKolk/Anfaengerpraktikum
