@@ -4,6 +4,12 @@
     - WiSe
   pdfs:
     directory: Protokolle
+- name: AReinold/Bachelor-FP
+  pdfs:
+    directory: Abtestate_PDF # TODO: werden noch nicht erkannt
+- name: AReinold/Master-FP
+  pdfs:
+    directory: PDF-Dateien abtestiert
 # TODO: Mehrere Unterordner, auch für PDFs
 - name: BenediktSan/AnfaengerPraktikum2020
   subdirectory:
@@ -51,6 +57,9 @@
     v61_dag: 61
 - name: jana-banana/AP-2020
   subdirectory: we did that
+  pdfs:
+    in_source_dir: true
+- name: JaSchl/AP1718
   pdfs:
     in_source_dir: true
 - name: Jean1995/Praktikum
@@ -224,6 +233,14 @@
     in_source_dir: true
 - name: rleven/Praktikum2020
 - name: rleven/richard_joell_Praktikum
+- name: Robubabu/FFS-Praktikum
+  dirs_to_versuche:
+    V401-Michelson-Interferometer: 401 # in der Datei steht fälschlicherweise 403
+    V602-Röntgenemission_und-absorption: 602 # in der Datei steht fälschlicherweise 603
+    Zettel1: false
+  pdfs:
+    directory: Versuchs_pdfs
+- name: Robubabu/YR-Praktikum
 # - name: SamGTex/FP # TODO: noch leer
 - name: SamGTex/Physik_Praktikum_Samuel_Max
 - name: SHilgers/Praktikum2
