@@ -73,6 +73,9 @@
 - name: lassestern/praktikum-david-lasse
   pdfs:
     in_source_dir: true
+- name: lfighter/FortgeschrittenesPraktikum
+# TODO: hat PDFs, aber keine Versuchsnummer im Dateipfad
+- name: lfighter/Praktikum
 # TODO: unvollständige Versuch-Nummern
 - name: LiigaSoolane/Paktikum
 # keine Versuch-Nummern oder main.tex – suche stattdessen nach "\newcommand{\VNr}{…}"
@@ -128,6 +131,18 @@
   pdfs:
     in_source_dir: true
 - name: maxnoe/tudo_masterfp
+- name: MaxSac/AP-Praktikum
+  dirs_to_versuche:
+    01-20.Oktober: 103
+    02-27.Oktober: 104 # nur Notizen
+    23-28.Juni: 701 # unvollständig
+  parsing:
+    dirname: false
+  pdfs:
+    in_source_dir: true
+- name: MaxSac/FP-Praktikum
+  parsing:
+    dirname: false
 - name: moritzbo/anfaenger_praktikum
 - name: mwindau/FP
   pdfs:
@@ -138,6 +153,11 @@
 - name: mwindau/praktikum
   pdfs:
     in_source_dir: true
+- name: nbiederbeck/masterpraktikum
+  dirs_to_versuche:
+    99-Pruefung: false
+  parsing:
+    dirname: false
 - name: NicoJG/Anfaengerpraktikum
   pdfs:
     in_source_dir: true
