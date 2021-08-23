@@ -103,6 +103,189 @@
       - Versuche Semester IV/5. US1/V901.pdf
 - branch: master
   contributors:
+  - html_url: https://github.com/loligsmile
+    login: loligsmile
+  full_name: bixel/AP1213
+  last_commit: 2014-03-15 13:00:24
+  protokolle:
+    101:
+      dirs:
+      - V101_Traegheitsmoment
+      pdfs:
+      - V101_Traegheitsmoment/00_protokoll.pdf
+    103:
+      dirs:
+      - V103_Biegung_Elastischer_Staebe
+      pdfs:
+      - V103_Biegung_Elastischer_Staebe/00_protokoll.pdf
+    107:
+      dirs:
+      - V107_Viskositaet
+      pdfs:
+      - V107_Viskositaet/00_protokoll.pdf
+      - V107_Viskositaet/anleitung_V107.pdf
+    201:
+      dirs:
+      - V201_Dulong-Petit
+      pdfs:
+      - V201_Dulong-Petit/00_protokoll.pdf
+    206:
+      dirs:
+      - V206_Waermepumpe
+      pdfs:
+      - V206_Waermepumpe/00_protokoll.pdf
+    207:
+      dirs:
+      - V207_Boltzmann
+      pdfs:
+      - V207_Boltzmann/00_protokoll.pdf
+    301:
+      dirs:
+      - V301_Innenwiederstand
+      pdfs:
+      - V301_Innenwiederstand/00_protokoll.pdf
+    303:
+      dirs:
+      - V303_LockIn
+      pdfs:
+      - V303_LockIn/Protokoll_2008_LockIn.pdf
+      - V303_LockIn/v303_protokoll.pdf
+    351:
+      dirs:
+      - V351_Fourier
+      pdfs:
+      - V351_Fourier/00_protokoll.pdf
+    353:
+      dirs:
+      - V353_RCGlied
+      pdfs:
+      - V353_RCGlied/V353.pdf
+      - V353_RCGlied/v353_protokoll_auswertung.pdf
+      - V353_RCGlied/v353_protokoll_diskussion_nachweise.pdf
+      - V353_RCGlied/v353_protokoll_durchfuehrung.pdf
+      - V353_RCGlied/v353_protokoll_theorie.pdf
+    354:
+      dirs:
+      - V354_Schwingungen
+      pdfs:
+      - V354_Schwingungen/00_protokoll.pdf
+    402:
+      dirs:
+      - V402_Dispersion
+      pdfs:
+      - V402_Dispersion/00_protokoll.pdf
+    406:
+      dirs:
+      - V406_Beugung
+      - V501-2_E-B-Feld
+      pdfs:
+      - V406_Beugung/V406.pdf
+      - V406_Beugung/protokoll.pdf
+      - V501-2_E-B-Feld/protokoll.pdf
+    408:
+      dirs:
+      - V408_Optik
+      pdfs:
+      - V408_Optik/00_protokoll.pdf
+      - V408_Optik/anleitung_V408.pdf
+    504:
+      dirs:
+      - V504_Thermische_E
+      pdfs:
+      - V504_Thermische_E/00_protokoll.pdf
+      - V504_Thermische_E/anleitung_V504.pdf
+    601:
+      dirs:
+      - V601_Franck-Hertz
+      pdfs:
+      - V601_Franck-Hertz/00_protokoll.pdf
+      - V601_Franck-Hertz/V601.pdf
+    602:
+      dirs:
+      - V602_X-Ray
+      pdfs:
+      - V602_X-Ray/00_protokoll.pdf
+    606:
+      dirs:
+      - V606_Suszeptibilitaet
+      pdfs:
+      - V606_Suszeptibilitaet/00_protokoll.pdf
+      - V606_Suszeptibilitaet/anleitung_V606.pdf
+    701:
+      dirs:
+      - V701_alpha-Reichweite
+      pdfs:
+      - V701_alpha-Reichweite/00_protokoll.pdf
+    702:
+      dirs:
+      - V702_Aktivierung
+      pdfs:
+      - V702_Aktivierung/00_protokoll.pdf
+    703:
+      dirs:
+      - V703_Geiger_Mueller
+      pdfs:
+      - V703_Geiger_Mueller/00_protokoll.pdf
+    901:
+      dirs:
+      - US1_Grundlagen-Ultraschall
+      pdfs:
+      - US1_Grundlagen-Ultraschall/00_protokoll.pdf
+- branch: master
+  contributors:
+  - html_url: https://github.com/bixel
+    login: bixel
+  - html_url: https://github.com/loligsmile
+    login: loligsmile
+  full_name: bixel/FP14
+  last_commit: 2016-10-07 19:42:14
+  protokolle:
+    1:
+      dirs:
+      - V01_Myonen
+      pdfs: []
+    18:
+      dirs:
+      - V18_Ge-Detektor
+      pdfs: []
+    21:
+      dirs:
+      - V21_Optisches_pumpen
+      pdfs: []
+    41:
+      dirs:
+      - V41_Debye_Scherrer
+      pdfs: []
+    46:
+      dirs:
+      - V46_Faraday
+      pdfs: []
+    47:
+      dirs:
+      - V47_Molwaerme_Kupfer
+      pdfs: []
+    48:
+      dirs:
+      - V48_Dipolrelaxation
+      pdfs: []
+    51:
+      dirs:
+      - V51_Operationsverstaerker
+      pdfs: []
+    53:
+      dirs:
+      - V53_Mikrowellen
+      pdfs: []
+    59:
+      dirs:
+      - V59_Modulation-Demodulation
+      pdfs: []
+    61:
+      dirs:
+      - V61_HeNe-Laser
+      pdfs: []
+- branch: master
+  contributors:
   - html_url: https://github.com/chrbeckm
     login: chrbeckm
   full_name: chrbeckm/anfaenger-praktikum
@@ -450,6 +633,59 @@
     64:
       dirs:
       - V64
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/DaGutn
+    login: DaGutn
+  full_name: DaGutn/david-praktikum
+  last_commit: 2020-06-05 13:39:05
+  protokolle:
+    602:
+      dirs:
+      - "Documents/Projects/david-praktikum/R\xF6ntgenemission und -absorption"
+      pdfs: []
+    603:
+      dirs:
+      - Documents/Projects/david-praktikum/Comptoneffekt
+      pdfs: []
+    703:
+      dirs:
+      - Documents/Projects/david-praktikum/Geiger-Mueller-Zaehlrohr
+      pdfs: []
+- branch: main
+  contributors:
+  - html_url: https://github.com/lassestern
+    login: lassestern
+  - html_url: https://github.com/DaGutn
+    login: DaGutn
+  full_name: DaGutn/FP_David_Lasse
+  last_commit: 2021-08-22 22:47:26
+  protokolle:
+    1:
+      dirs:
+      - V01_kosmische_Myonen
+      pdfs: []
+    21:
+      dirs:
+      - V21_optisches_Pumpen
+      pdfs: []
+    23:
+      dirs:
+      - V23_Quanten_Analogien
+      - V23_data
+      pdfs: []
+    46:
+      dirs:
+      - V46_Faraday_Effekt
+      pdfs: []
+    64:
+      dirs:
+      - V64_Interferometrie
+      pdfs: []
+    702:
+      dirs:
+      - Vorlage
       pdfs: []
 - branch: master
   contributors:
@@ -1867,6 +2103,27 @@
       - V.US2
       pdfs:
       - V.US2/latex-template/main.pdf
+- branch: master
+  contributors:
+  - html_url: https://github.com/maxnoe
+    login: maxnoe
+  - html_url: https://github.com/kbruegge
+    login: kbruegge
+  full_name: maxnoe/tudo_masterfp
+  last_commit: 2016-07-05 12:07:25
+  protokolle:
+    16:
+      dirs:
+      - v16_rutherford
+      pdfs: []
+    48:
+      dirs:
+      - v48_dipol
+      pdfs: []
+    52:
+      dirs:
+      - v52_leitungen
+      pdfs: []
 - branch: main
   contributors:
   - html_url: https://github.com/moritzbo
