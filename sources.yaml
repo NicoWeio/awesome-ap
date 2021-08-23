@@ -59,9 +59,17 @@
   subdirectory: we did that
   pdfs:
     in_source_dir: true
+- name: JaSale/AP
+  dirs_to_versuche:
+    V701: 701 # in der Datei steht fälschlicherweise 402
+  pdfs:
+    directory: PDF
+- name: JaSale/FP
 - name: JaSchl/AP1718
   pdfs:
     in_source_dir: true
+# TODO: PDFs heißen „proto.pdf“
+- name: JaSchl/FP1819
 - name: Jean1995/Praktikum
   dirs_to_versuche:
     latex-template_V01: false
@@ -74,6 +82,7 @@
 - name: JLammering/Physikalisches-Praktikum
 - name: KarlSchiller/2018-SS-FP
 - name: KarlSchiller/2018-WS-FP
+- name: katrinbls/FP
 # TODO: PDFs unregelmäßig benannt
 - name: komrozik/AP2019
   pdfs:
@@ -197,6 +206,9 @@
     in_source_dir: true
 # Fork von BenediktSan/AnfaengerPraktikum2020
 # - name: NiklasD/AnfaengerPraktikum2020
+- name: NilBre/4Physiker_Ap
+  dirs_to_versuche:
+    A10_Bearbeitung: false
 - name: Ninilini/FP-Bachelor
 - name: nsalewski/laboratory
   dirs_to_versuche:
