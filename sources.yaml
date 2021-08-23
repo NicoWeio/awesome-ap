@@ -12,6 +12,10 @@
     - Versuche Semester IV
   pdfs:
     in_source_dir: true
+- name: bixel/AP1213
+  pdfs:
+    in_source_dir: true
+- name: bixel/FP14
 - name: chrbeckm/anfaenger-praktikum
 - name: chrbeckm/tudo-physik-fp
 - name: chris-topher6/Anfaenger-Praktikum
@@ -21,6 +25,15 @@
   pdfs:
     in_source_dir: true
 - name: dagbjoern/FP-Physik
+- name: DaGutn/david-praktikum
+  dirs_to_versuche:
+    Comptoneffekt: 603
+    Geiger-Mueller-Zaehlrohr: 703
+    Röntgenemission und -absorption: 602
+  subdirectory: Documents/Projects/david-praktikum
+- name: DaGutn/FP_David_Lasse
+  pdfs:
+    in_source_dir: true # TODO: werden noch nicht erkannt
 - name: dlmsr/praktikum
 - name: dormail/ap
 - name: Fresoquark/Anfaengerpraktikum
@@ -114,6 +127,7 @@
 - name: Mampfzwerg/Praktikum
   pdfs:
     in_source_dir: true
+- name: maxnoe/tudo_masterfp
 - name: moritzbo/anfaenger_praktikum
 - name: mwindau/FP
   pdfs:
