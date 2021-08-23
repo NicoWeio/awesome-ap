@@ -45,6 +45,7 @@
 - name: henne169/FP
   pdfs:
     in_source_dir: true
+- name: henningpt/FP-Physik
 - name: henningpt/Master_Praktikum
   dirs_to_versuche:
     v61_dag: 61
@@ -62,6 +63,8 @@
   pdfs:
     in_source_dir: true
 - name: JLammering/Physikalisches-Praktikum
+- name: KarlSchiller/2018-SS-FP
+- name: KarlSchiller/2018-WS-FP
 # TODO: PDFs unregelmäßig benannt
 - name: komrozik/AP2019
   pdfs:
@@ -85,6 +88,7 @@
 - name: lassestern/praktikum-david-lasse
   pdfs:
     in_source_dir: true
+- name: lewis206/FP_20_21
 - name: lewis206/Praktikum
 - name: lfighter/FortgeschrittenesPraktikum
 # TODO: hat PDFs, aber keine Versuchsnummer im Dateipfad
@@ -184,6 +188,7 @@
     in_source_dir: true
 # Fork von BenediktSan/AnfaengerPraktikum2020
 # - name: NiklasD/AnfaengerPraktikum2020
+- name: Ninilini/FP-Bachelor
 - name: nsalewski/laboratory
   dirs_to_versuche:
     Vorlage Protokoll: false
