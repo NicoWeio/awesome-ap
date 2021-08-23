@@ -689,6 +689,24 @@
       pdfs: []
 - branch: master
   contributors:
+  - html_url: https://github.com/DavidP181
+    login: DavidP181
+  - html_url: https://github.com/dominik-bw
+    login: dominik-bw
+  full_name: DavidP181/FP
+  last_commit: 2018-01-27 15:57:49
+  protokolle:
+    46:
+      dirs:
+      - V46
+      pdfs: []
+    47:
+      dirs:
+      - V47
+      pdfs:
+      - V47/BerichtV47.pdf
+- branch: master
+  contributors:
   - html_url: https://github.com/dlmsr
     login: dlmsr
   - html_url: https://github.com/kevinmoc
@@ -1053,6 +1071,74 @@
       dirs:
       - Molwaerme_von_Kupfer
       pdfs: []
+- branch: master
+  contributors: []
+  full_name: henne169/FP
+  last_commit: 2018-02-19 14:51:59
+  protokolle:
+    16:
+      dirs:
+      - V16-Rutherford
+      pdfs:
+      - V16-Rutherford/V16.pdf
+    28:
+      dirs:
+      - V28-ESR
+      pdfs:
+      - V28-ESR/V28.pdf
+    46:
+      dirs:
+      - V46-Faraday
+      pdfs:
+      - V46-Faraday/V46.pdf
+    47:
+      dirs:
+      - "V47-Molw\xE4rme"
+      pdfs:
+      - "V47-Molw\xE4rme/V47.pdf"
+    64:
+      dirs:
+      - V64-Interferometrie
+      pdfs:
+      - V64-Interferometrie/V64.pdf
+- branch: master
+  contributors:
+  - html_url: https://github.com/dagbjoern
+    login: dagbjoern
+  - html_url: https://github.com/henningpt
+    login: henningpt
+  full_name: henningpt/Master_Praktikum
+  last_commit: 2019-05-03 08:19:47
+  protokolle:
+    41:
+      dirs:
+      - v41
+      pdfs: []
+    47:
+      dirs:
+      - v47
+      pdfs: []
+    49:
+      dirs:
+      - v49
+      pdfs: []
+    59:
+      dirs:
+      - v59
+      pdfs: []
+    60:
+      dirs:
+      - v60
+      pdfs: []
+    61:
+      dirs:
+      - v61
+      - v61_dag
+      pdfs: []
+    65:
+      dirs:
+      - v65
+      pdfs: []
 - branch: main
   contributors:
   - html_url: https://github.com/jana-banana
@@ -1286,6 +1372,70 @@
       dirs:
       - V53
       pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/JLammering
+    login: JLammering
+  - html_url: https://github.com/TIm097
+    login: TIm097
+  full_name: JLammering/Master-Praktikum
+  last_commit: 2020-08-28 11:36:06
+  protokolle:
+    1:
+      dirs:
+      - Myonen
+      pdfs:
+      - Myonen/Altprotokoll_von_coolen_dudes.pdf
+      - Myonen/Kommentare_Erstabgabe.pdf
+      - "Myonen/Myonen_Erstabgabe_Lammering_Gra_\xDFer_korr.pdf"
+      - Myonen/Myonen_Zweitabgabe.pdf
+      - Myonen/V01.pdf
+    15:
+      dirs:
+      - Silizium-Detektor
+      pdfs:
+      - Silizium-Detektor/V15_SiStreifen_NEU.pdf
+    27:
+      dirs:
+      - Zeeman-Effekt
+      pdfs:
+      - Zeeman-Effekt/V27.pdf
+    48:
+      dirs:
+      - Dipolrelaxation
+      pdfs:
+      - Dipolrelaxation/V48.pdf
+    51:
+      dirs:
+      - Operationsverstaerker
+      pdfs:
+      - Operationsverstaerker/V51.pdf
+    57:
+      dirs:
+      - Rauschen
+      pdfs:
+      - Rauschen/Erstabgabe.pdf
+      - Rauschen/V57.pdf
+      - Rauschen/Zweitabgabe.pdf
+    59:
+      dirs:
+      - Modulation
+      pdfs:
+      - Modulation/V59.pdf
+      - Modulation/erstabgabe.pdf
+      - Modulation/erstabgabeKommentare.pdf
+      - Modulation/zweitabgabeKommentare.pdf
+    60:
+      dirs:
+      - Dioden-Laser
+      pdfs:
+      - Dioden-Laser/Altprotokoll.pdf
+      - Dioden-Laser/V60_kommentare.pdf
+    61:
+      dirs:
+      - Helium-Neon-Laser
+      pdfs:
+      - Helium-Neon-Laser/V61.pdf
 - branch: master
   contributors:
   - html_url: https://github.com/JLammering
@@ -1554,6 +1704,31 @@
     902:
       dirs:
       - US2
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/karina1007
+    login: karina1007
+  - html_url: https://github.com/lewis206
+    login: lewis206
+  full_name: lewis206/Praktikum
+  last_commit: 2020-08-22 14:15:53
+  protokolle:
+    21:
+      dirs:
+      - V21
+      pdfs: []
+    23:
+      dirs:
+      - V23
+      pdfs: []
+    46:
+      dirs:
+      - V46
+      pdfs: []
+    61:
+      dirs:
+      - V61
       pdfs: []
 - branch: master
   contributors:
