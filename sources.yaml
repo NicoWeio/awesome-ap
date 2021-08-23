@@ -34,11 +34,20 @@
 - name: DaGutn/FP_David_Lasse
   pdfs:
     in_source_dir: true # TODO: werden noch nicht erkannt
+- name: DavidP181/FP
+  pdfs:
+    in_source_dir: true
 - name: dlmsr/praktikum
 - name: dormail/ap
 - name: Fresoquark/Anfaengerpraktikum
 - name: HelenaCarlArne/ProtokolleAP
 - name: HelenaCarlArne/ProtokolleFP
+- name: henne169/FP
+  pdfs:
+    in_source_dir: true
+- name: henningpt/Master_Praktikum
+  dirs_to_versuche:
+    v61_dag: 61
 - name: jana-banana/AP-2020
   subdirectory: we did that
   pdfs:
@@ -49,6 +58,9 @@
   pdfs:
     directory: Protokolle_Fertig
 - name: Jean1995/PraktikumFP
+- name: JLammering/Master-Praktikum
+  pdfs:
+    in_source_dir: true
 - name: JLammering/Physikalisches-Praktikum
 # TODO: PDFs unregelmäßig benannt
 - name: komrozik/AP2019
@@ -73,6 +85,7 @@
 - name: lassestern/praktikum-david-lasse
   pdfs:
     in_source_dir: true
+- name: lewis206/Praktikum
 - name: lfighter/FortgeschrittenesPraktikum
 # TODO: hat PDFs, aber keine Versuchsnummer im Dateipfad
 - name: lfighter/Praktikum
