@@ -27,7 +27,7 @@ def get_versuch_nummer_from_content(dir):
     return find_from_candidates_dict(main_tex_files, extract_versuch, lambda file: str(file))
 
 
-def get_versuch_nummer_advanced(dir, dirs_to_versuche):
+def get_versuch_nummer_advanced(dir, dirs_to_versuche, parsing_options):
     if is_dir_ignored(dir, dirs_to_versuche):
         info(f'{dir} is ignored')
         return None
@@ -37,7 +37,7 @@ def get_versuch_nummer_advanced(dir, dirs_to_versuche):
     results = [  # absteigend nach Priorität sortiert ↓
         (dirs_to_versuche or {}).get(dir.name),  # explizit angegeben
         dir_result,  # Datei-Inhalte
-        parse_versuch_nummer(dir.name),  # Dateipfad
+        parse_versuch_nummer(dir.name) if parsing_options.get('dirname', True) else None,  # Dateipfad
     ]
 
     valid_results = [result for result in results if result]
@@ -122,7 +122,7 @@ def import_repo(source, gh, refresh=True):
         if (cwd_path / dir) in explicit_subdirs:
             info(f'skipping explicit subdir "{dir}"')
             continue
-        num = get_versuch_nummer_advanced(cwd_path / dir, source.dirs_to_versuche)
+        num = get_versuch_nummer_advanced(cwd_path / dir, source.dirs_to_versuche, source.parsing)
         if not num:
             continue
         elif num in versuche:

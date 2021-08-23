@@ -7,6 +7,7 @@ class Repo:
         self.branch = data.get('branch')
         self.dirs_to_versuche = data.get('dirs_to_versuche')
         self.ignore_dirs = data.get('ignore_dirs', [])
+        self.parsing = data.get('parsing', {})
         self.full_name = data.get('name')
         self.pdfs = data.get('pdfs')
 
