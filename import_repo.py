@@ -36,7 +36,7 @@ def get_versuch_nummer_advanced(dir, dirs_to_versuche, parsing_options):
 
     results = [  # absteigend nach Priorität sortiert ↓
         (dirs_to_versuche or {}).get(dir.name),  # explizit angegeben
-        dir_result,  # Datei-Inhalte
+        dir_result if parsing_options.get('contents', True) else None,  # Datei-Inhalte
         parse_versuch_nummer(dir.name) if parsing_options.get('dirname', True) else None,  # Dateipfad
     ]
 
