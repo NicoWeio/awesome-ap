@@ -1229,6 +1229,161 @@
       dirs:
       - v65
       pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/Imigir
+    login: Imigir
+  - html_url: https://github.com/ghzut
+    login: ghzut
+  full_name: Imigir/Physik-Praktikum
+  last_commit: 2021-02-19 14:12:32
+  protokolle:
+    14:
+      dirs:
+      - FP-V14-Tomographie
+      pdfs: []
+    16:
+      dirs:
+      - FP-V16-Rutherford-Streuung
+      pdfs: []
+    18:
+      dirs:
+      - FP-V18-Germanium-Detektor
+      pdfs: []
+    21:
+      dirs:
+      - FP-V21-Optisches-Pumpen
+      pdfs: []
+    23:
+      dirs:
+      - FP-V23-Quantenanalogien
+      pdfs: []
+    27:
+      dirs:
+      - FP-V27-Zeeman-Effekt
+      pdfs: []
+    46:
+      dirs:
+      - FP-V46-Farraday-Effekt
+      pdfs: []
+    48:
+      dirs:
+      - FP-V48-Dipolrelaxation
+      pdfs: []
+    61:
+      dirs:
+      - FP-V61-HeNe-Laser
+      pdfs: []
+    70:
+      dirs:
+      - FP-V70-Vakuumphysik
+      pdfs: []
+    101:
+      dirs:
+      - 07-Praktikum-V101
+      pdfs: []
+    103:
+      dirs:
+      - 09-Praktikum-V103
+      pdfs: []
+    105:
+      dirs:
+      - 08-Praktikum-V105
+      pdfs: []
+    201:
+      dirs:
+      - 04-Praktikum-V201
+      pdfs: []
+    204:
+      dirs:
+      - 05-Praktikum-V204
+      pdfs: []
+    206:
+      dirs:
+      - 06-Praktikum-V206
+      pdfs: []
+    301:
+      dirs:
+      - 01-Praktikum-V301
+      pdfs:
+      - 01-Praktikum-V301/Praktikum-V301.pdf
+    302:
+      dirs:
+      - 02-Praktikum-V302
+      pdfs:
+      - 02-Praktikum-V302/Praktikum-V302.pdf
+    303:
+      dirs:
+      - 11-Praktikum-V303
+      pdfs: []
+    351:
+      dirs:
+      - 10-Praktikum-V351
+      pdfs: []
+    353:
+      dirs:
+      - 12-Praktikum-V353
+      pdfs: []
+    354:
+      dirs:
+      - 13-Praktikum-V354
+      - V354
+      pdfs: []
+    401:
+      dirs:
+      - 20-Praktikum-V401
+      pdfs: []
+    402:
+      dirs:
+      - 19-Praktikum-V402
+      pdfs:
+      - 19-Praktikum-V402/V402.pdf
+    406:
+      dirs:
+      - 21-Praktikum-V406
+      pdfs: []
+    501:
+      dirs:
+      - 23-Praktikum-V501-502
+      pdfs: []
+    504:
+      dirs:
+      - 22-Praktikum-V504
+      pdfs: []
+    601:
+      dirs:
+      - 24-Praktikum-V601
+      pdfs: []
+    602:
+      dirs:
+      - 25-Praktikum-V602
+      pdfs: []
+    701:
+      dirs:
+      - 18-Praktikum-V701
+      pdfs: []
+    702:
+      dirs:
+      - 15-Praktikum-V702
+      pdfs:
+      - 15-Praktikum-V702/V702.pdf
+    703:
+      dirs:
+      - 14-Praktikum-V703
+      pdfs: []
+    800:
+      dirs:
+      - 03-Praktikum-V800
+      pdfs:
+      - 03-Praktikum-V800/Praktikum-V800.pdf
+    901:
+      dirs:
+      - 16-Praktikum-US1
+      pdfs: []
+    902:
+      dirs:
+      - 17-Praktikum-US2
+      pdfs: []
 - branch: main
   contributors:
   - html_url: https://github.com/jana-banana
@@ -2108,7 +2263,7 @@
   - html_url: https://github.com/komrozik
     login: komrozik
   full_name: komrozik/FP2021
-  last_commit: 2021-08-03 10:56:52
+  last_commit: 2021-08-24 09:02:51
   protokolle:
     1:
       dirs:
