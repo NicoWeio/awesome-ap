@@ -55,6 +55,13 @@
 - name: henningpt/Master_Praktikum
   dirs_to_versuche:
     v61_dag: 61
+- name: Imigir/Physik-Praktikum
+  dirs_to_versuche:
+    23-Praktikum-V501-502: 501 # Doppelversuch
+  parsing:
+    contents: false # Die „…w.tex“ genannten Dateien stören die Erkennung sonst erheblich.
+  pdfs:
+    in_source_dir: true
 - name: jana-banana/AP-2020
   subdirectory: we did that
   pdfs:
