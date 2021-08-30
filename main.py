@@ -24,14 +24,18 @@ repos_to_versuche = []
 for repo in repos:
     try:
         repos_to_versuche.append(import_repo(Repo(repo, gh), gh))
+    except github.UnknownObjectException:
+        pass
     except Exception as e:
         error(f'Could not import {repo["name"]}')
-        error(e)
+        # So ist anhand des Status in GitHub Actions direkt ersichtlich, ob es ein Problem gab.
+        raise
 
 versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
 
 ### Generieren der statischen Website-Inhalte:
-generate_md(repos_to_versuche, versuche_to_repos)
+if not os.getenv('DEV'):  # damit nicht bei jedem Testdurchlauf >100 Dateien geschrieben werden
+    generate_md(repos_to_versuche, versuche_to_repos)
 
 ### Generieren einer (in erster Linie) maschinenlesbaren Datenbank:
 generate_yaml(repos_to_versuche)

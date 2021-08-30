@@ -1,7 +1,9 @@
 from urllib.parse import quote
+from path import CoolPath
 
 class Pdf:
     def __init__(self, path, repo):
+        assert isinstance(path, CoolPath)
         self.path = path
         self.repo = repo
 

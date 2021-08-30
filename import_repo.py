@@ -7,6 +7,7 @@ import os.path
 from pathlib import Path
 
 from console import *
+from path import CoolPath
 from pdf import Pdf
 from analyze_content import parse_versuch_nummer, find_from_candidates_dict, extract_versuch
 
@@ -20,16 +21,16 @@ def is_dir_ignored(dir, dirs_to_versuche):
 
 
 def get_versuch_nummer_from_content(dir):
-    main_tex_files = set(dir.glob('*.tex')) | set(dir.rglob('main.tex'))
+    main_tex_files = set(dir.full_path.glob('*.tex')) | set(dir.full_path.rglob('main.tex'))
     if len(main_tex_files) > 10:
-        warn(f'Skipping detection of {dir} – too many ({len(main_tex_files)}) candidates')
+        warn(f'Skipping detection of "{dir}" – too many ({len(main_tex_files)}) candidates')
         return None, []
     return find_from_candidates_dict(main_tex_files, extract_versuch, lambda file: str(file))
 
 
 def get_versuch_nummer_advanced(dir, dirs_to_versuche, parsing_options):
     if is_dir_ignored(dir, dirs_to_versuche):
-        info(f'{dir} is ignored')
+        info(f'"{dir}" is ignored')
         return None
 
     dir_result, dir_keys = get_versuch_nummer_from_content(dir)
@@ -50,7 +51,7 @@ def get_versuch_nummer_advanced(dir, dirs_to_versuche, parsing_options):
             warn(f'{dir_result} was found in {dir_keys}')
         return chosen_result
     else:
-        debug(f'Cannot resolve (at all): {dir}')
+        debug(f'Cannot resolve (at all): "{dir}"')
 
 
 def printable_files(files):
@@ -59,11 +60,7 @@ def printable_files(files):
 
 
 def find_pdfs(base_dir, num):
-    try:
-        pdf_files_in_base = base_dir.glob('*.pdf')
-    except github.UnknownObjectException as e: # file not found
-        # print(f'[yellow]Not found: {base_dir=}, {ref=}[/yellow]')
-        return
+    pdf_files_in_base = base_dir.glob('*.pdf')
     RE_VALID_NAMES = rf'(abgabe|korrektur|main|protokoll|[VD]?[._\s\-]*{num})(.*)\.pdf'
     # RE_INVALID_NAMES = rf'(graph|plot)(.*)\.pdf'
     pdf_matches = [f for f in pdf_files_in_base if re.search(RE_VALID_NAMES, f.name, re.IGNORECASE)]
@@ -115,14 +112,14 @@ def import_repo(source, gh, refresh=True):
     dir_candidates = []
     explicit_subdirs = list(cwd_path / subdir for subdir in source.subdirs)
     for subdir in explicit_subdirs:
-        dir_candidates.extend([f.relative_to(cwd_path) for f in subdir.iterdir() if f.is_dir()])
+        dir_candidates.extend([CoolPath(f, cwd=cwd_path) for f in subdir.iterdir() if f.is_dir()])
 
     versuche = dict()
     for dir in dir_candidates:
-        if (cwd_path / dir) in explicit_subdirs:
+        if dir in explicit_subdirs:
             info(f'skipping explicit subdir "{dir}"')
             continue
-        num = get_versuch_nummer_advanced(cwd_path / dir, source.dirs_to_versuche, source.parsing)
+        num = get_versuch_nummer_advanced(dir, source.dirs_to_versuche, source.parsing)
         if not num:
             continue
         elif num in versuche:
@@ -134,7 +131,8 @@ def import_repo(source, gh, refresh=True):
         if 'directory' in source.pdfs:
             info(f"PDFs in \"{source.pdfs['directory']}\"")
             pdf_candidate_files = (cwd_path / source.pdfs['directory']).rglob('*.pdf')
-            pdf_candidates = list(Pdf(path.relative_to(cwd_path), source) for path in pdf_candidate_files)
+            pdf_candidates = list(Pdf(CoolPath(path, cwd=cwd_path), source) for path in pdf_candidate_files)
+            print(f"{type(pdf_candidates)=}")
             debug(f"{pdf_candidates=}")
 
             for pdf in pdf_candidates:
@@ -150,8 +148,8 @@ def import_repo(source, gh, refresh=True):
             info("PDFs in source dir")
             for num, v in versuche.items():
                 for dir in v.get('dirs', []):
-                    pdfs = find_pdfs(cwd_path / dir, num)
-                    pdfs = list(Pdf(path.relative_to(cwd_path), source) for path in pdfs) if pdfs else None
+                    pdfs = find_pdfs(dir.full_path, num)
+                    pdfs = list(Pdf(CoolPath(path, cwd=cwd_path), source) for path in pdfs) if pdfs else None
                     if not pdfs:
                         continue
                     elif num in versuche and 'pdfs' in versuche[num]:
