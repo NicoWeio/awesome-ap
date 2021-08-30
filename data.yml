@@ -2069,7 +2069,6 @@
       pdfs: []
     47:
       dirs:
-      - V00
       - V47-Molwaerme
       pdfs: []
     61:
@@ -2100,10 +2099,6 @@
     27:
       dirs:
       - V27-Zeeman
-      pdfs: []
-    47:
-      dirs:
-      - V00
       pdfs: []
     49:
       dirs:

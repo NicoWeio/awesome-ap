@@ -21,7 +21,7 @@
 |     41|[Übersicht](versuch/41) |      4|
 |     44|[Übersicht](versuch/44) |      5|
 |     46|[Übersicht](versuch/46) |     24|
-|     47|[Übersicht](versuch/47) |     19|
+|     47|[Übersicht](versuch/47) |     18|
 |     48|[Übersicht](versuch/48) |     12|
 |     49|[Übersicht](versuch/49) |      8|
 |     51|[Übersicht](versuch/51) |      7|
@@ -121,7 +121,7 @@
 |[JLammering/Master-Praktikum](https://github.com/JLammering/Master-Praktikum)                      |[Übersicht](repo/JLammering/Master-Praktikum)           |28.08.2020 11:36:06|           9|                    9|
 |[JLammering/Physikalisches-Praktikum](https://github.com/JLammering/Physikalisches-Praktikum)      |[Übersicht](repo/JLammering/Physikalisches-Praktikum)   |03.10.2016 20:42:54|          14|                    0|
 |[KarlSchiller/2018-SS-FP](https://github.com/KarlSchiller/2018-SS-FP)                              |[Übersicht](repo/KarlSchiller/2018-SS-FP)               |13.02.2019 11:09:14|           5|                    0|
-|[KarlSchiller/2018-WS-FP](https://github.com/KarlSchiller/2018-WS-FP)                              |[Übersicht](repo/KarlSchiller/2018-WS-FP)               |20.03.2019 08:25:19|           6|                    0|
+|[KarlSchiller/2018-WS-FP](https://github.com/KarlSchiller/2018-WS-FP)                              |[Übersicht](repo/KarlSchiller/2018-WS-FP)               |20.03.2019 08:25:19|           5|                    0|
 |[katrinbls/FP](https://github.com/katrinbls/FP)                                                    |[Übersicht](repo/katrinbls/FP)                          |06.08.2020 08:48:26|           5|                    0|
 |[komrozik/AP2019](https://github.com/komrozik/AP2019)                                              |[Übersicht](repo/komrozik/AP2019)                       |02.05.2021 15:27:33|          16|                   13|
 |[komrozik/AP2020](https://github.com/komrozik/AP2020)                                              |[Übersicht](repo/komrozik/AP2020)                       |10.06.2020 06:07:44|           3|                    3|
@@ -179,6 +179,6 @@
 ## Statistiken
 - **85** Repos
 - **75** Versuche
-- **1106** Protokolle
+- **1105** Protokolle
 - **361** Protokolle mit PDFs
 - **471** PDFs insgesamt
