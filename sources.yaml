@@ -104,6 +104,8 @@
 - name: komrozik/FP2021
   pdfs:
     in_source_dir: true
+- name: larsfu/ap
+- name: larsfu/fp
 # TODO: Versuch-Nummern aus den Literaturangaben übernommen; PDFs unregelmäßig benannt
 - name: lassestern/Lasse_Praktikum
   dirs_to_versuche:
@@ -166,6 +168,9 @@
     5_ElektronenSpinResonanz[X]: 28
   pdfs:
     in_source_dir: true
+- name: LukasNickel/praktikumsskripte
+  pdfs:
+    in_source_dir: true
 - name: MagischeMiesmuschel/AnfaengerPraktikum
 - name: MagischeMiesmuschel/FPMaster
   pdfs:
@@ -174,6 +179,15 @@
   pdfs:
     in_source_dir: true
 - name: Mampfzwerg/Praktikum
+  pdfs:
+    in_source_dir: true
+- name: marcelkebe/AP2020_together
+- name: marcelkebe/exp2PH
+  dirs_to_versuche:
+    Der Compton-Effekt-20200429: 603
+  subdirectory:
+    - .
+    - compton
   pdfs:
     in_source_dir: true
 - name: maxnoe/tudo_masterfp
