@@ -1,7 +1,23 @@
 ignore:
-  - DavidP181/Praktikum # empty
   - Ninilini/FP_Teilchen
   - rkallo/TPSPraktikum
-  - SamGTex/FP # empty
-  - Scemic/Praktikum # empty
-  - TimBizeps/BachelorAP2 # empty
+  - sstemmle/UNI-HD-FP13
+
+  - KevSed/Praktikum_FP # scheinbar eine ältere Version des Repos KevSed/Praktikum
+  - VersorgungsAuge/FPSS18pdf # nur Plots
+
+  # Festkörperphysik:
+  - H-berg/FP2
+  - stefangri/fekoe_fp
+
+  # keine Protokolle:
+  - 4iphaton/Praktikum-
+  - DavidP181/Praktikum
+  - DrDreamcase/Anf-ngerPraktikum
+  - miriamschwarze/Grundpraktikum
+  - NicoJG/PraktikumPhysikRepositories
+  - NicoJG/PraktikumPhysikRepoVorlage
+  - SamGTex/FP
+  - Scemic/Praktikum
+  - Till-Will/AP
+  - xxholzixx1/Anfaengerpraktikum

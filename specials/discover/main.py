@@ -39,6 +39,7 @@ def query_repos_for_user(user):
         login
         repositories(isFork: false, first: 100) {
             nodes {
+                isEmpty
                 nameWithOwner
                 stargazerCount
             }
@@ -93,6 +94,8 @@ def match_repo(repo):
     matches = [
         # nicht ignoriert?
         repo['nameWithOwner'] not in config.get('ignore', []),
+        # nicht leer?
+        not repo['isEmpty'],
         # nicht bereits vorhanden?
         not repo['nameWithOwner'] in repos_from_sources,
         # Schlüsselwort im Namen?
