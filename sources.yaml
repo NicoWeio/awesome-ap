@@ -22,6 +22,8 @@
   pdfs:
     in_source_dir: true
 - name: bixel/FP14
+# TODO: hat Altprotokolle in Unterordnern
+- name: brkkbkc/FPSS18_5
 - name: chrbeckm/anfaenger-praktikum
 - name: chrbeckm/tudo-physik-fp
 - name: chris-topher6/Anfaenger-Praktikum
@@ -46,6 +48,7 @@
 - name: dlmsr/praktikum
 - name: dormail/ap
 - name: Fresoquark/Anfaengerpraktikum
+- name: FSchierok/FP
 - name: HelenaCarlArne/ProtokolleAP
 - name: HelenaCarlArne/ProtokolleFP
 - name: henne169/FP
@@ -270,6 +273,10 @@
     in_source_dir: true
 - name: rleven/Praktikum2020
 - name: rleven/richard_joell_Praktikum
+- name: RnLe/AP1920-AJRM
+  pdfs:
+    directory: Einzelversuche/AJB
+    in_source_dir: true
 - name: Robubabu/FFS-Praktikum
   dirs_to_versuche:
     V401-Michelson-Interferometer: 401 # in der Datei steht fälschlicherweise 403
@@ -304,6 +311,10 @@
 - name: Tahirbanane/AP
   pdfs:
     in_source_dir: true
+- name: TRose27/FP
+- name: Vale112/FP_B_SS19
+  dirs_to_versuche:
+    V00: false
 - name: vsulaiman/Praktikum
   subdirectory:
     - SS17
