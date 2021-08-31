@@ -26,6 +26,8 @@
 - name: brkkbkc/FPSS18_5
 - name: chrbeckm/anfaenger-praktikum
 - name: chrbeckm/tudo-physik-fp
+- name: Christopherkrause1/FortgeschrittenesPraktikum
+- name: Christopherkrause1/Praktikum
 - name: chris-topher6/Anfaenger-Praktikum
   dirs_to_versuche:
     V302: 302 # in der Datei steht fälschlicherweise V301
@@ -47,6 +49,13 @@
     in_source_dir: true
 - name: dlmsr/praktikum
 - name: dormail/ap
+- name: elliekayl/Protokolle
+  pdfs:
+    directory:
+      - US
+      - V01-46
+      - V100-V354
+      - V400-703
 - name: Fresoquark/Anfaengerpraktikum
 - name: FSchierok/FP
 - name: HelenaCarlArne/ProtokolleAP
@@ -98,6 +107,11 @@
   pdfs:
     in_source_dir: true
 - name: JLammering/Physikalisches-Praktikum
+- name: JulianSch/FP-Pelle-Julian
+  dirs_to_versuche:
+    V14-Topografie: 14 # in der Datei steht fälschlicherweise V01
+  pdfs:
+    directory: Altprotokolle_nYR
 - name: KarlSchiller/2018-SS-FP
   dirs_to_versuche:
     V00: false
@@ -186,6 +200,7 @@
 - name: LukasNickel/praktikumsskripte
   pdfs:
     in_source_dir: true
+- name: maaxxns/FP_Samuel_Max
 - name: MagischeMiesmuschel/AnfaengerPraktikum
 - name: MagischeMiesmuschel/FPMaster
   pdfs:
