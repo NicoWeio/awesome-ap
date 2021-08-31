@@ -128,11 +128,10 @@ def import_repo(source, gh, refresh=True):
             versuche.setdefault(num, {})['dirs'] = [dir]
 
     if source.pdfs:
-        if 'directory' in source.pdfs:
-            info(f"PDFs in \"{source.pdfs['directory']}\"")
-            pdf_candidate_files = (cwd_path / source.pdfs['directory']).rglob('*.pdf')
+        for pdf_dir in source.pdfs['directories']:
+            info(f"PDFs in \"{pdf_dir}\"")
+            pdf_candidate_files = (cwd_path / pdf_dir).rglob('*.pdf')
             pdf_candidates = list(Pdf(CoolPath(path, cwd=cwd_path), source) for path in pdf_candidate_files)
-            print(f"{type(pdf_candidates)=}")
             debug(f"{pdf_candidates=}")
 
             for pdf in pdf_candidates:

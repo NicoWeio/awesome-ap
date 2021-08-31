@@ -9,9 +9,15 @@ class Repo:
         self.ignore_dirs = data.get('ignore_dirs', [])
         self.parsing = data.get('parsing', {})
         self.full_name = data.get('name')
-        self.pdfs = data.get('pdfs')
 
         self.login, self.name = self.full_name.split('/')
+
+        self.pdfs = data.get('pdfs')
+        if self.pdfs:
+            directories = self.pdfs.get('directory', [])
+            if isinstance(directories, str):
+                directories = [directories]
+            self.pdfs['directories'] = directories
 
         self.subdirs = data.get('subdirectory', '')  # TODO !?
         if isinstance(self.subdirs, str):
