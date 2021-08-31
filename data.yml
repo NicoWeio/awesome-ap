@@ -515,6 +515,46 @@
       pdfs: []
 - branch: master
   contributors:
+  - html_url: https://github.com/Christopherkrause1
+    login: Christopherkrause1
+  - html_url: https://github.com/woklop9
+    login: woklop9
+  full_name: Christopherkrause1/FortgeschrittenesPraktikum
+  last_commit: 2019-06-26 07:54:06
+  protokolle:
+    14:
+      dirs:
+      - V14-Tomographie
+      pdfs: []
+    16:
+      dirs:
+      - V16-Rutherford
+      pdfs: []
+    46:
+      dirs:
+      - V46-Faraday
+      pdfs: []
+    53:
+      dirs:
+      - V53-Mikrowellen
+      pdfs: []
+    61:
+      dirs:
+      - V61-HeNELaser
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/Christopherkrause1
+    login: Christopherkrause1
+  full_name: Christopherkrause1/Praktikum
+  last_commit: 2017-10-22 10:55:47
+  protokolle:
+    201:
+      dirs:
+      - 201-Duolong
+      pdfs: []
+- branch: master
+  contributors:
   - html_url: https://github.com/chris-topher6
     login: chris-topher6
   - html_url: https://github.com/Hernyoo
@@ -993,6 +1033,109 @@
       dirs:
       - US1
       pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/elliekayl
+    login: elliekayl
+  full_name: elliekayl/Protokolle
+  last_commit: 2019-12-21 22:15:36
+  protokolle:
+    14:
+      dirs: []
+      pdfs:
+      - V01-46/V14_Tomografie.pdf
+    21:
+      dirs: []
+      pdfs:
+      - V01-46/V21_Optisches-Pumpen.pdf
+    27:
+      dirs: []
+      pdfs:
+      - V01-46/V27_Zeeman.pdf
+    46:
+      dirs:
+      - V01-46
+      pdfs:
+      - V01-46/V46_Faraday-Effekt.pdf
+    101:
+      dirs: []
+      pdfs:
+      - "V100-V354/V101_Tr\xE4gheitsmoment.pdf"
+    103:
+      dirs: []
+      pdfs:
+      - "V100-V354/V103_Biegung_elastischer_St\xE4be.pdf"
+      - V100-V354/V103_Korrektur.pdf
+    105:
+      dirs: []
+      pdfs:
+      - V100-V354/V105_magnetisches_Moment.pdf
+    301:
+      dirs: []
+      pdfs:
+      - V100-V354/V301_Leerlaufspannung_und_Innenwiderstand_von_Spannungsquellen.pdf
+    308:
+      dirs: []
+      pdfs:
+      - V100-V354/V308_Spulen_und_Magnetfelder.pdf
+    351:
+      dirs: []
+      pdfs:
+      - V100-V354/V351_Fourier-Analyse_und_Synthese.pdf
+    353:
+      dirs: []
+      pdfs:
+      - V100-V354/V353_RC-Kreis.pdf
+    354:
+      dirs:
+      - V100-V354
+      pdfs:
+      - V100-V354/V354_RLC-Kreis.pdf
+    401:
+      dirs: []
+      pdfs:
+      - V400-703/V401_Michelson-Interferometer.pdf
+    406:
+      dirs: []
+      pdfs:
+      - V400-703/V406_Beugung_am_Spalt.pdf
+    500:
+      dirs: []
+      pdfs:
+      - V400-703/V500_Photoeffekt.pdf
+    501:
+      dirs: []
+      pdfs:
+      - V400-703/V501-2_Elektronen_im_E-B-Feld.pdf
+    504:
+      dirs: []
+      pdfs:
+      - V400-703/V504_Thermische_Elektronenemission.pdf
+    601:
+      dirs: []
+      pdfs:
+      - V400-703/V601_Franck_Hertz.pdf
+    602:
+      dirs: []
+      pdfs:
+      - V400-703/V602_Roentgenemission_und_-absorption.pdf
+    606:
+      dirs: []
+      pdfs:
+      - V400-703/V606_Suszeptibilitaet_paramagnetischer_Substanzen.pdf
+    702:
+      dirs: []
+      pdfs:
+      - V400-703/V702_Aktivierung_mit_Neutronen.pdf
+    703:
+      dirs:
+      - V400-703
+      pdfs:
+      - V400-703/V703_Geiger-Mueller-Zaehlrohr.pdf
+    901:
+      dirs: []
+      pdfs:
+      - US/US1_Ultraschalltechnik.pdf
 - branch: master
   contributors:
   - html_url: https://github.com/TRose27
@@ -2265,6 +2408,42 @@
       pdfs: []
 - branch: master
   contributors:
+  - html_url: https://github.com/Plockwurst
+    login: Plockwurst
+  - html_url: https://github.com/JulianSch
+    login: JulianSch
+  full_name: JulianSch/FP-Pelle-Julian
+  last_commit: 2018-11-06 13:29:35
+  protokolle:
+    1:
+      dirs:
+      - V01-Myonen
+      pdfs: []
+    14:
+      dirs:
+      - V14-Topografie
+      pdfs:
+      - Altprotokolle_nYR/V14_Tomographie.pdf
+    21:
+      dirs:
+      - V21-Optisches_Pumpen
+      pdfs:
+      - Altprotokolle_nYR/v21.pdf
+      - Altprotokolle_nYR/v21unkorrigiert.pdf
+    48:
+      dirs:
+      - V48-Dipolrelaxation
+      pdfs:
+      - Altprotokolle_nYR/Dipolrelaxation/V48-1.pdf
+      - Altprotokolle_nYR/Dipolrelaxation/V48-2.pdf
+      - Altprotokolle_nYR/Dipolrelaxation/V48-3.pdf
+    64:
+      dirs:
+      - V64-Interferometri
+      pdfs:
+      - Altprotokolle_nYR/v64.pdf
+- branch: master
+  contributors:
   - html_url: https://github.com/KarlSchiller
     login: KarlSchiller
   - html_url: https://github.com/p7schmidt
@@ -3223,6 +3402,35 @@
       - V354
       pdfs:
       - V354/main.pdf
+- branch: main
+  contributors:
+  - html_url: https://github.com/maaxxns
+    login: maaxxns
+  - html_url: https://github.com/SamGTex
+    login: SamGTex
+  full_name: maaxxns/FP_Samuel_Max
+  last_commit: 2021-08-14 11:03:17
+  protokolle:
+    27:
+      dirs:
+      - V27_ZeemanEffekt
+      pdfs: []
+    44:
+      dirs:
+      - V44_Roentgenreflektrometrie
+      pdfs: []
+    48:
+      dirs:
+      - V48_Dipolrelaxation
+      pdfs: []
+    53:
+      dirs:
+      - V53_Mikrowellen
+      pdfs: []
+    60:
+      dirs:
+      - V60_Diodenlaser
+      pdfs: []
 - branch: master
   contributors:
   - html_url: https://github.com/MagischeMiesmuschel
