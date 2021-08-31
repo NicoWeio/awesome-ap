@@ -65,6 +65,14 @@
     contents: false # Die „…w.tex“ genannten Dateien stören die Erkennung sonst erheblich.
   pdfs:
     in_source_dir: true
+- name: JaLuka98/AP_17-18
+  dirs_to_versuche:
+    latex-template: false
+    V701_reichweite_von_alpha-Strahlung: 701 # in der Datei steht fälschlicherweise V704
+- name: JaLuka98/FP_SS19
+  dirs_to_versuche:
+    latex-template: false
+- name: JaLuka98/FP_WS19-20
 - name: jana-banana/AP-2020
   subdirectory: we did that
   pdfs:
@@ -97,6 +105,10 @@
   dirs_to_versuche:
     V00: false
 - name: katrinbls/FP
+- name: KattiBrae/APWS201718
+  subdirectory:
+    - AP1
+    - AP2
 # TODO: PDFs unregelmäßig benannt
 - name: komrozik/AP2019
   pdfs:
@@ -287,6 +299,13 @@
 - name: Robubabu/YR-Praktikum
 # - name: SamGTex/FP # TODO: noch leer
 - name: SamGTex/Physik_Praktikum_Samuel_Max
+# TODO: PDFs in „BFP“ werden noch nicht erkannt
+- name: SanjoR/FP-Jonas-Donata
+  pdfs:
+    directory: MFP/Fertige_Protokolle
+  subdirectory:
+    - BFP
+    - MFP
 - name: SHilgers/Praktikum2
 - name: smjhnits/Praktikum_TU_D_16-17
   pdfs:
