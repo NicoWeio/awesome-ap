@@ -1,4 +1,5 @@
 .env
 database.json
 build
+specials/discover/results.yaml
 __pycache__
