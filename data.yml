@@ -347,6 +347,39 @@
       pdfs: []
 - branch: master
   contributors:
+  - html_url: https://github.com/brkkbkc
+    login: brkkbkc
+  - html_url: https://github.com/VersorgungsAuge
+    login: VersorgungsAuge
+  full_name: brkkbkc/FPSS18_5
+  last_commit: 2018-08-29 13:23:12
+  protokolle:
+    16:
+      dirs:
+      - V16-Rutherford-Streuexperiment
+      pdfs: []
+    27:
+      dirs:
+      - V27-Zeeman-Effekt
+      pdfs: []
+    47:
+      dirs:
+      - V47-Temperaturabhaengigkeit-der-Molwaerme-von-Kupfer
+      pdfs: []
+    48:
+      dirs:
+      - V48-Dipolrelaxation-in-Ionenkristallen
+      pdfs: []
+    51:
+      dirs:
+      - V51-Schaltungen-mit-Operationsverstaerkern
+      pdfs: []
+    64:
+      dirs:
+      - V64-Interferometrie
+      pdfs: []
+- branch: master
+  contributors:
   - html_url: https://github.com/chrbeckm
     login: chrbeckm
   full_name: chrbeckm/anfaenger-praktikum
@@ -1016,6 +1049,27 @@
     903:
       dirs:
       - US3
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/FSchierok
+    login: FSchierok
+  - html_url: https://github.com/tasicarl
+    login: tasicarl
+  full_name: FSchierok/FP
+  last_commit: 2018-11-13 22:06:54
+  protokolle:
+    21:
+      dirs:
+      - V21_OptischesPumpen
+      pdfs: []
+    64:
+      dirs:
+      - V64_Interferometer
+      pdfs: []
+    70:
+      dirs:
+      - V70_Vakuumphysik
       pdfs: []
 - branch: master
   contributors:
@@ -4654,6 +4708,118 @@
       pdfs: []
 - branch: master
   contributors:
+  - html_url: https://github.com/RnLe
+    login: RnLe
+  - html_url: https://github.com/ToniAJ
+    login: ToniAJ
+  full_name: RnLe/AP1920-AJRM
+  last_commit: 2020-10-02 13:42:04
+  protokolle:
+    101:
+      dirs:
+      - "V101_Tr\xE4gheitsmoment"
+      pdfs:
+      - "V101_Tr\xE4gheitsmoment/V101 Das Tr\xE4gheitsmoment.pdf"
+    107:
+      dirs:
+      - V107_Hoeppler_Viskosimeter
+      pdfs:
+      - "V107_Hoeppler_Viskosimeter/V107 H\xF6ppler Viskosimeter.pdf"
+    201:
+      dirs:
+      - V201_Das Dulong Petitsche Gesetz
+      pdfs:
+      - V201_Das Dulong Petitsche Gesetz/V201 Das Dulong Petitsche Gesetz.pdf
+      - V201_Das Dulong Petitsche Gesetz/V201Korrektur.pdf
+    204:
+      dirs:
+      - V204_Waermeleitf
+      pdfs:
+      - "V204_Waermeleitf/V204 W\xE4rmeleitf\xE4higkeit.pdf"
+    302:
+      dirs:
+      - "V302_Br\xFCckenschaltungen"
+      pdfs:
+      - "V302_Br\xFCckenschaltungen/V302 Br\xFCckenschaltungen.pdf"
+      - "V302_Br\xFCckenschaltungen/V302Korrektur.pdf"
+    308:
+      dirs:
+      - V308_Magnetfelder und Spulen
+      pdfs:
+      - V308_Magnetfelder und Spulen/V308 Magnetfelder und Spulen.pdf
+      - V308_Magnetfelder und Spulen/V308Korrektur.pdf
+    353:
+      dirs:
+      - V353_RC_Kreis
+      pdfs:
+      - V353_RC_Kreis/Bock_Lehner_Korrektur.pdf
+      - V353_RC_Kreis/V353 RC-Kreis.pdf
+    355:
+      dirs:
+      - V355_Gekoppelte_Schwingkreise
+      pdfs:
+      - V355_Gekoppelte_Schwingkreise/V355 Gekoppelte Schwingkreise.pdf
+      - V355_Gekoppelte_Schwingkreise/V355Korrektur.pdf
+    401:
+      dirs:
+      - V401_MichelsonInterferometer
+      pdfs:
+      - V401_MichelsonInterferometer/V401.pdf
+    406:
+      dirs:
+      - V406_BeugungAmSpalt
+      pdfs:
+      - V406_BeugungAmSpalt/V406.pdf
+      - V406_BeugungAmSpalt/V406_ReneMarcelLehner_AntoniaJoelleBock_ErstabgabeK.pdf
+      - V406_BeugungAmSpalt/main_Korrektur.pdf
+    408:
+      dirs:
+      - V408_GeometrischeOptik
+      pdfs:
+      - V408_GeometrischeOptik/V408.pdf
+    601:
+      dirs:
+      - V601_Franck-Hertz
+      pdfs:
+      - V601_Franck-Hertz/V601.pdf
+    602:
+      dirs: []
+      pdfs:
+      - Einzelversuche/AJB/V602.pdf
+    603:
+      dirs: []
+      pdfs:
+      - Einzelversuche/AJB/V603.pdf
+    606:
+      dirs:
+      - "V606_Suszeptibilit\xE4tParamagneten"
+      pdfs:
+      - "V606_Suszeptibilit\xE4tParamagneten/V606.pdf"
+      - "V606_Suszeptibilit\xE4tParamagneten/V606_ReneMarcelLehner_AntoniaJoelleBock_ErstabgabeK.pdf"
+      - "V606_Suszeptibilit\xE4tParamagneten/V606a.pdf"
+    702:
+      dirs:
+      - V702_AktivierungVonNeutronen
+      pdfs:
+      - Einzelversuche/AJB/V702.pdf
+      - V702_AktivierungVonNeutronen/V702.pdf
+    703:
+      dirs: []
+      pdfs:
+      - Einzelversuche/AJB/V703.pdf
+    803:
+      dirs:
+      - V803_Hooksches Gesetz
+      pdfs:
+      - V803_Hooksches Gesetz/V803 Hook'sche Gesetz.pdf
+      - V803_Hooksches Gesetz/V803_Bock_Lehner.pdf
+    903:
+      dirs:
+      - V903_Dopplersonographie
+      pdfs:
+      - V903_Dopplersonographie/V903.pdf
+- branch: master
+  contributors:
   - html_url: https://github.com/Plockwurst
     login: Plockwurst
   full_name: Robubabu/FFS-Praktikum
@@ -5619,6 +5785,64 @@
     903:
       dirs:
       - US3
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/TRose27
+    login: TRose27
+  - html_url: https://github.com/GordonScholz
+    login: GordonScholz
+  full_name: TRose27/FP
+  last_commit: 2019-04-15 08:32:51
+  protokolle:
+    21:
+      dirs:
+      - V21
+      pdfs: []
+    23:
+      dirs:
+      - V23
+      pdfs: []
+    28:
+      dirs:
+      - V28
+      pdfs: []
+    46:
+      dirs:
+      - V46
+      pdfs: []
+    70:
+      dirs:
+      - V70
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/Vale112
+    login: Vale112
+  - html_url: https://github.com/andksrm
+    login: andksrm
+  full_name: Vale112/FP_B_SS19
+  last_commit: 2019-09-13 09:06:37
+  protokolle:
+    14:
+      dirs:
+      - V14
+      pdfs: []
+    18:
+      dirs:
+      - V18
+      pdfs: []
+    21:
+      dirs:
+      - V21
+      pdfs: []
+    27:
+      dirs:
+      - V27
+      pdfs: []
+    48:
+      dirs:
+      - V48
       pdfs: []
 - branch: master
   contributors:
