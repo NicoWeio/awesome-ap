@@ -1438,6 +1438,165 @@
       dirs:
       - 17-Praktikum-US2
       pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/jalu98
+    login: jalu98
+  - html_url: https://github.com/JaLuka98
+    login: JaLuka98
+  full_name: JaLuka98/AP_17-18
+  last_commit: 2018-07-09 17:46:14
+  protokolle:
+    101:
+      dirs:
+      - V101_das_traegheitsmoment
+      pdfs: []
+    103:
+      dirs:
+      - V103_biegung_elastischer_staebe
+      pdfs: []
+    105:
+      dirs:
+      - V105_das_magnetische_moment
+      pdfs: []
+    201:
+      dirs:
+      - V201_das_dulong_petitsche_gesetz
+      pdfs: []
+    204:
+      dirs:
+      - V204_waermeleitung_von_metallen
+      pdfs: []
+    206:
+      dirs:
+      - V206_die_waermepumpe
+      pdfs: []
+    301:
+      dirs:
+      - V301_emk_und_innenwiderstand_von_spanungsquellen
+      pdfs: []
+    303:
+      dirs:
+      - V303_der_lock-in-verstaerker
+      pdfs: []
+    308:
+      dirs:
+      - V308_spulen_und_magnetfelder
+      pdfs: []
+    353:
+      dirs:
+      - V353_das_relaxationsverhalten_eines_rc-kreises
+      pdfs: []
+    354:
+      dirs:
+      - V354_gedaempfte_und_erzwungene_schwingungen
+      pdfs: []
+    402:
+      dirs:
+      - V402_dispersionsmessungen_am_glasprisma
+      pdfs: []
+    406:
+      dirs:
+      - V406_beugung_am_spalt
+      pdfs: []
+    408:
+      dirs:
+      - V408_geometrische_optik
+      pdfs: []
+    500:
+      dirs:
+      - V500_der_photoeffekt
+      pdfs: []
+    501:
+      dirs:
+      - V501und502_ablenkung_eines_elektronenstrahls
+      pdfs: []
+    602:
+      dirs:
+      - V602_roentgenemission_und_-absorption
+      pdfs: []
+    606:
+      dirs:
+      - V606_messung_der_suszeptibilitaet_paramagnetischer_substanzen
+      pdfs: []
+    701:
+      dirs:
+      - V701_reichweite_von_alpha-Strahlung
+      pdfs: []
+    703:
+      dirs:
+      - V703_das_geiger_mueller_zaehlrohr
+      pdfs: []
+    704:
+      dirs:
+      - V704_absorption_von_gamma-_und_beta-strahlung
+      pdfs: []
+    902:
+      dirs:
+      - US2_scanverfahren_in_der_ultraschalltechnik
+      pdfs: []
+    903:
+      dirs:
+      - US3_doppler-sonographie
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/jalu98
+    login: jalu98
+  - html_url: https://github.com/JaLuka98
+    login: JaLuka98
+  full_name: JaLuka98/FP_SS19
+  last_commit: 2019-07-11 14:37:59
+  protokolle:
+    23:
+      dirs:
+      - V23_quantenanalogien
+      pdfs: []
+    46:
+      dirs:
+      - V46_Faradayeffekt
+      pdfs: []
+    47:
+      dirs:
+      - V47_molwaerme_von_cu
+      pdfs: []
+    53:
+      dirs:
+      - V53_mikrowellen
+      pdfs: []
+    61:
+      dirs:
+      - V61_He-Ne-Laser
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/JaLuka98
+    login: JaLuka98
+  - html_url: https://github.com/jalu98
+    login: jalu98
+  full_name: JaLuka98/FP_WS19-20
+  last_commit: 2020-02-21 14:43:13
+  protokolle:
+    14:
+      dirs:
+      - V14_Tomographie
+      pdfs: []
+    16:
+      dirs:
+      - V16_RutherfordStreuung
+      pdfs: []
+    21:
+      dirs:
+      - V21_OptischesPumpen
+      pdfs: []
+    27:
+      dirs:
+      - V27_ZeemanEffekt
+      pdfs: []
+    48:
+      dirs:
+      - V48_Dipolrelaxation
+      pdfs: []
 - branch: main
   contributors:
   - html_url: https://github.com/jana-banana
@@ -2190,6 +2349,110 @@
     61:
       dirs:
       - V61
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/KattiBrae
+    login: KattiBrae
+  full_name: KattiBrae/APWS201718
+  last_commit: 2019-05-17 14:08:20
+  protokolle:
+    101:
+      dirs:
+      - "AP1/V101_Tr\xE4gheitsmoment"
+      pdfs: []
+    103:
+      dirs:
+      - AP1/V103_Biegung
+      pdfs: []
+    105:
+      dirs:
+      - AP1/V105_Magnetisches_Moment
+      pdfs: []
+    203:
+      dirs:
+      - "AP1/V203_Verdampfungsw\xE4rme"
+      pdfs: []
+    206:
+      dirs:
+      - "AP1/V206_W\xE4rmepumpe"
+      pdfs: []
+    301:
+      dirs:
+      - AP1/V301_Leerlaufspannung
+      pdfs: []
+    303:
+      dirs:
+      - AP1/V303_Lockin
+      pdfs: []
+    308:
+      dirs:
+      - AP1/V308_Spulen
+      pdfs: []
+    351:
+      dirs:
+      - AP1/V351_Fourier
+      pdfs: []
+    353:
+      dirs:
+      - AP1/V353
+      pdfs: []
+    354:
+      dirs:
+      - AP1/V354
+      pdfs: []
+    402:
+      dirs:
+      - AP2/V402
+      pdfs: []
+    406:
+      dirs:
+      - AP2/V406
+      pdfs: []
+    408:
+      dirs:
+      - AP2/V408
+      pdfs: []
+    500:
+      dirs:
+      - "AP2/Protokollger\xFCst"
+      - AP2/V500
+      pdfs: []
+    501:
+      dirs:
+      - AP2/V501V502
+      pdfs: []
+    602:
+      dirs:
+      - AP2/V602
+      pdfs: []
+    606:
+      dirs:
+      - AP2/V606
+      pdfs: []
+    701:
+      dirs:
+      - AP2/V701
+      pdfs: []
+    703:
+      dirs:
+      - AP2/V703
+      pdfs: []
+    704:
+      dirs:
+      - AP2/V704
+      pdfs: []
+    800:
+      dirs:
+      - AP1/V800 Oszilloskop
+      pdfs: []
+    902:
+      dirs:
+      - AP2/US2
+      pdfs: []
+    903:
+      dirs:
+      - AP2/US3
       pdfs: []
 - branch: master
   contributors:
@@ -5056,6 +5319,54 @@
       dirs:
       - US3_doppler_sonographie
       pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/DonataOsthues
+    login: DonataOsthues
+  full_name: SanjoR/FP-Jonas-Donata
+  last_commit: 2021-03-11 13:26:37
+  protokolle:
+    14:
+      dirs:
+      - MFP/V_14_Tomographie
+      pdfs:
+      - MFP/Fertige_Protokolle/V14_Tomographie.pdf
+    18:
+      dirs:
+      - BFP/V_18_Germanium_Detektor
+      pdfs: []
+    21:
+      dirs:
+      - MFP/V_21_optischePumpen
+      pdfs:
+      - MFP/Fertige_Protokolle/V21_optischesPumpen.pdf
+    23:
+      dirs:
+      - BFP/V_23_Quanten_Analogie
+      pdfs: []
+    27:
+      dirs:
+      - BFP/V_27_Zeeman_Effekt
+      pdfs: []
+    46:
+      dirs:
+      - BFP/V_46_Faraday_Effekt
+      pdfs: []
+    48:
+      dirs:
+      - MFP/V_48_DiI
+      pdfs:
+      - MFP/Fertige_Protokolle/V48_Dipolrelaxation.pdf
+    49:
+      dirs:
+      - MFP/V_49_NMR
+      pdfs:
+      - MFP/Fertige_Protokolle/V49_NMR.pdf
+    61:
+      dirs:
+      - MFP/V_61_HeNeLaser
+      pdfs:
+      - MFP/Fertige_Protokolle/V61_HeliumNeonLaser.pdf
 - branch: master
   contributors:
   - html_url: https://github.com/SHilgers
