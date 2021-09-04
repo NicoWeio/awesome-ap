@@ -56,6 +56,18 @@
       - V01-46
       - V100-V354
       - V400-703
+- name: FeGeyer/praktikum
+  subdirectory:
+    - 3_Semester
+    - 4_Semester
+    - BFP
+    - MFP
+  pdfs:
+    directory:
+      - 3_Semester/PDF Dateien
+      - 4_Semester/PDF-Dateien
+      - BFP/PDF Dateien
+      - MFP/PDF-Dateien # TODO: Versuch-Nummern fehlen
 - name: Fresoquark/Anfaengerpraktikum
 - name: FSchierok/FP
 - name: HelenaCarlArne/ProtokolleAP
@@ -123,6 +135,8 @@
   subdirectory:
     - AP1
     - AP2
+# NOTE: KevSed/Praktikum_FP ist scheinbar eine ältere Version des Repos
+- name: KevSed/Praktikum
 # TODO: PDFs unregelmäßig benannt
 - name: komrozik/AP2019
   pdfs:
