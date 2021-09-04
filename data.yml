@@ -1138,6 +1138,160 @@
       - US/US1_Ultraschalltechnik.pdf
 - branch: master
   contributors:
+  - html_url: https://github.com/FeGeyer
+    login: FeGeyer
+  - html_url: https://github.com/RuneDominik
+    login: RuneDominik
+  full_name: FeGeyer/praktikum
+  last_commit: 2019-03-06 12:03:15
+  protokolle:
+    1:
+      dirs:
+      - BFP/MyonenV01
+      pdfs: []
+    14:
+      dirs:
+      - MFP/TomographieV14
+      pdfs: []
+    21:
+      dirs:
+      - MFP/OptischesPumpenV21
+      pdfs: []
+    27:
+      dirs:
+      - BFP/ZeemanV27
+      pdfs: []
+    41:
+      dirs:
+      - MFP/DebyeV41
+      pdfs: []
+    46:
+      dirs:
+      - BFP/FaradayV46
+      pdfs: []
+    47:
+      dirs:
+      - BFP/MolwaermeV47
+      pdfs: []
+    49:
+      dirs:
+      - MFP/GepulsteNMRV49
+      pdfs: []
+    61:
+      dirs:
+      - MFP/HeNeLaserV61
+      pdfs: []
+    64:
+      dirs:
+      - BFP/InterferometrieV64
+      pdfs: []
+    106:
+      dirs:
+      - 3_Semester/V106
+      pdfs:
+      - 3_Semester/PDF Dateien/V106.pdf
+    204:
+      dirs:
+      - 3_Semester/V204
+      pdfs:
+      - 3_Semester/PDF Dateien/V204.pdf
+    206:
+      dirs:
+      - 3_Semester/V206
+      pdfs:
+      - 3_Semester/PDF Dateien/V206.pdf
+    207:
+      dirs:
+      - 3_Semester/V207
+      pdfs:
+      - 3_Semester/PDF Dateien/V207.pdf
+    301:
+      dirs:
+      - 3_Semester/V301
+      pdfs:
+      - 3_Semester/PDF Dateien/V301.pdf
+    303:
+      dirs:
+      - 3_Semester/V303
+      pdfs:
+      - 3_Semester/PDF Dateien/V303.pdf
+    351:
+      dirs:
+      - 3_Semester/V351
+      pdfs:
+      - 3_Semester/PDF Dateien/V351.pdf
+    353:
+      dirs:
+      - 3_Semester/V353
+      pdfs:
+      - 3_Semester/PDF Dateien/V353.pdf
+    354:
+      dirs:
+      - 3_Semester/V354
+      pdfs:
+      - 3_Semester/PDF Dateien/V354.pdf
+    355:
+      dirs:
+      - 3_Semester/V355
+      pdfs:
+      - 3_Semester/PDF Dateien/V355.pdf
+    401:
+      dirs:
+      - 4_Semester/V401
+      pdfs:
+      - 4_Semester/PDF-Dateien/V401.pdf
+    406:
+      dirs:
+      - 4_Semester/V406
+      pdfs:
+      - 4_Semester/PDF-Dateien/V406.pdf
+    500:
+      dirs:
+      - 4_Semester/V500
+      pdfs:
+      - 4_Semester/PDF-Dateien/V500.pdf
+    504:
+      dirs:
+      - 4_Semester/V504
+      pdfs:
+      - 4_Semester/PDF-Dateien/V504.pdf
+    601:
+      dirs:
+      - 4_Semester/V601
+      pdfs:
+      - 4_Semester/PDF-Dateien/V601.pdf
+    602:
+      dirs:
+      - 4_Semester/V602
+      pdfs:
+      - 4_Semester/PDF-Dateien/V602.pdf
+    606:
+      dirs:
+      - 4_Semester/V606
+      pdfs:
+      - 4_Semester/PDF-Dateien/V606.pdf
+    702:
+      dirs:
+      - 4_Semester/V702
+      pdfs:
+      - 4_Semester/PDF-Dateien/V702.pdf
+    704:
+      dirs:
+      - 4_Semester/V704
+      pdfs:
+      - 4_Semester/PDF-Dateien/V704.pdf
+    901:
+      dirs:
+      - 4_Semester/US1
+      pdfs:
+      - 4_Semester/PDF-Dateien/US1.pdf
+    903:
+      dirs:
+      - 4_Semester/US3
+      pdfs:
+      - 4_Semester/PDF-Dateien/US3.pdf
+- branch: master
+  contributors:
   - html_url: https://github.com/TRose27
     login: TRose27
   - html_url: https://github.com/Fresoquark
@@ -2632,6 +2786,55 @@
     903:
       dirs:
       - AP2/US3
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/MaikBecker
+    login: MaikBecker
+  - html_url: https://github.com/KevSed
+    login: KevSed
+  full_name: KevSed/Praktikum
+  last_commit: 2019-10-28 07:29:12
+  protokolle:
+    1:
+      dirs:
+      - V01 Lebensdauer von Myonen
+      pdfs: []
+    14:
+      dirs:
+      - V14 Tomographie
+      pdfs: []
+    21:
+      dirs:
+      - V21 Optisches Pumpen
+      pdfs: []
+    27:
+      dirs:
+      - V27 Der Zeeman-Effekt
+      pdfs: []
+    41:
+      dirs:
+      - V41 Debye-Scherrer-Aufnahmen
+      pdfs: []
+    47:
+      dirs:
+      - "V47 Molw\xE4rme von Kupfer"
+      pdfs: []
+    53:
+      dirs:
+      - V53 Experimente mit Mikrowellen
+      pdfs: []
+    57:
+      dirs:
+      - V57 Elektrische Schwankungserscheinungen
+      pdfs: []
+    61:
+      dirs:
+      - V61 Der Helium-Neon-Laser
+      pdfs: []
+    64:
+      dirs:
+      - V64 Moderne Interferometrie
       pdfs: []
 - branch: master
   contributors:
