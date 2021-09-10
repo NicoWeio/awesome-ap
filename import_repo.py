@@ -10,6 +10,7 @@ from console import *
 from path import CoolPath
 from pdf import Pdf
 from analyze_content import parse_versuch_nummer, find_from_candidates_dict, extract_versuch
+from misc import get_command_runner
 
 load_dotenv()
 REPOS_BASE_PATH = Path(os.getenv('REPOS_BASE_PATH'))
@@ -82,32 +83,15 @@ def import_repo(source, gh, refresh=True):
     console.rule(source.full_name)
     cwd_path = REPOS_BASE_PATH / source.full_name.replace('/', '∕')
 
-    def run_command(command, cwd=cwd_path):
-        console.print(f'$ {" ".join(map(str, command))}', style='blue')
-        subprocess.run(command, cwd=cwd) # raises subprocess.CalledProcessError ✓
+    source.update_repo_mirror()
 
-    if not cwd_path.exists():
-        debug("Does not exist – cloning…")
-        # lege einen „shallow clone“ an, um Speicherplatz zu sparen
-        run_command(["git", "clone"] + (["--branch", source.branch] if source.branch else []) + ["--depth", "1", "https://github.com/" + source.full_name, cwd_path], cwd=None)
-        # ↓ https://stackoverflow.com/a/34396983/6371758
-        # run_command(["git", "-c", 'core.askPass=""', "clone", "--depth", "1", "https://github.com/" + source.full_name, cwd_path])
-    elif not refresh:
-        debug("Exists – NOT pulling, because refresh=False was passed")
-    else:
-        debug("Exists – pulling…")
-        run_command(["git", "pull"])
-        if source.branch:
-            # TODO: Viele edge cases wegen des Cachings!
-            run_command(["git", "remote", "set-branches", "origin", source.branch])
-            run_command(["git", "fetch"])
-            run_command(["git", "switch", "-f", source.branch])
+    run_command = get_command_runner(cwd_path)
 
-    source.last_commit = datetime.utcfromtimestamp(int(subprocess.check_output(["git", "log", "-1", "--format=%at"], cwd=cwd_path)))
+    source.last_commit = datetime.utcfromtimestamp(int(run_command(["git", "log", "-1", "--format=%at"], capture_output=True).stdout))
 
     # Unsauber: Ursprünglich ist `branch` nur angegeben, wenn es sich nicht um den default branch handelt.
     # Hiermit stellen wir sicher, dass `branch` immer korrekt gesetzt ist, weil wir ihn zwingend benötigen.
-    source.branch = subprocess.check_output(["git", "branch", "--show-current"], cwd=cwd_path).decode().strip()
+    source.branch = run_command(["git", "branch", "--show-current"], capture_output=True, text=True).stdout.strip()
 
     dir_candidates = []
     explicit_subdirs = list(cwd_path / subdir for subdir in source.subdirs)

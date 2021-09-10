@@ -9,6 +9,7 @@ from import_repo import import_repo
 import transpose
 from repo import Repo
 from export import generate_yaml
+from import_external_pdfs import add_aap_pdfs
 
 load_dotenv()
 
@@ -30,6 +31,9 @@ for repo in repos:
         error(f'Could not import {repo["name"]}')
         # So ist anhand des Status in GitHub Actions direkt ersichtlich, ob es ein Problem gab.
         raise
+
+### Einbinden der „awesome-ap-pdfs“:
+repos_to_versuche = add_aap_pdfs(repos_to_versuche, gh)
 
 versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
 

@@ -21,5 +21,5 @@ def serialize_repo(repo):
 def serialize_protokoll(protokoll):
     return {
         'dirs': sorted(map(str, protokoll.get('dirs', []))),
-        'pdfs': sorted(str(pdf.path) for pdf in protokoll.get('pdfs', [])),
+        'pdfs': sorted(str(pdf.path) for pdf in protokoll.get('pdfs', []) if getattr(pdf, 'is_user_generated', True)),
     }

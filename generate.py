@@ -18,7 +18,7 @@ def fmt_pdfs(repo, pdfs):
     return '<br/>'.join(fmt_pdf(pdf) for pdf in sorted(pdfs, key=lambda pdf: pdf.name.lower()))
 
 def fmt_pdf(pdf):
-    return f"[{pdf.name}](https://docs.google.com/viewer?url={pdf.download_url})" if pdf else '–'
+    return f"[{pdf.name}](https://docs.google.com/viewer?url={pdf.download_url})" + (r' \*' if getattr(pdf, 'is_user_generated', True) is False else '')
 
 def fmt_content(repo, c):
     from pathlib import Path
@@ -113,6 +113,9 @@ def generate_md(repos_to_versuche, versuche_to_repos):
         out += f'- **{len(versuche_to_repos.keys())}** Versuche\n'
         out += f'- **{sum([len(repos) for versuch, repos in versuche_to_repos.items()])}** Protokolle\n'
         out += f'- **{sum(repo.num_pdfs for repo in repos_to_versuche)}** Protokolle mit PDFs\n'
+        out += f'- **{sum(0 if getattr(pdf, "is_user_generated", True) else 1 for repo in repos_to_versuche for versuch in repo.versuche.values() for pdf in versuch.get("pdfs", []))}** PDFs von _awesome-ap-pdfs_\n'
         out += f'- **{sum(repo.num_pdfs_total for repo in repos_to_versuche)}** PDFs insgesamt\n'
 
         g.write(out)
+
+        debug('MD files written successfully')

@@ -1,5 +1,12 @@
 import github
 from console import *
+from dotenv import load_dotenv
+from misc import get_command_runner
+from pathlib import Path
+
+load_dotenv()
+REPOS_BASE_PATH = Path(os.getenv('REPOS_BASE_PATH'))
+REPOS_BASE_PATH.mkdir(exist_ok=True)
 
 
 class Repo:
@@ -37,3 +44,26 @@ class Repo:
 
     def __str__(self):
         return self.full_name
+
+    def update_repo_mirror(self, refresh=True):
+        cwd_path = REPOS_BASE_PATH / self.full_name.replace('/', '∕')
+        self.cwd_path = cwd_path
+        run_command = get_command_runner(cwd_path)
+
+        if not cwd_path.exists():
+            debug("Does not exist – cloning…")
+            # lege einen „shallow clone“ an, um Speicherplatz zu sparen
+            run_command(["git", "clone"] + (["--branch", self.branch] if self.branch else []) +
+                        ["--depth", "1", "https://github.com/" + self.full_name, cwd_path], cwd=None)
+            # ↓ https://stackoverflow.com/a/34396983/6371758
+            # run_command(["git", "-c", 'core.askPass=""', "clone", "--depth", "1", "https://github.com/" + self.full_name, cwd_path])
+        elif not refresh:
+            debug("Exists – NOT pulling, because refresh=False was passed")
+        else:
+            debug("Exists – pulling…")
+            run_command(["git", "pull"])
+            if self.branch:
+                # TODO: Viele edge cases wegen des Cachings!
+                run_command(["git", "remote", "set-branches", "origin", self.branch])
+                run_command(["git", "fetch"])
+                run_command(["git", "switch", "-f", self.branch])
