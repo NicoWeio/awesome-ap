@@ -186,7 +186,7 @@
 |[SamGTex/Physik_Praktikum_Samuel_Max](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max)                    |[Übersicht](repo/SamGTex/Physik_Praktikum_Samuel_Max)          |14.04.2021 10:47:02|          20|                   18|
 |[SanjoR/FP-Jonas-Donata](https://github.com/SanjoR/FP-Jonas-Donata)                                              |[Übersicht](repo/SanjoR/FP-Jonas-Donata)                       |11.03.2021 13:26:37|           9|                    5|
 |[SHilgers/Praktikum2](https://github.com/SHilgers/Praktikum2)                                                    |[Übersicht](repo/SHilgers/Praktikum2)                          |04.02.2020 08:43:30|          29|                    1|
-|[smjhnits/Praktikum_TU_D_16-17](https://github.com/smjhnits/Praktikum_TU_D_16-17)                                |[Übersicht](repo/smjhnits/Praktikum_TU_D_16-17)                |30.01.2019 12:22:48|          31|                   21|
+|[smjhnits/Praktikum_TU_D_16-17](https://github.com/smjhnits/Praktikum_TU_D_16-17)                                |[Übersicht](repo/smjhnits/Praktikum_TU_D_16-17)                |30.01.2019 12:22:48|          31|                   26|
 |[smjolame/Fortgeschrittenenpraktikum](https://github.com/smjolame/Fortgeschrittenenpraktikum)                    |[Übersicht](repo/smjolame/Fortgeschrittenenpraktikum)          |01.09.2021 23:51:30|           5|                    3|
 |[smjolame/Praktikum_1](https://github.com/smjolame/Praktikum_1)                                                  |[Übersicht](repo/smjolame/Praktikum_1)                         |11.04.2021 11:36:04|          18|                    9|
 |[stefangri/s_s_masterpraktikum](https://github.com/stefangri/s_s_masterpraktikum)                                |[Übersicht](repo/stefangri/s_s_masterpraktikum)                |19.12.2018 20:26:21|           5|                    0|
@@ -203,5 +203,5 @@
 - **75** Versuche
 - **1325** Protokolle
 - **438** Protokolle mit PDFs
-- **344** PDFs von _awesome-ap-pdfs_
+- **349** PDFs von _awesome-ap-pdfs_
 - **563** PDFs insgesamt
