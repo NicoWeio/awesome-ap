@@ -3173,8 +3173,8 @@
   contributors:
   - html_url: https://github.com/katrinbls
     login: katrinbls
-  - html_url: https://github.com/lewis206
-    login: lewis206
+  - html_url: https://github.com/jpherdi
+    login: jpherdi
   full_name: lewis206/FP_20_21
   last_commit: 2021-03-27 12:47:42
   protokolle:
@@ -3202,8 +3202,8 @@
   contributors:
   - html_url: https://github.com/karina1007
     login: karina1007
-  - html_url: https://github.com/lewis206
-    login: lewis206
+  - html_url: https://github.com/jpherdi
+    login: jpherdi
   full_name: lewis206/Praktikum
   last_commit: 2020-08-22 14:15:53
   protokolle:
@@ -6064,7 +6064,7 @@
   - html_url: https://github.com/smjolame
     login: smjolame
   full_name: smjolame/Fortgeschrittenenpraktikum
-  last_commit: 2021-09-01 23:51:30
+  last_commit: 2021-09-13 22:21:07
   protokolle:
     1:
       dirs:
