@@ -2959,7 +2959,7 @@
   - html_url: https://github.com/marcelkebe
     login: marcelkebe
   full_name: komrozik/FP2021
-  last_commit: 2021-09-20 15:04:13
+  last_commit: 2021-09-21 18:48:49
   protokolle:
     1:
       dirs:
@@ -2971,6 +2971,7 @@
       - V23-Quanten_Analogien
       pdfs:
       - V23-Quanten_Analogien/V23.pdf
+      - V23-Quanten_Analogien/V23_Gutnikov_Sternemann.pdf
     46:
       dirs:
       - V46_Der_Faraday_Effekt
@@ -6064,7 +6065,7 @@
   - html_url: https://github.com/smjolame
     login: smjolame
   full_name: smjolame/Fortgeschrittenenpraktikum
-  last_commit: 2021-09-19 09:41:01
+  last_commit: 2021-09-21 18:42:57
   protokolle:
     1:
       dirs:
