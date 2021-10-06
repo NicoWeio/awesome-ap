@@ -2959,7 +2959,7 @@
   - html_url: https://github.com/marcelkebe
     login: marcelkebe
   full_name: komrozik/FP2021
-  last_commit: 2021-10-01 13:04:24
+  last_commit: 2021-10-05 22:37:18
   protokolle:
     1:
       dirs:
@@ -2970,8 +2970,11 @@
       dirs:
       - V23-Quanten_Analogien
       pdfs:
+      - V23-Quanten_Analogien/H_atom_resonanz_1_2310Hz.pdf
       - V23-Quanten_Analogien/V23.pdf
       - V23-Quanten_Analogien/V23_Gutnikov_Sternemann.pdf
+      - V23-Quanten_Analogien/V23_Mrozik_Kebekus.pdf
+      - V23-Quanten_Analogien/V23_Mrozik_Kebekus_Korrektur.pdf
     46:
       dirs:
       - V46_Der_Faraday_Effekt
