@@ -12,11 +12,11 @@
 |     14|[Übersicht](versuch/14) |     20|
 |     15|[Übersicht](versuch/15) |      2|
 |     16|[Übersicht](versuch/16) |     11|
-|     18|[Übersicht](versuch/18) |     15|
-|     21|[Übersicht](versuch/21) |     27|
+|     18|[Übersicht](versuch/18) |     14|
+|     21|[Übersicht](versuch/21) |     26|
 |     23|[Übersicht](versuch/23) |      9|
 |     25|[Übersicht](versuch/25) |      3|
-|     27|[Übersicht](versuch/27) |     29|
+|     27|[Übersicht](versuch/27) |     28|
 |     28|[Übersicht](versuch/28) |      9|
 |     41|[Übersicht](versuch/41) |      6|
 |     44|[Übersicht](versuch/44) |      6|
@@ -24,9 +24,9 @@
 |     47|[Übersicht](versuch/47) |     22|
 |     48|[Übersicht](versuch/48) |     18|
 |     49|[Übersicht](versuch/49) |     10|
-|     51|[Übersicht](versuch/51) |      8|
+|     51|[Übersicht](versuch/51) |      7|
 |     52|[Übersicht](versuch/52) |      3|
-|     53|[Übersicht](versuch/53) |     14|
+|     53|[Übersicht](versuch/53) |     13|
 |     57|[Übersicht](versuch/57) |      2|
 |     59|[Übersicht](versuch/59) |      4|
 |     60|[Übersicht](versuch/60) |     10|
@@ -34,54 +34,54 @@
 |     64|[Übersicht](versuch/64) |     16|
 |     65|[Übersicht](versuch/65) |      1|
 |     70|[Übersicht](versuch/70) |      9|
-|    101|[Übersicht](versuch/101)|     26|
+|    101|[Übersicht](versuch/101)|     25|
 |    102|[Übersicht](versuch/102)|     14|
 |    103|[Übersicht](versuch/103)|     32|
 |    104|[Übersicht](versuch/104)|      9|
-|    105|[Übersicht](versuch/105)|      8|
+|    105|[Übersicht](versuch/105)|      7|
 |    106|[Übersicht](versuch/106)|     18|
 |    107|[Übersicht](versuch/107)|      8|
-|    201|[Übersicht](versuch/201)|     26|
+|    201|[Übersicht](versuch/201)|     25|
 |    203|[Übersicht](versuch/203)|     17|
-|    204|[Übersicht](versuch/204)|     32|
-|    206|[Übersicht](versuch/206)|     39|
+|    204|[Übersicht](versuch/204)|     31|
+|    206|[Übersicht](versuch/206)|     38|
 |    207|[Übersicht](versuch/207)|     12|
 |    300|[Übersicht](versuch/300)|      1|
-|    301|[Übersicht](versuch/301)|     25|
-|    302|[Übersicht](versuch/302)|     30|
-|    303|[Übersicht](versuch/303)|     30|
+|    301|[Übersicht](versuch/301)|     24|
+|    302|[Übersicht](versuch/302)|     29|
+|    303|[Übersicht](versuch/303)|     29|
 |    308|[Übersicht](versuch/308)|     11|
 |    311|[Übersicht](versuch/311)|     13|
-|    351|[Übersicht](versuch/351)|     22|
-|    353|[Übersicht](versuch/353)|     36|
-|    354|[Übersicht](versuch/354)|     38|
+|    351|[Übersicht](versuch/351)|     21|
+|    353|[Übersicht](versuch/353)|     35|
+|    354|[Übersicht](versuch/354)|     37|
 |    355|[Übersicht](versuch/355)|     15|
 |    356|[Übersicht](versuch/356)|      6|
 |    400|[Übersicht](versuch/400)|      9|
-|    401|[Übersicht](versuch/401)|     25|
-|    402|[Übersicht](versuch/402)|     17|
-|    406|[Übersicht](versuch/406)|     36|
+|    401|[Übersicht](versuch/401)|     24|
+|    402|[Übersicht](versuch/402)|     16|
+|    406|[Übersicht](versuch/406)|     35|
 |    408|[Übersicht](versuch/408)|     27|
 |    500|[Übersicht](versuch/500)|     31|
-|    501|[Übersicht](versuch/501)|     25|
+|    501|[Übersicht](versuch/501)|     24|
 |    502|[Übersicht](versuch/502)|      1|
 |    503|[Übersicht](versuch/503)|      8|
-|    504|[Übersicht](versuch/504)|     25|
-|    601|[Übersicht](versuch/601)|     34|
-|    602|[Übersicht](versuch/602)|     41|
+|    504|[Übersicht](versuch/504)|     24|
+|    601|[Übersicht](versuch/601)|     33|
+|    602|[Übersicht](versuch/602)|     40|
 |    603|[Übersicht](versuch/603)|     18|
 |    605|[Übersicht](versuch/605)|      6|
 |    606|[Übersicht](versuch/606)|     25|
-|    701|[Übersicht](versuch/701)|     18|
-|    702|[Übersicht](versuch/702)|     38|
-|    703|[Übersicht](versuch/703)|     45|
+|    701|[Übersicht](versuch/701)|     17|
+|    702|[Übersicht](versuch/702)|     37|
+|    703|[Übersicht](versuch/703)|     44|
 |    704|[Übersicht](versuch/704)|     15|
-|    800|[Übersicht](versuch/800)|      3|
+|    800|[Übersicht](versuch/800)|      2|
 |    801|[Übersicht](versuch/801)|      2|
 |    802|[Übersicht](versuch/802)|      5|
 |    803|[Übersicht](versuch/803)|      7|
-|    901|[Übersicht](versuch/901)|     25|
-|    902|[Übersicht](versuch/902)|     20|
+|    901|[Übersicht](versuch/901)|     24|
+|    902|[Übersicht](versuch/902)|     19|
 |    903|[Übersicht](versuch/903)|     24|
 
 
@@ -121,8 +121,6 @@
 |[JaLuka98/FP_SS19](https://github.com/JaLuka98/FP_SS19)                                                          |[Übersicht](repo/JaLuka98/FP_SS19)                             |11.07.2019 14:37:59|           5|                    0|
 |[JaLuka98/FP_WS19-20](https://github.com/JaLuka98/FP_WS19-20)                                                    |[Übersicht](repo/JaLuka98/FP_WS19-20)                          |21.02.2020 14:43:13|           5|                    0|
 |[jana-banana/AP-2020](https://github.com/jana-banana/AP-2020)                                                    |[Übersicht](repo/jana-banana/AP-2020)                          |21.07.2021 21:12:22|          18|                   17|
-|[JaSale/AP](https://github.com/JaSale/AP)                                                                        |[Übersicht](repo/JaSale/AP)                                    |17.07.2018 11:53:26|          24|                   22|
-|[JaSale/FP](https://github.com/JaSale/FP)                                                                        |[Übersicht](repo/JaSale/FP)                                    |11.04.2019 18:31:39|           5|                    0|
 |[JaSchl/AP1718](https://github.com/JaSchl/AP1718)                                                                |[Übersicht](repo/JaSchl/AP1718)                                |03.11.2018 15:03:16|          22|                   16|
 |[JaSchl/FP1819](https://github.com/JaSchl/FP1819)                                                                |[Übersicht](repo/JaSchl/FP1819)                                |16.01.2019 13:58:49|           5|                    0|
 |[Jean1995/Praktikum](https://github.com/Jean1995/Praktikum)                                                      |[Übersicht](repo/Jean1995/Praktikum)                           |01.11.2016 19:09:38|          23|                   23|
@@ -199,9 +197,9 @@
 
 
 ## Statistiken
-- **107** Repos
+- **105** Repos
 - **75** Versuche
-- **1325** Protokolle
-- **438** Protokolle mit PDFs
+- **1296** Protokolle
+- **416** Protokolle mit PDFs
 - **349** PDFs von _awesome-ap-pdfs_
-- **567** PDFs insgesamt
+- **543** PDFs insgesamt
