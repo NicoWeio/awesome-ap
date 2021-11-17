@@ -4338,7 +4338,7 @@
   - html_url: https://github.com/KathiPopp
     login: KathiPopp
   full_name: NicoWeio/AP
-  last_commit: 2021-08-25 19:10:52
+  last_commit: 2021-11-16 09:41:20
   protokolle:
     103:
       dirs:
@@ -4429,7 +4429,7 @@
       dirs:
       - V901_Grundlagen_der_Ultraschalltechnik
       pdfs:
-      - V901_Grundlagen_der_Ultraschalltechnik/main.pdf
+      - V901_Grundlagen_der_Ultraschalltechnik/build/main.pdf
 - branch: master
   contributors:
   - html_url: https://github.com/NilBre
