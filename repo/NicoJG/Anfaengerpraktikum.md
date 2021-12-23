@@ -1,6 +1,6 @@
 # [NicoJG/Anfaengerpraktikum](https://github.com/NicoJG/Anfaengerpraktikum)
 
-Letzter Commit: 04.08.2020 12:33:58
+Letzter Commit: 22.12.2021 18:59:30
 
 ## Autoren
 - [NicoJG](https://github.com/NicoJG)
