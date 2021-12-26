@@ -119,6 +119,11 @@
   pdfs:
     in_source_dir: true
 - name: JLammering/Physikalisches-Praktikum
+- name: joeyko2706/Anfaengerpraktikum-20-21
+  pdfs:
+    directory: Protokolle
+- name: jpherdi/FP_20_21
+- name: jpherdi/Praktikum
 - name: JulianSch/FP-Pelle-Julian
   dirs_to_versuche:
     V14-Topografie: 14 # in der Datei steht fälschlicherweise V01
@@ -211,6 +216,9 @@
     5_ElektronenSpinResonanz[X]: 28
   pdfs:
     in_source_dir: true
+- name: lukas-bert/AP-1-Versuchsprotokolle
+  dirs_to_versuche:
+    "vXXX": false
 - name: LukasNickel/praktikumsskripte
   pdfs:
     in_source_dir: true
@@ -360,6 +368,8 @@
   pdfs:
     in_source_dir: true
 - name: TRose27/FP
+- name: ttros/Praktikum
+  subdirectory: Protokolle
 - name: Vale112/FP_B_SS19
   dirs_to_versuche:
     V00: false
