@@ -3,6 +3,7 @@ from console import *
 from dotenv import load_dotenv
 from misc import get_command_runner
 from pathlib import Path
+from subprocess import CalledProcessError
 
 load_dotenv()
 REPOS_BASE_PATH = Path(os.getenv('REPOS_BASE_PATH'))
@@ -61,7 +62,16 @@ class Repo:
             debug("Exists – NOT pulling, because refresh=False was passed")
         else:
             debug("Exists – pulling…")
-            run_command(["git", "pull"])
+            try:
+                run_command(["git", "pull"])
+            except CalledProcessError as e:
+                warn("Pull failed. Maybe there are merge conflicts? Trying to reset…")
+                run_command(["git", "fetch"])
+                run_command(["git", "reset", "--hard", "origin/HEAD"]) 
+            except Exception as e:
+                error("Still failed:", e)
+                raise
+                
             if self.branch:
                 # TODO: Viele edge cases wegen des Cachings!
                 run_command(["git", "remote", "set-branches", "origin", self.branch])
