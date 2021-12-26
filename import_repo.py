@@ -78,7 +78,7 @@ def find_pdfs(base_dir, num):
             if result:
                 return result
 
-def import_repo(source, gh, refresh=True):
+def import_repo(source, refresh=True):
     console.print()
     console.rule(source.full_name)
     cwd_path = REPOS_BASE_PATH / source.full_name.replace('/', '∕')

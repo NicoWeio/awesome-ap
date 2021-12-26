@@ -24,7 +24,7 @@ with open("sources.yaml", 'r') as stream:
 repos_to_versuche = []
 for repo in repos:
     try:
-        repos_to_versuche.append(import_repo(Repo(repo, gh), gh))
+        repos_to_versuche.append(import_repo(Repo(repo, gh)))
     except github.UnknownObjectException:
         pass
     except KeyboardInterrupt:
