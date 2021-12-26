@@ -2405,6 +2405,98 @@
       dirs:
       - 18 Doppler-Sonographie
       pdfs: []
+- branch: main
+  contributors:
+  - html_url: https://github.com/joeyko2706
+    login: joeyko2706
+  - html_url: https://github.com/FelixSym
+    login: FelixSym
+  full_name: joeyko2706/Anfaengerpraktikum-20-21
+  last_commit: 2021-12-22 11:46:51
+  protokolle:
+    101:
+      dirs:
+      - v101-Traegheitsmomente
+      pdfs:
+      - Protokolle/v101.pdf
+    203:
+      dirs:
+      - v203-Verdampfungswaerme
+      pdfs:
+      - Protokolle/v203.pdf
+    302:
+      dirs:
+      - v302-Brueckenschaltungen
+      pdfs:
+      - Protokolle/v302.pdf
+    305:
+      dirs:
+      - V305-Magnetfelder
+      pdfs:
+      - Protokolle/V305-Korrektur.pdf
+    353:
+      dirs:
+      - v353-Relaxationsverhalten
+      pdfs: []
+    355:
+      dirs:
+      - V355-gekoppelteSchwingungen
+      pdfs:
+      - Protokolle/v355.pdf
+- branch: master
+  contributors:
+  - html_url: https://github.com/katrinbls
+    login: katrinbls
+  - html_url: https://github.com/jpherdi
+    login: jpherdi
+  full_name: jpherdi/FP_20_21
+  last_commit: 2021-03-27 12:47:42
+  protokolle:
+    14:
+      dirs:
+      - V14_Tomographie
+      pdfs: []
+    44:
+      dirs:
+      - V44_Roentgenreflektometrie
+      pdfs: []
+    48:
+      dirs:
+      - V48_Dipolrelaxation
+      pdfs: []
+    49:
+      dirs:
+      - V49_NMR
+      pdfs: []
+    60:
+      dirs:
+      - V60_Diodenlaser
+      pdfs: []
+- branch: master
+  contributors:
+  - html_url: https://github.com/karina1007
+    login: karina1007
+  - html_url: https://github.com/jpherdi
+    login: jpherdi
+  full_name: jpherdi/Praktikum
+  last_commit: 2020-08-22 14:15:53
+  protokolle:
+    21:
+      dirs:
+      - V21
+      pdfs: []
+    23:
+      dirs:
+      - V23
+      pdfs: []
+    46:
+      dirs:
+      - V46
+      pdfs: []
+    61:
+      dirs:
+      - V61
+      pdfs: []
 - branch: master
   contributors:
   - html_url: https://github.com/Plockwurst
@@ -3430,6 +3522,39 @@
       pdfs:
       - 2_Vakuumphysik[X]/Protokoll_Messwerte.pdf
       - 2_Vakuumphysik[X]/V70_150527_Luckey_Wollenberg_Kor1.pdf
+- branch: main
+  contributors:
+  - html_url: https://github.com/lukas-bert
+    login: lukas-bert
+  - html_url: https://github.com/steffenkober
+    login: steffenkober
+  full_name: lukas-bert/AP-1-Versuchsprotokolle
+  last_commit: 2021-12-21 14:51:58
+  protokolle:
+    105:
+      dirs:
+      - v105
+      pdfs: []
+    106:
+      dirs:
+      - v106
+      pdfs: []
+    206:
+      dirs:
+      - v206
+      pdfs: []
+    308:
+      dirs:
+      - v308
+      pdfs: []
+    354:
+      dirs:
+      - v354
+      pdfs: []
+    355:
+      dirs:
+      - v355
+      pdfs: []
 - branch: master
   contributors:
   - html_url: https://github.com/LukasNickel
@@ -6389,6 +6514,39 @@
     70:
       dirs:
       - V70
+      pdfs: []
+- branch: main
+  contributors:
+  - html_url: https://github.com/ttros
+    login: ttros
+  - html_url: https://github.com/th3odor
+    login: th3odor
+  full_name: ttros/Praktikum
+  last_commit: 2021-12-25 12:11:01
+  protokolle:
+    103:
+      dirs:
+      - Protokolle/v103
+      pdfs: []
+    107:
+      dirs:
+      - Protokolle/v107
+      pdfs: []
+    204:
+      dirs:
+      - Protokolle/v204
+      pdfs: []
+    303:
+      dirs:
+      - Protokolle/v303
+      pdfs: []
+    353:
+      dirs:
+      - Protokolle/v353
+      pdfs: []
+    354:
+      dirs:
+      - Protokolle/v354
       pdfs: []
 - branch: master
   contributors:
