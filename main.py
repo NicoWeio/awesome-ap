@@ -27,6 +27,9 @@ for repo in repos:
         repos_to_versuche.append(import_repo(Repo(repo, gh), gh))
     except github.UnknownObjectException:
         pass
+    except KeyboardInterrupt:
+        warn("\n"*5 + "KeyboardInterrupt – exiting early…")
+        break
     except Exception as e:
         error(f'Could not import {repo["name"]}')
         # So ist anhand des Status in GitHub Actions direkt ersichtlich, ob es ein Problem gab.
