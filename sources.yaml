@@ -10,6 +10,9 @@
 - name: AReinold/Master-FP
   pdfs:
     directory: PDF-Dateien abtestiert
+- name: Bastian125/AP-Praktikum
+  pdfs:
+    directory: Versuche
 # TODO: Mehrere Unterordner, auch für PDFs
 - name: BenediktSan/AnfaengerPraktikum2020
   subdirectory:
@@ -152,8 +155,10 @@
 - name: komrozik/FP2021
   pdfs:
     in_source_dir: true
+- name: komrozik/Master_FP
 - name: larsfu/ap
 - name: larsfu/fp
+- name: lassestern/FP_Master
 # TODO: Versuch-Nummern aus den Literaturangaben übernommen; PDFs unregelmäßig benannt
 - name: lassestern/Lasse_Praktikum
   dirs_to_versuche:
@@ -256,6 +261,7 @@
   parsing:
     dirname: false
 - name: moritzbo/anfaenger_praktikum
+- name: moritzbo/fortgeschrittenes_praktikum
 - name: mwindau/FP
   pdfs:
     directory: FP_Bachelor
@@ -365,6 +371,9 @@
   pdfs:
     in_source_dir: true
 - name: Tahirbanane/AP
+  pdfs:
+    in_source_dir: true
+- name: TimBizeps/BachelorAP
   pdfs:
     in_source_dir: true
 - name: TRose27/FP
