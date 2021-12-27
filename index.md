@@ -209,3 +209,20 @@
 - **421** Protokolle mit PDFs
 - **349** PDFs von _awesome-ap-pdfs_
 - **548** PDFs insgesamt
+
+<p>Zuletzt aktualisiert: <span id="last-modified">[lade…]</span></p>
+<script async>
+    if (document.getElementById('last-modified')) {
+        fetch("https://api.github.com/repos/NicoWeio/awesome-ap/commits/gh-pages")
+            .then((response) => {
+                return response.json();
+            })
+            .then((commitWrapper) => {
+                let displayDate = commitWrapper['commit']['committer']['date'].slice(0, 10).split('-').reverse().join('.');
+                document.getElementById('last-modified').textContent = displayDate;
+            });
+    }
+    else {
+        console.warn("lastmodified.js: No element with id 'last-modified' found.");
+    }
+</script>
