@@ -115,6 +115,11 @@ def generate_md(repos_to_versuche, versuche_to_repos):
         out += f'- **{sum(repo.num_pdfs for repo in repos_to_versuche)}** Protokolle mit PDFs\n'
         out += f'- **{sum(0 if getattr(pdf, "is_user_generated", True) else 1 for repo in repos_to_versuche for versuch in repo.versuche.values() for pdf in versuch.get("pdfs", []))}** PDFs von _awesome-ap-pdfs_\n'
         out += f'- **{sum(repo.num_pdfs_total for repo in repos_to_versuche)}** PDFs insgesamt\n'
+        out += '\n'
+
+        # Die "Zuletzt aktualisiert"-Zeit wird dynamisch geladen, um im gh-pages-Branch leere Commits zu vermeiden.
+        with open('static/last_modified.html') as f:
+            out += f.read()
 
         g.write(out)
 
