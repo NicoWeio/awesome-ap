@@ -1,0 +1,159 @@
+1:
+  name: "Lebensdauer der Myonen"
+14:
+  name: "Tomographie mit Gamma-Strahlung"
+15:
+  name: "Vermessung und Untersuchung von Silizium-Streifensensoren"
+16:
+  name: "Rutherford-Streuung"
+18:
+  name: "Der Reinst-Germanium-Detektor als Instrument der Gamma-Spektroskopie"
+21:
+  name: "Optisches Pumpen"
+23:
+  name: "Quanten-Analogien"
+25:
+  name: "Der Stern-Gerlach-Versuch"
+27:
+  name: "Der Zeeman-Effekt"
+28:
+  name: "Elektronenspin-Resonanz"
+41:
+  name: "Debye-Scherrer-Aufnahmen"
+44:
+  name: "Röntgenreflektometrie"
+46:
+  name: "Der Faraday-Effekt an Halbleitern"
+47:
+  name: "Temperaturabhängigkeit der Molwärme von Festkörpern"
+48:
+  name: "Dipolrelaxation in Ionenkristallen"
+49:
+  name: "Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen"
+51:
+  name: "Schaltungen mit Operationsverstärkern"
+52:
+  name: "Signale auf Leitungen"
+53:
+  name: "Mikrowellen auf Hohlleitern"
+57:
+  name: "Elektrische Schwankungserscheinungen"
+59:
+  name: "Modulation und Demodulation elektrischer Schwingungen"
+60:
+  name: "Diodenlaser"
+61:
+  name: "HeNe-Laser"
+64:
+  name: "Moderne Interferometrie"
+65:
+  name: "Röntgenreflektrometrie"
+70:
+  name: "Vakuumphysik"
+101:
+  name: "Das Trägheitsmoment"
+102:
+  name: "Drehschwingungen"
+103:
+  name: "Biegung elastischer Stäbe"
+104:
+  name: "Der Doppler-Effekt"
+105:
+  name: "Das magnetische Moment"
+106:
+  name: "Gekoppelte Pendel"
+107:
+  name: "Das Kugelfall-Viskosimeter nach Höppler"
+201:
+  name: "Das Dulong-Petit-Gesetz"
+203:
+  name: "Verdampfungswärme und Dampfdruckkurve"
+204:
+  name: "Wärmeleitung von Metallen"
+206:
+  name: "Die Wärmepumpe"
+207:
+  # name: "Das Kugelfall-Viskosimeter nach Höppler"
+  # name: "Das Stefan-Boltzmann Gesetz"
+  name: null
+300:
+  name: null
+301:
+  name: "Leerlaufspannung und Innenwiderstand von Spannungsquellen"
+302:
+  name: "Elektrische Brückenschaltungen"
+303:
+  name: "Der Lock-In-Verstärker"
+305:
+  name: null
+308:
+  name: "Spulen und Magnetfelder"
+311:
+  name: "Der Hall-Effekt"
+351:
+  name: "Fourier-Analyse und -Synthese"
+353:
+  name: "Relaxationsverhalten eines RC-Kreises"
+354:
+  name: "Gedämpfte und erzwungene Schwingungen"
+355:
+  name: "Gekoppelte Schwingkreise"
+356:
+  name: "Kettenschaltungen mit LC-Gliedern"
+400:
+  name: "Reflexion, Brechung und Beugung"
+401:
+  name: "Das Michelson-Interferometer"
+402:
+  name: "Dispersionsmessungen am Glasprisma"
+406:
+  name: "Beugung am Spalt"
+408:
+  name: "Geometrische Optik"
+500:
+  name: "Der Photoeffekt"
+501:
+  name: "Elektronen im elektrischen und magnetischen Feld"
+  notes: |-
+    Hierbei handelt es sich in der Regel um einen Doppelversuch, bestehend aus V501 (E-Feld) und V502 (B-Feld).
+502:
+  name: "Elektronen im transversalen Magnetfeld"
+  notes: |-
+    Hierbei handelt es sich in der Regel um einen Doppelversuch, bestehend aus V501 (E-Feld) und V502 (B-Feld).
+    Alle Protokolle zum Doppelversuch finden sich unter V501.
+503:
+  name: "Der Millikan-Versuch"
+504:
+  name: "Thermische Elektronenemission"
+601:
+  name: "Der Franck-Hertz-Versuch"
+602:
+  name: "Röntgenemission und -absorption"
+603:
+  name: "Der Compton-Effekt"
+605:
+  name: "Alkali-Spektren"
+606:
+  name: "Messung der Suszeptibilität paramagnetischer Substanzen"
+701:
+  name: "Reichweite von Alpha-Strahlung"
+702:
+  name: "Aktivierung mit Neutronen"
+703:
+  name: "Das Geiger-Müller-Zählrohr"
+704:
+  name: "Absorption von Gamma- und Beta-Strahlung"
+800:
+  name: "Das Oszilloskop"
+801:
+  name: null
+802:
+  name: "Fouriersynthese"
+803:
+  name: "Das Hookesche Gesetz"
+901:
+  name: "Grundlagen der Ultraschalltechnik"
+902:
+  name: "Scanverfahren in der Ultraschalltechnik"
+903:
+  name: "Doppler-Sonographie"

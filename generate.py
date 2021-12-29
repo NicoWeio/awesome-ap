@@ -1,8 +1,9 @@
+from console import *
 from datetime import datetime
 import os
+from pathlib import Path
 import pytablewriter
 from urllib.parse import quote
-from console import *
 
 
 def fmt_repo(repo):
@@ -25,9 +26,7 @@ def fmt_pdf(pdf):
     return f"[{pdf.name}](https://docs.google.com/viewer?url={pdf.download_url})" + (r' \*' if getattr(pdf, 'is_user_generated', True) is False else '')
 
 
-def fmt_content(repo, c):
-    from pathlib import Path
-    assert isinstance(c, Path)
+def fmt_content(repo, c: Path):
     html_url = content_url(repo, c)
     return f"[{c.name}]({html_url})" if c else '–'
 
@@ -36,15 +35,23 @@ def content_url(repo, path):
     return f'{repo.html_url}/tree/{repo.branch}/{quote(str(path))}'
 
 
-def generate_md(repos_to_versuche, versuche_to_repos):
+def generate_md(repos_to_versuche, versuche_to_repos, versuche_data):
     os.makedirs('build/versuch', exist_ok=True)
     os.makedirs('build/repo', exist_ok=True)
     writer = pytablewriter.MarkdownTableWriter()
 
     # ■ Versuch → Repos
     for versuch, repos in versuche_to_repos.items():
+        versuch_data = versuche_data.get(versuch, {})
         with open(f'build/versuch/{versuch}.md', 'w') as g:
-            out = f'# Versuch *{versuch}*\n\n'
+            if name := versuch_data.get('name'):
+                out = f'# Versuch *{versuch}*: {name}\n\n'
+            else:
+                out = f'# Versuch *{versuch}*\n\n'
+
+            if notes := versuch_data.get('notes'):
+                out += '## Anmerkungen\n' + notes + '\n\n'
+
             out += f'## Repos\n\n'
 
             writer.headers = ['Repo', 'Ordner', 'PDFs']
@@ -83,8 +90,7 @@ def generate_md(repos_to_versuche, versuche_to_repos):
             out += f'## Versuche\n\n'
             writer.headers = ['Versuch', 'Ordner', 'PDFs']
             writer.value_matrix = []
-            for num in sorted(repo.versuche):
-                v = repo.versuche[num]
+            for num, v in sorted(repo.versuche.items()):
                 writer.value_matrix.append((
                     f'[{num}](../../versuch/{num})',
                     fmt_dirs(repo, v.get('dirs')),
@@ -105,9 +111,13 @@ def generate_md(repos_to_versuche, versuche_to_repos):
         out += '<script src="https://liberapay.com/NicoWeio/widgets/button.js"></script><noscript><a href="https://liberapay.com/NicoWeio/donate"><img alt="Spenden mittels Liberapay" src="https://liberapay.com/assets/widgets/donate.svg"></a></noscript>\n\n'
 
         out += f'## Versuche\n\n'
-        writer.headers = ['Versuch', '', '# Repos']
-        writer.value_matrix = [(v, f'[Übersicht](versuch/{v})', len(versuche_to_repos[v]))
-                               for v in sorted(versuche_to_repos.keys())]
+        writer.headers = ['Nr.', 'Name', '', '# Repos']
+        writer.value_matrix = [(
+            v,
+            versuche_data.get(v, {}).get('name') or '–',
+            f'[Übersicht](versuch/{v})',
+            len(versuche_to_repos[v])
+        ) for v in sorted(versuche_to_repos.keys())]
         out += writer.dumps()
         out += '\n\n'
 

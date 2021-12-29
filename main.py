@@ -41,9 +41,13 @@ repos_to_versuche = add_aap_pdfs(repos_to_versuche, gh)
 
 versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
 
+# ■ Einbinden der manuell kuratierten Informationen zu den Versuchen:
+with open("versuche.yaml", 'r') as stream:
+    versuche = yaml.safe_load(stream)
+
 # ■ Generieren der statischen Website-Inhalte:
 if not DEV:  # damit nicht bei jedem Testdurchlauf >100 Dateien geschrieben werden
-    generate_md(repos_to_versuche, versuche_to_repos)
+    generate_md(repos_to_versuche, versuche_to_repos, versuche)
 
 # ■ Generieren einer (in erster Linie) maschinenlesbaren Datenbank:
 generate_yaml(repos_to_versuche)
