@@ -67,11 +67,11 @@ class Repo:
             except CalledProcessError as e:
                 warn("Pull failed. Maybe there are merge conflicts? Trying to reset…")
                 run_command(["git", "fetch"])
-                run_command(["git", "reset", "--hard", "origin/HEAD"]) 
+                run_command(["git", "reset", "--hard", "origin/HEAD"])
             except Exception as e:
                 error("Still failed:", e)
                 raise
-                
+
             if self.branch:
                 # TODO: Viele edge cases wegen des Cachings!
                 run_command(["git", "remote", "set-branches", "origin", self.branch])

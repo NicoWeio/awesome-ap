@@ -4,21 +4,26 @@ import pytablewriter
 from urllib.parse import quote
 from console import *
 
+
 def fmt_repo(repo):
     return f'[{repo.full_name}](../repo/{repo.full_name})'
+
 
 def fmt_dirs(repo, dirs):
     if not dirs:
         return '–'
     return '<br/>'.join(fmt_content(repo, dir) for dir in sorted(dirs, key=lambda dir: dir.name.lower()))
 
+
 def fmt_pdfs(repo, pdfs):
     if not pdfs:
         return '–'
     return '<br/>'.join(fmt_pdf(pdf) for pdf in sorted(pdfs, key=lambda pdf: pdf.name.lower()))
 
+
 def fmt_pdf(pdf):
     return f"[{pdf.name}](https://docs.google.com/viewer?url={pdf.download_url})" + (r' \*' if getattr(pdf, 'is_user_generated', True) is False else '')
+
 
 def fmt_content(repo, c):
     from pathlib import Path
@@ -26,15 +31,17 @@ def fmt_content(repo, c):
     html_url = content_url(repo, c)
     return f"[{c.name}]({html_url})" if c else '–'
 
+
 def content_url(repo, path):
     return f'{repo.html_url}/tree/{repo.branch}/{quote(str(path))}'
+
 
 def generate_md(repos_to_versuche, versuche_to_repos):
     os.makedirs('build/versuch', exist_ok=True)
     os.makedirs('build/repo', exist_ok=True)
     writer = pytablewriter.MarkdownTableWriter()
 
-    ## Versuch → Repos
+    # ■ Versuch → Repos
     for versuch, repos in versuche_to_repos.items():
         with open(f'build/versuch/{versuch}.md', 'w') as g:
             out = f'# Versuch *{versuch}*\n\n'
@@ -48,11 +55,11 @@ def generate_md(repos_to_versuche, versuche_to_repos):
                     fmt_repo(repo),
                     fmt_dirs(repo, versuch_data.get('dirs')),
                     fmt_pdfs(repo, versuch_data.get('pdfs'))
-                 ))
+                ))
             out += writer.dumps()
             g.write(out)
 
-    ## Repo → Versuche
+    # ■ Repo → Versuche
     for repo in repos_to_versuche:
         os.makedirs(f'build/repo/{repo.login}', exist_ok=True)
         with open(f'build/repo/{repo.login}/{repo.name}.md', 'w') as g:
@@ -87,7 +94,7 @@ def generate_md(repos_to_versuche, versuche_to_repos):
 
             g.write(out)
 
-    ## Startseite
+    # ■ Startseite
     with open(f'build/index.md', 'w') as g:
         out = '# Startseite\n\n'
         # now = datetime.today().strftime('%d.%m.%Y %H:%M:%S')
@@ -99,7 +106,8 @@ def generate_md(repos_to_versuche, versuche_to_repos):
 
         out += f'## Versuche\n\n'
         writer.headers = ['Versuch', '', '# Repos']
-        writer.value_matrix = [(v, f'[Übersicht](versuch/{v})', len(versuche_to_repos[v])) for v in sorted(versuche_to_repos.keys())]
+        writer.value_matrix = [(v, f'[Übersicht](versuch/{v})', len(versuche_to_repos[v]))
+                               for v in sorted(versuche_to_repos.keys())]
         out += writer.dumps()
         out += '\n\n'
 

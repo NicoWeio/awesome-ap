@@ -21,7 +21,7 @@ gh = github.Github(TOKEN)
 with open("sources.yaml", 'r') as stream:
     repos = yaml.safe_load(stream)
 
-### Laden der Daten:
+# ■ Laden der Daten:
 repos_to_versuche = []
 for repo in repos:
     try:
@@ -36,17 +36,18 @@ for repo in repos:
         # So ist anhand des Status in GitHub Actions direkt ersichtlich, ob es ein Problem gab.
         raise
 
-### Einbinden der „awesome-ap-pdfs“:
+# ■ Einbinden der „awesome-ap-pdfs“:
 repos_to_versuche = add_aap_pdfs(repos_to_versuche, gh)
 
 versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
 
-### Generieren der statischen Website-Inhalte:
+# ■ Generieren der statischen Website-Inhalte:
 if not DEV:  # damit nicht bei jedem Testdurchlauf >100 Dateien geschrieben werden
     generate_md(repos_to_versuche, versuche_to_repos)
 
-### Generieren einer (in erster Linie) maschinenlesbaren Datenbank:
+# ■ Generieren einer (in erster Linie) maschinenlesbaren Datenbank:
 generate_yaml(repos_to_versuche)
+
 
 def stats():
     out = ""
@@ -58,6 +59,7 @@ def stats():
     out += f'- {sum(repo.num_pdfs for repo in repos_to_versuche)} Protokolle mit PDFs\n'
     out += f'- {sum(repo.num_pdfs_total for repo in repos_to_versuche)} PDFs insgesamt\n'
     return out
+
 
 console.print("Done! 🎉", style='blink bold')
 info(stats())
