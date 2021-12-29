@@ -3120,11 +3120,14 @@
   - html_url: https://github.com/lassestern
     login: lassestern
   full_name: lassestern/FP_Master
-  last_commit: 2021-12-27 14:46:03
+  last_commit: 2021-12-29 15:03:57
   protokolle:
-    27:
+    14:
       dirs:
       - V14_Tomographie
+      pdfs: []
+    27:
+      dirs:
       - V27_Zeeman_Effekt
       pdfs: []
     61:
@@ -6750,7 +6753,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2021-12-28 19:32:16
+  last_commit: 2021-12-29 12:37:43
   protokolle:
     103:
       dirs:

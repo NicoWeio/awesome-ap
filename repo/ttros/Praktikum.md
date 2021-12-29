@@ -1,6 +1,6 @@
 # [ttros/Praktikum](https://github.com/ttros/Praktikum)
 
-Letzter Commit: 28.12.2021 19:32:16
+Letzter Commit: 29.12.2021 12:37:43
 
 ## Autoren
 - [ttros](https://github.com/ttros)
