@@ -75,7 +75,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2021-12-28 14:16:55
+  last_commit: 2021-12-29 19:55:38
   protokolle:
     101:
       dirs:
@@ -2111,8 +2111,8 @@
       - we did that/US1
       pdfs: []
 - authors:
+  - Anneke Reinold
   - Carolin Harkort
-  - Jacqueline Schlingmann
   branch: master
   contributors:
   - html_url: https://github.com/JaSchl
@@ -7069,7 +7069,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2021-12-29 15:46:10
+  last_commit: 2021-12-29 16:38:30
   protokolle:
     103:
       dirs:
