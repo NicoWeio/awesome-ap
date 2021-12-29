@@ -2111,8 +2111,8 @@
       - we did that/US1
       pdfs: []
 - authors:
-  - Anneke Reinold
   - Carolin Harkort
+  - Jacqueline Schlingmann
   branch: master
   contributors:
   - html_url: https://github.com/JaSchl
