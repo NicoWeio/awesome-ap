@@ -2,7 +2,11 @@
 
 Letzter Commit: 14.08.2021 11:03:17
 
-## Autoren
+## Autoren (Klarnamen)
+- Samuel Haefs
+- Max Koch
+
+## Autoren (GitHub)
 - [maaxxns](https://github.com/maaxxns)
 - [SamGTex](https://github.com/SamGTex)
 

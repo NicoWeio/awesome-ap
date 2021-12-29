@@ -2,7 +2,11 @@
 
 Letzter Commit: 14.02.2013 10:50:06
 
-## Autoren
+## Autoren (Klarnamen)
+- Fabian Lehmann
+- Oliver Zietek
+
+## Autoren (GitHub)
 - [olitek](https://github.com/olitek)
 - [Renameus](https://github.com/Renameus)
 

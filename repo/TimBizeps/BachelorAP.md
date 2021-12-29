@@ -2,9 +2,13 @@
 
 Letzter Commit: 26.09.2018 13:21:16
 
-## Autoren
-- [TimBizeps](https://github.com/TimBizeps)
+## Autoren (Klarnamen)
+- Simon Schulte
+- Tim Sedlaczek
+
+## Autoren (GitHub)
 - [SchulteSimon](https://github.com/SchulteSimon)
+- [TimBizeps](https://github.com/TimBizeps)
 
 ## Versuche
 

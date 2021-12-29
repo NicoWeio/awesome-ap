@@ -2,9 +2,13 @@
 
 Letzter Commit: 28.10.2019 07:29:12
 
-## Autoren
-- [MaikBecker](https://github.com/MaikBecker)
+## Autoren (Klarnamen)
+- Maik Becker
+- Kevin Sedlaczek
+
+## Autoren (GitHub)
 - [KevSed](https://github.com/KevSed)
+- [MaikBecker](https://github.com/MaikBecker)
 
 ## Versuche
 

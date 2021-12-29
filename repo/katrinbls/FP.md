@@ -2,7 +2,11 @@
 
 Letzter Commit: 06.08.2020 08:48:26
 
-## Autoren
+## Autoren (Klarnamen)
+- Katrin Bolsmann
+- Miriam Simm
+
+## Autoren (GitHub)
 - [katrinbls](https://github.com/katrinbls)
 - [miriamsimm](https://github.com/miriamsimm)
 

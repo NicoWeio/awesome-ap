@@ -2,6 +2,13 @@
 
 Letzter Commit: 14.10.2021 17:19:15
 
+## Autoren (Klarnamen)
+- Sebastian Fischer
+- Johannes Lamers
+
+## Autoren (GitHub)
+- [smjolame](https://github.com/smjolame)
+
 ## Versuche
 
 |       Versuch        |                                               Ordner                                                |                                                                                  PDFs                                                                                   |

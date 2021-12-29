@@ -2,7 +2,11 @@
 
 Letzter Commit: 02.08.2021 21:06:42
 
-## Autoren
+## Autoren (Klarnamen)
+- Nico Guth
+- David Venker
+
+## Autoren (GitHub)
 - [Daverku](https://github.com/Daverku)
 - [NicoJG](https://github.com/NicoJG)
 

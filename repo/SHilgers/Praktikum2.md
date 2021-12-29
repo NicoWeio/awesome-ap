@@ -2,9 +2,13 @@
 
 Letzter Commit: 04.02.2020 08:43:30
 
-## Autoren
-- [SHilgers](https://github.com/SHilgers)
+## Autoren (Klarnamen)
+- Stefanie Hilgers
+- Lara Nollen
+
+## Autoren (GitHub)
 - [Nolara](https://github.com/Nolara)
+- [SHilgers](https://github.com/SHilgers)
 
 ## Versuche
 

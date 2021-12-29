@@ -2,6 +2,13 @@
 
 Letzter Commit: 07.09.2017 15:11:34
 
+## Autoren (Klarnamen)
+- Dag-Björn Hering
+- Ksenia Klassen
+
+## Autoren (GitHub)
+- [dagbjoern](https://github.com/dagbjoern)
+
 ## Versuche
 
 |       Versuch        |                           Ordner                            |                                                                          PDFs                                                                           |

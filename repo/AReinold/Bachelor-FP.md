@@ -2,7 +2,11 @@
 
 Letzter Commit: 09.07.2018 09:47:30
 
-## Autoren
+## Autoren (Klarnamen)
+- Paul-Simon Blomenkamp
+- Anneke Reinold
+
+## Autoren (GitHub)
 - [AReinold](https://github.com/AReinold)
 - [PBlomenkamp](https://github.com/PBlomenkamp)
 

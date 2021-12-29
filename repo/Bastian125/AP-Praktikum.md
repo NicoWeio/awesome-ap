@@ -2,7 +2,11 @@
 
 Letzter Commit: 28.12.2021 14:16:55
 
-## Autoren
+## Autoren (Klarnamen)
+- Tabea Hacheney
+- Bastian Schuchardt
+
+## Autoren (GitHub)
 - [Bastian125](https://github.com/Bastian125)
 - [LdyMortem](https://github.com/LdyMortem)
 

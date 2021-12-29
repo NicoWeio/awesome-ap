@@ -2,7 +2,11 @@
 
 Letzter Commit: 13.11.2018 22:06:54
 
-## Autoren
+## Autoren (Klarnamen)
+- Fabian Schierok
+- Carlo Tasillo
+
+## Autoren (GitHub)
 - [FSchierok](https://github.com/FSchierok)
 - [tasicarl](https://github.com/tasicarl)
 

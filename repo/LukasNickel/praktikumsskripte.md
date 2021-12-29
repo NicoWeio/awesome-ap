@@ -2,6 +2,13 @@
 
 Letzter Commit: 23.12.2015 11:59:52
 
+## Autoren (Klarnamen)
+- Rohat Kavili
+- Lukas Nickel
+
+## Autoren (GitHub)
+- [LukasNickel](https://github.com/LukasNickel)
+
 ## Versuche
 
 |        Versuch         |                                 Ordner                                  |                                                                  PDFs                                                                   |

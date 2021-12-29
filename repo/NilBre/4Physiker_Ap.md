@@ -2,9 +2,13 @@
 
 Letzter Commit: 28.02.2018 08:58:32
 
-## Autoren
-- [NilBre](https://github.com/NilBre)
+## Autoren (Klarnamen)
+- Fabian Koch
+- Raphael Sütterlin
+
+## Autoren (GitHub)
 - [Fresoquark](https://github.com/Fresoquark)
+- [NilBre](https://github.com/NilBre)
 - [SepplL](https://github.com/SepplL)
 
 ## Versuche

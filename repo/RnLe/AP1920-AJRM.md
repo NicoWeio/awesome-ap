@@ -2,7 +2,11 @@
 
 Letzter Commit: 02.10.2020 13:42:04
 
-## Autoren
+## Autoren (Klarnamen)
+- Antonia Joëlle Bock
+- Rene-Marcel Lehner
+
+## Autoren (GitHub)
 - [RnLe](https://github.com/RnLe)
 - [ToniAJ](https://github.com/ToniAJ)
 

@@ -2,6 +2,9 @@
 
 Letzter Commit: 21.12.2019 22:15:36
 
+## Autoren (GitHub)
+- [elliekayl](https://github.com/elliekayl)
+
 ## Versuche
 
 |        Versuch         |                                  Ordner                                  |                                                                                                                                                                      PDFs                                                                                                                                                                      |

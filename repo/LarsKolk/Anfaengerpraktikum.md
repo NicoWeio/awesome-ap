@@ -2,6 +2,13 @@
 
 Letzter Commit: 11.08.2018 16:09:33
 
+## Autoren (Klarnamen)
+- Lars Kolk
+- Julia Sobolewski
+
+## Autoren (GitHub)
+- [LarsKolk](https://github.com/LarsKolk)
+
 ## Versuche
 
 |        Versuch         |                                                                                 Ordner                                                                                  |                                                                                                                                                                                                                                                                PDFs                                                                                                                                                                                                                                                                 |

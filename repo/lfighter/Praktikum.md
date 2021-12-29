@@ -2,6 +2,13 @@
 
 Letzter Commit: 25.02.2018 22:43:48
 
+## Autoren (Klarnamen)
+- Yannik Brune
+- Lukas Rolf
+
+## Autoren (GitHub)
+- [Gamer317](https://github.com/Gamer317)
+
 ## Versuche
 
 |        Versuch         |                                        Ordner                                        |PDFs|

@@ -2,6 +2,13 @@
 
 Letzter Commit: 18.05.2016 10:41:04
 
+## Autoren (Klarnamen)
+- Jonathan Kriewald
+- Carl Arne Thomann
+
+## Autoren (GitHub)
+- [Broko55](https://github.com/Broko55)
+
 ## Versuche
 
 |       Versuch        |                                                Ordner                                                 |                                                                              PDFs                                                                               |

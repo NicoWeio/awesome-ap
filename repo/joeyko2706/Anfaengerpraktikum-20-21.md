@@ -2,9 +2,13 @@
 
 Letzter Commit: 22.12.2021 11:46:51
 
-## Autoren
-- [joeyko2706](https://github.com/joeyko2706)
+## Autoren (Klarnamen)
+- Joel Koch
+- Felix Symma
+
+## Autoren (GitHub)
 - [FelixSym](https://github.com/FelixSym)
+- [joeyko2706](https://github.com/joeyko2706)
 
 ## Versuche
 

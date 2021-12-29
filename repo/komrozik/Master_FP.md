@@ -2,9 +2,13 @@
 
 Letzter Commit: 11.12.2021 13:22:22
 
-## Autoren
-- [komrozik](https://github.com/komrozik)
+## Autoren (Klarnamen)
+- David Gutnikov
+- Konstantin Mrozik
+
+## Autoren (GitHub)
 - [DaGutn](https://github.com/DaGutn)
+- [komrozik](https://github.com/komrozik)
 
 ## Versuche
 

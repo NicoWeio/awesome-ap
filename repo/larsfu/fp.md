@@ -2,9 +2,13 @@
 
 Letzter Commit: 10.09.2017 14:33:08
 
-## Autoren
-- [larsfu](https://github.com/larsfu)
+## Autoren (Klarnamen)
+- Lars Funke
+- Ann-Sophie Schubert
+
+## Autoren (GitHub)
 - [annsophie](https://github.com/annsophie)
+- [larsfu](https://github.com/larsfu)
 
 ## Versuche
 

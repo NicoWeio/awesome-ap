@@ -2,9 +2,13 @@
 
 Letzter Commit: 05.07.2021 12:36:30
 
-## Autoren
-- [YanickKi](https://github.com/YanickKi)
+## Autoren (Klarnamen)
+- Yanick Sebastian Kind
+- Till Willershausen
+
+## Autoren (GitHub)
 - [Till-Will](https://github.com/Till-Will)
+- [YanickKi](https://github.com/YanickKi)
 
 ## Versuche
 

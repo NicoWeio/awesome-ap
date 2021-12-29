@@ -2,9 +2,13 @@
 
 Letzter Commit: 08.07.2018 16:41:54
 
-## Autoren
-- [TRose27](https://github.com/TRose27)
+## Autoren (Klarnamen)
+- Fabian Koch
+- Tom Rosenstein
+
+## Autoren (GitHub)
 - [Fresoquark](https://github.com/Fresoquark)
+- [TRose27](https://github.com/TRose27)
 
 ## Versuche
 

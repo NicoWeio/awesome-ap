@@ -2,9 +2,13 @@
 
 Letzter Commit: 01.10.2021 12:10:51
 
-## Autoren
-- [lassestern](https://github.com/lassestern)
+## Autoren (Klarnamen)
+- David Gutnikov
+- Lasse Sternemann
+
+## Autoren (GitHub)
 - [DaGutn](https://github.com/DaGutn)
+- [lassestern](https://github.com/lassestern)
 
 ## Versuche
 

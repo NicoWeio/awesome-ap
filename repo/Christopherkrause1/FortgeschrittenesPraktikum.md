@@ -2,7 +2,11 @@
 
 Letzter Commit: 26.06.2019 07:54:06
 
-## Autoren
+## Autoren (Klarnamen)
+- Christopher Krause
+- Lucas Witthaus
+
+## Autoren (GitHub)
 - [Christopherkrause1](https://github.com/Christopherkrause1)
 - [woklop9](https://github.com/woklop9)
 

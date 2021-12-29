@@ -2,7 +2,11 @@
 
 Letzter Commit: 11.04.2021 11:36:04
 
-## Autoren
+## Autoren (Klarnamen)
+- Sebastian Fischer
+- Johannes Lamers
+
+## Autoren (GitHub)
 - [smjolame](https://github.com/smjolame)
 - [smsnfi12](https://github.com/smsnfi12)
 

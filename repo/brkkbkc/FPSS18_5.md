@@ -2,7 +2,11 @@
 
 Letzter Commit: 29.08.2018 13:23:12
 
-## Autoren
+## Autoren (Klarnamen)
+- Daniel Meißner
+- Kevin Moch
+
+## Autoren (GitHub)
 - [brkkbkc](https://github.com/brkkbkc)
 - [VersorgungsAuge](https://github.com/VersorgungsAuge)
 

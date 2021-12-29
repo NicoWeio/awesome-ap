@@ -2,6 +2,12 @@
 
 Letzter Commit: 30.05.2020 10:11:16
 
+## Autoren (Klarnamen)
+- Marcel Kebekus
+
+## Autoren (GitHub)
+- [marcelkebe](https://github.com/marcelkebe)
+
 ## Versuche
 
 |        Versuch         |                                                       Ordner                                                        |                                                                                                 PDFs                                                                                                 |

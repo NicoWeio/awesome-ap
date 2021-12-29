@@ -2,9 +2,9 @@
 
 Letzter Commit: 19.12.2021 11:59:22
 
-## Autoren
-- [NicoWeio](https://github.com/NicoWeio)
+## Autoren (GitHub)
 - [KathiPopp](https://github.com/KathiPopp)
+- [NicoWeio](https://github.com/NicoWeio)
 
 ## Versuche
 

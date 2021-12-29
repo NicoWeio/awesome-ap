@@ -2,7 +2,11 @@
 
 Letzter Commit: 04.07.2021 12:03:23
 
-## Autoren
+## Autoren (Klarnamen)
+- Nikola Mang
+- Mirjam Prayer
+
+## Autoren (GitHub)
 - [FreddieMercury534](https://github.com/FreddieMercury534)
 - [LiigaSoolane](https://github.com/LiigaSoolane)
 - [VorniV](https://github.com/VorniV)

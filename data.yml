@@ -1,4 +1,7 @@
-- branch: master
+- authors:
+  - Anneke Reinold
+  - Paul-Simon Blomenkamp
+  branch: master
   contributors:
   - html_url: https://github.com/AReinold
     login: AReinold
@@ -27,7 +30,10 @@
       dirs:
       - V70 Vakuumphysik
       pdfs: []
-- branch: master
+- authors:
+  - Anneke Reinold
+  - Paul-Simon Blomenkamp
+  branch: master
   contributors:
   - html_url: https://github.com/AReinold
     login: AReinold
@@ -59,7 +65,10 @@
       - "V51 Operationsverst\xE4rker"
       pdfs:
       - PDF-Dateien abtestiert/V51 Operationsverstaerker_Protokoll.pdf
-- branch: master
+- authors:
+  - Bastian Schuchardt
+  - Tabea Hacheney
+  branch: master
   contributors:
   - html_url: https://github.com/Bastian125
     login: Bastian125
@@ -101,7 +110,10 @@
       dirs:
       - V353-RelaxationsverhaltenRCKreis
       pdfs: []
-- branch: main
+- authors:
+  - Benedikt Sander
+  - "Niklas D\xFCser"
+  branch: main
   contributors:
   - html_url: https://github.com/BenediktSan
     login: BenediktSan
@@ -204,7 +216,10 @@
       - Versuche Semester IV/5. US1
       pdfs:
       - Versuche Semester IV/5. US1/V901.pdf
-- branch: master
+- authors:
+  - Kevin Heinicke
+  - Markus Stabrin
+  branch: master
   contributors:
   - html_url: https://github.com/loligsmile
     login: loligsmile
@@ -334,7 +349,10 @@
       - US1_Grundlagen-Ultraschall
       pdfs:
       - US1_Grundlagen-Ultraschall/00_protokoll.pdf
-- branch: master
+- authors:
+  - Kevin Heinicke
+  - Markus Stabrin
+  branch: master
   contributors:
   - html_url: https://github.com/bixel
     login: bixel
@@ -387,7 +405,10 @@
       dirs:
       - V61_HeNe-Laser
       pdfs: []
-- branch: master
+- authors:
+  - "Daniel Mei\xDFner"
+  - Kevin Moch
+  branch: master
   contributors:
   - html_url: https://github.com/brkkbkc
     login: brkkbkc
@@ -420,7 +441,8 @@
       dirs:
       - V64-Interferometrie
       pdfs: []
-- branch: master
+- authors: []
+  branch: master
   contributors:
   - html_url: https://github.com/chrbeckm
     login: chrbeckm
@@ -508,7 +530,9 @@
       dirs:
       - us2
       pdfs: []
-- branch: master
+- authors:
+  - Schokoladenporsche
+  branch: master
   contributors:
   - html_url: https://github.com/chrbeckm
     login: chrbeckm
@@ -555,7 +579,10 @@
       dirs:
       - v64-m-moderne-interferometrie
       pdfs: []
-- branch: master
+- authors:
+  - Christopher Krause
+  - Lucas Witthaus
+  branch: master
   contributors:
   - html_url: https://github.com/Christopherkrause1
     login: Christopherkrause1
@@ -584,7 +611,9 @@
       dirs:
       - V61-HeNELaser
       pdfs: []
-- branch: master
+- authors:
+  - Christopher Krause
+  branch: master
   contributors:
   - html_url: https://github.com/Christopherkrause1
     login: Christopherkrause1
@@ -595,7 +624,10 @@
       dirs:
       - 201-Duolong
       pdfs: []
-- branch: master
+- authors:
+  - Christopher Breitfeld
+  - "Henry Kr\xE4merk\xE4mper"
+  branch: master
   contributors:
   - html_url: https://github.com/chris-topher6
     login: chris-topher6
@@ -678,7 +710,10 @@
       dirs:
       - US3
       pdfs: []
-- branch: master
+- authors:
+  - "Dag-Bj\xF6rn Hering"
+  - Ksenia Klassen
+  branch: master
   contributors:
   - html_url: https://github.com/larsfu
     login: larsfu
@@ -783,7 +818,10 @@
       dirs:
       - US3
       pdfs: []
-- branch: master
+- authors:
+  - "Dag-Bj\xF6rn Hering"
+  - Ksenia Klassen
+  branch: master
   contributors:
   - html_url: https://github.com/dagbjoern
     login: dagbjoern
@@ -810,7 +848,9 @@
       dirs:
       - V64
       pdfs: []
-- branch: master
+- authors:
+  - David Gutnikov
+  branch: master
   contributors:
   - html_url: https://github.com/DaGutn
     login: DaGutn
@@ -829,7 +869,10 @@
       dirs:
       - Documents/Projects/david-praktikum/Geiger-Mueller-Zaehlrohr
       pdfs: []
-- branch: main
+- authors:
+  - David Gutnikov
+  - Lasse Sternemann
+  branch: main
   contributors:
   - html_url: https://github.com/lassestern
     login: lassestern
@@ -863,7 +906,8 @@
       dirs:
       - Vorlage
       pdfs: []
-- branch: master
+- authors: []
+  branch: master
   contributors:
   - html_url: https://github.com/DavidP181
     login: DavidP181
@@ -881,7 +925,10 @@
       - V47
       pdfs:
       - V47/BerichtV47.pdf
-- branch: master
+- authors:
+  - "Daniel Mei\xDFner"
+  - Kevin Moch
+  branch: master
   contributors:
   - html_url: https://github.com/dlmsr
     login: dlmsr
@@ -994,7 +1041,10 @@
       dirs:
       - V703
       pdfs: []
-- branch: main
+- authors:
+  - Matthias Maile
+  - Philip Jaletzky
+  branch: main
   contributors:
   - html_url: https://github.com/dormail
     login: dormail
@@ -1075,7 +1125,8 @@
       dirs:
       - US1
       pdfs: []
-- branch: master
+- authors: []
+  branch: master
   contributors:
   - html_url: https://github.com/elliekayl
     login: elliekayl
@@ -1178,7 +1229,10 @@
       dirs: []
       pdfs:
       - US/US1_Ultraschalltechnik.pdf
-- branch: master
+- authors:
+  - Felix Geyer
+  - Rune Dominik
+  branch: master
   contributors:
   - html_url: https://github.com/FeGeyer
     login: FeGeyer
@@ -1332,7 +1386,10 @@
       - 4_Semester/US3
       pdfs:
       - 4_Semester/PDF-Dateien/US3.pdf
-- branch: master
+- authors:
+  - Fabian Koch
+  - Tom Rosenstein
+  branch: master
   contributors:
   - html_url: https://github.com/TRose27
     login: TRose27
@@ -1389,7 +1446,10 @@
       dirs:
       - US3
       pdfs: []
-- branch: master
+- authors:
+  - Carlo Tasillo
+  - Fabian Schierok
+  branch: master
   contributors:
   - html_url: https://github.com/FSchierok
     login: FSchierok
@@ -1410,7 +1470,10 @@
       dirs:
       - V70_Vakuumphysik
       pdfs: []
-- branch: master
+- authors:
+  - Carl Arne Thomann
+  - Helena Nawrath
+  branch: master
   contributors:
   - html_url: https://github.com/HelenaChiara
     login: HelenaChiara
@@ -1502,7 +1565,10 @@
       dirs:
       - US1 - Grundlagen der US-Technik
       pdfs: []
-- branch: master
+- authors:
+  - Carl Arne Thomann
+  - Jonathan Kriewald
+  branch: master
   contributors:
   - html_url: https://github.com/Broko55
     login: Broko55
@@ -1525,7 +1591,10 @@
       dirs:
       - Molwaerme_von_Kupfer
       pdfs: []
-- branch: master
+- authors:
+  - "Hendrik B\xF6kenkamp"
+  - Nicole Schulte
+  branch: master
   contributors: []
   full_name: henne169/FP
   last_commit: 2018-02-19 14:51:59
@@ -1555,7 +1624,10 @@
       - V64-Interferometrie
       pdfs:
       - V64-Interferometrie/V64.pdf
-- branch: master
+- authors:
+  - Henning Ptaszyk
+  - "Mark Sch\xF6ne"
+  branch: master
   contributors:
   - html_url: https://github.com/markschoene
     login: markschoene
@@ -1584,7 +1656,10 @@
       dirs:
       - v48
       pdfs: []
-- branch: master
+- authors:
+  - "Dag-Bj\xF6rn Hering"
+  - Henning Ptaszyk
+  branch: master
   contributors:
   - html_url: https://github.com/dagbjoern
     login: dagbjoern
@@ -1622,7 +1697,10 @@
       dirs:
       - v65
       pdfs: []
-- branch: master
+- authors:
+  - David Rolf
+  - Jonah Blank
+  branch: master
   contributors:
   - html_url: https://github.com/Imigir
     login: Imigir
@@ -1777,7 +1855,10 @@
       dirs:
       - 17-Praktikum-US2
       pdfs: []
-- branch: master
+- authors:
+  - Jan Lukas Schubert
+  - "Jan Lukas Sp\xE4h"
+  branch: master
   contributors:
   - html_url: https://github.com/jalu98
     login: jalu98
@@ -1878,7 +1959,10 @@
       dirs:
       - US3_doppler-sonographie
       pdfs: []
-- branch: master
+- authors:
+  - Jan Lukas Schubert
+  - "Jan Lukas Sp\xE4h"
+  branch: master
   contributors:
   - html_url: https://github.com/jalu98
     login: jalu98
@@ -1907,7 +1991,10 @@
       dirs:
       - V61_He-Ne-Laser
       pdfs: []
-- branch: master
+- authors:
+  - Jan Lukas Schubert
+  - "Jan Lukas Sp\xE4h"
+  branch: master
   contributors:
   - html_url: https://github.com/JaLuka98
     login: JaLuka98
@@ -1936,7 +2023,10 @@
       dirs:
       - V48_Dipolrelaxation
       pdfs: []
-- branch: main
+- authors:
+  - "Jana Schl\xFCcking"
+  - Sonia Chander
+  branch: main
   contributors:
   - html_url: https://github.com/jana-banana
     login: jana-banana
@@ -2020,7 +2110,10 @@
       dirs:
       - we did that/US1
       pdfs: []
-- branch: master
+- authors:
+  - Anneke Reinold
+  - Carolin Harkort
+  branch: master
   contributors:
   - html_url: https://github.com/JaSchl
     login: JaSchl
@@ -2137,7 +2230,8 @@
       dirs:
       - US3
       pdfs: []
-- branch: master
+- authors: []
+  branch: master
   contributors:
   - html_url: https://github.com/smcchark
     login: smcchark
@@ -2166,7 +2260,10 @@
       dirs:
       - V53
       pdfs: []
-- branch: master
+- authors:
+  - Jean-Marco Alameddine
+  - Johannes Kollek
+  branch: master
   contributors:
   - html_url: https://github.com/Jean1995
     login: Jean1995
@@ -2288,7 +2385,10 @@
       - US2
       pdfs:
       - Protokolle_Fertig/US02.pdf
-- branch: master
+- authors:
+  - Jean-Marco Alameddine
+  - Johannes Kollek
+  branch: master
   contributors:
   - html_url: https://github.com/Jean1995
     login: Jean1995
@@ -2315,7 +2415,10 @@
       dirs:
       - V53
       pdfs: []
-- branch: master
+- authors:
+  - Jasper Karl Lammering
+  - "Timo Gr\xE4\xDFer"
+  branch: master
   contributors:
   - html_url: https://github.com/JLammering
     login: JLammering
@@ -2379,7 +2482,10 @@
       - Helium-Neon-Laser
       pdfs:
       - Helium-Neon-Laser/V61.pdf
-- branch: master
+- authors:
+  - Jasper Karl Lammering
+  - "Timo Gr\xE4\xDFer"
+  branch: master
   contributors:
   - html_url: https://github.com/JLammering
     login: JLammering
@@ -2447,7 +2553,10 @@
       dirs:
       - 18 Doppler-Sonographie
       pdfs: []
-- branch: main
+- authors:
+  - Felix Symma
+  - Joel Koch
+  branch: main
   contributors:
   - html_url: https://github.com/joeyko2706
     login: joeyko2706
@@ -2485,7 +2594,10 @@
       - V355-gekoppelteSchwingungen
       pdfs:
       - Protokolle/v355.pdf
-- branch: master
+- authors:
+  - Jan Herdieckerhoff
+  - Katrin Bolsmann
+  branch: master
   contributors:
   - html_url: https://github.com/katrinbls
     login: katrinbls
@@ -2514,7 +2626,10 @@
       dirs:
       - V60_Diodenlaser
       pdfs: []
-- branch: master
+- authors:
+  - Jan Herdieckerhoff
+  - Karina Overhoff
+  branch: master
   contributors:
   - html_url: https://github.com/karina1007
     login: karina1007
@@ -2539,7 +2654,10 @@
       dirs:
       - V61
       pdfs: []
-- branch: master
+- authors:
+  - "Julian Schr\xF6er"
+  - Pelle Ofenbach
+  branch: master
   contributors:
   - html_url: https://github.com/Plockwurst
     login: Plockwurst
@@ -2575,7 +2693,10 @@
       - V64-Interferometri
       pdfs:
       - Altprotokolle_nYR/v64.pdf
-- branch: master
+- authors:
+  - Karl Schiller
+  - Patrick Schmidt
+  branch: master
   contributors:
   - html_url: https://github.com/KarlSchiller
     login: KarlSchiller
@@ -2604,7 +2725,10 @@
       dirs:
       - V70-Vakuum
       pdfs: []
-- branch: master
+- authors:
+  - Karl Schiller
+  - Patrick Schmidt
+  branch: master
   contributors:
   - html_url: https://github.com/KarlSchiller
     login: KarlSchiller
@@ -2633,7 +2757,10 @@
       dirs:
       - V60-Diodenlaser
       pdfs: []
-- branch: master
+- authors:
+  - Katrin Bolsmann
+  - Miriam Simm
+  branch: master
   contributors:
   - html_url: https://github.com/katrinbls
     login: katrinbls
@@ -2662,7 +2789,10 @@
       dirs:
       - V61
       pdfs: []
-- branch: master
+- authors:
+  - "Katharina Br\xE4gelmann"
+  - "Tobias Jan\xDFen"
+  branch: master
   contributors:
   - html_url: https://github.com/KattiBrae
     login: KattiBrae
@@ -2766,7 +2896,10 @@
       dirs:
       - AP2/US3
       pdfs: []
-- branch: master
+- authors:
+  - Kevin Sedlaczek
+  - Maik Becker
+  branch: master
   contributors:
   - html_url: https://github.com/MaikBecker
     login: MaikBecker
@@ -2815,7 +2948,10 @@
       dirs:
       - V64 Moderne Interferometrie
       pdfs: []
-- branch: master
+- authors:
+  - Konstantin Mrozik
+  - Marcel Kebekus
+  branch: master
   contributors:
   - html_url: https://github.com/marcelkebe
     login: marcelkebe
@@ -2907,7 +3043,9 @@
       - US1_Grundlagen_der_Ultraschalltechnik
       pdfs:
       - US1_Grundlagen_der_Ultraschalltechnik/US1(V901).pdf
-- branch: master
+- authors:
+  - Konstantin Mrozik
+  branch: master
   contributors:
   - html_url: https://github.com/komrozik
     login: komrozik
@@ -2931,7 +3069,10 @@
       - V703_Geiger_Mueller_Zaehlrohr
       pdfs:
       - V703_Geiger_Mueller_Zaehlrohr/main_200509.pdf
-- branch: main
+- authors:
+  - Konstantin Mrozik
+  - Marcel Kebekus
+  branch: main
   contributors:
   - html_url: https://github.com/komrozik
     login: komrozik
@@ -2968,7 +3109,10 @@
       - V61-Der_HeNe-Laser
       pdfs:
       - V61-Der_HeNe-Laser/V61.pdf
-- branch: main
+- authors:
+  - David Gutnikov
+  - Konstantin Mrozik
+  branch: main
   contributors:
   - html_url: https://github.com/komrozik
     login: komrozik
@@ -2985,7 +3129,10 @@
       dirs:
       - V60-Diodenlaser
       pdfs: []
-- branch: master
+- authors:
+  - Lars Funke
+  - Oskar Kleine
+  branch: master
   contributors:
   - html_url: https://github.com/larsfu
     login: larsfu
@@ -3086,7 +3233,10 @@
       dirs:
       - US3
       pdfs: []
-- branch: master
+- authors:
+  - Ann-Sophie Schubert
+  - Lars Funke
+  branch: master
   contributors:
   - html_url: https://github.com/larsfu
     login: larsfu
@@ -3115,7 +3265,10 @@
       dirs:
       - '64'
       pdfs: []
-- branch: main
+- authors:
+  - Lasse Sternemann
+  - Michael Gutnikov
+  branch: main
   contributors:
   - html_url: https://github.com/lassestern
     login: lassestern
@@ -3134,7 +3287,9 @@
       dirs:
       - V61_HeNe
       pdfs: []
-- branch: master
+- authors:
+  - Lasse Sternemann
+  branch: master
   contributors:
   - html_url: https://github.com/lassestern
     login: lassestern
@@ -3153,7 +3308,10 @@
       dirs:
       - Geiger
       pdfs: []
-- branch: master
+- authors:
+  - David Gutnikov
+  - Lasse Sternemann
+  branch: master
   contributors:
   - html_url: https://github.com/lassestern
     login: lassestern
@@ -3188,7 +3346,10 @@
       dirs:
       - US2
       pdfs: []
-- branch: master
+- authors:
+  - Jan Herdieckerhoff
+  - Katrin Bolsmann
+  branch: master
   contributors:
   - html_url: https://github.com/katrinbls
     login: katrinbls
@@ -3217,7 +3378,10 @@
       dirs:
       - V60_Diodenlaser
       pdfs: []
-- branch: master
+- authors:
+  - Jan Herdieckerhoff
+  - Karina Overhoff
+  branch: master
   contributors:
   - html_url: https://github.com/karina1007
     login: karina1007
@@ -3242,7 +3406,10 @@
       dirs:
       - V61
       pdfs: []
-- branch: master
+- authors:
+  - Lukas Rolf
+  - Yannik Brune
+  branch: master
   contributors:
   - html_url: https://github.com/Gamer317
     login: Gamer317
@@ -3269,7 +3436,10 @@
       dirs:
       - 02-Versuch64
       pdfs: []
-- branch: master
+- authors:
+  - Lukas Rolf
+  - Yannik Brune
+  branch: master
   contributors:
   - html_url: https://github.com/Gamer317
     login: Gamer317
@@ -3364,7 +3534,10 @@
       dirs:
       - Praktikum18-US3
       pdfs: []
-- branch: main
+- authors:
+  - Mirjam Prayer
+  - Nikola Mang
+  branch: main
   contributors:
   - html_url: https://github.com/FreddieMercury534
     login: FreddieMercury534
@@ -3453,7 +3626,8 @@
       dirs:
       - US3
       pdfs: []
-- branch: master
+- authors: []
+  branch: master
   contributors:
   - html_url: https://github.com/LuckyJosh
     login: LuckyJosh
@@ -3543,7 +3717,8 @@
       dirs:
       - Geigerzaehler[ ]
       pdfs: []
-- branch: master
+- authors: []
+  branch: master
   contributors:
   - html_url: https://github.com/LuckyJosh
     login: LuckyJosh
@@ -3600,7 +3775,10 @@
       pdfs:
       - 2_Vakuumphysik[X]/Protokoll_Messwerte.pdf
       - 2_Vakuumphysik[X]/V70_150527_Luckey_Wollenberg_Kor1.pdf
-- branch: main
+- authors:
+  - Lukas Bertsch
+  - Steffen Kober
+  branch: main
   contributors:
   - html_url: https://github.com/lukas-bert
     login: lukas-bert
@@ -3633,7 +3811,10 @@
       dirs:
       - v355
       pdfs: []
-- branch: master
+- authors:
+  - Lukas Nickel
+  - Rohat Kavili
+  branch: master
   contributors:
   - html_url: https://github.com/LukasNickel
     login: LukasNickel
@@ -3659,7 +3840,10 @@
       - V354
       pdfs:
       - V354/main.pdf
-- branch: main
+- authors:
+  - Max Koch
+  - Samuel Haefs
+  branch: main
   contributors:
   - html_url: https://github.com/maaxxns
     login: maaxxns
@@ -3688,7 +3872,10 @@
       dirs:
       - V60_Diodenlaser
       pdfs: []
-- branch: master
+- authors:
+  - Jannis Speer
+  - Kevin Talits
+  branch: master
   contributors:
   - html_url: https://github.com/MagischeMiesmuschel
     login: MagischeMiesmuschel
@@ -3787,7 +3974,10 @@
       dirs:
       - US2
       pdfs: []
-- branch: master
+- authors:
+  - Jannis Speer
+  - Kevin Talits
+  branch: master
   contributors:
   - html_url: https://github.com/Blue-EyesChaosMaxDragon
     login: Blue-EyesChaosMaxDragon
@@ -3819,7 +4009,10 @@
       - V61 HeNe Laser
       pdfs:
       - Protokolle/V61.pdf
-- branch: master
+- authors:
+  - Marek Karzel
+  - Sara Krieg
+  branch: master
   contributors:
   - html_url: https://github.com/Mampfzwerg
     login: Mampfzwerg
@@ -3879,7 +4072,10 @@
       - V61
       pdfs:
       - V61/latex-template/V61_Krieg_Karzel.pdf
-- branch: master
+- authors:
+  - Marek Karzel
+  - Sara Krieg
+  branch: master
   contributors:
   - html_url: https://github.com/Mampfzwerg
     login: Mampfzwerg
@@ -4000,7 +4196,10 @@
       - V.US2
       pdfs:
       - V.US2/latex-template/main.pdf
-- branch: master
+- authors:
+  - Konstantin Mrozik
+  - Marcel Kebekus
+  branch: master
   contributors:
   - html_url: https://github.com/marcelkebe
     login: marcelkebe
@@ -4011,7 +4210,9 @@
       dirs:
       - V702-Aktivierung_mit_Neutronen
       pdfs: []
-- branch: master
+- authors:
+  - Marcel Kebekus
+  branch: master
   contributors:
   - html_url: https://github.com/marcelkebe
     login: marcelkebe
@@ -4032,7 +4233,10 @@
       - 703_Geiger_Mueller
       pdfs:
       - 703_Geiger_Mueller/V703_Geiger_Mueller.pdf
-- branch: master
+- authors:
+  - "Kai Br\xFCgge"
+  - "Maximilian N\xF6the"
+  branch: master
   contributors:
   - html_url: https://github.com/maxnoe
     login: maxnoe
@@ -4053,7 +4257,10 @@
       dirs:
       - v52_leitungen
       pdfs: []
-- branch: master
+- authors:
+  - Maximilian Sackel
+  - "Philip Sch\xE4fers"
+  branch: master
   contributors:
   - html_url: https://github.com/phlipo95
     login: phlipo95
@@ -4165,7 +4372,10 @@
       dirs:
       - 19-31.Mai
       pdfs: []
-- branch: master
+- authors:
+  - Maximilian Sackel
+  - "Philip Sch\xE4fers"
+  branch: master
   contributors:
   - html_url: https://github.com/MaxSac
     login: MaxSac
@@ -4194,7 +4404,10 @@
       dirs:
       - 04-10.05.2017
       pdfs: []
-- branch: main
+- authors:
+  - Moritz Bosse
+  - Philipp Zolthoff
+  branch: main
   contributors:
   - html_url: https://github.com/moritzbo
     login: moritzbo
@@ -4277,7 +4490,10 @@
       dirs:
       - US3
       pdfs: []
-- branch: main
+- authors:
+  - Moritz Bosse
+  - Philipp Zolthoff
+  branch: main
   contributors:
   - html_url: https://github.com/moritzbo
     login: moritzbo
@@ -4304,7 +4520,10 @@
       dirs:
       - V53Mikrowellen
       pdfs: []
-- branch: master
+- authors:
+  - Michael Windau
+  - Sophie Bork
+  branch: master
   contributors:
   - html_url: https://github.com/mwindau
     login: mwindau
@@ -4358,7 +4577,10 @@
       - FP_Master/V64_Interferometrie
       pdfs:
       - FP_Master/V64_Interferometrie/build/main.pdf
-- branch: master
+- authors:
+  - Maximilian Sackel
+  - Noah Biederbeck
+  branch: master
   contributors:
   - html_url: https://github.com/nbiederbeck
     login: nbiederbeck
@@ -4385,7 +4607,10 @@
       dirs:
       - 03-20180611-Diodenlaser
       pdfs: []
-- branch: master
+- authors:
+  - David Venker
+  - Nico Guth
+  branch: master
   contributors:
   - html_url: https://github.com/NicoJG
     login: NicoJG
@@ -4526,7 +4751,10 @@
       - US3
       pdfs:
       - US3/Abgabe.pdf
-- branch: master
+- authors:
+  - David Venker
+  - Nico Guth
+  branch: master
   contributors:
   - html_url: https://github.com/Daverku
     login: Daverku
@@ -4561,7 +4789,8 @@
       - V60_Diode_Laser_Spectroscopy
       pdfs:
       - V60_Diode_Laser_Spectroscopy/V60_Abgabe.pdf
-- branch: gh-pages
+- authors: []
+  branch: gh-pages
   contributors:
   - html_url: https://github.com/NicoWeio
     login: NicoWeio
@@ -4660,7 +4889,10 @@
       - V901_Grundlagen_der_Ultraschalltechnik
       pdfs:
       - V901_Grundlagen_der_Ultraschalltechnik/build/main.pdf
-- branch: master
+- authors:
+  - Fabian Koch
+  - "Raphael S\xFCtterlin"
+  branch: master
   contributors:
   - html_url: https://github.com/NilBre
     login: NilBre
@@ -4679,7 +4911,10 @@
       dirs:
       - V353
       pdfs: []
-- branch: master
+- authors:
+  - Janina Nicolini
+  - Vanessa Sulaiman
+  branch: master
   contributors:
   - html_url: https://github.com/vsulaiman
     login: vsulaiman
@@ -4710,7 +4945,10 @@
       dirs:
       - V47 Molwaerme
       pdfs: []
-- branch: master
+- authors:
+  - Julian Hochhaus
+  - Niko Salewski
+  branch: master
   contributors:
   - html_url: https://github.com/Julian-Hochhaus
     login: Julian-Hochhaus
@@ -4831,7 +5069,10 @@
       dirs:
       - US3
       pdfs: []
-- branch: master
+- authors:
+  - Julian Jung
+  - Pascal Gutjahr
+  branch: master
   contributors:
   - html_url: https://github.com/julianjung92
     login: julianjung92
@@ -4924,7 +5165,10 @@
       dirs:
       - DopplerSono
       pdfs: []
-- branch: master
+- authors:
+  - "Paul St\xF6rbrock"
+  - "Tobias R\xFCcker"
+  branch: master
   contributors:
   - html_url: https://github.com/paul-stoerbrock
     login: paul-stoerbrock
@@ -5009,7 +5253,10 @@
       dirs:
       - V903
       pdfs: []
-- branch: master
+- authors:
+  - Maximilian Sackel
+  - "Philip Sch\xE4fers"
+  branch: master
   contributors:
   - html_url: https://github.com/phlipo95
     login: phlipo95
@@ -5100,7 +5347,10 @@
       dirs:
       - US3 - Doppler-Sonographie
       pdfs: []
-- branch: master
+- authors:
+  - Maximilian Sackel
+  - "Philip Sch\xE4fers"
+  branch: master
   contributors:
   - html_url: https://github.com/phlipo95
     login: phlipo95
@@ -5127,7 +5377,10 @@
       dirs:
       - V70 - Vakuumphysik
       pdfs: []
-- branch: master
+- authors:
+  - Fabian Lehmann
+  - Marc Posorske
+  branch: master
   contributors:
   - html_url: https://github.com/mposorske
     login: mposorske
@@ -5180,7 +5433,10 @@
       pdfs:
       - Versuche/703/V703.pdf
       - Versuche/703/protokoll.pdf
-- branch: master
+- authors:
+  - Fabian Lehmann
+  - Oliver Zietek
+  branch: master
   contributors:
   - html_url: https://github.com/olitek
     login: olitek
@@ -5207,7 +5463,10 @@
       pdfs:
       - Versuche/601/V601.pdf
       - Versuche/601/protokoll.pdf
-- branch: master
+- authors:
+  - Evelyn Romanjuk
+  - Ramona-Gabriela Kallo
+  branch: master
   contributors:
   - html_url: https://github.com/rkallo
     login: rkallo
@@ -5356,7 +5615,10 @@
       - US3
       pdfs:
       - US3/main.pdf
-- branch: master
+- authors:
+  - Polina Stecher
+  - Ramona-Gabriela Kallo
+  branch: master
   contributors:
   - html_url: https://github.com/rkallo
     login: rkallo
@@ -5385,7 +5647,10 @@
       dirs:
       - "V47 - Molw\xE4rme von Cu"
       pdfs: []
-- branch: master
+- authors:
+  - Joell D. Jones
+  - Richard Leven
+  branch: master
   contributors:
   - html_url: https://github.com/rleven
     login: rleven
@@ -5424,7 +5689,10 @@
       dirs:
       - "Das Geiger-M\xFCller Z\xE4hlrohr-20200524"
       pdfs: []
-- branch: master
+- authors:
+  - Joell D. Jones
+  - Richard Leven
+  branch: master
   contributors:
   - html_url: https://github.com/rleven
     login: rleven
@@ -5463,7 +5731,10 @@
       dirs:
       - Hook'sches_Gesetz[done]
       pdfs: []
-- branch: master
+- authors:
+  - "Antonia Jo\xEBlle Bock"
+  - Rene-Marcel Lehner
+  branch: master
   contributors:
   - html_url: https://github.com/RnLe
     login: RnLe
@@ -5575,7 +5846,10 @@
       - V903_Dopplersonographie
       pdfs:
       - V903_Dopplersonographie/V903.pdf
-- branch: master
+- authors:
+  - Pelle Ofenbach
+  - Robert Appel
+  branch: master
   contributors:
   - html_url: https://github.com/Plockwurst
     login: Plockwurst
@@ -5696,7 +5970,10 @@
       dirs:
       - US2-Scanverfahren_in_der_ultraaaschalltechnik
       pdfs: []
-- branch: master
+- authors:
+  - Robert Appel
+  - Yvonne Kasper
+  branch: master
   contributors: []
   full_name: Robubabu/YR-Praktikum
   last_commit: 2018-03-01 13:07:39
@@ -5721,7 +5998,10 @@
       dirs:
       - YRPraktikums-Vakuumphysik
       pdfs: []
-- branch: master
+- authors:
+  - Max Koch
+  - Samuel Haefs
+  branch: master
   contributors:
   - html_url: https://github.com/SamGTex
     login: SamGTex
@@ -5813,7 +6093,10 @@
       dirs:
       - US3_doppler_sonographie
       pdfs: []
-- branch: master
+- authors:
+  - Donata Osthues
+  - "Jonas R\xF6nsch"
+  branch: master
   contributors:
   - html_url: https://github.com/DonataOsthues
     login: DonataOsthues
@@ -5861,7 +6144,10 @@
       - MFP/V_61_HeNeLaser
       pdfs:
       - MFP/Fertige_Protokolle/V61_HeliumNeonLaser.pdf
-- branch: master
+- authors:
+  - Lara Nollen
+  - Stefanie Hilgers
+  branch: master
   contributors:
   - html_url: https://github.com/SHilgers
     login: SHilgers
@@ -5988,7 +6274,10 @@
       dirs:
       - US2
       pdfs: []
-- branch: master
+- authors:
+  - Jonah Nitschke
+  - Sebastian Pape
+  branch: master
   contributors:
   - html_url: https://github.com/smjhnits
     login: smjhnits
@@ -6140,7 +6429,10 @@
       - "Anf\xE4ngerpraktikum/Protokolle/US1"
       pdfs:
       - "Anf\xE4ngerpraktikum/Fertige Protokolle/US1.pdf"
-- branch: master
+- authors:
+  - Johannes Lamers
+  - Sebastian Fischer
+  branch: master
   contributors:
   - html_url: https://github.com/smjolame
     login: smjolame
@@ -6167,7 +6459,10 @@
       dirs:
       - He_Ne_Laser
       pdfs: []
-- branch: master
+- authors:
+  - Johannes Lamers
+  - Sebastian Fischer
+  branch: master
   contributors:
   - html_url: https://github.com/smjolame
     login: smjolame
@@ -6255,7 +6550,10 @@
       - Grundlagen_der_Ultraschalltechnik
       pdfs:
       - Grundlagen_der_Ultraschalltechnik/V901.pdf
-- branch: master
+- authors:
+  - Stefan Grisard
+  - Steven Becker
+  branch: master
   contributors:
   - html_url: https://github.com/stefangri
     login: stefangri
@@ -6284,7 +6582,10 @@
       dirs:
       - V64_Interferometrie
       pdfs: []
-- branch: master
+- authors:
+  - Stefan Grisard
+  - Steven Becker
+  branch: master
   contributors:
   - html_url: https://github.com/stefangri
     login: stefangri
@@ -6377,7 +6678,10 @@
       dirs:
       - PHY341/US1
       pdfs: []
-- branch: master
+- authors:
+  - Julia Sobolewski
+  - Lars Kolk
+  branch: master
   contributors:
   - html_url: https://github.com/LarsKolk
     login: LarsKolk
@@ -6507,7 +6811,10 @@
       - US2-Scanverfahren-in-der-Ultraschalltechnik
       pdfs:
       - US2-Scanverfahren-in-der-Ultraschalltechnik/main.pdf
-- branch: main
+- authors:
+  - "Marina Andre\xDF"
+  - Tahir Kamcili
+  branch: main
   contributors:
   - html_url: https://github.com/Tahirbanane
     login: Tahirbanane
@@ -6591,7 +6898,10 @@
       dirs:
       - US3
       pdfs: []
-- branch: master
+- authors:
+  - Simon Schulte
+  - Tim Sedlaczek
+  branch: master
   contributors:
   - html_url: https://github.com/TimBizeps
     login: TimBizeps
@@ -6717,7 +7027,10 @@
       dirs:
       - US3
       pdfs: []
-- branch: master
+- authors:
+  - Gordon Scholz
+  - Tom Rosenstein
+  branch: master
   contributors:
   - html_url: https://github.com/TRose27
     login: TRose27
@@ -6746,14 +7059,17 @@
       dirs:
       - V70
       pdfs: []
-- branch: main
+- authors:
+  - Theodor Zies
+  - Tom Troska
+  branch: main
   contributors:
   - html_url: https://github.com/ttros
     login: ttros
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2021-12-29 12:37:43
+  last_commit: 2021-12-29 15:46:10
   protokolle:
     103:
       dirs:
@@ -6779,7 +7095,10 @@
       dirs:
       - Protokolle/v354
       pdfs: []
-- branch: master
+- authors:
+  - Andrej Kusurmann
+  - Valentin Mischke
+  branch: master
   contributors:
   - html_url: https://github.com/Vale112
     login: Vale112
@@ -6808,7 +7127,10 @@
       dirs:
       - V48
       pdfs: []
-- branch: master
+- authors:
+  - Christopher Krause
+  - Lucas Witthaus
+  branch: master
   contributors:
   - html_url: https://github.com/Christopherkrause1
     login: Christopherkrause1
@@ -6901,7 +7223,10 @@
       dirs:
       - US-3
       pdfs: []
-- branch: main
+- authors:
+  - Till Willershausen
+  - Yanick Sebastian Kind
+  branch: main
   contributors:
   - html_url: https://github.com/YanickKi
     login: YanickKi

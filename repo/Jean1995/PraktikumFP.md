@@ -2,6 +2,13 @@
 
 Letzter Commit: 01.11.2017 20:55:46
 
+## Autoren (Klarnamen)
+- Jean-Marco Alameddine
+- Johannes Kollek
+
+## Autoren (GitHub)
+- [Jean1995](https://github.com/Jean1995)
+
 ## Versuche
 
 |       Versuch        |                            Ordner                            |PDFs|

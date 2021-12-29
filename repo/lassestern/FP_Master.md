@@ -2,6 +2,13 @@
 
 Letzter Commit: 29.12.2021 15:03:57
 
+## Autoren (Klarnamen)
+- Michael Gutnikov
+- Lasse Sternemann
+
+## Autoren (GitHub)
+- [lassestern](https://github.com/lassestern)
+
 ## Versuche
 
 |       Versuch        |                                         Ordner                                         |PDFs|

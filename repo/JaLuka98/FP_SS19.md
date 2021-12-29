@@ -2,7 +2,11 @@
 
 Letzter Commit: 11.07.2019 14:37:59
 
-## Autoren
+## Autoren (Klarnamen)
+- Jan Lukas Schubert
+- Jan Lukas Späh
+
+## Autoren (GitHub)
 - [jalu98](https://github.com/jalu98)
 - [JaLuka98](https://github.com/JaLuka98)
 

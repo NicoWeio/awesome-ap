@@ -2,6 +2,13 @@
 
 Letzter Commit: 05.07.2021 21:32:58
 
+## Autoren (Klarnamen)
+- Niklas Düser
+- Benedikt Sander
+
+## Autoren (GitHub)
+- [BenediktSan](https://github.com/BenediktSan)
+
 ## Versuche
 
 |        Versuch         |                                                                                                           Ordner                                                                                                           |                                                                                                                                                                               PDFs                                                                                                                                                                                |

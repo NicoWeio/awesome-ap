@@ -2,10 +2,14 @@
 
 Letzter Commit: 08.07.2021 14:44:07
 
-## Autoren
-- [Tahirbanane](https://github.com/Tahirbanane)
-- [Marinaan](https://github.com/Marinaan)
+## Autoren (Klarnamen)
+- Marina Andreß
+- Tahir Kamcili
+
+## Autoren (GitHub)
 - [dormail](https://github.com/dormail)
+- [Marinaan](https://github.com/Marinaan)
+- [Tahirbanane](https://github.com/Tahirbanane)
 
 ## Versuche
 

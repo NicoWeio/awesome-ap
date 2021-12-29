@@ -2,6 +2,12 @@
 
 Letzter Commit: 09.03.2020 11:45:37
 
+## Autoren (Klarnamen)
+- Schokoladenporsche
+
+## Autoren (GitHub)
+- [chrbeckm](https://github.com/chrbeckm)
+
 ## Versuche
 
 |       Versuch        |                                                                    Ordner                                                                     |                                                                            PDFs                                                                             |

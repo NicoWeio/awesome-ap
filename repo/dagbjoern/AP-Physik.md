@@ -2,9 +2,13 @@
 
 Letzter Commit: 12.07.2016 09:19:16
 
-## Autoren
-- [larsfu](https://github.com/larsfu)
+## Autoren (Klarnamen)
+- Dag-Björn Hering
+- Ksenia Klassen
+
+## Autoren (GitHub)
 - [dagbjoern](https://github.com/dagbjoern)
+- [larsfu](https://github.com/larsfu)
 
 ## Versuche
 

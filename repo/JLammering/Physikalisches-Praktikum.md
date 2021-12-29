@@ -2,10 +2,14 @@
 
 Letzter Commit: 03.10.2016 20:42:54
 
-## Autoren
+## Autoren (Klarnamen)
+- Timo Gräßer
+- Jasper Karl Lammering
+
+## Autoren (GitHub)
 - [JLammering](https://github.com/JLammering)
-- [TIm097](https://github.com/TIm097)
 - [larsfu](https://github.com/larsfu)
+- [TIm097](https://github.com/TIm097)
 
 ## Versuche
 

@@ -2,7 +2,11 @@
 
 Letzter Commit: 01.03.2020 10:37:00
 
-## Autoren
+## Autoren (Klarnamen)
+- Sophie Bork
+- Michael Windau
+
+## Autoren (GitHub)
 - [mwindau](https://github.com/mwindau)
 - [smsobork](https://github.com/smsobork)
 

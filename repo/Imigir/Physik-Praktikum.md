@@ -2,9 +2,13 @@
 
 Letzter Commit: 19.02.2021 14:12:32
 
-## Autoren
-- [Imigir](https://github.com/Imigir)
+## Autoren (Klarnamen)
+- Jonah Blank
+- David Rolf
+
+## Autoren (GitHub)
 - [ghzut](https://github.com/ghzut)
+- [Imigir](https://github.com/Imigir)
 
 ## Versuche
 

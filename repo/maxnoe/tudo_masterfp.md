@@ -2,9 +2,13 @@
 
 Letzter Commit: 05.07.2016 12:07:25
 
-## Autoren
-- [maxnoe](https://github.com/maxnoe)
+## Autoren (Klarnamen)
+- Kai Brügge
+- Maximilian Nöthe
+
+## Autoren (GitHub)
 - [kbruegge](https://github.com/kbruegge)
+- [maxnoe](https://github.com/maxnoe)
 
 ## Versuche
 

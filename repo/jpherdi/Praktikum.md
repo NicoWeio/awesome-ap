@@ -2,9 +2,13 @@
 
 Letzter Commit: 22.08.2020 14:15:53
 
-## Autoren
-- [karina1007](https://github.com/karina1007)
+## Autoren (Klarnamen)
+- Jan Herdieckerhoff
+- Karina Overhoff
+
+## Autoren (GitHub)
 - [jpherdi](https://github.com/jpherdi)
+- [karina1007](https://github.com/karina1007)
 
 ## Versuche
 

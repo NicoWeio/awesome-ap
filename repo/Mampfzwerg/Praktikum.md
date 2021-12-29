@@ -2,6 +2,13 @@
 
 Letzter Commit: 22.06.2019 00:18:30
 
+## Autoren (Klarnamen)
+- Marek Karzel
+- Sara Krieg
+
+## Autoren (GitHub)
+- [Mampfzwerg](https://github.com/Mampfzwerg)
+
 ## Versuche
 
 |        Versuch         |                                Ordner                                |                                                                    PDFs                                                                     |

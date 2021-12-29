@@ -2,9 +2,13 @@
 
 Letzter Commit: 06.11.2018 13:29:35
 
-## Autoren
-- [Plockwurst](https://github.com/Plockwurst)
+## Autoren (Klarnamen)
+- Pelle Ofenbach
+- Julian Schröer
+
+## Autoren (GitHub)
 - [JulianSch](https://github.com/JulianSch)
+- [Plockwurst](https://github.com/Plockwurst)
 
 ## Versuche
 

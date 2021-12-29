@@ -2,9 +2,9 @@
 
 Letzter Commit: 08.07.2014 19:22:20
 
-## Autoren
-- [LuckyJosh](https://github.com/LuckyJosh)
+## Autoren (GitHub)
 - [absolutePermittivity](https://github.com/absolutePermittivity)
+- [LuckyJosh](https://github.com/LuckyJosh)
 
 ## Versuche
 

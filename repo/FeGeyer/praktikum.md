@@ -2,7 +2,11 @@
 
 Letzter Commit: 06.03.2019 12:03:15
 
-## Autoren
+## Autoren (Klarnamen)
+- Rune Dominik
+- Felix Geyer
+
+## Autoren (GitHub)
 - [FeGeyer](https://github.com/FeGeyer)
 - [RuneDominik](https://github.com/RuneDominik)
 

@@ -2,6 +2,13 @@
 
 Letzter Commit: 06.07.2020 13:31:42
 
+## Autoren (Klarnamen)
+- Jannis Speer
+- Kevin Talits
+
+## Autoren (GitHub)
+- [Blue-EyesChaosMaxDragon](https://github.com/Blue-EyesChaosMaxDragon)
+
 ## Versuche
 
 |       Versuch        |                                                   Ordner                                                   |                                                                 PDFs                                                                 |

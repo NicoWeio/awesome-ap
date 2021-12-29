@@ -2,6 +2,13 @@
 
 Letzter Commit: 06.02.2020 12:21:22
 
+## Autoren (Klarnamen)
+- Joell D. Jones
+- Richard Leven
+
+## Autoren (GitHub)
+- [rleven](https://github.com/rleven)
+
 ## Versuche
 
 |        Versuch         |                                                             Ordner                                                             |                                                                                PDFs                                                                                 |

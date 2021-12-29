@@ -2,6 +2,9 @@
 
 Letzter Commit: 09.11.2019 16:04:46
 
+## Autoren (GitHub)
+- [chrbeckm](https://github.com/chrbeckm)
+
 ## Versuche
 
 |        Versuch         |                                                                           Ordner                                                                            |                                                                               PDFs                                                                                |

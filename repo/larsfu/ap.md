@@ -2,9 +2,13 @@
 
 Letzter Commit: 05.10.2016 11:32:36
 
-## Autoren
-- [larsfu](https://github.com/larsfu)
+## Autoren (Klarnamen)
+- Lars Funke
+- Oskar Kleine
+
+## Autoren (GitHub)
 - [annsophie](https://github.com/annsophie)
+- [larsfu](https://github.com/larsfu)
 
 ## Versuche
 

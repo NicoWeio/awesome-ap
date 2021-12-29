@@ -2,6 +2,10 @@
 
 Letzter Commit: 01.03.2018 13:07:39
 
+## Autoren (Klarnamen)
+- Robert Appel
+- Yvonne Kasper
+
 ## Versuche
 
 |       Versuch        |                                                  Ordner                                                   |                                                                           PDFs                                                                            |

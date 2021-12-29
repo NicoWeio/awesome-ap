@@ -2,6 +2,13 @@
 
 Letzter Commit: 25.11.2019 18:40:27
 
+## Autoren (Klarnamen)
+- Maximilian Sackel
+- Philip Schäfers
+
+## Autoren (GitHub)
+- [phlipo95](https://github.com/phlipo95)
+
 ## Versuche
 
 |       Versuch        |                                                                                                          Ordner                                                                                                           |                                                                           PDFs                                                                            |

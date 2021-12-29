@@ -2,6 +2,12 @@
 
 Letzter Commit: 05.06.2020 13:39:05
 
+## Autoren (Klarnamen)
+- David Gutnikov
+
+## Autoren (GitHub)
+- [DaGutn](https://github.com/DaGutn)
+
 ## Versuche
 
 |        Versuch         |                                                                               Ordner                                                                               |PDFs|

@@ -2,10 +2,14 @@
 
 Letzter Commit: 03.08.2018 13:55:46
 
-## Autoren
-- [vsulaiman](https://github.com/vsulaiman)
-- [Ninilini](https://github.com/Ninilini)
+## Autoren (Klarnamen)
+- Janina Nicolini
+- Vanessa Sulaiman
+
+## Autoren (GitHub)
 - [KevSed](https://github.com/KevSed)
+- [Ninilini](https://github.com/Ninilini)
+- [vsulaiman](https://github.com/vsulaiman)
 
 ## Versuche
 

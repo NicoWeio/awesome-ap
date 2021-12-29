@@ -2,9 +2,13 @@
 
 Letzter Commit: 17.07.2020 15:53:36
 
-## Autoren
-- [paul-stoerbrock](https://github.com/paul-stoerbrock)
+## Autoren (Klarnamen)
+- Tobias Rücker
+- Paul Störbrock
+
+## Autoren (GitHub)
 - [Fafnier8](https://github.com/Fafnier8)
+- [paul-stoerbrock](https://github.com/paul-stoerbrock)
 
 ## Versuche
 

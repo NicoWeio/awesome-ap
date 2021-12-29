@@ -2,7 +2,11 @@
 
 Letzter Commit: 23.07.2018 07:32:48
 
-## Autoren
+## Autoren (Klarnamen)
+- Julian Hochhaus
+- Niko Salewski
+
+## Autoren (GitHub)
 - [Julian-Hochhaus](https://github.com/Julian-Hochhaus)
 - [nsalewski](https://github.com/nsalewski)
 

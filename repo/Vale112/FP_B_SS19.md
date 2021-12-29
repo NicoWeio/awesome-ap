@@ -2,9 +2,13 @@
 
 Letzter Commit: 13.09.2019 09:06:37
 
-## Autoren
-- [Vale112](https://github.com/Vale112)
+## Autoren (Klarnamen)
+- Andrej Kusurmann
+- Valentin Mischke
+
+## Autoren (GitHub)
 - [andksrm](https://github.com/andksrm)
+- [Vale112](https://github.com/Vale112)
 
 ## Versuche
 

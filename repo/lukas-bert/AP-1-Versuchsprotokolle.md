@@ -2,7 +2,11 @@
 
 Letzter Commit: 21.12.2021 14:51:58
 
-## Autoren
+## Autoren (Klarnamen)
+- Lukas Bertsch
+- Steffen Kober
+
+## Autoren (GitHub)
 - [lukas-bert](https://github.com/lukas-bert)
 - [steffenkober](https://github.com/steffenkober)
 

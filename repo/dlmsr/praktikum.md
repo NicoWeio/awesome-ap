@@ -2,7 +2,11 @@
 
 Letzter Commit: 12.03.2020 11:10:24
 
-## Autoren
+## Autoren (Klarnamen)
+- Daniel Meißner
+- Kevin Moch
+
+## Autoren (GitHub)
 - [dlmsr](https://github.com/dlmsr)
 - [kevinmoc](https://github.com/kevinmoc)
 

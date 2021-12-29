@@ -2,6 +2,13 @@
 
 Letzter Commit: 20.08.2018 09:40:55
 
+## Autoren (Klarnamen)
+- Jannis Speer
+- Kevin Talits
+
+## Autoren (GitHub)
+- [MagischeMiesmuschel](https://github.com/MagischeMiesmuschel)
+
 ## Versuche
 
 |        Versuch         |                                        Ordner                                        |                                                                                    PDFs                                                                                     |

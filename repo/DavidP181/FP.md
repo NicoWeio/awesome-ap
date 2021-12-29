@@ -2,7 +2,7 @@
 
 Letzter Commit: 27.01.2018 15:57:49
 
-## Autoren
+## Autoren (GitHub)
 - [DavidP181](https://github.com/DavidP181)
 - [dominik-bw](https://github.com/dominik-bw)
 

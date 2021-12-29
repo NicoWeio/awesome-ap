@@ -2,6 +2,13 @@
 
 Letzter Commit: 01.04.2019 14:28:09
 
+## Autoren (Klarnamen)
+- Noah Biederbeck
+- Maximilian Sackel
+
+## Autoren (GitHub)
+- [nbiederbeck](https://github.com/nbiederbeck)
+
 ## Versuche
 
 |       Versuch        |                                                             Ordner                                                              |PDFs|

@@ -2,6 +2,13 @@
 
 Letzter Commit: 11.03.2021 13:26:37
 
+## Autoren (Klarnamen)
+- Donata Osthues
+- Jonas Rönsch
+
+## Autoren (GitHub)
+- [DonataOsthues](https://github.com/DonataOsthues)
+
 ## Versuche
 
 |       Versuch        |                                                   Ordner                                                   |                                                                                    PDFs                                                                                    |

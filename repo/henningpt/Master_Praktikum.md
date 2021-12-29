@@ -2,7 +2,11 @@
 
 Letzter Commit: 03.05.2019 08:19:47
 
-## Autoren
+## Autoren (Klarnamen)
+- Dag-Björn Hering
+- Henning Ptaszyk
+
+## Autoren (GitHub)
 - [dagbjoern](https://github.com/dagbjoern)
 - [henningpt](https://github.com/henningpt)
 

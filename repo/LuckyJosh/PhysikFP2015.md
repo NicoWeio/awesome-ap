@@ -2,9 +2,9 @@
 
 Letzter Commit: 04.04.2020 14:53:48
 
-## Autoren
-- [LuckyJosh](https://github.com/LuckyJosh)
+## Autoren (GitHub)
 - [Leongrim](https://github.com/Leongrim)
+- [LuckyJosh](https://github.com/LuckyJosh)
 
 ## Versuche
 

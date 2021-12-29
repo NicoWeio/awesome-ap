@@ -2,6 +2,12 @@
 
 Letzter Commit: 26.05.2020 06:37:27
 
+## Autoren (Klarnamen)
+- Lasse Sternemann
+
+## Autoren (GitHub)
+- [lassestern](https://github.com/lassestern)
+
 ## Versuche
 
 |        Versuch         |                                              Ordner                                              |PDFs|

@@ -2,9 +2,13 @@
 
 Letzter Commit: 03.10.2016 08:28:39
 
-## Autoren
-- [phlipo95](https://github.com/phlipo95)
+## Autoren (Klarnamen)
+- Maximilian Sackel
+- Philip Schäfers
+
+## Autoren (GitHub)
 - [MaxSac](https://github.com/MaxSac)
+- [phlipo95](https://github.com/phlipo95)
 
 ## Versuche
 

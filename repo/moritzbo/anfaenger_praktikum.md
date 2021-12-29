@@ -2,10 +2,14 @@
 
 Letzter Commit: 30.06.2021 11:21:40
 
-## Autoren
+## Autoren (Klarnamen)
+- Moritz Bosse
+- Philipp Zolthoff
+
+## Autoren (GitHub)
 - [moritzbo](https://github.com/moritzbo)
-- [Zypha](https://github.com/Zypha)
 - [PhilippZo](https://github.com/PhilippZo)
+- [Zypha](https://github.com/Zypha)
 
 ## Versuche
 

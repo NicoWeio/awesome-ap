@@ -2,6 +2,13 @@
 
 Letzter Commit: 18.09.2015 09:14:52
 
+## Autoren (Klarnamen)
+- Helena Nawrath
+- Carl Arne Thomann
+
+## Autoren (GitHub)
+- [HelenaChiara](https://github.com/HelenaChiara)
+
 ## Versuche
 
 |        Versuch         |                                                                                                                       Ordner                                                                                                                        |                                                                                 PDFs                                                                                 |

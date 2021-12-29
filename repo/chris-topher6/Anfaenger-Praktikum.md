@@ -2,7 +2,11 @@
 
 Letzter Commit: 26.08.2021 08:14:31
 
-## Autoren
+## Autoren (Klarnamen)
+- Christopher Breitfeld
+- Henry Krämerkämper
+
+## Autoren (GitHub)
 - [chris-topher6](https://github.com/chris-topher6)
 - [Hernyoo](https://github.com/Hernyoo)
 - [NicoWeio](https://github.com/NicoWeio)

@@ -2,6 +2,10 @@
 
 Letzter Commit: 19.02.2018 14:51:59
 
+## Autoren (Klarnamen)
+- Hendrik Bökenkamp
+- Nicole Schulte
+
 ## Versuche
 
 |       Versuch        |                                       Ordner                                        |                                                             PDFs                                                             |

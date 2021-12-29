@@ -2,9 +2,13 @@
 
 Letzter Commit: 18.07.2017 13:34:11
 
-## Autoren
-- [markschoene](https://github.com/markschoene)
+## Autoren (Klarnamen)
+- Henning Ptaszyk
+- Mark Schöne
+
+## Autoren (GitHub)
 - [henningpt](https://github.com/henningpt)
+- [markschoene](https://github.com/markschoene)
 
 ## Versuche
 

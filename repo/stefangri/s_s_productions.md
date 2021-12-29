@@ -2,9 +2,13 @@
 
 Letzter Commit: 05.02.2018 06:01:44
 
-## Autoren
-- [stefangri](https://github.com/stefangri)
+## Autoren (Klarnamen)
+- Steven Becker
+- Stefan Grisard
+
+## Autoren (GitHub)
 - [beckstev](https://github.com/beckstev)
+- [stefangri](https://github.com/stefangri)
 
 ## Versuche
 

@@ -2,6 +2,13 @@
 
 Letzter Commit: 20.01.2018 12:57:14
 
+## Autoren (Klarnamen)
+- Robert Appel
+- Pelle Ofenbach
+
+## Autoren (GitHub)
+- [Plockwurst](https://github.com/Plockwurst)
+
 ## Versuche
 
 |        Versuch         |                                                                       Ordner                                                                       |                                                                  PDFs                                                                  |

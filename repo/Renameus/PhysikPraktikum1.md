@@ -2,7 +2,11 @@
 
 Letzter Commit: 20.12.2012 18:07:06
 
-## Autoren
+## Autoren (Klarnamen)
+- Fabian Lehmann
+- Marc Posorske
+
+## Autoren (GitHub)
 - [mposorske](https://github.com/mposorske)
 - [Renameus](https://github.com/Renameus)
 

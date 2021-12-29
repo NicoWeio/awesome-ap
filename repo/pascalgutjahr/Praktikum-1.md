@@ -2,7 +2,11 @@
 
 Letzter Commit: 08.04.2019 18:36:29
 
-## Autoren
+## Autoren (Klarnamen)
+- Pascal Gutjahr
+- Julian Jung
+
+## Autoren (GitHub)
 - [julianjung92](https://github.com/julianjung92)
 - [pascalgutjahr](https://github.com/pascalgutjahr)
 

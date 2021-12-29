@@ -2,7 +2,11 @@
 
 Letzter Commit: 28.08.2020 11:36:06
 
-## Autoren
+## Autoren (Klarnamen)
+- Timo Gräßer
+- Jasper Karl Lammering
+
+## Autoren (GitHub)
 - [JLammering](https://github.com/JLammering)
 - [TIm097](https://github.com/TIm097)
 

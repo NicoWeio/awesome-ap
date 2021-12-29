@@ -2,6 +2,13 @@
 
 Letzter Commit: 30.01.2019 12:22:48
 
+## Autoren (Klarnamen)
+- Jonah Nitschke
+- Sebastian Pape
+
+## Autoren (GitHub)
+- [smjhnits](https://github.com/smjhnits)
+
 ## Versuche
 
 |        Versuch         |                                                                                       Ordner                                                                                       |                                                                                   PDFs                                                                                    |

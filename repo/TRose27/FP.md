@@ -2,9 +2,13 @@
 
 Letzter Commit: 15.04.2019 08:32:51
 
-## Autoren
-- [TRose27](https://github.com/TRose27)
+## Autoren (Klarnamen)
+- Tom Rosenstein
+- Gordon Scholz
+
+## Autoren (GitHub)
 - [GordonScholz](https://github.com/GordonScholz)
+- [TRose27](https://github.com/TRose27)
 
 ## Versuche
 
