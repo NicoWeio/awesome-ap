@@ -61,9 +61,17 @@ def generate_md(repos_to_versuche, versuche_to_repos):
             lastCommit = repo.last_commit.strftime('%d.%m.%Y %H:%M:%S')
             out += f'Letzter Commit: {lastCommit}\n\n'
 
-            if len(repo.contributors) > 1:
-                contributors = "\n".join([f'- [{c.login}]({c.html_url})' for c in repo.contributors])
-                out += '## Autoren\n' + contributors + '\n\n'
+            if repo.authors:
+                authors = "\n".join(
+                    f'- {a}'
+                    for a in sorted(repo.authors, key=lambda a: a.rsplit(' ', 1)[-1].lower()))
+                out += '## Autoren (Klarnamen)\n' + authors + '\n\n'
+
+            if repo.contributors:
+                contributors = "\n".join(
+                    f'- [{c.login}]({c.html_url})'
+                    for c in sorted(repo.contributors, key=lambda c: c.login.lower()))
+                out += '## Autoren (GitHub)\n' + contributors + '\n\n'
 
             out += f'## Versuche\n\n'
             writer.headers = ['Versuch', 'Ordner', 'PDFs']

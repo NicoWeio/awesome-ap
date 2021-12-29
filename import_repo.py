@@ -6,11 +6,11 @@ import subprocess
 import os.path
 from pathlib import Path
 
+from analyze_content import analyze_file, parse_versuch_nummer, find_from_candidates
 from console import *
+from misc import get_command_runner
 from path import CoolPath
 from pdf import Pdf
-from analyze_content import parse_versuch_nummer, find_from_candidates_dict, extract_versuch
-from misc import get_command_runner
 
 load_dotenv()
 REPOS_BASE_PATH = Path(os.getenv('REPOS_BASE_PATH'))
@@ -21,20 +21,38 @@ def is_dir_ignored(dir, dirs_to_versuche):
     return (dirs_to_versuche or {}).get(dir.name, None) is False
 
 
-def get_versuch_nummer_from_content(dir):
-    main_tex_files = set(dir.full_path.glob('*.tex')) | set(dir.full_path.rglob('main.tex'))
-    if len(main_tex_files) > 10:
-        warn(f'Skipping detection of "{dir}" – too many ({len(main_tex_files)}) candidates')
-        return None, []
-    return find_from_candidates_dict(main_tex_files, extract_versuch, lambda file: str(file))
+def analyze_dir(dir):
+    tex_files = set(dir.full_path.glob('*.tex')) | set(dir.full_path.rglob('main.tex'))
+    if len(tex_files) > 10:
+        warn(f'Skipping analysis of files in "{dir}" – too many ({len(tex_files)}) candidates')
+        return {}
+    return analyze_tex_files(tex_files)
 
 
-def get_versuch_nummer_advanced(dir, dirs_to_versuche, parsing_options):
+def analyze_tex_files(tex_files):
+    analysis_list = list(map(analyze_file, tex_files))
+    ATTRS = ['date_durchfuehrung', 'versuch_name', 'versuch_nummer']
+    return {attr: find_from_candidates(analysis_list, lambda a: a.get(attr), return_single=True) for attr in ATTRS}
+
+
+def get_authors_from_content(dir):
+    # TODO: Alle TeX-Dateien zu durchsuchen ist ineffizient, aber gut genug.
+    # Mit der aktuellen Implementierung werden zudem viele Dateien doppelt gelesen, einmal pro dir, einmal hier.
+    # Das ließe sich z.B. mit einem „Merker-Dict“ vermeiden.
+    main_tex_files = set(dir.rglob('*.tex'))
+    result = find_from_candidates(
+        track(main_tex_files, description='Extracting authors…'),
+        lambda file: analyze_file(file).get('authors', None),
+        flatten=True, full_return=True, n=2)
+    if result['excluded']:
+        info(f'Einige Autoren wurden ausgelassen: {result["excluded"]}')
+    return result['most_common'] or set()
+
+
+def get_versuch_nummer_advanced(dir, dirs_to_versuche, parsing_options, dir_result):
     if is_dir_ignored(dir, dirs_to_versuche):
         info(f'"{dir}" is ignored')
         return None
-
-    dir_result, dir_keys = get_versuch_nummer_from_content(dir)
 
     results = [  # absteigend nach Priorität sortiert ↓
         (dirs_to_versuche or {}).get(dir.name),  # explizit angegeben
@@ -49,7 +67,8 @@ def get_versuch_nummer_advanced(dir, dirs_to_versuche, parsing_options):
         chosen_result = valid_results[0]
         if len(valid_results_unique) > 1:
             warn(f'ambiguous results: {valid_results}; using {chosen_result}')
-            warn(f'{dir_result} was found in {dir_keys}')
+            # TODO: wieder implementieren? ↓
+            # warn(f'{dir_result} was found in {dir_keys}')
         return chosen_result
     else:
         debug(f'Cannot resolve (at all): "{dir}"')
@@ -78,6 +97,7 @@ def find_pdfs(base_dir, num):
             if result:
                 return result
 
+
 def import_repo(source, refresh=True):
     console.print()
     console.rule(source.full_name)
@@ -87,7 +107,8 @@ def import_repo(source, refresh=True):
 
     run_command = get_command_runner(cwd_path)
 
-    source.last_commit = datetime.utcfromtimestamp(int(run_command(["git", "log", "-1", "--format=%at"], capture_output=True).stdout))
+    last_commit_timestamp = int(run_command(["git", "log", "-1", "--format=%at"], capture_output=True).stdout)
+    source.last_commit = datetime.utcfromtimestamp(last_commit_timestamp)
 
     # Unsauber: Ursprünglich ist `branch` nur angegeben, wenn es sich nicht um den default branch handelt.
     # Hiermit stellen wir sicher, dass `branch` immer korrekt gesetzt ist, weil wir ihn zwingend benötigen.
@@ -103,7 +124,10 @@ def import_repo(source, refresh=True):
         if dir in explicit_subdirs:
             info(f'skipping explicit subdir "{dir}"')
             continue
-        num = get_versuch_nummer_advanced(dir, source.dirs_to_versuche, source.parsing)
+
+        analysis = analyze_dir(dir)
+
+        num = get_versuch_nummer_advanced(dir, source.dirs_to_versuche, source.parsing, analysis.get('versuch_nummer'))
         if not num:
             continue
         elif num in versuche:
@@ -140,18 +164,20 @@ def import_repo(source, refresh=True):
                     else:
                         versuche.setdefault(num, {})['pdfs'] = pdfs
 
+    source.authors = get_authors_from_content(cwd_path)
 
     source.versuche = versuche
     source.num_dirs = sum(1 for v in versuche.values() if 'dirs' in v)
     source.num_pdfs = sum(1 for v in versuche.values() if 'pdfs' in v)
     source.num_pdfs_total = sum(len(v['pdfs']) for v in versuche.values() if 'pdfs' in v)
 
-    info('Erkannte Versuche:', sorted(list(versuche.keys())))
+    info('Erkannte Versuche:', sorted(versuche.keys()))
+    info('Erkannte Autoren:', source.authors)
     info(
         f'{len(source.versuche)} Versuche erkannt;',
         f'{source.num_dirs} Ordner,',
         f'{source.num_pdfs} Versuche mit PDFs,',
         f'{source.num_pdfs_total} PDFs insgesamt',
-        )
+    )
 
     return source

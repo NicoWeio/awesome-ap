@@ -1,6 +1,7 @@
-import re
+from collections import Counter
 from console import *
 import parse_tex
+import re
 
 
 def parse_versuch_nummer(dirname, dirs_to_versuche=None):
@@ -21,43 +22,49 @@ def parse_versuch_nummer(dirname, dirs_to_versuche=None):
         if set(matches) == set([501, 502]):  # Doppelversuch
             return 501
         if len(matches) > 1:
-            warn(f'multiple matches: {matches}, using the last one')
+            warn(f'multiple matches in "{dirname}": {matches}, using the last one')
         return matches[-1]
 
 
-def find_from_candidates(candidates, analyzer):
+def find_from_candidates(candidates, analyzer, flatten=False, full_return=False, n=1, return_single=False):
     # Analyse für jeden Kandidaten laufen lassen
     results = list(map(analyzer, candidates))
+    if flatten:
+        results = [item for sublist in results if sublist for item in sublist]
     # `None`-Werte entfernen
     results = [r for r in results if r is not None]
-    # abbrechen, falls keine gültigen Werte verbleiben
-    if not results:
-        return None
-    # den häufigsten Wert zurückgeben
-    most_common = max(set(results), key=results.count)
-    return most_common
+    # Häufigkeiten der einzelnen Resultate bestimmen
+    counter = Counter(results)
+    # die `n` häufigsten Werte:
+    most_common = set(item for item, count in counter.most_common(n))
+
+    if full_return:
+        return {
+            'all': results,
+            'counter': counter,
+            'excluded': set(results) - most_common,
+            'most_common': most_common,
+        }
+    else:
+        if return_single:
+            assert n == 1
+            # den/einen häufigsten Wert zurückgeben, sofern überhaupt einer existiert
+            return next(iter(most_common), None)
+        else:
+            return most_common
 
 
-def find_from_candidates_dict(candidates, analyzer, namer):
-    # Analyse für jeden Kandidaten laufen lassen
-    results = {namer(candidate): analyzer(candidate) for candidate in candidates}
-    # `None`-Werte entfernen
-    results = {k: v for k, v in results.items() if v is not None}
-    result_values = list(results.values())
-    # abbrechen, falls keine gültigen Werte verbleiben
-    if not any(result_values):
-        return None, []
-    # den häufigsten Wert zurückgeben
-    most_common = max(set(result_values), key=result_values.count)
-    keys = [k for k, v in results.items() if v == most_common]
-    return most_common, keys
-
-
-def extract_versuch(file):
+def analyze_file(file):
     try:
         with open(file, 'r') as f:
             content = f.read()
         data = parse_tex.parse(content)
-        return parse_versuch_nummer(data.get('subject')) or parse_versuch_nummer(data.get('title'))
+
+        return {
+            'authors': data.get('author'),  # sic: Das Node heißt author, nicht authors.
+            # 'date_durchfuehrung': data.get('date'),  # TODO: Noch fehlt ein richtiger Parser dafür.
+            # 'versuch_name': …, # TODO: siehe anderen Branch
+            'versuch_nummer': parse_versuch_nummer(data.get('subject')) or parse_versuch_nummer(data.get('title')),
+        }
     except UnicodeDecodeError:
-        pass
+        return {}

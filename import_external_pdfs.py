@@ -9,6 +9,8 @@ from repo import Repo
 
 
 class AapPdf:  # TODO: erben?
+    """repräsentiert ein PDF aus dem „awesome-ap-pdfs“-Projekt"""
+
     def __init__(self, path):
         assert isinstance(path, CoolPath)
         self.download_url = f'https://raw.githubusercontent.com/NicoWeio/awesome-ap-pdfs/main/{quote(str(path))}'
@@ -29,13 +31,17 @@ def add_aap_pdfs(repos, gh):
 
     for repo in repos:
         repo_dir = aap_repo.cwd_path / repo.full_name.replace('/', '∕')
+        # überspringen, falls aweseome-ap-pdfs zu diesem Repo keine PDFs bereitstellt
         if not repo_dir.exists():
             continue
-        versuche_dirs = [f for f in repo_dir.iterdir() if f.is_dir()]
 
+        versuche_dirs = [f for f in repo_dir.iterdir() if f.is_dir()]
         for versuch_dir in versuche_dirs:
-            versuch = int(versuch_dir.stem)  # TODO unsafe
+            versuch = int(versuch_dir.stem)  # TODO: unsichere Annahme über die Ordnerstruktur von awesome-ap-pdfs
             filelist = [CoolPath(f, cwd=aap_repo.cwd_path) for f in versuch_dir.iterdir() if f.name.endswith('.pdf')]
-            repo.versuche[versuch].setdefault('pdfs', []).extend(map(AapPdf, filelist))
+            if versuch in repo.versuche:
+                repo.versuche[versuch].setdefault('pdfs', []).extend(map(AapPdf, filelist))
+            else:
+                warn(f'Versuch {versuch} existiert nicht in {repo.full_name}, aber in awesome-ap-pdfs.')
 
     return repos

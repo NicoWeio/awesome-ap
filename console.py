@@ -1,5 +1,6 @@
 import os
 from rich.console import Console
+from rich.progress import track as _track
 
 
 def should_force_terminal():
@@ -19,3 +20,9 @@ debug = makeLogFn('bright_black')
 info = makeLogFn('green')
 warn = makeLogFn('yellow')
 error = makeLogFn('red bold')
+
+
+def track(iterable, **kwargs):
+    kwargs.setdefault('transient', True)
+    kwargs.setdefault('console', console)
+    return _track(iterable, **kwargs)

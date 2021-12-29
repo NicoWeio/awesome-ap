@@ -12,6 +12,7 @@ from export import generate_yaml
 from import_external_pdfs import add_aap_pdfs
 
 load_dotenv()
+DEV = os.getenv('DEV', 'False').lower() == 'true'
 
 # funktioniert auch ohne Token
 TOKEN = os.getenv('GITHUB_TOKEN') or os.getenv('INPUT_GITHUB_TOKEN')
@@ -41,7 +42,7 @@ repos_to_versuche = add_aap_pdfs(repos_to_versuche, gh)
 versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
 
 ### Generieren der statischen Website-Inhalte:
-if not os.getenv('DEV'):  # damit nicht bei jedem Testdurchlauf >100 Dateien geschrieben werden
+if not DEV:  # damit nicht bei jedem Testdurchlauf >100 Dateien geschrieben werden
     generate_md(repos_to_versuche, versuche_to_repos)
 
 ### Generieren einer (in erster Linie) maschinenlesbaren Datenbank:
