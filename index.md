@@ -6,84 +6,84 @@
 
 ## Versuche
 
-|Versuch|                        |# Repos|
-|------:|------------------------|------:|
-|      1|[Übersicht](versuch/1)  |     17|
-|     14|[Übersicht](versuch/14) |     22|
-|     15|[Übersicht](versuch/15) |      2|
-|     16|[Übersicht](versuch/16) |     11|
-|     18|[Übersicht](versuch/18) |     14|
-|     21|[Übersicht](versuch/21) |     28|
-|     23|[Übersicht](versuch/23) |     10|
-|     25|[Übersicht](versuch/25) |      3|
-|     27|[Übersicht](versuch/27) |     30|
-|     28|[Übersicht](versuch/28) |      9|
-|     41|[Übersicht](versuch/41) |      6|
-|     44|[Übersicht](versuch/44) |      7|
-|     46|[Übersicht](versuch/46) |     32|
-|     47|[Übersicht](versuch/47) |     22|
-|     48|[Übersicht](versuch/48) |     20|
-|     49|[Übersicht](versuch/49) |     11|
-|     51|[Übersicht](versuch/51) |      7|
-|     52|[Übersicht](versuch/52) |      3|
-|     53|[Übersicht](versuch/53) |     14|
-|     57|[Übersicht](versuch/57) |      2|
-|     59|[Übersicht](versuch/59) |      4|
-|     60|[Übersicht](versuch/60) |     12|
-|     61|[Übersicht](versuch/61) |     29|
-|     64|[Übersicht](versuch/64) |     16|
-|     65|[Übersicht](versuch/65) |      1|
-|     70|[Übersicht](versuch/70) |      9|
-|    101|[Übersicht](versuch/101)|     28|
-|    102|[Übersicht](versuch/102)|     14|
-|    103|[Übersicht](versuch/103)|     35|
-|    104|[Übersicht](versuch/104)|      9|
-|    105|[Übersicht](versuch/105)|      8|
-|    106|[Übersicht](versuch/106)|     19|
-|    107|[Übersicht](versuch/107)|     10|
-|    201|[Übersicht](versuch/201)|     26|
-|    203|[Übersicht](versuch/203)|     20|
-|    204|[Übersicht](versuch/204)|     33|
-|    206|[Übersicht](versuch/206)|     40|
-|    207|[Übersicht](versuch/207)|     13|
-|    300|[Übersicht](versuch/300)|      1|
-|    301|[Übersicht](versuch/301)|     24|
-|    302|[Übersicht](versuch/302)|     32|
-|    303|[Übersicht](versuch/303)|     31|
-|    305|[Übersicht](versuch/305)|      1|
-|    308|[Übersicht](versuch/308)|     13|
-|    311|[Übersicht](versuch/311)|     13|
-|    351|[Übersicht](versuch/351)|     22|
-|    353|[Übersicht](versuch/353)|     38|
-|    354|[Übersicht](versuch/354)|     40|
-|    355|[Übersicht](versuch/355)|     18|
-|    356|[Übersicht](versuch/356)|      7|
-|    400|[Übersicht](versuch/400)|      9|
-|    401|[Übersicht](versuch/401)|     24|
-|    402|[Übersicht](versuch/402)|     16|
-|    406|[Übersicht](versuch/406)|     36|
-|    408|[Übersicht](versuch/408)|     28|
-|    500|[Übersicht](versuch/500)|     31|
-|    501|[Übersicht](versuch/501)|     24|
-|    502|[Übersicht](versuch/502)|      1|
-|    503|[Übersicht](versuch/503)|      9|
-|    504|[Übersicht](versuch/504)|     25|
-|    601|[Übersicht](versuch/601)|     33|
-|    602|[Übersicht](versuch/602)|     41|
-|    603|[Übersicht](versuch/603)|     18|
-|    605|[Übersicht](versuch/605)|      6|
-|    606|[Übersicht](versuch/606)|     26|
-|    701|[Übersicht](versuch/701)|     17|
-|    702|[Übersicht](versuch/702)|     37|
-|    703|[Übersicht](versuch/703)|     45|
-|    704|[Übersicht](versuch/704)|     16|
-|    800|[Übersicht](versuch/800)|      2|
-|    801|[Übersicht](versuch/801)|      2|
-|    802|[Übersicht](versuch/802)|      5|
-|    803|[Übersicht](versuch/803)|      7|
-|    901|[Übersicht](versuch/901)|     25|
-|    902|[Übersicht](versuch/902)|     20|
-|    903|[Übersicht](versuch/903)|     25|
+|Nr.|                                Name                                 |                        |# Repos|
+|--:|---------------------------------------------------------------------|------------------------|------:|
+|  1|Lebensdauer der Myonen                                               |[Übersicht](versuch/1)  |     17|
+| 14|Tomographie mit Gamma-Strahlung                                      |[Übersicht](versuch/14) |     22|
+| 15|Vermessung und Untersuchung von Silizium-Streifensensoren            |[Übersicht](versuch/15) |      2|
+| 16|Rutherford-Streuung                                                  |[Übersicht](versuch/16) |     11|
+| 18|Der Reinst-Germanium-Detektor als Instrument der Gamma-Spektroskopie |[Übersicht](versuch/18) |     14|
+| 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     28|
+| 23|Quanten-Analogien                                                    |[Übersicht](versuch/23) |     10|
+| 25|Der Stern-Gerlach-Versuch                                            |[Übersicht](versuch/25) |      3|
+| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     30|
+| 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      9|
+| 41|Debye-Scherrer-Aufnahmen                                             |[Übersicht](versuch/41) |      6|
+| 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |      7|
+| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     32|
+| 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     22|
+| 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     20|
+| 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     11|
+| 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |      7|
+| 52|Signale auf Leitungen                                                |[Übersicht](versuch/52) |      3|
+| 53|Mikrowellen auf Hohlleitern                                          |[Übersicht](versuch/53) |     14|
+| 57|Elektrische Schwankungserscheinungen                                 |[Übersicht](versuch/57) |      2|
+| 59|Modulation und Demodulation elektrischer Schwingungen                |[Übersicht](versuch/59) |      4|
+| 60|Diodenlaser                                                          |[Übersicht](versuch/60) |     12|
+| 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     29|
+| 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     16|
+| 65|Röntgenreflektrometrie                                               |[Übersicht](versuch/65) |      1|
+| 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |      9|
+|101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     28|
+|102|Drehschwingungen                                                     |[Übersicht](versuch/102)|     14|
+|103|Biegung elastischer Stäbe                                            |[Übersicht](versuch/103)|     35|
+|104|Der Doppler-Effekt                                                   |[Übersicht](versuch/104)|      9|
+|105|Das magnetische Moment                                               |[Übersicht](versuch/105)|      8|
+|106|Gekoppelte Pendel                                                    |[Übersicht](versuch/106)|     19|
+|107|Das Kugelfall-Viskosimeter nach Höppler                              |[Übersicht](versuch/107)|     10|
+|201|Das Dulong-Petit-Gesetz                                              |[Übersicht](versuch/201)|     26|
+|203|Verdampfungswärme und Dampfdruckkurve                                |[Übersicht](versuch/203)|     20|
+|204|Wärmeleitung von Metallen                                            |[Übersicht](versuch/204)|     33|
+|206|Die Wärmepumpe                                                       |[Übersicht](versuch/206)|     40|
+|207|–                                                                    |[Übersicht](versuch/207)|     13|
+|300|–                                                                    |[Übersicht](versuch/300)|      1|
+|301|Leerlaufspannung und Innenwiderstand von Spannungsquellen            |[Übersicht](versuch/301)|     24|
+|302|Elektrische Brückenschaltungen                                       |[Übersicht](versuch/302)|     32|
+|303|Der Lock-In-Verstärker                                               |[Übersicht](versuch/303)|     31|
+|305|–                                                                    |[Übersicht](versuch/305)|      1|
+|308|Spulen und Magnetfelder                                              |[Übersicht](versuch/308)|     13|
+|311|Der Hall-Effekt                                                      |[Übersicht](versuch/311)|     13|
+|351|Fourier-Analyse und -Synthese                                        |[Übersicht](versuch/351)|     22|
+|353|Relaxationsverhalten eines RC-Kreises                                |[Übersicht](versuch/353)|     38|
+|354|Gedämpfte und erzwungene Schwingungen                                |[Übersicht](versuch/354)|     40|
+|355|Gekoppelte Schwingkreise                                             |[Übersicht](versuch/355)|     18|
+|356|Kettenschaltungen mit LC-Gliedern                                    |[Übersicht](versuch/356)|      7|
+|400|Reflexion, Brechung und Beugung                                      |[Übersicht](versuch/400)|      9|
+|401|Das Michelson-Interferometer                                         |[Übersicht](versuch/401)|     24|
+|402|Dispersionsmessungen am Glasprisma                                   |[Übersicht](versuch/402)|     16|
+|406|Beugung am Spalt                                                     |[Übersicht](versuch/406)|     36|
+|408|Geometrische Optik                                                   |[Übersicht](versuch/408)|     28|
+|500|Der Photoeffekt                                                      |[Übersicht](versuch/500)|     31|
+|501|Elektronen im elektrischen und magnetischen Feld                     |[Übersicht](versuch/501)|     24|
+|502|Elektronen im transversalen Magnetfeld                               |[Übersicht](versuch/502)|      1|
+|503|Der Millikan-Versuch                                                 |[Übersicht](versuch/503)|      9|
+|504|Thermische Elektronenemission                                        |[Übersicht](versuch/504)|     25|
+|601|Der Franck-Hertz-Versuch                                             |[Übersicht](versuch/601)|     33|
+|602|Röntgenemission und -absorption                                      |[Übersicht](versuch/602)|     41|
+|603|Der Compton-Effekt                                                   |[Übersicht](versuch/603)|     18|
+|605|Alkali-Spektren                                                      |[Übersicht](versuch/605)|      6|
+|606|Messung der Suszeptibilität paramagnetischer Substanzen              |[Übersicht](versuch/606)|     26|
+|701|Reichweite von Alpha-Strahlung                                       |[Übersicht](versuch/701)|     17|
+|702|Aktivierung mit Neutronen                                            |[Übersicht](versuch/702)|     37|
+|703|Das Geiger-Müller-Zählrohr                                           |[Übersicht](versuch/703)|     45|
+|704|Absorption von Gamma- und Beta-Strahlung                             |[Übersicht](versuch/704)|     16|
+|800|Das Oszilloskop                                                      |[Übersicht](versuch/800)|      2|
+|801|–                                                                    |[Übersicht](versuch/801)|      2|
+|802|Fouriersynthese                                                      |[Übersicht](versuch/802)|      5|
+|803|Das Hookesche Gesetz                                                 |[Übersicht](versuch/803)|      7|
+|901|Grundlagen der Ultraschalltechnik                                    |[Übersicht](versuch/901)|     25|
+|902|Scanverfahren in der Ultraschalltechnik                              |[Übersicht](versuch/902)|     20|
+|903|Doppler-Sonographie                                                  |[Übersicht](versuch/903)|     25|
 
 
 ## Repos
