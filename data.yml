@@ -66,13 +66,17 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2021-12-19 21:26:33
+  last_commit: 2021-12-28 14:16:55
   protokolle:
     101:
       dirs:
       - 101-Traegheitsmoment
       pdfs:
       - "Versuche/101 - Das Tr\xE4gheitsmoment.pdf"
+    103:
+      dirs:
+      - 103-Biegung_elastischer_Staebe
+      pdfs: []
     107:
       dirs:
       - V107-Kugelfallviskosimeter
@@ -6746,7 +6750,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2021-12-27 18:40:31
+  last_commit: 2021-12-28 19:32:16
   protokolle:
     103:
       dirs:
