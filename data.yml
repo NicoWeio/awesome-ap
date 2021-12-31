@@ -75,7 +75,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2021-12-29 19:55:38
+  last_commit: 2021-12-31 04:38:35
   protokolle:
     101:
       dirs:
@@ -2112,7 +2112,7 @@
       pdfs: []
 - authors:
   - Carolin Harkort
-  - Vanessa Sulaiman
+  - Jacqueline Schlingmann
   branch: master
   contributors:
   - html_url: https://github.com/JaSchl
@@ -3130,8 +3130,8 @@
       - V60-Diodenlaser
       pdfs: []
 - authors:
+  - Ann-Sophie Schubert
   - Lars Funke
-  - Oskar Kleine
   branch: master
   contributors:
   - html_url: https://github.com/larsfu
