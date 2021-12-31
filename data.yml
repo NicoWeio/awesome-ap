@@ -2111,8 +2111,8 @@
       - we did that/US1
       pdfs: []
 - authors:
-  - Anneke Reinold
   - Carolin Harkort
+  - Vanessa Sulaiman
   branch: master
   contributors:
   - html_url: https://github.com/JaSchl
@@ -2563,7 +2563,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2021-12-22 11:46:51
+  last_commit: 2021-12-30 14:01:06
   protokolle:
     101:
       dirs:
@@ -3130,8 +3130,8 @@
       - V60-Diodenlaser
       pdfs: []
 - authors:
-  - Ann-Sophie Schubert
   - Lars Funke
+  - Oskar Kleine
   branch: master
   contributors:
   - html_url: https://github.com/larsfu
@@ -7069,7 +7069,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2021-12-29 16:38:30
+  last_commit: 2021-12-30 16:56:01
   protokolle:
     103:
       dirs:
