@@ -1,19 +1,16 @@
 import click
 import github
-from dotenv import load_dotenv
 import os
 import yaml
 
+from config import GITHUB_TOKEN
 from console import *
 from import_repo import import_repo
 from repo import Repo
 from export import serialize_repo
 
-load_dotenv()
-
 # funktioniert auch ohne Token
-TOKEN = os.getenv('GITHUB_TOKEN') or os.getenv('INPUT_GITHUB_TOKEN')
-gh = github.Github(TOKEN)
+gh = github.Github(GITHUB_TOKEN)
 
 with open("sources.yaml", 'r') as stream:
     repos = yaml.safe_load(stream)

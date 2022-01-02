@@ -1,9 +1,10 @@
 import github
-from dotenv import load_dotenv
 import os
 import yaml
 
+from config import DEV, GITHUB_TOKEN, REPOS_BASE_PATH
 from console import *
+from find_common_files import find_common_files
 from generate import generate_md
 from import_repo import import_repo
 import transpose
@@ -11,15 +12,16 @@ from repo import Repo
 from export import generate_yaml
 from import_external_pdfs import add_aap_pdfs
 
-load_dotenv()
-DEV = os.getenv('DEV', 'False').lower() == 'true'
-
 # funktioniert auch ohne Token
-TOKEN = os.getenv('GITHUB_TOKEN') or os.getenv('INPUT_GITHUB_TOKEN')
-gh = github.Github(TOKEN)
+gh = github.Github(GITHUB_TOKEN)
+
+with open("config.yaml", 'r') as stream:
+    config = yaml.safe_load(stream)
 
 with open("sources.yaml", 'r') as stream:
     repos = yaml.safe_load(stream)
+
+REPOS_BASE_PATH.mkdir(exist_ok=True)
 
 # ■ Laden der Daten:
 repos_to_versuche = []
@@ -39,7 +41,14 @@ for repo in repos:
 # ■ Einbinden der „awesome-ap-pdfs“:
 repos_to_versuche = add_aap_pdfs(repos_to_versuche, gh)
 
+console.rule('*** Analyse & Export ***')
+
+# transponiere [{repo: {versuche: [versuch]}}] zu {versuch: [repo]}
 versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
+
+# ■ Finden gemeinsamer Dateien:
+versuche_to_common_files = find_common_files(versuche_to_repos, config.get('common_files', {}))
+info("gemeinsame Dateien:", versuche_to_common_files)
 
 # ■ Einbinden der manuell kuratierten Informationen zu den Versuchen:
 with open("versuche.yaml", 'r') as stream:
@@ -47,7 +56,7 @@ with open("versuche.yaml", 'r') as stream:
 
 # ■ Generieren der statischen Website-Inhalte:
 if not DEV:  # damit nicht bei jedem Testdurchlauf >100 Dateien geschrieben werden
-    generate_md(repos_to_versuche, versuche_to_repos, versuche)
+    generate_md(repos_to_versuche, versuche_to_repos, versuche, versuche_to_common_files)
 
 # ■ Generieren einer (in erster Linie) maschinenlesbaren Datenbank:
 generate_yaml(repos_to_versuche)

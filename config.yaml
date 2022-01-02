@@ -1,0 +1,32 @@
+common_files:
+  ignore:
+    filename:
+      - ".DS_Store"
+      - "header-matplotlib.tex"
+      # - "Makefile"
+      - "matplotlibrc"
+      - "programme.bib"
+    suffix:
+      - ".aux"
+      - ".bbl"
+      - ".bcf"
+      - ".bib"
+      - ".run.xml"
+      - ".toc"
+    md5sum:
+      # https://github.com/pep-dortmund/toolbox-workshop/blob/ca92092f90ad86380e08f0869bde56b30bdc4b6c/latex-template/vXXX/Makefile
+      - "cca70e5ed64559c251857c7862d1d5ee"
+      # https://github.com/pep-dortmund/toolbox-workshop/blob/b7b5cc7ffc975ec94427b7cd317e6ebdd799fbf3/latex-template/Makefile
+      - "ab914bcc7e62670e987b7ec63a23730e"
+      # https://github.com/pep-dortmund/toolbox-workshop/blob/ca92092f90ad86380e08f0869bde56b30bdc4b6c/latex-template/vXXX/plot.py
+      - "fcea1fc25584edffa6f06338a306f668"
+      # Logo der TU Dortmund
+      - "f85157ea04365ea74341eeb19b71829f"
+      # Makefile
+      - "02ee3875847a7b4447e56466e6b0ca76"
+      # Makefile
+      - "e2bf58b0c35539808a6382de5d9561e0"
+      # (leere) Auswertung
+      - "b6a510642f0de975c166f3c0376de240"
+      # (leere) Diskussion
+      - "402cc6c9751419c0f1a455b2d4ed1f51"

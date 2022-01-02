@@ -1,33 +1,18 @@
-from urllib.parse import quote
-from dotenv import load_dotenv
 import os
+from pathlib import Path
 import subprocess
+from urllib.parse import quote
 
 from console import *
-from path import CoolPath
+from file import File
 from repo import Repo
-
-
-class AapPdf:  # TODO: erben?
-    """repräsentiert ein PDF aus dem „awesome-ap-pdfs“-Projekt"""
-
-    def __init__(self, path):
-        assert isinstance(path, CoolPath)
-        self.download_url = f'https://raw.githubusercontent.com/NicoWeio/awesome-ap-pdfs/main/{quote(str(path))}'
-        self.name = path.name
-        self.is_user_generated = False
-
-    def __str__(self):
-        return self.name
-
-    def __repr__(self):
-        return self.name
 
 
 def add_aap_pdfs(repos, gh):
     console.rule('*** NicoWeio/awesome-ap-pdfs ***')
     aap_repo = Repo({'name': 'NicoWeio/awesome-ap-pdfs'}, gh)
     aap_repo.update_repo_mirror()
+    aap_repo.branch = 'main'  # TODO unsauber; siehe auch import_repo.py
 
     for repo in repos:
         repo_dir = aap_repo.cwd_path / repo.full_name.replace('/', '∕')
@@ -38,9 +23,10 @@ def add_aap_pdfs(repos, gh):
         versuche_dirs = [f for f in repo_dir.iterdir() if f.is_dir()]
         for versuch_dir in versuche_dirs:
             versuch = int(versuch_dir.stem)  # TODO: unsichere Annahme über die Ordnerstruktur von awesome-ap-pdfs
-            filelist = [CoolPath(f, cwd=aap_repo.cwd_path) for f in versuch_dir.iterdir() if f.name.endswith('.pdf')]
+            paths = [Path(f) for f in versuch_dir.iterdir() if f.suffix == '.pdf']
+            files = [File(path, aap_repo, is_user_generated=False) for path in paths]
             if versuch in repo.versuche:
-                repo.versuche[versuch].setdefault('pdfs', []).extend(map(AapPdf, filelist))
+                repo.versuche[versuch].setdefault('pdfs', []).extend(files)
             else:
                 warn(f'Versuch {versuch} existiert nicht in {repo.full_name}, aber in awesome-ap-pdfs.')
 

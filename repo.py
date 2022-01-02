@@ -1,13 +1,9 @@
 import github
+from config import REPOS_BASE_PATH
 from console import *
-from dotenv import load_dotenv
 from misc import get_command_runner
 from pathlib import Path
 from subprocess import CalledProcessError
-
-load_dotenv()
-REPOS_BASE_PATH = Path(os.getenv('REPOS_BASE_PATH'))
-REPOS_BASE_PATH.mkdir(exist_ok=True)
 
 
 class Repo:
@@ -43,8 +39,8 @@ class Repo:
         # self.contributors = []
         # self.html_url = "https://google.com/"
 
-    def __str__(self):
-        return self.full_name
+    def __repr__(self):
+        return f'<Repo "{self.full_name}">'
 
     def update_repo_mirror(self, refresh=True):
         cwd_path = REPOS_BASE_PATH / self.full_name.replace('/', '∕')

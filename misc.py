@@ -1,16 +1,32 @@
+from console import console
+import hashlib
 import subprocess
-
-from console import *
 
 
 def get_command_runner(default_cwd):
-    def run_command(command, **kwargs):
+    def run_command(command, silent=False, **kwargs):
+        print = console.print if not silent else lambda *args, **kwargs: None
         kwargs.setdefault('cwd', default_cwd)
         if kwargs.get('shell'):
-            console.print(f'$ {command}', style='blue')
+            print(f'$ {command}', style='blue')
         else:
-            console.print(f'$ {" ".join(map(str, command))}', style='blue')
+            print(f'$ {" ".join(map(str, command))}', style='blue')
         if kwargs.get('capture_output'):
-            console.print('→ output not shown', style='blue')
+            print('→ output not shown', style='blue')
         return subprocess.run(command, **kwargs)  # raises subprocess.CalledProcessError ✓
     return run_command
+
+
+def most(iterable):
+    """Abwandlung von `all()`, bei der nur die Hälfte aller Elemente truthy sein muss."""
+    elements = list(iterable)
+    count = sum(1 if bool(x) else 0 for x in elements)
+    return count / len(elements) >= 0.5
+
+
+def md5sum(path):
+    """
+    One-Liner zum Berechnen von md5-Prüfsummen.
+    md5sum aus den GNU Coreutils liefert die gleichen Ergebnisse.
+    """
+    return hashlib.md5(path.read_bytes()).hexdigest()

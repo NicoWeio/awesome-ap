@@ -1,5 +1,4 @@
 from datetime import datetime
-from dotenv import load_dotenv
 import github
 import re
 import subprocess
@@ -7,14 +6,11 @@ import os.path
 from pathlib import Path
 
 from analyze_content import analyze_file, parse_versuch_nummer, find_from_candidates
+from config import REPOS_BASE_PATH
 from console import *
 from misc import get_command_runner
 from path import CoolPath
-from pdf import Pdf
-
-load_dotenv()
-REPOS_BASE_PATH = Path(os.getenv('REPOS_BASE_PATH'))
-REPOS_BASE_PATH.mkdir(exist_ok=True)
+from file import File
 
 
 def is_dir_ignored(dir, dirs_to_versuche):
@@ -43,7 +39,7 @@ def get_authors_from_content(dir):
     result = find_from_candidates(
         track(main_tex_files, description='Extracting authors…'),
         lambda file: analyze_file(file).get('authors', None),
-        flatten=True, full_return=True, n=2)
+        flatten=True, full_return=True, n=2, n_strict=False)
     if result['excluded']:
         info(f'Einige Autoren wurden ausgelassen: {result["excluded"]}')
     return result['most_common'] or set()
@@ -74,18 +70,11 @@ def get_versuch_nummer_advanced(dir, dirs_to_versuche, parsing_options, dir_resu
         debug(f'Cannot resolve (at all): "{dir}"')
 
 
-def printable_files(files):
-    # return ', '.join([f'[link={f.html_url}]{f.name}[/link]' for f in files])
-    return ', '.join([f'{f.name}' for f in files])
-
-
 def find_pdfs(base_dir, num):
     pdf_files_in_base = base_dir.glob('*.pdf')
     RE_VALID_NAMES = rf'(abgabe|korrektur|main|protokoll|[VD]?[._\s\-]*{num})(.*)\.pdf'
     # RE_INVALID_NAMES = rf'(graph|plot)(.*)\.pdf'
     pdf_matches = [f for f in pdf_files_in_base if re.search(RE_VALID_NAMES, f.name, re.IGNORECASE)]
-    # debug("pdf_files_in_base:", printable_files(pdf_files_in_base))
-    # debug("pdf_matches:", printable_files(pdf_matches))
     if pdf_matches:
         return pdf_matches
     else:
@@ -107,12 +96,12 @@ def import_repo(source, refresh=True):
 
     run_command = get_command_runner(cwd_path)
 
-    last_commit_timestamp = int(run_command(["git", "log", "-1", "--format=%at"], capture_output=True).stdout)
+    last_commit_timestamp = int(run_command(["git", "log", "-1", "--format=%at"], capture_output=True, silent=True).stdout)
     source.last_commit = datetime.utcfromtimestamp(last_commit_timestamp)
 
     # Unsauber: Ursprünglich ist `branch` nur angegeben, wenn es sich nicht um den default branch handelt.
     # Hiermit stellen wir sicher, dass `branch` immer korrekt gesetzt ist, weil wir ihn zwingend benötigen.
-    source.branch = run_command(["git", "branch", "--show-current"], capture_output=True, text=True).stdout.strip()
+    source.branch = run_command(["git", "branch", "--show-current"], capture_output=True, silent=True, text=True).stdout.strip()
 
     dir_candidates = []
     explicit_subdirs = list(cwd_path / subdir for subdir in source.subdirs)
@@ -139,7 +128,7 @@ def import_repo(source, refresh=True):
         for pdf_dir in source.pdfs['directories']:
             info(f"PDFs in \"{pdf_dir}\"")
             pdf_candidate_files = (cwd_path / pdf_dir).rglob('*.pdf')
-            pdf_candidates = list(Pdf(CoolPath(path, cwd=cwd_path), source) for path in pdf_candidate_files)
+            pdf_candidates = [File(path, source) for path in pdf_candidate_files]
             debug(f"{pdf_candidates=}")
 
             for pdf in pdf_candidates:
@@ -156,7 +145,7 @@ def import_repo(source, refresh=True):
             for num, v in versuche.items():
                 for dir in v.get('dirs', []):
                     pdfs = find_pdfs(dir.full_path, num)
-                    pdfs = list(Pdf(CoolPath(path, cwd=cwd_path), source) for path in pdfs) if pdfs else None
+                    pdfs = [File(path, source) for path in pdfs] if pdfs else None
                     if not pdfs:
                         continue
                     elif num in versuche and 'pdfs' in versuche[num]:

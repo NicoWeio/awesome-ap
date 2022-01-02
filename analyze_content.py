@@ -26,17 +26,37 @@ def parse_versuch_nummer(dirname, dirs_to_versuche=None):
         return matches[-1]
 
 
-def find_from_candidates(candidates, analyzer, flatten=False, full_return=False, n=1, return_single=False):
+def find_from_candidates(candidates, analyzer, flatten=False, full_return=False, n=1, n_strict=True, return_single=False):
+    """
+    Analysiert eine Liste von Kandidaten und gibt die Resultate abhängig von ihrer Häufigkeit zurück.
+    :param candidates: Liste von Kandidaten, z.B. Dateipfaden
+    :param n_strict: Wenn False, können auch >n Kandidaten zurückgegeben werden, wenn sie ebenso häufig vorkommen wie der n-te.
+    """
+
     # Analyse für jeden Kandidaten laufen lassen
     results = list(map(analyzer, candidates))
     if flatten:
         results = [item for sublist in results if sublist for item in sublist]
+
     # `None`-Werte entfernen
     results = [r for r in results if r is not None]
+
     # Häufigkeiten der einzelnen Resultate bestimmen
-    counter = Counter(results)
+    # Die Einträge werden sortiert, um konsistente Ergebnisse von `counter.most_common(n)` zu garantieren, wenn n_strict == True ist.
+    counter = Counter(sorted(results))
+
+    def lax_most_common():
+        last_count = float('inf')
+        i = 0
+        for item, count in counter.most_common():
+            if i >= n and count < last_count:
+                break
+            yield (item, count)
+            i += 1
+            last_count = count
+
     # die `n` häufigsten Werte:
-    most_common = set(item for item, count in counter.most_common(n))
+    most_common = set(item for item, count in (counter.most_common(n) if n_strict else lax_most_common()))
 
     if full_return:
         return {
@@ -49,7 +69,8 @@ def find_from_candidates(candidates, analyzer, flatten=False, full_return=False,
         if return_single:
             assert n == 1
             # den/einen häufigsten Wert zurückgeben, sofern überhaupt einer existiert
-            return next(iter(most_common), None)
+            # Auch hier wird zuerst sortiert, um konsistente Ergebnisse zu gewährleisten.
+            return next(iter(sorted(most_common)), None)
         else:
             return most_common
 
