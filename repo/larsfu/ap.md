@@ -4,7 +4,7 @@ Letzter Commit: 05.10.2016 11:32:36
 
 ## Autoren (Klarnamen)
 - Lars Funke
-- Oskar Kleine
+- Ann-Sophie Schubert
 
 ## Autoren (GitHub)
 - [annsophie](https://github.com/annsophie)
