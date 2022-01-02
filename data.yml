@@ -2111,8 +2111,10 @@
       - we did that/US1
       pdfs: []
 - authors:
+  - Anneke Reinold
   - Carolin Harkort
   - Jacqueline Schlingmann
+  - Vanessa Sulaiman
   branch: master
   contributors:
   - html_url: https://github.com/JaSchl
@@ -3132,6 +3134,7 @@
 - authors:
   - Ann-Sophie Schubert
   - Lars Funke
+  - Oskar Kleine
   branch: master
   contributors:
   - html_url: https://github.com/larsfu
