@@ -9,28 +9,28 @@
 |Nr.|                                Name                                 |                        |# Repos|
 |--:|---------------------------------------------------------------------|------------------------|------:|
 |  1|Lebensdauer der Myonen                                               |[Übersicht](versuch/1)  |     17|
-| 14|Tomographie mit Gamma-Strahlung                                      |[Übersicht](versuch/14) |     22|
+| 14|Tomographie mit Gamma-Strahlung                                      |[Übersicht](versuch/14) |     21|
 | 15|Vermessung und Untersuchung von Silizium-Streifensensoren            |[Übersicht](versuch/15) |      2|
 | 16|Rutherford-Streuung                                                  |[Übersicht](versuch/16) |     11|
 | 18|Der Reinst-Germanium-Detektor als Instrument der Gamma-Spektroskopie |[Übersicht](versuch/18) |     14|
-| 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     28|
-| 23|Quanten-Analogien                                                    |[Übersicht](versuch/23) |     10|
+| 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     27|
+| 23|Quanten-Analogien                                                    |[Übersicht](versuch/23) |      9|
 | 25|Der Stern-Gerlach-Versuch                                            |[Übersicht](versuch/25) |      3|
 | 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     30|
 | 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      9|
 | 41|Debye-Scherrer-Aufnahmen                                             |[Übersicht](versuch/41) |      6|
-| 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |      7|
-| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     32|
+| 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |      6|
+| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     31|
 | 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     22|
-| 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     20|
-| 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     11|
+| 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     19|
+| 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     10|
 | 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |      7|
 | 52|Signale auf Leitungen                                                |[Übersicht](versuch/52) |      3|
 | 53|Mikrowellen auf Hohlleitern                                          |[Übersicht](versuch/53) |     14|
 | 57|Elektrische Schwankungserscheinungen                                 |[Übersicht](versuch/57) |      2|
 | 59|Modulation und Demodulation elektrischer Schwingungen                |[Übersicht](versuch/59) |      4|
-| 60|Diodenlaser                                                          |[Übersicht](versuch/60) |     12|
-| 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     29|
+| 60|Diodenlaser                                                          |[Übersicht](versuch/60) |     11|
+| 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     28|
 | 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     16|
 | 65|Röntgenreflektrometrie                                               |[Übersicht](versuch/65) |      1|
 | 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |      9|
@@ -69,7 +69,7 @@
 |503|Der Millikan-Versuch                                                 |[Übersicht](versuch/503)|      9|
 |504|Thermische Elektronenemission                                        |[Übersicht](versuch/504)|     25|
 |601|Der Franck-Hertz-Versuch                                             |[Übersicht](versuch/601)|     33|
-|602|Röntgenemission und -absorption                                      |[Übersicht](versuch/602)|     41|
+|602|Röntgenemission und -absorption                                      |[Übersicht](versuch/602)|     42|
 |603|Der Compton-Effekt                                                   |[Übersicht](versuch/603)|     18|
 |605|Alkali-Spektren                                                      |[Übersicht](versuch/605)|      6|
 |606|Messung der Suszeptibilität paramagnetischer Substanzen              |[Übersicht](versuch/606)|     26|
@@ -128,7 +128,7 @@
 |[Jean1995/Praktikum](https://github.com/Jean1995/Praktikum)                                                      |[Übersicht](repo/Jean1995/Praktikum)                           |01.11.2016 19:09:38|          23|                   23|
 |[Jean1995/PraktikumFP](https://github.com/Jean1995/PraktikumFP)                                                  |[Übersicht](repo/Jean1995/PraktikumFP)                         |01.11.2017 20:55:46|           5|                    0|
 |[JLammering/Master-Praktikum](https://github.com/JLammering/Master-Praktikum)                                    |[Übersicht](repo/JLammering/Master-Praktikum)                  |28.08.2020 11:36:06|           9|                    9|
-|[JLammering/Physikalisches-Praktikum](https://github.com/JLammering/Physikalisches-Praktikum)                    |[Übersicht](repo/JLammering/Physikalisches-Praktikum)          |03.10.2016 20:42:54|          14|                   10|
+|[JLammering/Physikalisches-Praktikum](https://github.com/JLammering/Physikalisches-Praktikum)                    |[Übersicht](repo/JLammering/Physikalisches-Praktikum)          |03.10.2016 20:42:54|          15|                   10|
 |[joeyko2706/Anfaengerpraktikum-20-21](https://github.com/joeyko2706/Anfaengerpraktikum-20-21)                    |[Übersicht](repo/joeyko2706/Anfaengerpraktikum-20-21)          |31.12.2021 17:07:43|           6|                    5|
 |[jpherdi/FP_20_21](https://github.com/jpherdi/FP_20_21)                                                          |[Übersicht](repo/jpherdi/FP_20_21)                             |27.03.2021 12:47:42|           5|                    0|
 |[jpherdi/Praktikum](https://github.com/jpherdi/Praktikum)                                                        |[Übersicht](repo/jpherdi/Praktikum)                            |22.08.2020 14:15:53|           4|                    0|
@@ -148,11 +148,9 @@
 |[lassestern/FP_Master](https://github.com/lassestern/FP_Master)                                                  |[Übersicht](repo/lassestern/FP_Master)                         |02.01.2022 18:15:14|           3|                    0|
 |[lassestern/Lasse_Praktikum](https://github.com/lassestern/Lasse_Praktikum)                                      |[Übersicht](repo/lassestern/Lasse_Praktikum)                   |26.05.2020 06:37:27|           3|                    0|
 |[lassestern/praktikum-david-lasse](https://github.com/lassestern/praktikum-david-lasse)                          |[Übersicht](repo/lassestern/praktikum-david-lasse)             |24.07.2020 22:21:57|           6|                    2|
-|[lewis206/FP_20_21](https://github.com/jpherdi/FP_20_21)                                                         |[Übersicht](repo/lewis206/FP_20_21)                            |27.03.2021 12:47:42|           5|                    0|
-|[lewis206/Praktikum](https://github.com/jpherdi/Praktikum)                                                       |[Übersicht](repo/lewis206/Praktikum)                           |22.08.2020 14:15:53|           4|                    0|
 |[lfighter/FortgeschrittenesPraktikum](https://github.com/lfighter/FortgeschrittenesPraktikum)                    |[Übersicht](repo/lfighter/FortgeschrittenesPraktikum)          |20.08.2018 21:53:55|           5|                    0|
 |[lfighter/Praktikum](https://github.com/lfighter/Praktikum)                                                      |[Übersicht](repo/lfighter/Praktikum)                           |25.02.2018 22:43:48|          22|                    0|
-|[LiigaSoolane/Paktikum](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)                                 |[Übersicht](repo/LiigaSoolane/Paktikum)                        |04.07.2021 12:03:23|          19|                   15|
+|[LiigaSoolane/Paktikum-mit-dem-Teufel](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)                  |[Übersicht](repo/LiigaSoolane/Paktikum-mit-dem-Teufel)         |04.07.2021 12:03:23|          19|                    0|
 |[LuckyJosh/APPhysik](https://github.com/LuckyJosh/APPhysik)                                                      |[Übersicht](repo/LuckyJosh/APPhysik)                           |08.07.2014 19:22:20|          20|                    0|
 |[LuckyJosh/PhysikFP2015](https://github.com/LuckyJosh/PhysikFP2015)                                              |[Übersicht](repo/LuckyJosh/PhysikFP2015)                       |04.04.2020 14:53:48|          11|                    3|
 |[lukas-bert/AP-1-Versuchsprotokolle](https://github.com/lukas-bert/AP-1-Versuchsprotokolle)                      |[Übersicht](repo/lukas-bert/AP-1-Versuchsprotokolle)           |03.01.2022 14:43:39|           6|                    0|
@@ -193,7 +191,7 @@
 |[SamGTex/Physik_Praktikum_Samuel_Max](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max)                    |[Übersicht](repo/SamGTex/Physik_Praktikum_Samuel_Max)          |14.04.2021 10:47:02|          20|                   18|
 |[SanjoR/FP-Jonas-Donata](https://github.com/SanjoR/FP-Jonas-Donata)                                              |[Übersicht](repo/SanjoR/FP-Jonas-Donata)                       |11.03.2021 13:26:37|           9|                    5|
 |[SHilgers/Praktikum2](https://github.com/SHilgers/Praktikum2)                                                    |[Übersicht](repo/SHilgers/Praktikum2)                          |04.02.2020 08:43:30|          29|                    1|
-|[smjhnits/Praktikum_TU_D_16-17](https://github.com/smjhnits/Praktikum_TU_D_16-17)                                |[Übersicht](repo/smjhnits/Praktikum_TU_D_16-17)                |30.01.2019 12:22:48|          31|                   26|
+|[smjhnits/Praktikum_TU_D_16-17](https://github.com/smjhnits/Praktikum_TU_D_16-17)                                |[Übersicht](repo/smjhnits/Praktikum_TU_D_16-17)                |30.01.2019 12:22:48|          31|                   29|
 |[smjolame/Fortgeschrittenenpraktikum](https://github.com/smjolame/Fortgeschrittenenpraktikum)                    |[Übersicht](repo/smjolame/Fortgeschrittenenpraktikum)          |14.10.2021 17:19:15|           5|                    3|
 |[smjolame/Praktikum_1](https://github.com/smjolame/Praktikum_1)                                                  |[Übersicht](repo/smjolame/Praktikum_1)                         |11.04.2021 11:36:04|          18|                    9|
 |[stefangri/s_s_masterpraktikum](https://github.com/stefangri/s_s_masterpraktikum)                                |[Übersicht](repo/stefangri/s_s_masterpraktikum)                |19.12.2018 20:26:21|           5|                    0|
@@ -208,12 +206,12 @@
 
 
 ## Statistiken
-- **115** Repos
+- **113** Repos
 - **76** Versuche
-- **1364** Protokolle
-- **440** Protokolle mit PDFs
-- **349** PDFs von _awesome-ap-pdfs_
-- **569** PDFs insgesamt
+- **1356** Protokolle
+- **445** Protokolle mit PDFs
+- **334** PDFs von _awesome-ap-pdfs_
+- **581** PDFs insgesamt
 
 <p>Zuletzt aktualisiert: <span id="last-modified">[lade…]</span></p>
 <script async>

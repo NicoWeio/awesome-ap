@@ -2534,9 +2534,12 @@
       dirs:
       - 24 Thermische Elektronenemission
       pdfs: []
-    605:
+    602:
       dirs:
       - "15 R\xF6ntgenemission -absorption "
+      pdfs: []
+    605:
+      dirs:
       - 16 Alkali-Spektren
       pdfs: []
     702:
@@ -2859,7 +2862,6 @@
       pdfs: []
     500:
       dirs:
-      - "AP2/Protokollger\xFCst"
       - AP2/V500
       pdfs: []
     501:
@@ -3350,66 +3352,6 @@
       - US2
       pdfs: []
 - authors:
-  - Jan Herdieckerhoff
-  - Katrin Bolsmann
-  branch: master
-  contributors:
-  - html_url: https://github.com/katrinbls
-    login: katrinbls
-  - html_url: https://github.com/jpherdi
-    login: jpherdi
-  full_name: lewis206/FP_20_21
-  last_commit: 2021-03-27 12:47:42
-  protokolle:
-    14:
-      dirs:
-      - V14_Tomographie
-      pdfs: []
-    44:
-      dirs:
-      - V44_Roentgenreflektometrie
-      pdfs: []
-    48:
-      dirs:
-      - V48_Dipolrelaxation
-      pdfs: []
-    49:
-      dirs:
-      - V49_NMR
-      pdfs: []
-    60:
-      dirs:
-      - V60_Diodenlaser
-      pdfs: []
-- authors:
-  - Jan Herdieckerhoff
-  - Karina Overhoff
-  branch: master
-  contributors:
-  - html_url: https://github.com/karina1007
-    login: karina1007
-  - html_url: https://github.com/jpherdi
-    login: jpherdi
-  full_name: lewis206/Praktikum
-  last_commit: 2020-08-22 14:15:53
-  protokolle:
-    21:
-      dirs:
-      - V21
-      pdfs: []
-    23:
-      dirs:
-      - V23
-      pdfs: []
-    46:
-      dirs:
-      - V46
-      pdfs: []
-    61:
-      dirs:
-      - V61
-      pdfs: []
-- authors:
   - Lukas Rolf
   - Yannik Brune
   branch: master
@@ -3548,7 +3490,7 @@
     login: LiigaSoolane
   - html_url: https://github.com/VorniV
     login: VorniV
-  full_name: LiigaSoolane/Paktikum
+  full_name: LiigaSoolane/Paktikum-mit-dem-Teufel
   last_commit: 2021-07-04 12:03:23
   protokolle:
     103:
@@ -6290,11 +6232,13 @@
     1:
       dirs:
       - Fortgeschrittenenpraktikum/Protokolle/V01_kosmische_Myonen
-      pdfs: []
+      pdfs:
+      - Fortgeschrittenenpraktikum/Protokolle/V01_kosmische_Myonen/V01.pdf
     14:
       dirs:
       - Fortgeschrittenenpraktikum/Protokolle/V14_Tomographie
-      pdfs: []
+      pdfs:
+      - Fortgeschrittenenpraktikum/Protokolle/V14_Tomographie/V14_main.pdf
     18:
       dirs:
       - Fortgeschrittenenpraktikum/Protokolle/V18_Germaniumdetektor
@@ -6302,11 +6246,13 @@
     21:
       dirs:
       - Fortgeschrittenenpraktikum/Protokolle/V21_Optisches_Pumpen
-      pdfs: []
+      pdfs:
+      - Fortgeschrittenenpraktikum/Protokolle/V21_Optisches_Pumpen/V21_main.pdf
     27:
       dirs:
       - Fortgeschrittenenpraktikum/Protokolle/V27_Zeeman-Effekt
-      pdfs: []
+      pdfs:
+      - Fortgeschrittenenpraktikum/Protokolle/V27_Zeeman-Effekt/V27_Zeeman-Effekt.pdf
     46:
       dirs:
       - Fortgeschrittenenpraktikum/Protokolle/V46_Faraday
@@ -6326,7 +6272,8 @@
     61:
       dirs:
       - Fortgeschrittenenpraktikum/Protokolle/V61_HeNe_Laser
-      pdfs: []
+      pdfs:
+      - Fortgeschrittenenpraktikum/Protokolle/V61_HeNe_Laser/V61_Scan.pdf
     101:
       dirs:
       - "Anf\xE4ngerpraktikum/Protokolle/V101_Das_Tr\xE4gheitsmoment"
@@ -6342,6 +6289,7 @@
       - "Anf\xE4ngerpraktikum/Protokolle/V106_Gekoppelte_Pendel"
       pdfs:
       - "Anf\xE4ngerpraktikum/Fertige Protokolle/V106.pdf"
+      - "Anf\xE4ngerpraktikum/Protokolle/V106_Gekoppelte_Pendel/Auswertung_Korrektur.pdf"
     201:
       dirs:
       - "Anf\xE4ngerpraktikum/Protokolle/V201_Das_Dulong-Petitsche_Gesetz"
@@ -6392,31 +6340,37 @@
       - "Anf\xE4ngerpraktikum/Protokolle/V401_Michelson-Interferometer"
       pdfs:
       - "Anf\xE4ngerpraktikum/Fertige Protokolle/V401.pdf"
+      - "Anf\xE4ngerpraktikum/Protokolle/V401_Michelson-Interferometer/main.pdf"
     408:
       dirs:
       - "Anf\xE4ngerpraktikum/Protokolle/V408_Geometrische_Optik"
       pdfs:
       - "Anf\xE4ngerpraktikum/Fertige Protokolle/V408.pdf"
+      - "Anf\xE4ngerpraktikum/Protokolle/V408_Geometrische_Optik/main.pdf"
     500:
       dirs:
       - "Anf\xE4ngerpraktikum/Protokolle/V500_Der_Photoeffekt"
       pdfs:
       - "Anf\xE4ngerpraktikum/Fertige Protokolle/V500.pdf"
+      - "Anf\xE4ngerpraktikum/Protokolle/V500_Der_Photoeffekt/build/V500.pdf"
     503:
       dirs:
       - "Anf\xE4ngerpraktikum/Protokolle/V503_Der_Milikan_Versuch"
       pdfs:
       - "Anf\xE4ngerpraktikum/Fertige Protokolle/V503.pdf"
+      - "Anf\xE4ngerpraktikum/Protokolle/V503_Der_Milikan_Versuch/build/V503.pdf"
     601:
       dirs:
       - "Anf\xE4ngerpraktikum/Protokolle/V601_Franck_Hertz"
       pdfs:
       - "Anf\xE4ngerpraktikum/Fertige Protokolle/V601.pdf"
+      - "Anf\xE4ngerpraktikum/Protokolle/V601_Franck_Hertz/build/V601.pdf"
     602:
       dirs:
       - "Anf\xE4ngerpraktikum/Protokolle/V602_Roentgenemission"
       pdfs:
       - "Anf\xE4ngerpraktikum/Fertige Protokolle/V602.pdf"
+      - "Anf\xE4ngerpraktikum/Protokolle/V602_Roentgenemission/build/V602.pdf"
     702:
       dirs:
       - "Anf\xE4ngerpraktikum/Protokolle/V702_Aktivierung_mit_Neutronen"
