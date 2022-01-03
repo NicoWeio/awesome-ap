@@ -91,7 +91,8 @@ def import_repo(source, refresh=True):
     dir_candidates = []
     explicit_subdirs = list(source.cwd_path / subdir for subdir in source.config.subdirs)
     for subdir in explicit_subdirs:
-        dir_candidates.extend([CoolPath(f, cwd=source.cwd_path) for f in subdir.iterdir() if f.is_dir()])
+        dir_candidates.extend([CoolPath(f, cwd=source.cwd_path)
+                              for f in subdir.iterdir() if f.is_dir() and not f.name.startswith('.')])
 
     versuche = dict()
     for dir in dir_candidates:
