@@ -22,6 +22,8 @@
   pdfs:
     in_source_dir: true
 - name: bixel/AP1213
+  dirs_to_versuche:
+    V501-2_E-B-Feld: 501 # in der Datei steht fälschlicherweise V406
   pdfs:
     in_source_dir: true
 - name: bixel/FP14
@@ -122,6 +124,10 @@
   pdfs:
     in_source_dir: true
 - name: JLammering/Physikalisches-Praktikum
+  dirs_to_versuche:
+    "15 Röntgenemission -absorption ": 602 # in der Datei steht fälschlicherweise V605
+  parsing:
+    dirname: false
 - name: joeyko2706/Anfaengerpraktikum-20-21
   pdfs:
     directory: Protokolle
@@ -140,6 +146,8 @@
     V00: false
 - name: katrinbls/FP
 - name: KattiBrae/APWS201718
+  dirs_to_versuche:
+    "Protokollgerüst": false
   subdirectory:
     - AP1
     - AP2
@@ -172,13 +180,11 @@
 - name: lassestern/praktikum-david-lasse
   pdfs:
     in_source_dir: true
-- name: lewis206/FP_20_21
-- name: lewis206/Praktikum
 - name: lfighter/FortgeschrittenesPraktikum
 # TODO: hat PDFs, aber keine Versuchsnummer im Dateipfad
 - name: lfighter/Praktikum
 # TODO: unvollständige Versuch-Nummern
-- name: LiigaSoolane/Paktikum
+- name: LiigaSoolane/Paktikum-mit-dem-Teufel
 # keine Versuch-Nummern oder main.tex – suche stattdessen nach "\newcommand{\VNr}{…}"
 - name: LuckyJosh/APPhysik
   dirs_to_versuche:
@@ -353,6 +359,7 @@
 - name: smjhnits/Praktikum_TU_D_16-17
   pdfs:
     directory: Anfängerpraktikum/Fertige Protokolle
+    in_source_dir: true
   subdirectory:
     - Anfängerpraktikum/Protokolle
     - Fortgeschrittenenpraktikum/Protokolle
@@ -389,4 +396,6 @@
   pdfs:
     directory: AP Protokolle
 - name: woklop9/Anfaengerpraktikum
+# keine vollständigen Protokolle
+# - name: xxholzixx1/Anfaengerpraktikum
 - name: YanickKi/AP_T_Y
