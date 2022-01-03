@@ -21,6 +21,11 @@ class Repo:
 
         try:
             gh_repo = gh.get_repo(self.full_name)
+            if gh_repo.full_name != self.full_name:
+                warn(f"Das Repo wurde anscheinend übertragen oder umbenannt: "
+                     f"\"{gh_repo.full_name}\" (GitHub) statt \"{self.full_name}\" (lokale Konfiguration)")
+                # Es kann jedoch mit der alten Konfiguration forgefahren werden.
+
             self.contributors = list(gh_repo.get_contributors())
             self.html_url = gh_repo.html_url
         except github.UnknownObjectException:
