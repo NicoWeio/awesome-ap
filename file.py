@@ -25,10 +25,13 @@ class File:
 
     @property
     def view_url(self):
-        if self.path.suffix == '.pdf':
-            return f'https://docs.google.com/viewer?url={self.download_url}'
+        if self.path.is_dir():
+            return f'{self.repo.html_url}/tree/{self.repo.branch}/{quote(str(self.relative_path))}'
         else:
-            return self.download_url
+            if self.path.suffix == '.pdf':
+                return f'https://docs.google.com/viewer?url={self.download_url}'
+            else:
+                return self.download_url
 
     def __repr__(self):
         return f'<File "{self.name}">'

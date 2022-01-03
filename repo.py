@@ -1,31 +1,23 @@
-import github
 from config import REPOS_BASE_PATH
 from console import *
+from datetime import datetime
+import github
 from misc import get_command_runner
 from pathlib import Path
+from repo_config import RepoConfig
 from subprocess import CalledProcessError
 
 
 class Repo:
     def __init__(self, data, gh):
-        self.branch = data.get('branch')
-        self.dirs_to_versuche = data.get('dirs_to_versuche')
-        self.ignore_dirs = data.get('ignore_dirs', [])
-        self.parsing = data.get('parsing', {})
+        # Die Konfiguration aus der YAML-Datei wird in eine RepoConfig-Instanz ausgelagert.
+        self.config = RepoConfig(data)
+        # voller Name des Repos in der Form <login>/<name>
         self.full_name = data.get('name')
-
+        # Login des Besitzers und Name des Repos
         self.login, self.name = self.full_name.split('/')
-
-        self.pdfs = data.get('pdfs')
-        if self.pdfs:
-            directories = self.pdfs.get('directory', [])
-            if isinstance(directories, str):
-                directories = [directories]
-            self.pdfs['directories'] = directories
-
-        self.subdirs = data.get('subdirectory', '')  # TODO !?
-        if isinstance(self.subdirs, str):
-            self.subdirs = [self.subdirs]
+        # Pfad zum Repo im lokalen Cache; muss hier noch nicht existieren
+        self.cwd_path = REPOS_BASE_PATH / self.full_name.replace('/', '∕')
 
         try:
             gh_repo = gh.get_repo(self.full_name)
@@ -43,15 +35,13 @@ class Repo:
         return f'<Repo "{self.full_name}">'
 
     def update_repo_mirror(self, refresh=True):
-        cwd_path = REPOS_BASE_PATH / self.full_name.replace('/', '∕')
-        self.cwd_path = cwd_path
-        run_command = get_command_runner(cwd_path)
+        run_command = get_command_runner(self.cwd_path)
 
-        if not cwd_path.exists():
+        if not self.cwd_path.exists():
             debug("Does not exist – cloning…")
             # lege einen „shallow clone“ an, um Speicherplatz zu sparen
-            run_command(["git", "clone"] + (["--branch", self.branch] if self.branch else []) +
-                        ["--depth", "1", "https://github.com/" + self.full_name, cwd_path], cwd=None)
+            run_command(["git", "clone"] + (["--branch", self.config.branch] if self.config.branch else []) +
+                        ["--depth", "1", "https://github.com/" + self.full_name, self.cwd_path], cwd=None)
             # ↓ https://stackoverflow.com/a/34396983/6371758
             # run_command(["git", "-c", 'core.askPass=""', "clone", "--depth", "1", "https://github.com/" + self.full_name, cwd_path])
         elif not refresh:
@@ -68,8 +58,17 @@ class Repo:
                 error("Still failed:", e)
                 raise
 
-            if self.branch:
+            if self.config.branch:
                 # TODO: Viele edge cases wegen des Cachings!
-                run_command(["git", "remote", "set-branches", "origin", self.branch])
+                run_command(["git", "remote", "set-branches", "origin", self.config.branch])
                 run_command(["git", "fetch"])
-                run_command(["git", "switch", "-f", self.branch])
+                run_command(["git", "switch", "-f", self.config.branch])
+
+        # self.branch gibt den Ist-Branch an, self.config.branch den Soll-Branch
+        self.branch = run_command(['git', 'branch', '--show-current'],
+                                  capture_output=True, silent=True, text=True).stdout.strip()
+
+        last_commit_timestamp = int(run_command(
+            ["git", "log", "-1", "--format=%at"],
+            capture_output=True, silent=True).stdout)
+        self.last_commit = datetime.utcfromtimestamp(last_commit_timestamp)

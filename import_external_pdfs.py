@@ -9,10 +9,8 @@ from repo import Repo
 
 
 def add_aap_pdfs(repos, gh):
-    console.rule('*** NicoWeio/awesome-ap-pdfs ***')
     aap_repo = Repo({'name': 'NicoWeio/awesome-ap-pdfs'}, gh)
     aap_repo.update_repo_mirror()
-    aap_repo.branch = 'main'  # TODO unsauber; siehe auch import_repo.py
 
     for repo in repos:
         repo_dir = aap_repo.cwd_path / repo.full_name.replace('/', '∕')

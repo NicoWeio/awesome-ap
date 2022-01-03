@@ -1,5 +1,6 @@
 from console import *
 from datetime import datetime
+from file import File
 import os
 from pathlib import Path
 import pytablewriter
@@ -10,32 +11,17 @@ def fmt_repo(repo):
     return f'[{repo.full_name}](../repo/{repo.full_name})'
 
 
-def fmt_dirs(repo, dirs):
-    if not dirs:
+def fmt_files(files):
+    if not files:
         return '–'
-    return '<br/>'.join(fmt_content(repo, dir) for dir in sorted(dirs, key=lambda dir: dir.name.lower()))
+    return '<br/>'.join(fmt_file(file) for file in sorted(files, key=lambda file: file.name.lower()))
 
 
-def fmt_pdfs(repo, pdfs):
-    if not pdfs:
-        return '–'
-    return '<br/>'.join(fmt_pdf(pdf) for pdf in sorted(pdfs, key=lambda pdf: pdf.name.lower()))
+def fmt_file(f: File):
+    return f"[{f.name}]({f.view_url})" + (r' \*' if not f.is_user_generated else '')
 
 
-def fmt_pdf(pdf):
-    return f"[{pdf.name}]({pdf.view_url})" + (r' \*' if not pdf.is_user_generated else '')
-
-
-def fmt_content(repo, c: Path):
-    html_url = content_url(repo, c)
-    return f"[{c.name}]({html_url})" if c else '–'
-
-
-def content_url(repo, path):
-    return f'{repo.html_url}/tree/{repo.branch}/{quote(str(path))}'
-
-
-def generate_md(repos_to_versuche, versuche_to_repos, versuche_data, versuche_to_common_files):
+def generate_md(repos_to_versuche, versuche_to_repos, versuche_data, versuche_to_common_files, dry_run=False):
     os.makedirs('build/versuch', exist_ok=True)
     os.makedirs('build/repo', exist_ok=True)
     writer = pytablewriter.MarkdownTableWriter()
@@ -63,12 +49,13 @@ def generate_md(repos_to_versuche, versuche_to_repos, versuche_data, versuche_to
         writer.headers = ['Repo', 'Ordner', 'PDFs']
         writer.value_matrix = [(
             fmt_repo(repo),
-            fmt_dirs(repo, repo.versuche[versuch].get('dirs')),
-            fmt_pdfs(repo, repo.versuche[versuch].get('pdfs')),
+            fmt_files(repo.versuche[versuch].get('dirs')),
+            fmt_files(repo.versuche[versuch].get('pdfs')),
         ) for repo in sorted(repos, key=lambda r: r.full_name.lower())]
         out += writer.dumps()
 
-        Path(f'build/versuch/{versuch}.md').write_text(out)
+        if not dry_run:
+            Path(f'build/versuch/{versuch}.md').write_text(out)
 
     # ■ Repo → Versuche
     for repo in repos_to_versuche:
@@ -96,12 +83,13 @@ def generate_md(repos_to_versuche, versuche_to_repos, versuche_data, versuche_to
         writer.headers = ['Versuch', 'Ordner', 'PDFs']
         writer.value_matrix = [(
             f'[{num}](../../versuch/{num})',
-            fmt_dirs(repo, v.get('dirs')),
-            fmt_pdfs(repo, v.get('pdfs')),
+            fmt_files(v.get('dirs')),
+            fmt_files(v.get('pdfs')),
         ) for num, v in sorted(repo.versuche.items())]
         out += writer.dumps()
 
-        Path(f'build/repo/{repo.login}/{repo.name}.md').write_text(out)
+        if not dry_run:
+            Path(f'build/repo/{repo.login}/{repo.name}.md').write_text(out)
 
     # ■ Startseite
     out = '# Startseite\n\n'
@@ -144,6 +132,8 @@ def generate_md(repos_to_versuche, versuche_to_repos, versuche_data, versuche_to
     # Die "Zuletzt aktualisiert"-Zeit wird dynamisch geladen, um im gh-pages-Branch leere Commits zu vermeiden.
     out += Path('static/last_modified.html').read_text()
 
-    Path(f'build/index.md').write_text(out)
+    if not dry_run:
+        Path(f'build/index.md').write_text(out)
 
-    debug('MD files written successfully')
+    if not dry_run:
+        debug('MD files written successfully')

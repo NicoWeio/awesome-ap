@@ -27,6 +27,8 @@ REPOS_BASE_PATH.mkdir(exist_ok=True)
 repos_to_versuche = []
 for repo in repos:
     try:
+        console.print()
+        console.rule(repo['name'])
         repos_to_versuche.append(import_repo(Repo(repo, gh)))
     except github.UnknownObjectException:
         pass
@@ -39,9 +41,10 @@ for repo in repos:
         raise
 
 # ■ Einbinden der „awesome-ap-pdfs“:
+console.rule('*** NicoWeio/awesome-ap-pdfs ***')
 repos_to_versuche = add_aap_pdfs(repos_to_versuche, gh)
 
-console.rule('*** Analyse & Export ***')
+console.rule('*** Analyse ***')
 
 # transponiere [{repo: {versuche: [versuch]}}] zu {versuch: [repo]}
 versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
@@ -54,9 +57,10 @@ info("gemeinsame Dateien:", versuche_to_common_files)
 with open("versuche.yaml", 'r') as stream:
     versuche = yaml.safe_load(stream)
 
+console.rule('*** Export ***')
+
 # ■ Generieren der statischen Website-Inhalte:
-if not DEV:  # damit nicht bei jedem Testdurchlauf >100 Dateien geschrieben werden
-    generate_md(repos_to_versuche, versuche_to_repos, versuche, versuche_to_common_files)
+generate_md(repos_to_versuche, versuche_to_repos, versuche, versuche_to_common_files, dry_run=DEV)
 
 # ■ Generieren einer (in erster Linie) maschinenlesbaren Datenbank:
 generate_yaml(repos_to_versuche)
@@ -64,8 +68,6 @@ generate_yaml(repos_to_versuche)
 
 def stats():
     out = ""
-    out += '-'*10 + '\n'
-    out += '## Statistiken\n'
     out += f'- {len(repos_to_versuche)} Repos\n'
     out += f'- {len(versuche_to_repos.keys())} Versuche\n'
     out += f'- {sum([len(repos) for versuch, repos in versuche_to_repos.items()])} Protokolle\n'
@@ -75,4 +77,5 @@ def stats():
 
 
 console.print("Done! 🎉", style='blink bold')
+console.rule('*** Statistiken ***')
 info(stats())

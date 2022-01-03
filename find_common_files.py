@@ -22,7 +22,7 @@ def find_common_files(versuche_to_repos, config):
             return next(repo for repo in repos if repo.full_name == repo_name)
 
         # die zu `versuch` gehörenden Ordner sämtlicher Repos
-        dirs = [dir.full_path for repo in repos for dir in repo.versuche[versuch].get('dirs', [])]
+        dirs = [dir.path for repo in repos for dir in repo.versuche[versuch].get('dirs', [])]
 
         # suche nach Duplikaten
         fdupes_result = run_command(['fdupes', '--noempty', '--quiet', '--recurse', *dirs],

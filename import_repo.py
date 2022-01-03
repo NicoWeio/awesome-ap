@@ -1,16 +1,12 @@
-from datetime import datetime
-import github
-import re
-import subprocess
-import os.path
-from pathlib import Path
-
 from analyze_content import analyze_file, parse_versuch_nummer, find_from_candidates
 from config import REPOS_BASE_PATH
 from console import *
+from file import File
+import github
 from misc import get_command_runner
 from path import CoolPath
-from file import File
+import re
+import subprocess
 
 
 def is_dir_ignored(dir, dirs_to_versuche):
@@ -88,25 +84,14 @@ def find_pdfs(base_dir, num):
 
 
 def import_repo(source, refresh=True):
-    console.print()
-    console.rule(source.full_name)
-    cwd_path = REPOS_BASE_PATH / source.full_name.replace('/', '∕')
-
     source.update_repo_mirror()
 
-    run_command = get_command_runner(cwd_path)
-
-    last_commit_timestamp = int(run_command(["git", "log", "-1", "--format=%at"], capture_output=True, silent=True).stdout)
-    source.last_commit = datetime.utcfromtimestamp(last_commit_timestamp)
-
-    # Unsauber: Ursprünglich ist `branch` nur angegeben, wenn es sich nicht um den default branch handelt.
-    # Hiermit stellen wir sicher, dass `branch` immer korrekt gesetzt ist, weil wir ihn zwingend benötigen.
-    source.branch = run_command(["git", "branch", "--show-current"], capture_output=True, silent=True, text=True).stdout.strip()
+    run_command = get_command_runner(source.cwd_path)
 
     dir_candidates = []
-    explicit_subdirs = list(cwd_path / subdir for subdir in source.subdirs)
+    explicit_subdirs = list(source.cwd_path / subdir for subdir in source.config.subdirs)
     for subdir in explicit_subdirs:
-        dir_candidates.extend([CoolPath(f, cwd=cwd_path) for f in subdir.iterdir() if f.is_dir()])
+        dir_candidates.extend([CoolPath(f, cwd=source.cwd_path) for f in subdir.iterdir() if f.is_dir()])
 
     versuche = dict()
     for dir in dir_candidates:
@@ -116,23 +101,24 @@ def import_repo(source, refresh=True):
 
         analysis = analyze_dir(dir)
 
-        num = get_versuch_nummer_advanced(dir, source.dirs_to_versuche, source.parsing, analysis.get('versuch_nummer'))
+        num = get_versuch_nummer_advanced(dir, source.config.dirs_to_versuche,
+                                          source.config.parsing, analysis.get('versuch_nummer'))
         if not num:
             continue
         elif num in versuche:
-            versuche[num]['dirs'].append(dir)
+            versuche[num]['dirs'].append(File(dir.full_path, source))
         else:
-            versuche.setdefault(num, {})['dirs'] = [dir]
+            versuche.setdefault(num, {})['dirs'] = [File(dir.full_path, source)]
 
-    if source.pdfs:
-        for pdf_dir in source.pdfs['directories']:
+    if source.config.pdfs:
+        for pdf_dir in source.config.pdfs['directories']:
             info(f"PDFs in \"{pdf_dir}\"")
-            pdf_candidate_files = (cwd_path / pdf_dir).rglob('*.pdf')
+            pdf_candidate_files = (source.cwd_path / pdf_dir).rglob('*.pdf')
             pdf_candidates = [File(path, source) for path in pdf_candidate_files]
             debug(f"{pdf_candidates=}")
 
             for pdf in pdf_candidates:
-                num = parse_versuch_nummer(pdf.name, source.dirs_to_versuche)
+                num = parse_versuch_nummer(pdf.name, source.config.dirs_to_versuche)
                 if not num:
                     continue
                 elif num in versuche and 'pdfs' in versuche[num]:
@@ -140,11 +126,11 @@ def import_repo(source, refresh=True):
                 else:
                     versuche.setdefault(num, {})['pdfs'] = [pdf]
 
-        if source.pdfs.get('in_source_dir'):
+        if source.config.pdfs.get('in_source_dir'):
             info("PDFs in source dir")
             for num, v in versuche.items():
                 for dir in v.get('dirs', []):
-                    pdfs = find_pdfs(dir.full_path, num)
+                    pdfs = find_pdfs(dir.path, num)
                     pdfs = [File(path, source) for path in pdfs] if pdfs else None
                     if not pdfs:
                         continue
@@ -153,7 +139,7 @@ def import_repo(source, refresh=True):
                     else:
                         versuche.setdefault(num, {})['pdfs'] = pdfs
 
-    source.authors = get_authors_from_content(cwd_path)
+    source.authors = get_authors_from_content(source.cwd_path)
 
     source.versuche = versuche
     source.num_dirs = sum(1 for v in versuche.values() if 'dirs' in v)
