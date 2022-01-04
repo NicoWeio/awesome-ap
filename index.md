@@ -64,7 +64,7 @@
 |406|Beugung am Spalt                                                     |[Übersicht](versuch/406)|     36|
 |408|Geometrische Optik                                                   |[Übersicht](versuch/408)|     28|
 |500|Der Photoeffekt                                                      |[Übersicht](versuch/500)|     31|
-|501|Elektronen im elektrischen und magnetischen Feld                     |[Übersicht](versuch/501)|     24|
+|501|Elektronen im elektrischen und magnetischen Feld                     |[Übersicht](versuch/501)|     25|
 |502|Elektronen im transversalen Magnetfeld                               |[Übersicht](versuch/502)|      1|
 |503|Der Millikan-Versuch                                                 |[Übersicht](versuch/503)|      9|
 |504|Thermische Elektronenemission                                        |[Übersicht](versuch/504)|     25|
@@ -92,9 +92,9 @@
 |-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------|-----------:|--------------------:|
 |[AReinold/Bachelor-FP](https://github.com/AReinold/Bachelor-FP)                                                  |[Übersicht](repo/AReinold/Bachelor-FP)                         |09.07.2018 09:47:30|           5|                    1|
 |[AReinold/Master-FP](https://github.com/AReinold/Master-FP)                                                      |[Übersicht](repo/AReinold/Master-FP)                           |22.03.2020 13:24:47|           5|                    3|
-|[Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)                                            |[Übersicht](repo/Bastian125/AP-Praktikum)                      |31.12.2021 04:38:35|           8|                    1|
+|[Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)                                            |[Übersicht](repo/Bastian125/AP-Praktikum)                      |31.12.2021 04:38:35|           8|                    3|
 |[BenediktSan/AnfaengerPraktikum2020](https://github.com/BenediktSan/AnfaengerPraktikum2020)                      |[Übersicht](repo/BenediktSan/AnfaengerPraktikum2020)           |05.07.2021 21:32:58|          19|                   16|
-|[bixel/AP1213](https://github.com/bixel/AP1213)                                                                  |[Übersicht](repo/bixel/AP1213)                                 |15.03.2014 13:00:24|          22|                   22|
+|[bixel/AP1213](https://github.com/bixel/AP1213)                                                                  |[Übersicht](repo/bixel/AP1213)                                 |15.03.2014 13:00:24|          23|                   23|
 |[bixel/FP14](https://github.com/bixel/FP14)                                                                      |[Übersicht](repo/bixel/FP14)                                   |07.10.2016 19:42:14|          11|                    0|
 |[brkkbkc/FPSS18_5](https://github.com/brkkbkc/FPSS18_5)                                                          |[Übersicht](repo/brkkbkc/FPSS18_5)                             |29.08.2018 13:23:12|           6|                    0|
 |[chrbeckm/anfaenger-praktikum](https://github.com/chrbeckm/anfaenger-praktikum)                                  |[Übersicht](repo/chrbeckm/anfaenger-praktikum)                 |09.11.2019 16:04:46|          20|                   17|
@@ -150,7 +150,7 @@
 |[lassestern/praktikum-david-lasse](https://github.com/lassestern/praktikum-david-lasse)                          |[Übersicht](repo/lassestern/praktikum-david-lasse)             |24.07.2020 22:21:57|           6|                    2|
 |[lfighter/FortgeschrittenesPraktikum](https://github.com/lfighter/FortgeschrittenesPraktikum)                    |[Übersicht](repo/lfighter/FortgeschrittenesPraktikum)          |20.08.2018 21:53:55|           5|                    0|
 |[lfighter/Praktikum](https://github.com/lfighter/Praktikum)                                                      |[Übersicht](repo/lfighter/Praktikum)                           |25.02.2018 22:43:48|          22|                    0|
-|[LiigaSoolane/Paktikum-mit-dem-Teufel](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)                  |[Übersicht](repo/LiigaSoolane/Paktikum-mit-dem-Teufel)         |04.07.2021 12:03:23|          19|                    0|
+|[LiigaSoolane/Paktikum-mit-dem-Teufel](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)                  |[Übersicht](repo/LiigaSoolane/Paktikum-mit-dem-Teufel)         |04.07.2021 12:03:23|          19|                   15|
 |[LuckyJosh/APPhysik](https://github.com/LuckyJosh/APPhysik)                                                      |[Übersicht](repo/LuckyJosh/APPhysik)                           |08.07.2014 19:22:20|          20|                    0|
 |[LuckyJosh/PhysikFP2015](https://github.com/LuckyJosh/PhysikFP2015)                                              |[Übersicht](repo/LuckyJosh/PhysikFP2015)                       |04.04.2020 14:53:48|          11|                    3|
 |[lukas-bert/AP-1-Versuchsprotokolle](https://github.com/lukas-bert/AP-1-Versuchsprotokolle)                      |[Übersicht](repo/lukas-bert/AP-1-Versuchsprotokolle)           |03.01.2022 14:43:39|           6|                    0|
@@ -166,7 +166,7 @@
 |[MaxSac/AP-Praktikum](https://github.com/MaxSac/AP-Praktikum)                                                    |[Übersicht](repo/MaxSac/AP-Praktikum)                          |03.10.2016 08:28:39|          23|                   13|
 |[MaxSac/FP-Praktikum](https://github.com/MaxSac/FP-Praktikum)                                                    |[Übersicht](repo/MaxSac/FP-Praktikum)                          |12.06.2017 21:24:30|           5|                    1|
 |[moritzbo/anfaenger_praktikum](https://github.com/moritzbo/anfaenger_praktikum)                                  |[Übersicht](repo/moritzbo/anfaenger_praktikum)                 |30.06.2021 11:21:40|          18|                    0|
-|[moritzbo/fortgeschrittenes_praktikum](https://github.com/moritzbo/fortgeschrittenes_praktikum)                  |[Übersicht](repo/moritzbo/fortgeschrittenes_praktikum)         |20.12.2021 19:35:55|           4|                    0|
+|[moritzbo/fortgeschrittenes_praktikum](https://github.com/moritzbo/fortgeschrittenes_praktikum)                  |[Übersicht](repo/moritzbo/fortgeschrittenes_praktikum)         |20.12.2021 19:35:55|           4|                    4|
 |[mwindau/FP](https://github.com/mwindau/FP)                                                                      |[Übersicht](repo/mwindau/FP)                                   |01.03.2020 10:37:00|          10|                   10|
 |[nbiederbeck/masterpraktikum](https://github.com/nbiederbeck/masterpraktikum)                                    |[Übersicht](repo/nbiederbeck/masterpraktikum)                  |01.04.2019 14:28:09|           5|                    0|
 |[NicoJG/Anfaengerpraktikum](https://github.com/NicoJG/Anfaengerpraktikum)                                        |[Übersicht](repo/NicoJG/Anfaengerpraktikum)                    |22.12.2021 18:59:30|          21|                   20|
@@ -208,9 +208,9 @@
 ## Statistiken
 - **113** Repos
 - **76** Versuche
-- **1356** Protokolle
-- **445** Protokolle mit PDFs
-- **334** PDFs von _awesome-ap-pdfs_
+- **1357** Protokolle
+- **446** Protokolle mit PDFs
+- **355** PDFs von _awesome-ap-pdfs_
 - **581** PDFs insgesamt
 
 <p>Zuletzt aktualisiert: <span id="last-modified">[lade…]</span></p>

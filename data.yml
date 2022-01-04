@@ -295,17 +295,20 @@
     406:
       dirs:
       - V406_Beugung
-      - V501-2_E-B-Feld
       pdfs:
       - V406_Beugung/V406.pdf
       - V406_Beugung/protokoll.pdf
-      - V501-2_E-B-Feld/protokoll.pdf
     408:
       dirs:
       - V408_Optik
       pdfs:
       - V408_Optik/00_protokoll.pdf
       - V408_Optik/anleitung_V408.pdf
+    501:
+      dirs:
+      - V501-2_E-B-Feld
+      pdfs:
+      - V501-2_E-B-Feld/protokoll.pdf
     504:
       dirs:
       - V504_Thermische_E
