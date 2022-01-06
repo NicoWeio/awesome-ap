@@ -3733,7 +3733,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-01-04 15:08:11
+  last_commit: 2022-01-05 14:38:06
   protokolle:
     105:
       dirs:
@@ -4468,63 +4468,6 @@
       dirs:
       - V53Mikrowellen
       pdfs: []
-- authors:
-  - Michael Windau
-  - Sophie Bork
-  branch: master
-  contributors:
-  - html_url: https://github.com/mwindau
-    login: mwindau
-  - html_url: https://github.com/smsobork
-    login: smsobork
-  full_name: mwindau/FP
-  last_commit: 2020-03-01 10:37:00
-  protokolle:
-    1:
-      dirs: []
-      pdfs:
-      - FP_Bachelor/V01.pdf
-    14:
-      dirs:
-      - FP_Master/V14_Tomographie
-      pdfs:
-      - FP_Master/V14_Tomographie/build/main.pdf
-    18:
-      dirs: []
-      pdfs:
-      - FP_Bachelor/V18.pdf
-    27:
-      dirs:
-      - FP_Master/V27_Zeeman
-      pdfs:
-      - FP_Master/V27_Zeeman/build/main.pdf
-    28:
-      dirs: []
-      pdfs:
-      - FP_Bachelor/V28.pdf
-    46:
-      dirs:
-      - FP_Master/V47_Faraday
-      pdfs:
-      - FP_Master/V47_Faraday/build/main.pdf
-    47:
-      dirs: []
-      pdfs:
-      - FP_Bachelor/V47.pdf
-    51:
-      dirs:
-      - FP_Master/V51_Operationsverstaerker
-      pdfs:
-      - FP_Master/V51_Operationsverstaerker/build/main.pdf
-    61:
-      dirs: []
-      pdfs:
-      - FP_Bachelor/V61.pdf
-    64:
-      dirs:
-      - FP_Master/V64_Interferometrie
-      pdfs:
-      - FP_Master/V64_Interferometrie/build/main.pdf
 - authors:
   - Maximilian Sackel
   - Noah Biederbeck

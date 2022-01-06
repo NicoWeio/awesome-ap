@@ -8,30 +8,30 @@
 
 |Nr.|                                Name                                 |                        |# Repos|
 |--:|---------------------------------------------------------------------|------------------------|------:|
-|  1|Lebensdauer der Myonen                                               |[Übersicht](versuch/1)  |     17|
-| 14|Tomographie mit Gamma-Strahlung                                      |[Übersicht](versuch/14) |     21|
+|  1|Lebensdauer der Myonen                                               |[Übersicht](versuch/1)  |     16|
+| 14|Tomographie mit Gamma-Strahlung                                      |[Übersicht](versuch/14) |     20|
 | 15|Vermessung und Untersuchung von Silizium-Streifensensoren            |[Übersicht](versuch/15) |      2|
 | 16|Rutherford-Streuung                                                  |[Übersicht](versuch/16) |     11|
-| 18|Der Reinst-Germanium-Detektor als Instrument der Gamma-Spektroskopie |[Übersicht](versuch/18) |     14|
+| 18|Der Reinst-Germanium-Detektor als Instrument der Gamma-Spektroskopie |[Übersicht](versuch/18) |     13|
 | 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     27|
 | 23|Quanten-Analogien                                                    |[Übersicht](versuch/23) |      9|
 | 25|Der Stern-Gerlach-Versuch                                            |[Übersicht](versuch/25) |      3|
-| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     30|
-| 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      9|
+| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     29|
+| 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      8|
 | 41|Debye-Scherrer-Aufnahmen                                             |[Übersicht](versuch/41) |      6|
 | 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |      6|
-| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     31|
-| 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     22|
+| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     30|
+| 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     21|
 | 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     19|
 | 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     10|
-| 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |      7|
+| 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |      6|
 | 52|Signale auf Leitungen                                                |[Übersicht](versuch/52) |      3|
 | 53|Mikrowellen auf Hohlleitern                                          |[Übersicht](versuch/53) |     14|
 | 57|Elektrische Schwankungserscheinungen                                 |[Übersicht](versuch/57) |      2|
 | 59|Modulation und Demodulation elektrischer Schwingungen                |[Übersicht](versuch/59) |      4|
 | 60|Diodenlaser                                                          |[Übersicht](versuch/60) |     11|
-| 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     28|
-| 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     16|
+| 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     27|
+| 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     15|
 | 65|Röntgenreflektrometrie                                               |[Übersicht](versuch/65) |      1|
 | 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |      9|
 |101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     28|
@@ -153,7 +153,7 @@
 |[LiigaSoolane/Paktikum-mit-dem-Teufel](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)                  |[Übersicht](repo/LiigaSoolane/Paktikum-mit-dem-Teufel)         |04.07.2021 12:03:23|          19|                   15|
 |[LuckyJosh/APPhysik](https://github.com/LuckyJosh/APPhysik)                                                      |[Übersicht](repo/LuckyJosh/APPhysik)                           |08.07.2014 19:22:20|          20|                    0|
 |[LuckyJosh/PhysikFP2015](https://github.com/LuckyJosh/PhysikFP2015)                                              |[Übersicht](repo/LuckyJosh/PhysikFP2015)                       |04.04.2020 14:53:48|          11|                    3|
-|[lukas-bert/AP-1-Versuchsprotokolle](https://github.com/lukas-bert/AP-1-Versuchsprotokolle)                      |[Übersicht](repo/lukas-bert/AP-1-Versuchsprotokolle)           |04.01.2022 15:08:11|           6|                    0|
+|[lukas-bert/AP-1-Versuchsprotokolle](https://github.com/lukas-bert/AP-1-Versuchsprotokolle)                      |[Übersicht](repo/lukas-bert/AP-1-Versuchsprotokolle)           |05.01.2022 14:38:06|           6|                    0|
 |[LukasNickel/praktikumsskripte](https://github.com/LukasNickel/praktikumsskripte)                                |[Übersicht](repo/LukasNickel/praktikumsskripte)                |23.12.2015 11:59:52|           4|                    3|
 |[maaxxns/FP_Samuel_Max](https://github.com/maaxxns/FP_Samuel_Max)                                                |[Übersicht](repo/maaxxns/FP_Samuel_Max)                        |14.08.2021 11:03:17|           5|                    0|
 |[MagischeMiesmuschel/AnfaengerPraktikum](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)              |[Übersicht](repo/MagischeMiesmuschel/AnfaengerPraktikum)       |20.08.2018 09:40:55|          23|                   14|
@@ -167,7 +167,6 @@
 |[MaxSac/FP-Praktikum](https://github.com/MaxSac/FP-Praktikum)                                                    |[Übersicht](repo/MaxSac/FP-Praktikum)                          |12.06.2017 21:24:30|           5|                    1|
 |[moritzbo/anfaenger_praktikum](https://github.com/moritzbo/anfaenger_praktikum)                                  |[Übersicht](repo/moritzbo/anfaenger_praktikum)                 |30.06.2021 11:21:40|          18|                    0|
 |[moritzbo/fortgeschrittenes_praktikum](https://github.com/moritzbo/fortgeschrittenes_praktikum)                  |[Übersicht](repo/moritzbo/fortgeschrittenes_praktikum)         |20.12.2021 19:35:55|           4|                    4|
-|[mwindau/FP](https://github.com/mwindau/FP)                                                                      |[Übersicht](repo/mwindau/FP)                                   |01.03.2020 10:37:00|          10|                   10|
 |[nbiederbeck/masterpraktikum](https://github.com/nbiederbeck/masterpraktikum)                                    |[Übersicht](repo/nbiederbeck/masterpraktikum)                  |01.04.2019 14:28:09|           5|                    0|
 |[NicoJG/Anfaengerpraktikum](https://github.com/NicoJG/Anfaengerpraktikum)                                        |[Übersicht](repo/NicoJG/Anfaengerpraktikum)                    |22.12.2021 18:59:30|          21|                   20|
 |[NicoJG/Fortgeschrittenenpraktikum](https://github.com/NicoJG/Fortgeschrittenenpraktikum)                        |[Übersicht](repo/NicoJG/Fortgeschrittenenpraktikum)            |02.08.2021 21:06:42|           5|                    5|
@@ -206,12 +205,12 @@
 
 
 ## Statistiken
-- **113** Repos
+- **112** Repos
 - **76** Versuche
-- **1357** Protokolle
-- **446** Protokolle mit PDFs
+- **1347** Protokolle
+- **436** Protokolle mit PDFs
 - **355** PDFs von _awesome-ap-pdfs_
-- **581** PDFs insgesamt
+- **571** PDFs insgesamt
 
 <p>Zuletzt aktualisiert: <span id="last-modified">[lade…]</span></p>
 <script async>
