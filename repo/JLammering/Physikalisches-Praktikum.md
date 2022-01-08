@@ -1,6 +1,6 @@
 # [JLammering/Physikalisches-Praktikum](https://github.com/JLammering/Physikalisches-Praktikum)
 
-Letzter Commit: 03.10.2016 20:42:54
+Letzter Commit: 07.01.2022 11:22:35
 
 ## Autoren (Klarnamen)
 - Timo Gräßer
@@ -9,6 +9,7 @@ Letzter Commit: 03.10.2016 20:42:54
 ## Autoren (GitHub)
 - [JLammering](https://github.com/JLammering)
 - [larsfu](https://github.com/larsfu)
+- [NicoWeio](https://github.com/NicoWeio)
 - [TIm097](https://github.com/TIm097)
 
 ## Versuche
