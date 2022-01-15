@@ -34,10 +34,11 @@ jobs:
           INPUT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           REPOS_BASE_PATH: REPOS
     - name: Deploy to GitHub Pages 🚀
-      uses: JamesIves/github-pages-deploy-action@3.7.1
+      uses: JamesIves/github-pages-deploy-action@v4
       with:
-          BRANCH: gh-pages
-          CLEAN: true
-          FOLDER: build
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          SINGLE_COMMIT: false
+          branch: gh-pages
+          clean: true
+          folder: build
+          git-config-email: github-actions[bot]@users.noreply.github.com
+          git-config-name: github-actions[bot]
+          single-commit: false
