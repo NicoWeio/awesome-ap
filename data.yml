@@ -2573,17 +2573,22 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-01-17 20:36:56
+  last_commit: 2022-01-18 15:58:58
   protokolle:
     101:
       dirs:
       - v101-Traegheitsmomente
       pdfs:
       - Protokolle/v101.pdf
+    103:
+      dirs:
+      - v103-BiegungStaebe
+      pdfs: []
     107:
       dirs:
       - v107-Viskosimeter
-      pdfs: []
+      pdfs:
+      - Protokolle/v107.pdf
     203:
       dirs:
       - v203-Verdampfungswaerme
@@ -2592,7 +2597,8 @@
     302:
       dirs:
       - v302-Brueckenschaltungen
-      pdfs: []
+      pdfs:
+      - Protokolle/v302.pdf
     305:
       dirs:
       - V305-Magnetfelder
@@ -3745,7 +3751,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-01-15 21:24:47
+  last_commit: 2022-01-18 17:03:02
   protokolle:
     101:
       dirs:
@@ -3758,6 +3764,10 @@
     106:
       dirs:
       - v106
+      pdfs: []
+    203:
+      dirs:
+      - v203
       pdfs: []
     206:
       dirs:
