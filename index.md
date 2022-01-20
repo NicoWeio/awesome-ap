@@ -24,7 +24,7 @@
 | 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     21|
 | 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     19|
 | 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     10|
-| 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |      6|
+| 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |      7|
 | 52|Signale auf Leitungen                                                |[Übersicht](versuch/52) |      3|
 | 53|Mikrowellen auf Hohlleitern                                          |[Übersicht](versuch/53) |     14|
 | 57|Elektrische Schwankungserscheinungen                                 |[Übersicht](versuch/57) |      2|
@@ -39,7 +39,7 @@
 |103|Biegung elastischer Stäbe                                            |[Übersicht](versuch/103)|     36|
 |104|Der Doppler-Effekt                                                   |[Übersicht](versuch/104)|      9|
 |105|Das magnetische Moment                                               |[Übersicht](versuch/105)|      8|
-|106|Gekoppelte Pendel                                                    |[Übersicht](versuch/106)|     19|
+|106|Gekoppelte Pendel                                                    |[Übersicht](versuch/106)|     20|
 |107|Das Kugelfall-Viskosimeter nach Höppler                              |[Übersicht](versuch/107)|     11|
 |201|Das Dulong-Petit-Gesetz                                              |[Übersicht](versuch/201)|     26|
 |203|Verdampfungswärme und Dampfdruckkurve                                |[Übersicht](versuch/203)|     22|
@@ -92,7 +92,7 @@
 |-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------|-----------:|--------------------:|
 |[AReinold/Bachelor-FP](https://github.com/AReinold/Bachelor-FP)                                                  |[Übersicht](repo/AReinold/Bachelor-FP)                         |09.07.2018 09:47:30|           5|                    1|
 |[AReinold/Master-FP](https://github.com/AReinold/Master-FP)                                                      |[Übersicht](repo/AReinold/Master-FP)                           |22.03.2020 13:24:47|           5|                    3|
-|[Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)                                            |[Übersicht](repo/Bastian125/AP-Praktikum)                      |17.01.2022 12:42:20|           8|                    3|
+|[Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)                                            |[Übersicht](repo/Bastian125/AP-Praktikum)                      |19.01.2022 20:52:45|           8|                    3|
 |[BenediktSan/AnfaengerPraktikum2020](https://github.com/BenediktSan/AnfaengerPraktikum2020)                      |[Übersicht](repo/BenediktSan/AnfaengerPraktikum2020)           |05.07.2021 21:32:58|          19|                   16|
 |[bixel/AP1213](https://github.com/bixel/AP1213)                                                                  |[Übersicht](repo/bixel/AP1213)                                 |15.03.2014 13:00:24|          23|                   23|
 |[bixel/FP14](https://github.com/bixel/FP14)                                                                      |[Übersicht](repo/bixel/FP14)                                   |07.10.2016 19:42:14|          11|                    0|
@@ -141,11 +141,11 @@
 |[komrozik/AP2019](https://github.com/komrozik/AP2019)                                                            |[Übersicht](repo/komrozik/AP2019)                              |02.05.2021 15:27:33|          16|                   13|
 |[komrozik/AP2020](https://github.com/komrozik/AP2020)                                                            |[Übersicht](repo/komrozik/AP2020)                              |10.06.2020 06:07:44|           3|                    3|
 |[komrozik/FP2021](https://github.com/komrozik/FP2021)                                                            |[Übersicht](repo/komrozik/FP2021)                              |05.10.2021 22:37:18|           5|                    4|
-|[komrozik/Master_FP](https://github.com/komrozik/Master_FP)                                                      |[Übersicht](repo/komrozik/Master_FP)                           |11.12.2021 13:22:22|           2|                    0|
+|[komrozik/Master_FP](https://github.com/komrozik/Master_FP)                                                      |[Übersicht](repo/komrozik/Master_FP)                           |19.01.2022 16:28:33|           3|                    0|
 |[larsfu/ap](https://github.com/larsfu/ap)                                                                        |[Übersicht](repo/larsfu/ap)                                    |05.10.2016 11:32:36|          23|                   15|
 |[larsfu/fp](https://github.com/larsfu/fp)                                                                        |[Übersicht](repo/larsfu/fp)                                    |10.09.2017 14:33:08|           5|                    4|
 |[LarsKolk/Anfaengerpraktikum](https://github.com/LarsKolk/Anfaengerpraktikum)                                    |[Übersicht](repo/LarsKolk/Anfaengerpraktikum)                  |11.08.2018 16:09:33|          23|                   17|
-|[lassestern/FP_Master](https://github.com/lassestern/FP_Master)                                                  |[Übersicht](repo/lassestern/FP_Master)                         |17.01.2022 17:41:02|           4|                    0|
+|[lassestern/FP_Master](https://github.com/lassestern/FP_Master)                                                  |[Übersicht](repo/lassestern/FP_Master)                         |19.01.2022 22:30:23|           4|                    0|
 |[lassestern/Lasse_Praktikum](https://github.com/lassestern/Lasse_Praktikum)                                      |[Übersicht](repo/lassestern/Lasse_Praktikum)                   |26.05.2020 06:37:27|           3|                    0|
 |[lassestern/praktikum-david-lasse](https://github.com/lassestern/praktikum-david-lasse)                          |[Übersicht](repo/lassestern/praktikum-david-lasse)             |24.07.2020 22:21:57|           6|                    2|
 |[lfighter/FortgeschrittenesPraktikum](https://github.com/lfighter/FortgeschrittenesPraktikum)                    |[Übersicht](repo/lfighter/FortgeschrittenesPraktikum)          |20.08.2018 21:53:55|           5|                    0|
@@ -153,7 +153,7 @@
 |[LiigaSoolane/Paktikum-mit-dem-Teufel](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)                  |[Übersicht](repo/LiigaSoolane/Paktikum-mit-dem-Teufel)         |04.07.2021 12:03:23|          19|                   15|
 |[LuckyJosh/APPhysik](https://github.com/LuckyJosh/APPhysik)                                                      |[Übersicht](repo/LuckyJosh/APPhysik)                           |08.07.2014 19:22:20|          20|                    0|
 |[LuckyJosh/PhysikFP2015](https://github.com/LuckyJosh/PhysikFP2015)                                              |[Übersicht](repo/LuckyJosh/PhysikFP2015)                       |04.04.2020 14:53:48|          11|                    3|
-|[lukas-bert/AP-1-Versuchsprotokolle](https://github.com/lukas-bert/AP-1-Versuchsprotokolle)                      |[Übersicht](repo/lukas-bert/AP-1-Versuchsprotokolle)           |18.01.2022 17:03:02|           8|                    0|
+|[lukas-bert/AP-1-Versuchsprotokolle](https://github.com/lukas-bert/AP-1-Versuchsprotokolle)                      |[Übersicht](repo/lukas-bert/AP-1-Versuchsprotokolle)           |19.01.2022 20:00:46|           8|                    0|
 |[LukasNickel/praktikumsskripte](https://github.com/LukasNickel/praktikumsskripte)                                |[Übersicht](repo/LukasNickel/praktikumsskripte)                |23.12.2015 11:59:52|           4|                    3|
 |[maaxxns/FP_Samuel_Max](https://github.com/maaxxns/FP_Samuel_Max)                                                |[Übersicht](repo/maaxxns/FP_Samuel_Max)                        |14.08.2021 11:03:17|           5|                    0|
 |[MagischeMiesmuschel/AnfaengerPraktikum](https://github.com/MagischeMiesmuschel/AnfaengerPraktikum)              |[Übersicht](repo/MagischeMiesmuschel/AnfaengerPraktikum)       |20.08.2018 09:40:55|          23|                   14|
@@ -198,7 +198,7 @@
 |[Tahirbanane/AP](https://github.com/Tahirbanane/AP)                                                              |[Übersicht](repo/Tahirbanane/AP)                               |08.07.2021 14:44:07|          18|                   15|
 |[TimBizeps/BachelorAP](https://github.com/TimBizeps/BachelorAP)                                                  |[Übersicht](repo/TimBizeps/BachelorAP)                         |26.09.2018 13:21:16|          24|                   18|
 |[TRose27/FP](https://github.com/TRose27/FP)                                                                      |[Übersicht](repo/TRose27/FP)                                   |15.04.2019 08:32:51|           5|                    0|
-|[ttros/Praktikum](https://github.com/ttros/Praktikum)                                                            |[Übersicht](repo/ttros/Praktikum)                              |17.01.2022 19:04:09|           7|                    0|
+|[ttros/Praktikum](https://github.com/ttros/Praktikum)                                                            |[Übersicht](repo/ttros/Praktikum)                              |19.01.2022 14:08:56|           8|                    0|
 |[Vale112/FP_B_SS19](https://github.com/Vale112/FP_B_SS19)                                                        |[Übersicht](repo/Vale112/FP_B_SS19)                            |13.09.2019 09:06:37|           5|                    0|
 |[woklop9/Anfaengerpraktikum](https://github.com/woklop9/Anfaengerpraktikum)                                      |[Übersicht](repo/woklop9/Anfaengerpraktikum)                   |11.07.2018 07:44:51|          21|                   17|
 |[YanickKi/AP_T_Y](https://github.com/YanickKi/AP_T_Y)                                                            |[Übersicht](repo/YanickKi/AP_T_Y)                              |05.07.2021 12:36:30|          19|                   15|
@@ -207,7 +207,7 @@
 ## Statistiken
 - **112** Repos
 - **76** Versuche
-- **1354** Protokolle
+- **1356** Protokolle
 - **437** Protokolle mit PDFs
 - **355** PDFs von _awesome-ap-pdfs_
 - **572** PDFs insgesamt

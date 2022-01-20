@@ -75,7 +75,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-01-17 12:42:20
+  last_commit: 2022-01-19 20:52:45
   protokolle:
     101:
       dirs:
@@ -3140,11 +3140,15 @@
   - html_url: https://github.com/DaGutn
     login: DaGutn
   full_name: komrozik/Master_FP
-  last_commit: 2021-12-11 13:22:22
+  last_commit: 2022-01-19 16:28:33
   protokolle:
     27:
       dirs:
       - V27-Zeemann_Effekt
+      pdfs: []
+    51:
+      dirs:
+      - V51-Operationsverstaerker
       pdfs: []
     60:
       dirs:
@@ -3295,7 +3299,7 @@
   - html_url: https://github.com/lassestern
     login: lassestern
   full_name: lassestern/FP_Master
-  last_commit: 2022-01-17 17:41:02
+  last_commit: 2022-01-19 22:30:23
   protokolle:
     14:
       dirs:
@@ -3751,7 +3755,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-01-18 17:03:02
+  last_commit: 2022-01-19 20:00:46
   protokolle:
     101:
       dirs:
@@ -6998,11 +7002,15 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-01-17 19:04:09
+  last_commit: 2022-01-19 14:08:56
   protokolle:
     103:
       dirs:
       - Protokolle/v103
+      pdfs: []
+    106:
+      dirs:
+      - Protokolle/v106
       pdfs: []
     107:
       dirs:
