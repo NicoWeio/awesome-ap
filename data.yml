@@ -2573,7 +2573,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-01-22 14:53:51
+  last_commit: 2022-01-24 18:18:01
   protokolle:
     101:
       dirs:
@@ -3299,7 +3299,7 @@
   - html_url: https://github.com/lassestern
     login: lassestern
   full_name: lassestern/FP_Master
-  last_commit: 2022-01-20 16:53:25
+  last_commit: 2022-01-24 18:47:50
   protokolle:
     14:
       dirs:
@@ -3312,6 +3312,10 @@
     44:
       dirs:
       - V44_Roentgenreflektometrie
+      pdfs: []
+    60:
+      dirs:
+      - V60_Diodenlaser
       pdfs: []
     61:
       dirs:
@@ -3755,7 +3759,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-01-23 11:48:56
+  last_commit: 2022-01-24 16:04:21
   protokolle:
     101:
       dirs:
@@ -7002,7 +7006,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-01-23 17:50:06
+  last_commit: 2022-01-24 15:49:19
   protokolle:
     103:
       dirs:
