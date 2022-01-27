@@ -1,6 +1,6 @@
 # [lassestern/FP_Master](https://github.com/lassestern/FP_Master)
 
-Letzter Commit: 24.01.2022 18:47:50
+Letzter Commit: 26.01.2022 09:16:55
 
 ## Autoren (Klarnamen)
 - Michael Gutnikov

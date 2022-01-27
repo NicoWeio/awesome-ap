@@ -3299,7 +3299,7 @@
   - html_url: https://github.com/lassestern
     login: lassestern
   full_name: lassestern/FP_Master
-  last_commit: 2022-01-24 18:47:50
+  last_commit: 2022-01-26 09:16:55
   protokolle:
     14:
       dirs:
@@ -4484,7 +4484,7 @@
   - html_url: https://github.com/PhilippZo
     login: PhilippZo
   full_name: moritzbo/fortgeschrittenes_praktikum
-  last_commit: 2022-01-07 14:52:19
+  last_commit: 2022-01-26 16:43:17
   protokolle:
     1:
       dirs:
@@ -4496,6 +4496,7 @@
       pdfs: []
     48:
       dirs:
+      - V14
       - V48Dipol
       pdfs: []
     53:
