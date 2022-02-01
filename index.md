@@ -129,7 +129,7 @@
 |[Jean1995/PraktikumFP](https://github.com/Jean1995/PraktikumFP)                                                  |[Übersicht](repo/Jean1995/PraktikumFP)                         |01.11.2017 20:55:46|           5|                    0|
 |[JLammering/Master-Praktikum](https://github.com/JLammering/Master-Praktikum)                                    |[Übersicht](repo/JLammering/Master-Praktikum)                  |28.08.2020 11:36:06|           9|                    9|
 |[JLammering/Physikalisches-Praktikum](https://github.com/JLammering/Physikalisches-Praktikum)                    |[Übersicht](repo/JLammering/Physikalisches-Praktikum)          |07.01.2022 11:22:35|          15|                   10|
-|[joeyko2706/Anfaengerpraktikum-20-21](https://github.com/joeyko2706/Anfaengerpraktikum-20-21)                    |[Übersicht](repo/joeyko2706/Anfaengerpraktikum-20-21)          |30.01.2022 19:32:12|           9|                    6|
+|[joeyko2706/Anfaengerpraktikum-20-21](https://github.com/joeyko2706/Anfaengerpraktikum-20-21)                    |[Übersicht](repo/joeyko2706/Anfaengerpraktikum-20-21)          |31.01.2022 11:50:06|           9|                    8|
 |[jpherdi/FP_20_21](https://github.com/jpherdi/FP_20_21)                                                          |[Übersicht](repo/jpherdi/FP_20_21)                             |27.03.2021 12:47:42|           5|                    0|
 |[jpherdi/Praktikum](https://github.com/jpherdi/Praktikum)                                                        |[Übersicht](repo/jpherdi/Praktikum)                            |22.08.2020 14:15:53|           4|                    0|
 |[JulianSch/FP-Pelle-Julian](https://github.com/JulianSch/FP-Pelle-Julian)                                        |[Übersicht](repo/JulianSch/FP-Pelle-Julian)                    |06.11.2018 13:29:35|           5|                    4|
@@ -208,9 +208,9 @@
 - **112** Repos
 - **76** Versuche
 - **1357** Protokolle
-- **437** Protokolle mit PDFs
+- **439** Protokolle mit PDFs
 - **355** PDFs von _awesome-ap-pdfs_
-- **572** PDFs insgesamt
+- **574** PDFs insgesamt
 
 <p>Zuletzt aktualisiert: <span id="last-modified">[lade…]</span></p>
 <script async>
