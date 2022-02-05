@@ -4494,11 +4494,15 @@
   - html_url: https://github.com/PhilippZo
     login: PhilippZo
   full_name: moritzbo/fortgeschrittenes_praktikum
-  last_commit: 2022-01-27 16:36:32
+  last_commit: 2022-02-04 16:07:59
   protokolle:
     1:
       dirs:
       - V01komischeMyonese
+      pdfs: []
+    14:
+      dirs:
+      - V14
       pdfs: []
     46:
       dirs:
@@ -4506,7 +4510,6 @@
       pdfs: []
     48:
       dirs:
-      - V14
       - V48Dipol
       pdfs: []
     53:
