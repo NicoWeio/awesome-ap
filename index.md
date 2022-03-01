@@ -200,7 +200,7 @@
 |[TRose27/FP](https://github.com/TRose27/FP)                                                                      |[Übersicht](repo/TRose27/FP)                                   |15.04.2019 08:32:51|           5|                    0|
 |[ttros/Praktikum](https://github.com/ttros/Praktikum)                                                            |[Übersicht](repo/ttros/Praktikum)                              |24.01.2022 15:49:19|           8|                    0|
 |[Vale112/FP_B_SS19](https://github.com/Vale112/FP_B_SS19)                                                        |[Übersicht](repo/Vale112/FP_B_SS19)                            |13.09.2019 09:06:37|           5|                    0|
-|[woklop9/Anfaengerpraktikum](https://github.com/woklop9/Anfaengerpraktikum)                                      |[Übersicht](repo/woklop9/Anfaengerpraktikum)                   |11.07.2018 07:44:51|          21|                   17|
+|[woklop9/Anfaengerpraktikum](https://github.com/lwitthaus/Anfaengerpraktikum)                                    |[Übersicht](repo/woklop9/Anfaengerpraktikum)                   |11.07.2018 07:44:51|          21|                   17|
 |[YanickKi/AP_T_Y](https://github.com/YanickKi/AP_T_Y)                                                            |[Übersicht](repo/YanickKi/AP_T_Y)                              |05.07.2021 12:36:30|          19|                   15|
 
 
