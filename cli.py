@@ -4,6 +4,7 @@ from awesome_ap.console import *
 from awesome_ap.exporting.export import serialize_repo
 from awesome_ap.importing.import_repo import import_repo
 import click
+from collections import OrderedDict
 import github
 import os
 import yaml
@@ -30,7 +31,10 @@ def main(repo_name):
     for repo_to_import in repos_to_import:
         # Exceptions werden hier bewusst nicht gefangen. Für den Moment ist das CLI nur ein Tool zum Debuggen.
         imported_repo = import_repo(Repo(repo_to_import, gh))
-        debug(serialize_repo(imported_repo))
+        serialized_repo = serialize_repo(imported_repo)
+        # sort serialized_repo['protokolle'] for a nicer output
+        serialized_repo['protokolle'] = dict(sorted(serialized_repo['protokolle'].items()))
+        debug(serialized_repo)
 
     console.print("Done! 🎉", style='bold')
 
