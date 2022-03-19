@@ -144,6 +144,7 @@
 - name: KarlSchiller/2018-WS-FP
   dirs_to_versuche:
     V00: false
+- name: kasperyvonne/MasterFP
 - name: katrinbls/FP
 - name: KattiBrae/APWS201718
   dirs_to_versuche:
@@ -151,6 +152,19 @@
   subdirectory:
     - AP1
     - AP2
+- name: KattiBrae/FPWS201819
+  subdirectory:
+    - BA_FP_Protokolle
+    - MA_FP
+  dirs_to_versuche:
+    abtestiert_HeNeLaser: 61
+    abtestiert_Myonen: 1
+    abtestiert_optisches_pumpen: 21
+    abtestiert_Quanten: 23
+    abtestiert_Zeeman-Effekt: 27
+    fp_prüfung: false
+    protokollgerüst: false
+    rutherford_abtestat: 16
 # NOTE: KevSed/Praktikum_FP ist scheinbar eine ältere Version des Repos
 - name: KevSed/Praktikum
 # TODO: PDFs unregelmäßig benannt
@@ -233,6 +247,7 @@
 - name: LukasNickel/praktikumsskripte
   pdfs:
     in_source_dir: true
+- name: lwitthaus/Anfaengerpraktikum
 - name: maaxxns/FP_Samuel_Max
 - name: MagischeMiesmuschel/AnfaengerPraktikum
 - name: MagischeMiesmuschel/FPMaster
@@ -266,6 +281,9 @@
 - name: MaxSac/FP-Praktikum
   parsing:
     dirname: false
+- name: MariusHotte/MaFP_HuMa
+  pdfs:
+    in_source_dir: true
 - name: moritzbo/anfaenger_praktikum
 - name: moritzbo/fortgeschrittenes_praktikum
 - name: mwindau/FP
@@ -367,6 +385,9 @@
   dirs_to_versuche:
     template: false
 - name: smjolame/Praktikum_1
+  pdfs:
+    in_source_dir: true
+- name: smrakais/Master-Praktikum
   pdfs:
     in_source_dir: true
 - name: stefangri/s_s_masterpraktikum
