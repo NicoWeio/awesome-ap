@@ -2782,6 +2782,34 @@
       - V60-Diodenlaser
       pdfs: []
 - authors:
+  - Robert Appel
+  - Yvonne Kasper
+  branch: master
+  contributors: []
+  full_name: kasperyvonne/MasterFP
+  last_commit: 2019-03-11 11:50:18
+  protokolle:
+    21:
+      dirs:
+      - V21-Optisches_Pumpen
+      pdfs: []
+    48:
+      dirs:
+      - V48 Dipolrelaxation
+      pdfs: []
+    49:
+      dirs:
+      - V49-NMR
+      pdfs: []
+    61:
+      dirs:
+      - V61-HeNe-Laser
+      pdfs: []
+    64:
+      dirs:
+      - V64-Interferometrie
+      pdfs: []
+- authors:
   - Katrin Bolsmann
   - Miriam Simm
   branch: master
@@ -2918,6 +2946,58 @@
     903:
       dirs:
       - AP2/US3
+      pdfs: []
+- authors:
+  - "Katharina Br\xE4gelmann"
+  - Lars Kolk
+  branch: master
+  contributors:
+  - html_url: https://github.com/KattiBrae
+    login: KattiBrae
+  - html_url: https://github.com/LarsKolk
+    login: LarsKolk
+  full_name: KattiBrae/FPWS201819
+  last_commit: 2020-05-30 13:05:20
+  protokolle:
+    1:
+      dirs:
+      - BA_FP_Protokolle/abtestiert_Myonen
+      pdfs: []
+    16:
+      dirs:
+      - MA_FP/rutherford_abtestat
+      pdfs: []
+    18:
+      dirs:
+      - MA_FP/germanium_abtestat
+      pdfs: []
+    21:
+      dirs:
+      - BA_FP_Protokolle/abtestiert_optisches_pumpen
+      pdfs: []
+    23:
+      dirs:
+      - BA_FP_Protokolle/abtestiert_Quanten
+      pdfs: []
+    27:
+      dirs:
+      - BA_FP_Protokolle/abtestiert_Zeeman-Effekt
+      pdfs: []
+    44:
+      dirs:
+      - MA_FP/xrr_abtestat
+      pdfs: []
+    47:
+      dirs:
+      - MA_FP/molwarme_abtestat
+      pdfs: []
+    61:
+      dirs:
+      - BA_FP_Protokolle/abtestiert_HeNeLaser
+      pdfs: []
+    64:
+      dirs:
+      - MA_FP/interferometrie_abtestat
       pdfs: []
 - authors:
   - Kevin Sedlaczek
@@ -3833,6 +3913,102 @@
       pdfs:
       - V354/main.pdf
 - authors:
+  - Christopher Krause
+  - Lucas Witthaus
+  branch: master
+  contributors:
+  - html_url: https://github.com/Christopherkrause1
+    login: Christopherkrause1
+  - html_url: https://github.com/lwitthaus
+    login: lwitthaus
+  full_name: lwitthaus/Anfaengerpraktikum
+  last_commit: 2018-07-11 07:44:51
+  protokolle:
+    101:
+      dirs:
+      - V101-Traegheitsmoment
+      pdfs: []
+    103:
+      dirs:
+      - V103-Biegung
+      pdfs: []
+    206:
+      dirs:
+      - V206-Waermepumpe
+      pdfs: []
+    301:
+      dirs:
+      - V301-EMK
+      pdfs: []
+    302:
+      dirs:
+      - V302-Brueckenschaltung
+      pdfs: []
+    303:
+      dirs:
+      - V303-Lock-In
+      pdfs: []
+    351:
+      dirs:
+      - V351-Fourier
+      pdfs: []
+    353:
+      dirs:
+      - V353-Relaxation
+      pdfs: []
+    354:
+      dirs:
+      - V354-Schwingung
+      pdfs: []
+    402:
+      dirs:
+      - V402-Dispersion
+      pdfs: []
+    406:
+      dirs:
+      - V406-Beugung
+      pdfs: []
+    408:
+      dirs:
+      - V408-Optik
+      pdfs: []
+    500:
+      dirs:
+      - V500-Photoeffekt
+      pdfs: []
+    501:
+      dirs:
+      - V501,2- Elektronenstrahl
+      pdfs: []
+    602:
+      dirs:
+      - V602-Roentgenemission
+      pdfs: []
+    606:
+      dirs:
+      - V606-Suszeptibilitaet
+      pdfs: []
+    701:
+      dirs:
+      - V701-Alphastrahlung
+      pdfs: []
+    703:
+      dirs:
+      - V703-Geigerzaehler
+      pdfs: []
+    704:
+      dirs:
+      - V704-Strahlungsabsorption
+      pdfs: []
+    902:
+      dirs:
+      - US-2
+      pdfs: []
+    903:
+      dirs:
+      - US-3
+      pdfs: []
+- authors:
   - Max Koch
   - Samuel Haefs
   branch: main
@@ -4396,6 +4572,62 @@
       dirs:
       - 04-10.05.2017
       pdfs: []
+- authors:
+  - Hubertus Kaiser
+  - "Marius H\xF6tting"
+  branch: master
+  contributors:
+  - html_url: https://github.com/MariusHotte
+    login: MariusHotte
+  full_name: MariusHotte/MaFP_HuMa
+  last_commit: 2019-04-25 05:07:27
+  protokolle:
+    15:
+      dirs:
+      - V15
+      pdfs:
+      - V15/build/Protokoll.pdf
+    16:
+      dirs:
+      - V16
+      pdfs:
+      - V16/build/Protokoll.pdf
+    21:
+      dirs:
+      - V21
+      pdfs:
+      - V21/build/Protokoll.pdf
+    27:
+      dirs:
+      - V27
+      pdfs:
+      - V27/build/Protokoll.pdf
+    41:
+      dirs:
+      - V41
+      pdfs:
+      - V41/V41.pdf
+    48:
+      dirs:
+      - v48
+      pdfs:
+      - v48/V48.pdf
+    49:
+      dirs:
+      - V49
+      pdfs:
+      - V49/Protokoll.pdf
+      - V49/V49.pdf
+    59:
+      dirs:
+      - V59
+      pdfs:
+      - V59/V59(1).pdf
+    60:
+      dirs:
+      - V60
+      pdfs:
+      - V60/V60_Skript.pdf
 - authors:
   - Moritz Bosse
   - Philipp Zolthoff
@@ -6501,6 +6733,40 @@
       - Grundlagen_der_Ultraschalltechnik
       pdfs:
       - Grundlagen_der_Ultraschalltechnik/V901.pdf
+- authors:
+  - Karina Overhoff
+  - Raphael Rico Kaiser
+  branch: main
+  contributors:
+  - html_url: https://github.com/smrakais
+    login: smrakais
+  - html_url: https://github.com/karina1007
+    login: karina1007
+  full_name: smrakais/Master-Praktikum
+  last_commit: 2022-02-25 14:20:13
+  protokolle:
+    1:
+      dirs:
+      - v01
+      pdfs: []
+    44:
+      dirs:
+      - v44
+      pdfs: []
+    49:
+      dirs:
+      - v49
+      pdfs: []
+    51:
+      dirs:
+      - v51
+      pdfs:
+      - v51/altprotokoll_anneke.pdf
+    64:
+      dirs:
+      - v64
+      pdfs:
+      - v64/ProtokollV64_Overhoff_Korrektur.pdf
 - authors:
   - Stefan Grisard
   - Steven Becker
