@@ -1,13 +1,12 @@
+from .classes.repo import Repo
+from .config import GITHUB_TOKEN
+from .console import *
+from .exporting.export import serialize_repo
+from .importing.import_repo import import_repo
 import click
 import github
 import os
 import yaml
-
-from config import GITHUB_TOKEN
-from console import *
-from import_repo import import_repo
-from repo import Repo
-from export import serialize_repo
 
 # funktioniert auch ohne Token
 gh = github.Github(GITHUB_TOKEN)

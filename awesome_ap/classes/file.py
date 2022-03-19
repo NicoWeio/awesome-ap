@@ -1,6 +1,6 @@
+from .repo import Repo
 from dataclasses import dataclass, field
 from pathlib import Path
-from repo import Repo
 from urllib.parse import quote
 
 

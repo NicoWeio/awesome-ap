@@ -1,6 +1,6 @@
-from console import *
+from ..console import *
+from ..classes.file import File
 from datetime import datetime
-from file import File
 import os
 from pathlib import Path
 import pytablewriter
@@ -130,7 +130,7 @@ def generate_md(repos_to_versuche, versuche_to_repos, versuche_data, versuche_to
     out += '\n'
 
     # Die "Zuletzt aktualisiert"-Zeit wird dynamisch geladen, um im gh-pages-Branch leere Commits zu vermeiden.
-    out += Path('static/last_modified.html').read_text()
+    out += (Path(__file__).parent / 'static' / 'last_modified.html').read_text()
 
     if not dry_run:
         Path(f'build/index.md').write_text(out)

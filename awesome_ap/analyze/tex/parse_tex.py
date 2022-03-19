@@ -1,5 +1,5 @@
-from console import *
-from parse_tex_author import parse_macro_author
+from ...console import *
+from .parse_tex_author import parse_macro_author
 from pylatexenc.latexwalker import *
 from pylatexenc.macrospec import MacroSpec, MacroStandardArgsParser, LatexContextDb
 

@@ -1,6 +1,6 @@
+from ..console import *
+from .tex import parse_tex
 from collections import Counter
-from console import *
-import parse_tex
 import re
 
 

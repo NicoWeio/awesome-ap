@@ -1,10 +1,10 @@
-from config import REPOS_BASE_PATH
-from console import *
+from ..config import REPOS_BASE_PATH
+from ..console import *
+from ..misc import get_command_runner
+from .repo_config import RepoConfig
 from datetime import datetime
 import github
-from misc import get_command_runner
 from pathlib import Path
-from repo_config import RepoConfig
 from subprocess import CalledProcessError
 
 

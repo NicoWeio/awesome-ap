@@ -1,4 +1,4 @@
-from console import *
+from ...console import *
 from pylatexenc.latexwalker import *
 from pylatexenc.macrospec import MacroSpec, MacroStandardArgsParser, LatexContextDb
 import re

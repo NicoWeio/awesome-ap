@@ -2,15 +2,15 @@ import github
 import os
 import yaml
 
-from config import DEV, GITHUB_TOKEN, REPOS_BASE_PATH
-from console import *
-from find_common_files import find_common_files
-from generate import generate_md
-from import_repo import import_repo
-import transpose
-from repo import Repo
-from export import generate_yaml
-from import_external_pdfs import add_aap_pdfs
+from awesome_ap.analyze.find_common_files import find_common_files
+from awesome_ap.classes.repo import Repo
+from awesome_ap.config import DEV, GITHUB_TOKEN, REPOS_BASE_PATH
+from awesome_ap.console import *
+from awesome_ap.exporting.export import generate_yaml
+from awesome_ap.exporting.generate import generate_md
+from awesome_ap.importing.import_external_pdfs import add_aap_pdfs
+from awesome_ap.importing.import_repo import import_repo
+import awesome_ap.transpose as transpose
 
 # funktioniert auch ohne Token
 gh = github.Github(GITHUB_TOKEN)

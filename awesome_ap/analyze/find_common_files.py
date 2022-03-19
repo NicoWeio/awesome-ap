@@ -1,8 +1,8 @@
-from analyze_content import find_from_candidates
-from config import REPOS_BASE_PATH
-from console import *
-from file import File
-from misc import get_command_runner, md5sum, most
+from ..config import REPOS_BASE_PATH
+from ..console import *
+from ..classes.file import File
+from ..misc import get_command_runner, md5sum, most
+from .analyze_content import find_from_candidates
 import os
 from pathlib import Path
 

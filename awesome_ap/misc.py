@@ -1,4 +1,4 @@
-from console import console
+from .console import console
 import hashlib
 import subprocess
 

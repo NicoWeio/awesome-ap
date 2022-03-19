@@ -1,11 +1,10 @@
-import os
+from ..classes.repo import Repo
+from ..classes.file import File
+from ..console import *
 from pathlib import Path
 import subprocess
 from urllib.parse import quote
-
-from console import *
-from file import File
-from repo import Repo
+import os
 
 
 def add_aap_pdfs(repos, gh):

@@ -1,10 +1,10 @@
-from analyze_content import analyze_file, parse_versuch_nummer, find_from_candidates
-from config import REPOS_BASE_PATH
-from console import *
-from file import File
+from ..analyze.analyze_content import analyze_file, parse_versuch_nummer, find_from_candidates
+from ..config import REPOS_BASE_PATH
+from ..console import *
+from ..classes.file import File
+from ..classes.path import CoolPath
+from ..misc import get_command_runner
 import github
-from misc import get_command_runner
-from path import CoolPath
 import re
 import subprocess
 
