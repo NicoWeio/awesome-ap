@@ -3,6 +3,7 @@ from ..config import REPOS_BASE_PATH
 from ..console import *
 from ..classes.file import File
 from ..classes.path import CoolPath
+from ..classes.protokoll import Protokoll
 from ..misc import get_command_runner
 import github
 import re
@@ -94,7 +95,8 @@ def import_repo(source, refresh=True):
         dir_candidates.extend([CoolPath(f, cwd=source.cwd_path)
                               for f in subdir.iterdir() if f.is_dir() and not f.name.startswith('.')])
 
-    versuche = dict()
+    protokolle_map = dict()  # {versuch_num: protokoll}
+
     for dir in dir_candidates:
         if dir in explicit_subdirs:
             info(f'skipping explicit subdir "{dir}"')
@@ -106,10 +108,12 @@ def import_repo(source, refresh=True):
                                           source.config.parsing, analysis.get('versuch_nummer'))
         if not num:
             continue
-        elif num in versuche:
-            versuche[num]['dirs'].append(File(dir.full_path, source))
         else:
-            versuche.setdefault(num, {})['dirs'] = [File(dir.full_path, source)]
+            f = File(dir.full_path, source)
+            if num in protokolle_map:
+                protokolle_map[num].dirs.append(f)
+            else:
+                protokolle_map[num] = Protokoll(dirs=[f], pdfs=[], repo=source, versuch=num)
 
     if source.config.pdfs:
         for pdf_dir in source.config.pdfs['directories']:
@@ -122,35 +126,38 @@ def import_repo(source, refresh=True):
                 num = parse_versuch_nummer(pdf.name, source.config.dirs_to_versuche)
                 if not num:
                     continue
-                elif num in versuche and 'pdfs' in versuche[num]:
-                    versuche[num]['pdfs'].append(pdf)
                 else:
-                    versuche.setdefault(num, {})['pdfs'] = [pdf]
+                    if num in protokolle_map:
+                        protokolle_map[num].pdfs.append(pdf)
+                    else:
+                        protokolle_map[num] = Protokoll(dirs=[], pdfs=[pdf], repo=source, versuch=num)
 
         if source.config.pdfs.get('in_source_dir'):
             info("PDFs in source dir")
-            for num, v in versuche.items():
-                for dir in v.get('dirs', []):
+            for num, p in protokolle_map.items():
+                for dir in p.dirs:
                     pdfs = find_pdfs(dir.path, num)
                     pdfs = [File(path, source) for path in pdfs] if pdfs else None
                     if not pdfs:
                         continue
-                    elif num in versuche and 'pdfs' in versuche[num]:
-                        versuche[num]['pdfs'].extend(pdfs)
                     else:
-                        versuche.setdefault(num, {})['pdfs'] = pdfs
+                        if num in protokolle_map:
+                            protokolle_map[num].pdfs.extend(pdfs)
+                        else:
+                            protokolle_map[num] = Protokoll(dirs=[], pdfs=pdfs, repo=source, versuch=num)
 
     source.authors = get_authors_from_content(source.cwd_path)
 
-    source.versuche = versuche
-    source.num_dirs = sum(1 for v in versuche.values() if 'dirs' in v)
-    source.num_pdfs = sum(1 for v in versuche.values() if 'pdfs' in v)
-    source.num_pdfs_total = sum(len(v['pdfs']) for v in versuche.values() if 'pdfs' in v)
+    source.protokolle = protokolle_map.values()
 
-    info('Erkannte Versuche:', sorted(versuche.keys()))
+    source.num_dirs = sum(1 for p in source.protokolle if p.dirs)
+    source.num_pdfs = sum(1 for p in source.protokolle if p.pdfs)
+    source.num_pdfs_total = sum(len(p.pdfs) for p in source.protokolle if p.pdfs)
+
+    info('Erkannte Versuche:', sorted(protokolle_map.keys()))
     info('Erkannte Autoren:', source.authors)
     info(
-        f'{len(source.versuche)} Versuche erkannt;',
+        f'{len(protokolle_map)} Versuche erkannt;',
         f'{source.num_dirs} Ordner,',
         f'{source.num_pdfs} Versuche mit PDFs,',
         f'{source.num_pdfs_total} PDFs insgesamt',

@@ -22,7 +22,7 @@ def find_common_files(versuche_to_repos, config):
             return next(repo for repo in repos if repo.full_name == repo_name)
 
         # die zu `versuch` gehörenden Ordner sämtlicher Repos
-        dirs = [dir.path for repo in repos for dir in repo.versuche[versuch].get('dirs', [])]
+        dirs = [dir.path for repo in repos for dir in repo.protokolle_map[versuch].dirs]
 
         # suche nach Duplikaten
         fdupes_result = run_command(['fdupes', '--noempty', '--quiet', '--recurse', *dirs],
@@ -47,7 +47,7 @@ def find_common_files(versuche_to_repos, config):
         # Offensichtlich müssen alle Blöcke mehrere Dateipfade enthalten, sonst wären es ja keine Duplikate.
         assert all(len(paths) > 1 for paths in blocks)
 
-        def count_block_repos(block: list[Path]):
+        def count_block_repos(block: list[File]):
             """Zählt, wie viele Repos den zum Block gehörigen Dateiinhalt haben."""
             repo_names = [file.repo.full_name for file in block]
             return len(set(repo_names))

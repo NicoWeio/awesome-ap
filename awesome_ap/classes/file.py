@@ -4,7 +4,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 
-@dataclass(frozen=True)
+@dataclass(frozen=True, order=True)
 class File:
     path: Path
     repo: Repo

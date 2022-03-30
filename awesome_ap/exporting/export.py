@@ -15,12 +15,12 @@ def serialize_repo(repo):
         {
         'authors': sorted(repo.authors),
         'contributors': [{a: getattr(contributor, a) for a in ['html_url', 'login']} for contributor in repo.contributors],
-        'protokolle': {versuch: serialize_protokoll(protokoll) for versuch, protokoll in repo.versuche.items()},
+        'protokolle': {protokoll.versuch: serialize_protokoll(protokoll) for protokoll in repo.protokolle},
     }
 
 
 def serialize_protokoll(protokoll):
     return {
-        'dirs': sorted(str(dir.relative_path) for dir in protokoll.get('dirs', [])),
-        'pdfs': sorted(str(pdf.relative_path) for pdf in protokoll.get('pdfs', []) if pdf.is_user_generated),
+        'dirs': sorted(str(dir.relative_path) for dir in protokoll.dirs),
+        'pdfs': sorted(str(pdf.relative_path) for pdf in protokoll.pdfs if pdf.is_user_generated),
     }

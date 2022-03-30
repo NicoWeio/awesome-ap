@@ -23,7 +23,7 @@ def add_aap_pdfs(repos, gh):
             paths = [Path(f) for f in versuch_dir.iterdir() if f.suffix == '.pdf']
             files = [File(path, aap_repo, is_user_generated=False) for path in paths]
             if versuch in repo.versuche:
-                repo.versuche[versuch].setdefault('pdfs', []).extend(files)
+                repo.protokolle_map[versuch].pdfs.extend(files)
             else:
                 warn(f'Versuch {versuch} existiert nicht in {repo.full_name}, aber in awesome-ap-pdfs.')
 

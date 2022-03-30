@@ -49,8 +49,8 @@ def generate_md(repos_to_versuche, versuche_to_repos, versuche_data, versuche_to
         writer.headers = ['Repo', 'Ordner', 'PDFs']
         writer.value_matrix = [(
             fmt_repo(repo),
-            fmt_files(repo.versuche[versuch].get('dirs')),
-            fmt_files(repo.versuche[versuch].get('pdfs')),
+            fmt_files(repo.protokolle_map[versuch].dirs),
+            fmt_files(repo.protokolle_map[versuch].pdfs),
         ) for repo in sorted(repos, key=lambda r: r.full_name.lower())]
         out += writer.dumps()
 
@@ -83,9 +83,9 @@ def generate_md(repos_to_versuche, versuche_to_repos, versuche_data, versuche_to
         writer.headers = ['Versuch', 'Ordner', 'PDFs']
         writer.value_matrix = [(
             f'[{num}](../../versuch/{num})',
-            fmt_files(v.get('dirs')),
-            fmt_files(v.get('pdfs')),
-        ) for num, v in sorted(repo.versuche.items())]
+            fmt_files(v.dirs),
+            fmt_files(v.pdfs),
+        ) for num, v in sorted(repo.protokolle_map.items())]
         out += writer.dumps()
 
         if not dry_run:
@@ -115,7 +115,7 @@ def generate_md(repos_to_versuche, versuche_to_repos, versuche_data, versuche_to
         f'[Übersicht](repo/{repo.full_name})',
         f'{repo.last_commit.strftime("%d.%m.%Y %H:%M:%S")}',
         f'{len(repo.versuche)}',
-        f'{sum(1 for versuch in repo.versuche.values() if "pdfs" in versuch)}',
+        f'{sum(1 for protokoll in repo.protokolle if protokoll.pdfs)}',
     ) for repo in sorted(repos_to_versuche, key=lambda r: r.full_name.lower())]
     out += writer.dumps()
     out += '\n\n'
@@ -125,7 +125,7 @@ def generate_md(repos_to_versuche, versuche_to_repos, versuche_data, versuche_to
     out += f'- **{len(versuche_to_repos.keys())}** Versuche\n'
     out += f'- **{sum([len(repos) for versuch, repos in versuche_to_repos.items()])}** Protokolle\n'
     out += f'- **{sum(repo.num_pdfs for repo in repos_to_versuche)}** Protokolle mit PDFs\n'
-    out += f'- **{sum((0 if pdf.is_user_generated else 1) for repo in repos_to_versuche for versuch in repo.versuche.values() for pdf in versuch.get("pdfs", []))}** PDFs von _awesome-ap-pdfs_\n'
+    out += f'- **{sum((0 if pdf.is_user_generated else 1) for repo in repos_to_versuche for protokoll in repo.protokolle for pdf in protokoll.pdfs)}** PDFs von _awesome-ap-pdfs_\n'
     out += f'- **{sum(repo.num_pdfs_total for repo in repos_to_versuche)}** PDFs insgesamt\n'
     out += '\n'
 

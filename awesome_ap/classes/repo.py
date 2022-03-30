@@ -9,6 +9,8 @@ from subprocess import CalledProcessError
 
 
 class Repo:
+    protokolle: list = []
+
     def __init__(self, data, gh):
         # Die Konfiguration aus der YAML-Datei wird in eine RepoConfig-Instanz ausgelagert.
         self.config = RepoConfig(data)
@@ -38,6 +40,14 @@ class Repo:
 
     def __repr__(self):
         return f'<Repo "{self.full_name}">'
+
+    @property
+    def protokolle_map(self) -> dict:
+        return {p.versuch: p for p in sorted(self.protokolle)}
+
+    @property
+    def versuche(self) -> list[int]:
+        return sorted(set(p.versuch for p in self.protokolle))
 
     def update_repo_mirror(self, refresh=True):
         run_command = get_command_runner(self.cwd_path)
