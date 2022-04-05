@@ -2573,49 +2573,38 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-02-22 09:51:47
+  last_commit: 2022-04-04 14:32:38
   protokolle:
     101:
-      dirs:
-      - v101-Traegheitsmomente
+      dirs: []
       pdfs:
       - Protokolle/v101.pdf
     103:
-      dirs:
-      - v103-BiegungStaebe
+      dirs: []
       pdfs:
       - Protokolle/v103.pdf
     107:
-      dirs:
-      - v107-Viskosimeter
+      dirs: []
       pdfs:
       - Protokolle/v107.pdf
     203:
-      dirs:
-      - v203-Verdampfungswaerme
+      dirs: []
       pdfs:
       - Protokolle/v203.pdf
     302:
-      dirs:
-      - v302-Brueckenschaltungen
+      dirs: []
       pdfs:
       - Protokolle/v302.pdf
     305:
-      dirs:
-      - V305-Magnetfelder
+      dirs: []
       pdfs:
       - Protokolle/V305-Korrektur.pdf
     308:
       dirs: []
       pdfs:
       - Protokolle/V308-Korrektur.pdf
-    353:
-      dirs:
-      - v353-Relaxationsverhalten
-      pdfs: []
     355:
-      dirs:
-      - V355-gekoppelteSchwingungen
+      dirs: []
       pdfs:
       - Protokolle/v355.pdf
 - authors:
@@ -3849,7 +3838,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-01-25 17:42:07
+  last_commit: 2022-04-04 19:38:00
   protokolle:
     101:
       dirs:
@@ -3882,6 +3871,10 @@
     355:
       dirs:
       - v355
+      pdfs: []
+    902:
+      dirs:
+      - vUS2
       pdfs: []
 - authors:
   - Lukas Nickel
@@ -7286,7 +7279,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-01-24 15:49:19
+  last_commit: 2022-04-04 11:48:50
   protokolle:
     103:
       dirs:
@@ -7319,6 +7312,10 @@
     354:
       dirs:
       - Protokolle/v354
+      pdfs: []
+    901:
+      dirs:
+      - Protokolle/US1
       pdfs: []
 - authors:
   - Andrej Kusurmann
