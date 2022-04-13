@@ -2040,7 +2040,7 @@
   - html_url: https://github.com/sonia-cyber
     login: sonia-cyber
   full_name: jana-banana/AP-2020
-  last_commit: 2021-07-21 21:12:22
+  last_commit: 2022-04-12 09:33:48
   protokolle:
     103:
       dirs:
@@ -2577,7 +2577,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-04-11 11:43:56
+  last_commit: 2022-04-12 16:03:03
   protokolle:
     101:
       dirs: []
@@ -7283,7 +7283,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-04-08 11:50:16
+  last_commit: 2022-04-12 18:55:32
   protokolle:
     103:
       dirs:
@@ -7320,6 +7320,10 @@
     901:
       dirs:
       - Protokolle/US1
+      pdfs: []
+    902:
+      dirs:
+      - Protokolle/US2
       pdfs: []
 - authors:
   - Andrej Kusurmann
