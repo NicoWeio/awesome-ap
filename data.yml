@@ -2577,7 +2577,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-04-12 16:03:03
+  last_commit: 2022-04-13 14:42:41
   protokolle:
     101:
       dirs: []
@@ -3842,7 +3842,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-04-10 18:48:58
+  last_commit: 2022-04-13 14:16:22
   protokolle:
     101:
       dirs:
@@ -3879,6 +3879,10 @@
     902:
       dirs:
       - vUS2
+      pdfs: []
+    903:
+      dirs:
+      - vUS3
       pdfs: []
 - authors:
   - Lukas Nickel
@@ -7283,7 +7287,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-04-12 18:55:32
+  last_commit: 2022-04-13 18:28:13
   protokolle:
     103:
       dirs:
