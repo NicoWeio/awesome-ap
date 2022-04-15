@@ -75,7 +75,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-04-11 17:14:22
+  last_commit: 2022-04-14 15:52:49
   protokolle:
     101:
       dirs:
@@ -113,6 +113,10 @@
     400:
       dirs:
       - V400-Reflexion_Brechung_Beugung
+      pdfs: []
+    500:
+      dirs:
+      - V500-Photoeffekt
       pdfs: []
 - authors:
   - Benedikt Sander
@@ -2577,7 +2581,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-04-13 14:42:41
+  last_commit: 2022-04-14 13:41:59
   protokolle:
     101:
       dirs: []
@@ -3842,7 +3846,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-04-13 14:16:22
+  last_commit: 2022-04-14 15:07:04
   protokolle:
     101:
       dirs:
@@ -7287,7 +7291,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-04-13 18:28:13
+  last_commit: 2022-04-14 09:43:45
   protokolle:
     103:
       dirs:
