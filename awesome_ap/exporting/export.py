@@ -21,6 +21,7 @@ def serialize_repo(repo):
 
 def serialize_protokoll(protokoll):
     return {
+        'code_analysis': protokoll.code_analysis,
         'dirs': sorted(str(dir.relative_path) for dir in protokoll.dirs),
         'pdfs': sorted(str(pdf.relative_path) for pdf in protokoll.pdfs if pdf.is_user_generated),
     }

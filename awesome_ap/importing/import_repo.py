@@ -150,6 +150,10 @@ def import_repo(source, refresh=True):
 
     source.protokolle = protokolle_map.values()
 
+    # run code analysis (cached property)
+    for protokoll in track(source.protokolle, description='Analyzing code…'):
+        protokoll.code_analysis
+
     source.num_dirs = sum(1 for p in source.protokolle if p.dirs)
     source.num_pdfs = sum(1 for p in source.protokolle if p.pdfs)
     source.num_pdfs_total = sum(len(p.pdfs) for p in source.protokolle if p.pdfs)

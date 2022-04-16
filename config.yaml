@@ -1,3 +1,5 @@
+code_analysis:
+  max_comment_line_count: 3
 common_files:
   ignore:
     filename:

@@ -3,4 +3,5 @@ pylatexenc
 pytablewriter
 python-dotenv
 pyyaml
+radon
 rich
