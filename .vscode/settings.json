@@ -1,0 +1,5 @@
+{
+    "yaml.schemas": {
+        "sources_schema.json": "sources.yaml"
+    }
+}

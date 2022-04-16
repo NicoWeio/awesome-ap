@@ -1,0 +1,70 @@
+{
+    "$schema": "https://json-schema.org/draft/2020-12/schema",
+    "items": {
+        "additionalProperties": false,
+        "properties": {
+            "branch": {
+                "description": "The branch to analyze",
+                "type": "string"
+            },
+            "dirs_to_versuche": {
+                "description": "Allows extending and overriding automatically detected protocols. The key is the directory, the value is the experiment number.",
+                "type": "object"
+            },
+            "name": {
+                "description": "Full name of the repository: &lt;login&gt;/&lt;repo&gt;",
+                "pattern": "^[a-zA-Z0-9-_]+/[a-zA-Z0-9-_]+$",
+                "type": "string"
+            },
+            "parsing": {
+                "properties": {
+                    "contents": {
+                        "description": "Whether to detect experiment numbers by parsing the TeX file contents",
+                        "type": "boolean"
+                    },
+                    "dirname": {
+                        "description": "Whether to detect experiment numbers by parsing the directory name",
+                        "type": "boolean"
+                    }
+                },
+                "type": "object"
+            },
+            "pdfs": {
+                "description": "Configuration for PDF discovery",
+                "properties": {
+                    "directory": {
+                        "description": "Directory of PDFs, relative to the root of the repo. \nMay be an array of directories.",
+                        "items": {
+                            "type": "string"
+                        },
+                        "type": [
+                            "array",
+                            "string"
+                        ]
+                    },
+                    "in_source_dir": {
+                        "default": true,
+                        "description": "Whether to search for PDFs in the source directory",
+                        "type": "boolean"
+                    }
+                },
+                "type": "object"
+            },
+            "subdirectory": {
+                "description": "Subdirectory used as root for parsing protocols (not recursive). `.` is also supported. \nMay be an array of subdirectories.",
+                "items": {
+                    "type": "string"
+                },
+                "type": [
+                    "array",
+                    "string"
+                ]
+            }
+        },
+        "required": [
+            "name"
+        ],
+        "type": "object"
+    },
+    "type": "array"
+}
