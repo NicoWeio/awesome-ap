@@ -21,6 +21,11 @@
     - Versuche Semester IV
   pdfs:
     in_source_dir: true
+- name: BenediktSan/FortgeschrittenenPraktikum2022
+  subdirectory:
+    - Versuche Semester VI
+  pdfs:
+    in_source_dir: true
 - name: bixel/AP1213
   dirs_to_versuche:
     V501-2_E-B-Feld: 501 # in der Datei steht fälschlicherweise V406
@@ -103,6 +108,7 @@
   subdirectory: we did that
   pdfs:
     in_source_dir: true
+- name: jana-banana/FP-2022
 - name: JaSale/AP
   dirs_to_versuche:
     V701: 701 # in der Datei steht fälschlicherweise 402
@@ -284,6 +290,7 @@
 - name: MariusHotte/MaFP_HuMa
   pdfs:
     in_source_dir: true
+- name: miriamsimm/FP
 - name: moritzbo/anfaenger_praktikum
 - name: moritzbo/fortgeschrittenes_praktikum
 - name: mwindau/FP
@@ -308,6 +315,11 @@
     in_source_dir: true
 # die PDFs sind auf GitHub Pages…
 - name: NicoWeio/AP
+  branch: gh-pages
+  pdfs:
+    in_source_dir: true
+# die PDFs sind auf GitHub Pages…
+- name: NicoWeio/FP
   branch: gh-pages
   pdfs:
     in_source_dir: true
@@ -401,6 +413,7 @@
 - name: Tahirbanane/AP
   pdfs:
     in_source_dir: true
+- name: Tahirbanane/FP_2022
 - name: TimBizeps/BachelorAP
   pdfs:
     in_source_dir: true
