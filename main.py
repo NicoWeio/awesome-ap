@@ -4,7 +4,7 @@ import yaml
 
 from awesome_ap.analyze.find_common_files import find_common_files
 from awesome_ap.classes.repo import Repo
-from awesome_ap.config import DEV, GITHUB_TOKEN, REPOS_BASE_PATH
+from awesome_ap.config import CONFIG, DEV, GITHUB_TOKEN, REPOS_BASE_PATH
 from awesome_ap.console import *
 from awesome_ap.exporting.export import generate_yaml
 from awesome_ap.exporting.generate import generate_md
@@ -14,9 +14,6 @@ import awesome_ap.transpose as transpose
 
 # funktioniert auch ohne Token
 gh = github.Github(GITHUB_TOKEN)
-
-with open("config.yaml", 'r') as stream:
-    config = yaml.safe_load(stream)
 
 with open("sources.yaml", 'r') as stream:
     repos = yaml.safe_load(stream)
@@ -50,7 +47,7 @@ console.rule('*** Analyse ***')
 versuche_to_repos = transpose.versuche_to_repos(repos_to_versuche)
 
 # ■ Finden gemeinsamer Dateien:
-versuche_to_common_files = find_common_files(versuche_to_repos, config.get('common_files', {}))
+versuche_to_common_files = find_common_files(versuche_to_repos, CONFIG.get('common_files', {}))
 info("gemeinsame Dateien:", versuche_to_common_files)
 
 # ■ Einbinden der manuell kuratierten Informationen zu den Versuchen:
