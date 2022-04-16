@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-04-16 13:01:46
+  last_commit: 2022-04-16 13:29:55
   protokolle:
     101:
       code_analysis:
@@ -536,6 +536,30 @@
       - Versuche Semester IV/5. US1
       pdfs:
       - Versuche Semester IV/5. US1/V901.pdf
+- authors:
+  - Benedikt Sander
+  - "Niklas D\xFCser"
+  branch: master
+  contributors:
+  - html_url: https://github.com/NiklasD
+    login: NiklasD
+  full_name: BenediktSan/FortgeschrittenenPraktikum2022
+  last_commit: 2022-04-13 21:18:10
+  protokolle:
+    70:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 30
+        total_comments_of_interest: 24
+        total_lloc: 88
+        total_single_comments: 30
+        total_sloc: 105
+      dirs:
+      - Versuche Semester VI/1.V70Vakuumversuche
+      pdfs:
+      - Versuche Semester VI/1.V70Vakuumversuche/Protokoll_V70.pdf
+      - Versuche Semester VI/1.V70Vakuumversuche/Versuchsbeschreibung_Vakuumversuch_V70.pdf
 - authors:
   - Kevin Heinicke
   - Markus Stabrin
@@ -5416,6 +5440,30 @@
         total_sloc: 62
       dirs:
       - we did that/US1
+      pdfs: []
+- authors:
+  - "Jana Schl\xFCcking"
+  - Sonia Chander
+  branch: main
+  contributors:
+  - html_url: https://github.com/jana-banana
+    login: jana-banana
+  - html_url: https://github.com/sonia-cyber
+    login: sonia-cyber
+  full_name: jana-banana/FP-2022
+  last_commit: 2022-04-14 08:12:19
+  protokolle:
+    64:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 18
+        total_comments_of_interest: 10
+        total_lloc: 119
+        total_single_comments: 12
+        total_sloc: 119
+      dirs:
+      - V64
       pdfs: []
 - authors:
   - Anneke Reinold
@@ -11594,6 +11642,78 @@
       pdfs:
       - V60/V60_Skript.pdf
 - authors:
+  - Daniel Wendler
+  - Miriam Simm
+  branch: main
+  contributors:
+  - html_url: https://github.com/Dan24P
+    login: Dan24P
+  - html_url: https://github.com/miriamsimm
+    login: miriamsimm
+  full_name: miriamsimm/FP
+  last_commit: 2022-02-21 15:06:44
+  protokolle:
+    1:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 120
+        total_single_comments: 1
+        total_sloc: 113
+      dirs:
+      - V01
+      pdfs: []
+    14:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 33
+        total_comments_of_interest: 17
+        total_lloc: 102
+        total_single_comments: 16
+        total_sloc: 112
+      dirs:
+      - V14
+      pdfs: []
+    44:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 24
+        total_comments_of_interest: 13
+        total_lloc: 260
+        total_single_comments: 11
+        total_sloc: 250
+      dirs:
+      - V44
+      pdfs: []
+    49:
+      code_analysis:
+        has_errors: false
+        num_files: 4
+        total_comments: 41
+        total_comments_of_interest: 24
+        total_lloc: 222
+        total_single_comments: 33
+        total_sloc: 218
+      dirs:
+      - V49
+      pdfs: []
+    60:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - V60
+      pdfs: []
+- authors:
   - Moritz Bosse
   - Philipp Zolthoff
   branch: main
@@ -12601,6 +12721,27 @@
       - V901_Grundlagen_der_Ultraschalltechnik
       pdfs:
       - V901_Grundlagen_der_Ultraschalltechnik/build/main.pdf
+- authors: []
+  branch: gh-pages
+  contributors:
+  - html_url: https://github.com/NicoWeio
+    login: NicoWeio
+  full_name: NicoWeio/FP
+  last_commit: 2022-04-06 09:45:46
+  protokolle:
+    27:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - V27_Zeeman_Effekt
+      pdfs:
+      - V27_Zeeman_Effekt/V27_Altanleitung.pdf
 - authors:
   - Fabian Koch
   - "Raphael S\xFCtterlin"
@@ -17767,6 +17908,28 @@
         total_sloc: 107
       dirs:
       - US3
+      pdfs: []
+- authors:
+  - "Marina Andre\xDF"
+  - Tahir Kamcili
+  branch: master
+  contributors:
+  - html_url: https://github.com/Tahirbanane
+    login: Tahirbanane
+  full_name: Tahirbanane/FP_2022
+  last_commit: 2022-04-15 00:53:39
+  protokolle:
+    14:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - V14
       pdfs: []
 - authors:
   - Simon Schulte
