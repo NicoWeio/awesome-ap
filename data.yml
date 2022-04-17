@@ -544,17 +544,17 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-04-13 21:18:10
+  last_commit: 2022-04-16 23:46:03
   protokolle:
     70:
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 30
-        total_comments_of_interest: 24
-        total_lloc: 88
-        total_single_comments: 30
-        total_sloc: 105
+        total_comments: 44
+        total_comments_of_interest: 29
+        total_lloc: 113
+        total_single_comments: 41
+        total_sloc: 122
       dirs:
       - Versuche Semester VI/1.V70Vakuumversuche
       pdfs:
