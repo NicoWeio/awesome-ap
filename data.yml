@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-04-16 13:29:55
+  last_commit: 2022-04-17 21:23:23
   protokolle:
     101:
       code_analysis:
@@ -270,11 +270,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 0
-        total_single_comments: 0
-        total_sloc: 0
+        total_comments: 20
+        total_comments_of_interest: 16
+        total_lloc: 58
+        total_single_comments: 20
+        total_sloc: 78
       dirs:
       - V500-Photoeffekt
       pdfs: []
@@ -12727,7 +12727,7 @@
   - html_url: https://github.com/NicoWeio
     login: NicoWeio
   full_name: NicoWeio/FP
-  last_commit: 2022-04-06 09:45:46
+  last_commit: 2022-04-17 21:09:15
   protokolle:
     27:
       code_analysis:
@@ -12741,7 +12741,7 @@
       dirs:
       - V27_Zeeman_Effekt
       pdfs:
-      - V27_Zeeman_Effekt/V27_Altanleitung.pdf
+      - V27_Zeeman_Effekt/build/main.pdf
 - authors:
   - Fabian Koch
   - "Raphael S\xFCtterlin"
