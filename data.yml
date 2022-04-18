@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-04-17 21:23:23
+  last_commit: 2022-04-18 12:57:29
   protokolle:
     101:
       code_analysis:
@@ -270,11 +270,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 20
-        total_comments_of_interest: 16
-        total_lloc: 58
-        total_single_comments: 20
-        total_sloc: 78
+        total_comments: 25
+        total_comments_of_interest: 21
+        total_lloc: 98
+        total_single_comments: 25
+        total_sloc: 123
       dirs:
       - V500-Photoeffekt
       pdfs: []
@@ -6557,7 +6557,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-04-16 13:14:26
+  last_commit: 2022-04-18 12:13:16
   protokolle:
     101:
       code_analysis:
@@ -9694,7 +9694,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-04-15 16:30:21
+  last_commit: 2022-04-18 09:16:09
   protokolle:
     101:
       code_analysis:
