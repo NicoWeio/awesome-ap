@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-04-18 20:46:43
+  last_commit: 2022-04-19 12:38:02
   protokolle:
     101:
       code_analysis:
@@ -277,6 +277,18 @@
         total_sloc: 123
       dirs:
       - V500-Photoeffekt
+      pdfs: []
+    704:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - V704-Absorption von Beta- und Gammastrahlung
       pdfs: []
 - authors:
   - Benedikt Sander
@@ -544,17 +556,17 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-04-18 20:05:08
+  last_commit: 2022-04-19 21:36:29
   protokolle:
     70:
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 44
-        total_comments_of_interest: 29
-        total_lloc: 113
-        total_single_comments: 41
-        total_sloc: 122
+        total_comments: 59
+        total_comments_of_interest: 40
+        total_lloc: 190
+        total_single_comments: 53
+        total_sloc: 197
       dirs:
       - Versuche Semester VI/1.V70Vakuumversuche
       pdfs:
@@ -6557,7 +6569,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-04-18 12:13:16
+  last_commit: 2022-04-19 16:20:19
   protokolle:
     101:
       code_analysis:
@@ -9694,7 +9706,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-04-18 09:16:09
+  last_commit: 2022-04-19 13:02:02
   protokolle:
     101:
       code_analysis:
@@ -9791,6 +9803,18 @@
         total_sloc: 80
       dirs:
       - v355
+      pdfs: []
+    602:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - v602
       pdfs: []
     902:
       code_analysis:
@@ -18334,7 +18358,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-04-15 13:09:26
+  last_commit: 2022-04-19 16:43:33
   protokolle:
     103:
       code_analysis:
@@ -18431,6 +18455,18 @@
         total_sloc: 128
       dirs:
       - Protokolle/v354
+      pdfs: []
+    601:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - Protokolle/v601
       pdfs: []
     901:
       code_analysis:
