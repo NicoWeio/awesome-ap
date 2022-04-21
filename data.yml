@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-04-19 12:38:02
+  last_commit: 2022-04-20 14:22:07
   protokolle:
     101:
       code_analysis:
@@ -556,7 +556,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-04-19 21:36:29
+  last_commit: 2022-04-20 10:13:44
   protokolle:
     70:
       code_analysis:
@@ -570,7 +570,6 @@
       dirs:
       - Versuche Semester VI/1.V70Vakuumversuche
       pdfs:
-      - Versuche Semester VI/1.V70Vakuumversuche/Protokoll_V70.pdf
       - Versuche Semester VI/1.V70Vakuumversuche/Versuchsbeschreibung_Vakuumversuch_V70.pdf
 - authors:
   - Kevin Heinicke
@@ -6569,7 +6568,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-04-19 16:20:19
+  last_commit: 2022-04-20 16:47:54
   protokolle:
     101:
       code_analysis:
@@ -9706,7 +9705,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-04-19 13:02:02
+  last_commit: 2022-04-20 19:11:47
   protokolle:
     101:
       code_analysis:
@@ -17941,7 +17940,7 @@
   - html_url: https://github.com/Tahirbanane
     login: Tahirbanane
   full_name: Tahirbanane/FP_2022
-  last_commit: 2022-04-15 00:53:39
+  last_commit: 2022-04-20 23:52:02
   protokolle:
     14:
       code_analysis:
@@ -18358,7 +18357,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-04-19 16:43:33
+  last_commit: 2022-04-20 18:59:46
   protokolle:
     103:
       code_analysis:
@@ -18460,11 +18459,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 25
+        total_single_comments: 0
+        total_sloc: 26
       dirs:
       - Protokolle/v601
       pdfs: []
