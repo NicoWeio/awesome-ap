@@ -556,7 +556,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-04-20 10:13:44
+  last_commit: 2022-04-21 18:16:57
   protokolle:
     70:
       code_analysis:
@@ -570,6 +570,7 @@
       dirs:
       - Versuche Semester VI/1.V70Vakuumversuche
       pdfs:
+      - Versuche Semester VI/1.V70Vakuumversuche/Protokoll_V70.pdf
       - Versuche Semester VI/1.V70Vakuumversuche/Versuchsbeschreibung_Vakuumversuch_V70.pdf
 - authors:
   - Kevin Heinicke
@@ -9705,7 +9706,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-04-20 19:11:47
+  last_commit: 2022-04-21 18:55:43
   protokolle:
     101:
       code_analysis:
@@ -9807,11 +9808,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 15
+        total_comments_of_interest: 12
+        total_lloc: 37
+        total_single_comments: 13
+        total_sloc: 37
       dirs:
       - v602
       pdfs: []

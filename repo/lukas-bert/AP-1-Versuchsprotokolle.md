@@ -1,6 +1,6 @@
 # [lukas-bert/AP-1-Versuchsprotokolle](https://github.com/lukas-bert/AP-1-Versuchsprotokolle)
 
-Letzter Commit: 20.04.2022 19:11:47
+Letzter Commit: 21.04.2022 18:55:43
 
 ## Autoren (Klarnamen)
 - Lukas Bertsch
