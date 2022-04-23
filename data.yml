@@ -9706,7 +9706,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-04-21 18:55:43
+  last_commit: 2022-04-22 19:23:19
   protokolle:
     101:
       code_analysis:
@@ -9808,11 +9808,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 15
-        total_comments_of_interest: 12
-        total_lloc: 37
-        total_single_comments: 13
-        total_sloc: 37
+        total_comments: 55
+        total_comments_of_interest: 40
+        total_lloc: 140
+        total_single_comments: 51
+        total_sloc: 139
       dirs:
       - v602
       pdfs: []
@@ -12751,7 +12751,7 @@
   - html_url: https://github.com/NicoWeio
     login: NicoWeio
   full_name: NicoWeio/FP
-  last_commit: 2022-04-17 21:09:15
+  last_commit: 2022-04-22 18:54:43
   protokolle:
     27:
       code_analysis:
@@ -18358,7 +18358,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-04-20 18:59:46
+  last_commit: 2022-04-22 14:40:19
   protokolle:
     103:
       code_analysis:
@@ -18462,9 +18462,9 @@
         num_files: 1
         total_comments: 0
         total_comments_of_interest: 0
-        total_lloc: 25
+        total_lloc: 42
         total_single_comments: 0
-        total_sloc: 26
+        total_sloc: 43
       dirs:
       - Protokolle/v601
       pdfs: []
