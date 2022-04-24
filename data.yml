@@ -556,21 +556,20 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-04-21 18:16:57
+  last_commit: 2022-04-23 23:56:08
   protokolle:
     70:
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 59
-        total_comments_of_interest: 40
-        total_lloc: 190
-        total_single_comments: 53
-        total_sloc: 197
+        total_comments: 67
+        total_comments_of_interest: 39
+        total_lloc: 197
+        total_single_comments: 60
+        total_sloc: 204
       dirs:
       - Versuche Semester VI/1.V70Vakuumversuche
       pdfs:
-      - Versuche Semester VI/1.V70Vakuumversuche/Protokoll_V70.pdf
       - Versuche Semester VI/1.V70Vakuumversuche/Versuchsbeschreibung_Vakuumversuch_V70.pdf
 - authors:
   - Kevin Heinicke
@@ -6569,7 +6568,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-04-20 16:47:54
+  last_commit: 2022-04-23 17:19:18
   protokolle:
     101:
       code_analysis:
@@ -6631,18 +6630,6 @@
       dirs: []
       pdfs:
       - Protokolle/v302.pdf
-    305:
-      code_analysis:
-        has_errors: false
-        num_files: 0
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 0
-        total_single_comments: 0
-        total_sloc: 0
-      dirs: []
-      pdfs:
-      - Protokolle/V305-Korrektur.pdf
     308:
       code_analysis:
         has_errors: false
@@ -6667,6 +6654,18 @@
       dirs: []
       pdfs:
       - Protokolle/v355.pdf
+    606:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs: []
+      pdfs:
+      - Protokolle/v606.pdf
 - authors:
   - Jan Herdieckerhoff
   - Katrin Bolsmann
@@ -9706,7 +9705,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-04-22 19:23:19
+  last_commit: 2022-04-23 22:34:42
   protokolle:
     101:
       code_analysis:
@@ -9808,11 +9807,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 55
-        total_comments_of_interest: 40
-        total_lloc: 140
-        total_single_comments: 51
-        total_sloc: 139
+        total_comments: 78
+        total_comments_of_interest: 72
+        total_lloc: 225
+        total_single_comments: 58
+        total_sloc: 221
       dirs:
       - v602
       pdfs: []

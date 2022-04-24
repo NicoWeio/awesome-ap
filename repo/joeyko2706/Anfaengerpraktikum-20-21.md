@@ -1,6 +1,6 @@
 # [joeyko2706/Anfaengerpraktikum-20-21](https://github.com/joeyko2706/Anfaengerpraktikum-20-21)
 
-Letzter Commit: 20.04.2022 16:47:54
+Letzter Commit: 23.04.2022 17:19:18
 
 ## Autoren (Klarnamen)
 - Joel Koch
@@ -19,6 +19,6 @@ Letzter Commit: 20.04.2022 16:47:54
 |[107](../../versuch/107)|–     |[v107.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/v107.pdf)                    |
 |[203](../../versuch/203)|–     |[v203.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/v203.pdf)                    |
 |[302](../../versuch/302)|–     |[v302.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/v302.pdf)                    |
-|[305](../../versuch/305)|–     |[V305-Korrektur.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/V305-Korrektur.pdf)|
 |[308](../../versuch/308)|–     |[V308-Korrektur.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/V308-Korrektur.pdf)|
 |[355](../../versuch/355)|–     |[v355.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/v355.pdf)                    |
+|[606](../../versuch/606)|–     |[v606.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/v606.pdf)                    |
