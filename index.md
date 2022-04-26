@@ -73,7 +73,7 @@
 |605|Alkali-Spektren                                                      |[Übersicht](versuch/605)|      6|
 |606|Messung der Suszeptibilität paramagnetischer Substanzen              |[Übersicht](versuch/606)|     28|
 |701|Reichweite von Alpha-Strahlung                                       |[Übersicht](versuch/701)|     18|
-|702|Aktivierung mit Neutronen                                            |[Übersicht](versuch/702)|     37|
+|702|Aktivierung mit Neutronen                                            |[Übersicht](versuch/702)|     38|
 |703|Das Geiger-Müller-Zählrohr                                           |[Übersicht](versuch/703)|     46|
 |704|Absorption von Gamma- und Beta-Strahlung                             |[Übersicht](versuch/704)|     18|
 |800|Das Oszilloskop                                                      |[Übersicht](versuch/800)|      2|
@@ -91,9 +91,9 @@
 |-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------|-----------:|--------------------:|
 |[AReinold/Bachelor-FP](https://github.com/AReinold/Bachelor-FP)                                                  |[Übersicht](repo/AReinold/Bachelor-FP)                         |09.07.2018 09:47:30|           5|                    1|
 |[AReinold/Master-FP](https://github.com/AReinold/Master-FP)                                                      |[Übersicht](repo/AReinold/Master-FP)                           |22.03.2020 13:24:47|           5|                    3|
-|[Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)                                            |[Übersicht](repo/Bastian125/AP-Praktikum)                      |24.04.2022 21:18:48|          11|                    3|
+|[Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)                                            |[Übersicht](repo/Bastian125/AP-Praktikum)                      |25.04.2022 19:58:19|          12|                    3|
 |[BenediktSan/AnfaengerPraktikum2020](https://github.com/BenediktSan/AnfaengerPraktikum2020)                      |[Übersicht](repo/BenediktSan/AnfaengerPraktikum2020)           |05.07.2021 21:32:58|          19|                   16|
-|[BenediktSan/FortgeschrittenenPraktikum2022](https://github.com/BenediktSan/FortgeschrittenenPraktikum2022)      |[Übersicht](repo/BenediktSan/FortgeschrittenenPraktikum2022)   |23.04.2022 23:56:08|           1|                    1|
+|[BenediktSan/FortgeschrittenenPraktikum2022](https://github.com/BenediktSan/FortgeschrittenenPraktikum2022)      |[Übersicht](repo/BenediktSan/FortgeschrittenenPraktikum2022)   |25.04.2022 21:01:48|           1|                    1|
 |[bixel/AP1213](https://github.com/bixel/AP1213)                                                                  |[Übersicht](repo/bixel/AP1213)                                 |15.03.2014 13:00:24|          23|                   23|
 |[bixel/FP14](https://github.com/bixel/FP14)                                                                      |[Übersicht](repo/bixel/FP14)                                   |07.10.2016 19:42:14|          11|                    0|
 |[brkkbkc/FPSS18_5](https://github.com/brkkbkc/FPSS18_5)                                                          |[Übersicht](repo/brkkbkc/FPSS18_5)                             |29.08.2018 13:23:12|           6|                    0|
@@ -130,7 +130,7 @@
 |[Jean1995/PraktikumFP](https://github.com/Jean1995/PraktikumFP)                                                  |[Übersicht](repo/Jean1995/PraktikumFP)                         |01.11.2017 20:55:46|           5|                    0|
 |[JLammering/Master-Praktikum](https://github.com/JLammering/Master-Praktikum)                                    |[Übersicht](repo/JLammering/Master-Praktikum)                  |28.08.2020 11:36:06|           9|                    9|
 |[JLammering/Physikalisches-Praktikum](https://github.com/JLammering/Physikalisches-Praktikum)                    |[Übersicht](repo/JLammering/Physikalisches-Praktikum)          |07.01.2022 11:22:35|          15|                   10|
-|[joeyko2706/Anfaengerpraktikum-20-21](https://github.com/joeyko2706/Anfaengerpraktikum-20-21)                    |[Übersicht](repo/joeyko2706/Anfaengerpraktikum-20-21)          |24.04.2022 12:50:33|           9|                    9|
+|[joeyko2706/Anfaengerpraktikum-20-21](https://github.com/joeyko2706/Anfaengerpraktikum-20-21)                    |[Übersicht](repo/joeyko2706/Anfaengerpraktikum-20-21)          |25.04.2022 22:35:07|           9|                    9|
 |[jpherdi/FP_20_21](https://github.com/jpherdi/FP_20_21)                                                          |[Übersicht](repo/jpherdi/FP_20_21)                             |27.03.2021 12:47:42|           5|                    0|
 |[jpherdi/Praktikum](https://github.com/jpherdi/Praktikum)                                                        |[Übersicht](repo/jpherdi/Praktikum)                            |22.08.2020 14:15:53|           4|                    0|
 |[JulianSch/FP-Pelle-Julian](https://github.com/JulianSch/FP-Pelle-Julian)                                        |[Übersicht](repo/JulianSch/FP-Pelle-Julian)                    |06.11.2018 13:29:35|           5|                    4|
@@ -156,7 +156,7 @@
 |[LiigaSoolane/Paktikum-mit-dem-Teufel](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)                  |[Übersicht](repo/LiigaSoolane/Paktikum-mit-dem-Teufel)         |04.07.2021 12:03:23|          19|                   15|
 |[LuckyJosh/APPhysik](https://github.com/LuckyJosh/APPhysik)                                                      |[Übersicht](repo/LuckyJosh/APPhysik)                           |08.07.2014 19:22:20|          20|                    0|
 |[LuckyJosh/PhysikFP2015](https://github.com/LuckyJosh/PhysikFP2015)                                              |[Übersicht](repo/LuckyJosh/PhysikFP2015)                       |04.04.2020 14:53:48|          11|                    3|
-|[lukas-bert/AP-1-Versuchsprotokolle](https://github.com/lukas-bert/AP-1-Versuchsprotokolle)                      |[Übersicht](repo/lukas-bert/AP-1-Versuchsprotokolle)           |23.04.2022 22:34:42|          11|                    0|
+|[lukas-bert/AP-1-Versuchsprotokolle](https://github.com/lukas-bert/AP-1-Versuchsprotokolle)                      |[Übersicht](repo/lukas-bert/AP-1-Versuchsprotokolle)           |25.04.2022 16:11:39|          11|                    0|
 |[LukasNickel/praktikumsskripte](https://github.com/LukasNickel/praktikumsskripte)                                |[Übersicht](repo/LukasNickel/praktikumsskripte)                |23.12.2015 11:59:52|           4|                    3|
 |[lwitthaus/Anfaengerpraktikum](https://github.com/lwitthaus/Anfaengerpraktikum)                                  |[Übersicht](repo/lwitthaus/Anfaengerpraktikum)                 |11.07.2018 07:44:51|          21|                    0|
 |[maaxxns/FP_Samuel_Max](https://github.com/maaxxns/FP_Samuel_Max)                                                |[Übersicht](repo/maaxxns/FP_Samuel_Max)                        |14.08.2021 11:03:17|           5|                    0|
@@ -177,7 +177,7 @@
 |[NicoJG/Anfaengerpraktikum](https://github.com/NicoJG/Anfaengerpraktikum)                                        |[Übersicht](repo/NicoJG/Anfaengerpraktikum)                    |22.12.2021 18:59:30|          21|                   20|
 |[NicoJG/Fortgeschrittenenpraktikum](https://github.com/NicoJG/Fortgeschrittenenpraktikum)                        |[Übersicht](repo/NicoJG/Fortgeschrittenenpraktikum)            |02.08.2021 21:06:42|           5|                    5|
 |[NicoWeio/AP](https://github.com/NicoWeio/AP)                                                                    |[Übersicht](repo/NicoWeio/AP)                                  |16.01.2022 12:32:08|          18|                   18|
-|[NicoWeio/FP](https://github.com/NicoWeio/FP)                                                                    |[Übersicht](repo/NicoWeio/FP)                                  |22.04.2022 18:54:43|           1|                    1|
+|[NicoWeio/FP](https://github.com/NicoWeio/FP)                                                                    |[Übersicht](repo/NicoWeio/FP)                                  |25.04.2022 09:46:59|           1|                    1|
 |[NilBre/4Physiker_Ap](https://github.com/NilBre/4Physiker_Ap)                                                    |[Übersicht](repo/NilBre/4Physiker_Ap)                          |28.02.2018 08:58:32|           2|                    0|
 |[Ninilini/FP-Bachelor](https://github.com/Ninilini/FP-Bachelor)                                                  |[Übersicht](repo/Ninilini/FP-Bachelor)                         |03.08.2018 13:55:46|           5|                    0|
 |[nsalewski/laboratory](https://github.com/nsalewski/laboratory)                                                  |[Übersicht](repo/nsalewski/laboratory)                         |23.07.2018 07:32:48|          28|                   21|
@@ -216,7 +216,7 @@
 ## Statistiken
 - **122** Repos
 - **75** Versuche
-- **1428** Protokolle
+- **1429** Protokolle
 - **453** Protokolle mit PDFs
 - **355** PDFs von _awesome-ap-pdfs_
 - **589** PDFs insgesamt

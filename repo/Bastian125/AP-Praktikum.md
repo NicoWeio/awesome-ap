@@ -1,6 +1,6 @@
 # [Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)
 
-Letzter Commit: 24.04.2022 21:18:48
+Letzter Commit: 25.04.2022 19:58:19
 
 ## Autoren (Klarnamen)
 - Tabea Hacheney
@@ -24,4 +24,5 @@ Letzter Commit: 24.04.2022 21:18:48
 |[353](../../versuch/353)|[V353-RelaxationsverhaltenRCKreis](https://github.com/Bastian125/AP-Praktikum/tree/master/V353-RelaxationsverhaltenRCKreis)                                |–                                                                                                                                                                                     |
 |[400](../../versuch/400)|[V400-Reflexion_Brechung_Beugung](https://github.com/Bastian125/AP-Praktikum/tree/master/V400-Reflexion_Brechung_Beugung)                                  |–                                                                                                                                                                                     |
 |[500](../../versuch/500)|[V500-Photoeffekt](https://github.com/Bastian125/AP-Praktikum/tree/master/V500-Photoeffekt)                                                                |–                                                                                                                                                                                     |
+|[702](../../versuch/702)|[V702-Aktivierung mit Neutronen](https://github.com/Bastian125/AP-Praktikum/tree/master/V702-Aktivierung%20mit%20Neutronen)                                |–                                                                                                                                                                                     |
 |[704](../../versuch/704)|[V704-Absorption von Beta- und Gammastrahlung](https://github.com/Bastian125/AP-Praktikum/tree/master/V704-Absorption%20von%20Beta-%20und%20Gammastrahlung)|–                                                                                                                                                                                     |
