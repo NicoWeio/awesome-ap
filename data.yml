@@ -568,8 +568,20 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-04-27 00:13:29
+  last_commit: 2022-04-27 18:59:05
   protokolle:
+    21:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 2
+        total_comments_of_interest: 2
+        total_lloc: 5
+        total_single_comments: 2
+        total_sloc: 5
+      dirs:
+      - Versuche Semester VI/2.V21Optisches_Pumpen
+      pdfs: []
     70:
       code_analysis:
         has_errors: false
@@ -582,6 +594,7 @@
       dirs:
       - Versuche Semester VI/1.V70Vakuumversuche
       pdfs:
+      - Versuche Semester VI/1.V70Vakuumversuche/Protokoll_V70.pdf
       - Versuche Semester VI/1.V70Vakuumversuche/Versuchsbeschreibung_Vakuumversuch_V70.pdf
 - authors:
   - Kevin Heinicke
@@ -5474,17 +5487,17 @@
   - html_url: https://github.com/sonia-cyber
     login: sonia-cyber
   full_name: jana-banana/FP-2022
-  last_commit: 2022-04-14 08:12:19
+  last_commit: 2022-04-27 09:41:07
   protokolle:
     64:
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 18
-        total_comments_of_interest: 10
-        total_lloc: 119
-        total_single_comments: 12
-        total_sloc: 119
+        total_comments: 21
+        total_comments_of_interest: 15
+        total_lloc: 114
+        total_single_comments: 15
+        total_sloc: 114
       dirs:
       - V64
       pdfs: []
@@ -6580,7 +6593,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-04-26 18:07:58
+  last_commit: 2022-04-27 17:23:24
   protokolle:
     101:
       code_analysis:
@@ -6678,6 +6691,18 @@
       dirs: []
       pdfs:
       - Protokolle/v355.pdf
+    601:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs: []
+      pdfs:
+      - Protokolle/v601.pdf
     606:
       code_analysis:
         has_errors: false
@@ -9729,7 +9754,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-04-26 13:12:41
+  last_commit: 2022-04-27 19:03:30
   protokolle:
     101:
       code_analysis:
@@ -9843,11 +9868,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 49
+        total_comments_of_interest: 13
+        total_lloc: 42
+        total_single_comments: 39
+        total_sloc: 42
       dirs:
       - v606
       pdfs: []
@@ -18393,7 +18418,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-04-26 19:58:33
+  last_commit: 2022-04-27 18:21:11
   protokolle:
     103:
       code_analysis:
@@ -18507,11 +18532,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 6
-        total_comments_of_interest: 5
-        total_lloc: 41
-        total_single_comments: 6
-        total_sloc: 38
+        total_comments: 23
+        total_comments_of_interest: 18
+        total_lloc: 170
+        total_single_comments: 19
+        total_sloc: 154
       dirs:
       - Protokolle/v602
       pdfs: []
