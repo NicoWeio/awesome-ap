@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-04-26 22:50:53
+  last_commit: 2022-04-28 11:01:56
   protokolle:
     101:
       code_analysis:
@@ -284,9 +284,9 @@
         num_files: 1
         total_comments: 1
         total_comments_of_interest: 1
-        total_lloc: 16
+        total_lloc: 14
         total_single_comments: 1
-        total_sloc: 16
+        total_sloc: 14
       dirs:
       - V702-Aktivierung mit Neutronen
       pdfs: []
@@ -6593,7 +6593,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-04-27 17:23:24
+  last_commit: 2022-04-28 12:03:00
   protokolle:
     101:
       code_analysis:
@@ -9754,7 +9754,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-04-27 19:03:30
+  last_commit: 2022-04-28 21:53:49
   protokolle:
     101:
       code_analysis:
@@ -18418,7 +18418,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-04-27 18:21:11
+  last_commit: 2022-04-28 08:54:09
   protokolle:
     103:
       code_analysis:
