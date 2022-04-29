@@ -24,6 +24,17 @@ def most(iterable):
     return count / len(elements) >= 0.5
 
 
+def lax_most_common(counter, n=1):
+    last_count = float('inf')
+    i = 0
+    for item, count in counter.most_common():
+        if i >= n and count < last_count:
+            break
+        yield (item, count)
+        i += 1
+        last_count = count
+
+
 def md5sum(path):
     """
     One-Liner zum Berechnen von md5-Prüfsummen.

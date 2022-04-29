@@ -1,4 +1,5 @@
 from ..console import *
+from ..misc import lax_most_common
 from .tex import parse_tex
 from collections import Counter
 import re
@@ -45,18 +46,8 @@ def find_from_candidates(candidates, analyzer, flatten=False, full_return=False,
     # Die Einträge werden sortiert, um konsistente Ergebnisse von `counter.most_common(n)` zu garantieren, wenn n_strict == True ist.
     counter = Counter(sorted(results))
 
-    def lax_most_common():
-        last_count = float('inf')
-        i = 0
-        for item, count in counter.most_common():
-            if i >= n and count < last_count:
-                break
-            yield (item, count)
-            i += 1
-            last_count = count
-
     # die `n` häufigsten Werte:
-    most_common = set(item for item, count in (counter.most_common(n) if n_strict else lax_most_common()))
+    most_common = set(item for item, count in (counter.most_common(n) if n_strict else lax_most_common(counter, n=n)))
 
     if full_return:
         return {
