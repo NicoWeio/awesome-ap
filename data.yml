@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-04-28 11:01:56
+  last_commit: 2022-04-29 13:10:58
   protokolle:
     101:
       code_analysis:
@@ -282,11 +282,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 14
-        total_single_comments: 1
-        total_sloc: 14
+        total_comments: 4
+        total_comments_of_interest: 4
+        total_lloc: 29
+        total_single_comments: 4
+        total_sloc: 34
       dirs:
       - V702-Aktivierung mit Neutronen
       pdfs: []
@@ -568,17 +568,17 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-04-27 18:59:05
+  last_commit: 2022-04-29 17:38:31
   protokolle:
     21:
       code_analysis:
         has_errors: false
-        num_files: 1
-        total_comments: 2
-        total_comments_of_interest: 2
-        total_lloc: 5
-        total_single_comments: 2
-        total_sloc: 5
+        num_files: 2
+        total_comments: 11
+        total_comments_of_interest: 11
+        total_lloc: 32
+        total_single_comments: 11
+        total_sloc: 32
       dirs:
       - Versuche Semester VI/2.V21Optisches_Pumpen
       pdfs: []
@@ -6593,7 +6593,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-04-28 12:03:00
+  last_commit: 2022-04-29 13:20:25
   protokolle:
     101:
       code_analysis:
@@ -9754,7 +9754,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-04-28 21:53:49
+  last_commit: 2022-04-29 14:33:47
   protokolle:
     101:
       code_analysis:
@@ -9868,11 +9868,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 49
-        total_comments_of_interest: 13
-        total_lloc: 42
-        total_single_comments: 39
-        total_sloc: 42
+        total_comments: 51
+        total_comments_of_interest: 16
+        total_lloc: 76
+        total_single_comments: 40
+        total_sloc: 80
       dirs:
       - v606
       pdfs: []
