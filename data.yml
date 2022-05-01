@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-04-29 13:10:58
+  last_commit: 2022-04-30 17:49:42
   protokolle:
     101:
       code_analysis:
@@ -282,11 +282,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 4
-        total_comments_of_interest: 4
-        total_lloc: 29
-        total_single_comments: 4
-        total_sloc: 34
+        total_comments: 13
+        total_comments_of_interest: 12
+        total_lloc: 69
+        total_single_comments: 13
+        total_sloc: 80
       dirs:
       - V702-Aktivierung mit Neutronen
       pdfs: []
@@ -6593,7 +6593,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-04-29 13:20:25
+  last_commit: 2022-04-30 19:14:13
   protokolle:
     101:
       code_analysis:
@@ -9754,7 +9754,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-04-29 14:33:47
+  last_commit: 2022-04-30 14:23:27
   protokolle:
     101:
       code_analysis:
@@ -9868,11 +9868,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 51
-        total_comments_of_interest: 16
-        total_lloc: 76
-        total_single_comments: 40
-        total_sloc: 80
+        total_comments: 44
+        total_comments_of_interest: 25
+        total_lloc: 108
+        total_single_comments: 32
+        total_sloc: 112
       dirs:
       - v606
       pdfs: []
@@ -18418,7 +18418,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-04-28 08:54:09
+  last_commit: 2022-04-30 14:44:20
   protokolle:
     103:
       code_analysis:
@@ -18522,9 +18522,9 @@
         num_files: 1
         total_comments: 0
         total_comments_of_interest: 0
-        total_lloc: 42
+        total_lloc: 60
         total_single_comments: 0
-        total_sloc: 43
+        total_sloc: 61
       dirs:
       - Protokolle/v601
       pdfs: []
@@ -18532,11 +18532,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 23
-        total_comments_of_interest: 18
-        total_lloc: 170
-        total_single_comments: 19
-        total_sloc: 154
+        total_comments: 36
+        total_comments_of_interest: 25
+        total_lloc: 249
+        total_single_comments: 26
+        total_sloc: 233
       dirs:
       - Protokolle/v602
       pdfs: []
