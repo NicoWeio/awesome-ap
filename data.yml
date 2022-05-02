@@ -568,7 +568,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-04-29 17:38:31
+  last_commit: 2022-05-01 20:14:19
   protokolle:
     21:
       code_analysis:
@@ -18418,7 +18418,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-04-30 14:44:20
+  last_commit: 2022-05-01 16:39:48
   protokolle:
     103:
       code_analysis:
@@ -18532,11 +18532,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 36
-        total_comments_of_interest: 25
-        total_lloc: 249
-        total_single_comments: 26
-        total_sloc: 233
+        total_comments: 44
+        total_comments_of_interest: 30
+        total_lloc: 276
+        total_single_comments: 34
+        total_sloc: 260
       dirs:
       - Protokolle/v602
       pdfs: []
