@@ -568,7 +568,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-05-01 20:14:19
+  last_commit: 2022-05-02 21:50:47
   protokolle:
     21:
       code_analysis:
@@ -6593,7 +6593,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-04-30 19:14:13
+  last_commit: 2022-05-02 19:03:07
   protokolle:
     101:
       code_analysis:
@@ -6715,6 +6715,18 @@
       dirs: []
       pdfs:
       - Protokolle/v606.pdf
+    903:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs: []
+      pdfs:
+      - Protokolle/vUS3.pdf
 - authors:
   - Jan Herdieckerhoff
   - Katrin Bolsmann
@@ -9754,7 +9766,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-04-30 14:23:27
+  last_commit: 2022-05-02 22:16:27
   protokolle:
     101:
       code_analysis:
@@ -18418,7 +18430,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-05-01 16:39:48
+  last_commit: 2022-05-02 17:41:12
   protokolle:
     103:
       code_analysis:

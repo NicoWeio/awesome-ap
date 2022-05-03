@@ -82,7 +82,7 @@
 |803|Das Hookesche Gesetz                                                 |[Übersicht](versuch/803)|      7|
 |901|Grundlagen der Ultraschalltechnik                                    |[Übersicht](versuch/901)|     26|
 |902|Scanverfahren in der Ultraschalltechnik                              |[Übersicht](versuch/902)|     23|
-|903|Doppler-Sonographie                                                  |[Übersicht](versuch/903)|     27|
+|903|Doppler-Sonographie                                                  |[Übersicht](versuch/903)|     28|
 
 
 ## Repos
@@ -93,7 +93,7 @@
 |[AReinold/Master-FP](https://github.com/AReinold/Master-FP)                                                      |[Übersicht](repo/AReinold/Master-FP)                           |22.03.2020 13:24:47|           5|                    3|
 |[Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)                                            |[Übersicht](repo/Bastian125/AP-Praktikum)                      |30.04.2022 17:49:42|          12|                    3|
 |[BenediktSan/AnfaengerPraktikum2020](https://github.com/BenediktSan/AnfaengerPraktikum2020)                      |[Übersicht](repo/BenediktSan/AnfaengerPraktikum2020)           |05.07.2021 21:32:58|          19|                   16|
-|[BenediktSan/FortgeschrittenenPraktikum2022](https://github.com/BenediktSan/FortgeschrittenenPraktikum2022)      |[Übersicht](repo/BenediktSan/FortgeschrittenenPraktikum2022)   |01.05.2022 20:14:19|           2|                    1|
+|[BenediktSan/FortgeschrittenenPraktikum2022](https://github.com/BenediktSan/FortgeschrittenenPraktikum2022)      |[Übersicht](repo/BenediktSan/FortgeschrittenenPraktikum2022)   |02.05.2022 21:50:47|           2|                    1|
 |[bixel/AP1213](https://github.com/bixel/AP1213)                                                                  |[Übersicht](repo/bixel/AP1213)                                 |15.03.2014 13:00:24|          23|                   23|
 |[bixel/FP14](https://github.com/bixel/FP14)                                                                      |[Übersicht](repo/bixel/FP14)                                   |07.10.2016 19:42:14|          11|                    0|
 |[brkkbkc/FPSS18_5](https://github.com/brkkbkc/FPSS18_5)                                                          |[Übersicht](repo/brkkbkc/FPSS18_5)                             |29.08.2018 13:23:12|           6|                    0|
@@ -130,7 +130,7 @@
 |[Jean1995/PraktikumFP](https://github.com/Jean1995/PraktikumFP)                                                  |[Übersicht](repo/Jean1995/PraktikumFP)                         |01.11.2017 20:55:46|           5|                    0|
 |[JLammering/Master-Praktikum](https://github.com/JLammering/Master-Praktikum)                                    |[Übersicht](repo/JLammering/Master-Praktikum)                  |28.08.2020 11:36:06|           9|                    9|
 |[JLammering/Physikalisches-Praktikum](https://github.com/JLammering/Physikalisches-Praktikum)                    |[Übersicht](repo/JLammering/Physikalisches-Praktikum)          |07.01.2022 11:22:35|          15|                   10|
-|[joeyko2706/Anfaengerpraktikum-20-21](https://github.com/joeyko2706/Anfaengerpraktikum-20-21)                    |[Übersicht](repo/joeyko2706/Anfaengerpraktikum-20-21)          |30.04.2022 19:14:13|          10|                   10|
+|[joeyko2706/Anfaengerpraktikum-20-21](https://github.com/joeyko2706/Anfaengerpraktikum-20-21)                    |[Übersicht](repo/joeyko2706/Anfaengerpraktikum-20-21)          |02.05.2022 19:03:07|          11|                   11|
 |[jpherdi/FP_20_21](https://github.com/jpherdi/FP_20_21)                                                          |[Übersicht](repo/jpherdi/FP_20_21)                             |27.03.2021 12:47:42|           5|                    0|
 |[jpherdi/Praktikum](https://github.com/jpherdi/Praktikum)                                                        |[Übersicht](repo/jpherdi/Praktikum)                            |22.08.2020 14:15:53|           4|                    0|
 |[JulianSch/FP-Pelle-Julian](https://github.com/JulianSch/FP-Pelle-Julian)                                        |[Übersicht](repo/JulianSch/FP-Pelle-Julian)                    |06.11.2018 13:29:35|           5|                    4|
@@ -156,7 +156,7 @@
 |[LiigaSoolane/Paktikum-mit-dem-Teufel](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)                  |[Übersicht](repo/LiigaSoolane/Paktikum-mit-dem-Teufel)         |04.07.2021 12:03:23|          19|                   15|
 |[LuckyJosh/APPhysik](https://github.com/LuckyJosh/APPhysik)                                                      |[Übersicht](repo/LuckyJosh/APPhysik)                           |08.07.2014 19:22:20|          20|                    0|
 |[LuckyJosh/PhysikFP2015](https://github.com/LuckyJosh/PhysikFP2015)                                              |[Übersicht](repo/LuckyJosh/PhysikFP2015)                       |04.04.2020 14:53:48|          11|                    3|
-|[lukas-bert/AP-1-Versuchsprotokolle](https://github.com/lukas-bert/AP-1-Versuchsprotokolle)                      |[Übersicht](repo/lukas-bert/AP-1-Versuchsprotokolle)           |30.04.2022 14:23:27|          12|                    0|
+|[lukas-bert/AP-1-Versuchsprotokolle](https://github.com/lukas-bert/AP-1-Versuchsprotokolle)                      |[Übersicht](repo/lukas-bert/AP-1-Versuchsprotokolle)           |02.05.2022 22:16:27|          12|                    0|
 |[LukasNickel/praktikumsskripte](https://github.com/LukasNickel/praktikumsskripte)                                |[Übersicht](repo/LukasNickel/praktikumsskripte)                |23.12.2015 11:59:52|           4|                    3|
 |[lwitthaus/Anfaengerpraktikum](https://github.com/lwitthaus/Anfaengerpraktikum)                                  |[Übersicht](repo/lwitthaus/Anfaengerpraktikum)                 |11.07.2018 07:44:51|          21|                    0|
 |[maaxxns/FP_Samuel_Max](https://github.com/maaxxns/FP_Samuel_Max)                                                |[Übersicht](repo/maaxxns/FP_Samuel_Max)                        |14.08.2021 11:03:17|           5|                    0|
@@ -207,7 +207,7 @@
 |[Tahirbanane/FP_2022](https://github.com/Tahirbanane/FP_2022)                                                    |[Übersicht](repo/Tahirbanane/FP_2022)                          |20.04.2022 23:52:02|           1|                    0|
 |[TimBizeps/BachelorAP](https://github.com/TimBizeps/BachelorAP)                                                  |[Übersicht](repo/TimBizeps/BachelorAP)                         |26.09.2018 13:21:16|          24|                   18|
 |[TRose27/FP](https://github.com/TRose27/FP)                                                                      |[Übersicht](repo/TRose27/FP)                                   |15.04.2019 08:32:51|           5|                    0|
-|[ttros/Praktikum](https://github.com/ttros/Praktikum)                                                            |[Übersicht](repo/ttros/Praktikum)                              |01.05.2022 16:39:48|          12|                    0|
+|[ttros/Praktikum](https://github.com/ttros/Praktikum)                                                            |[Übersicht](repo/ttros/Praktikum)                              |02.05.2022 17:41:12|          12|                    0|
 |[Vale112/FP_B_SS19](https://github.com/Vale112/FP_B_SS19)                                                        |[Übersicht](repo/Vale112/FP_B_SS19)                            |13.09.2019 09:06:37|           5|                    0|
 |[woklop9/Anfaengerpraktikum](https://github.com/lwitthaus/Anfaengerpraktikum)                                    |[Übersicht](repo/woklop9/Anfaengerpraktikum)                   |11.07.2018 07:44:51|          21|                   17|
 |[YanickKi/AP_T_Y](https://github.com/YanickKi/AP_T_Y)                                                            |[Übersicht](repo/YanickKi/AP_T_Y)                              |05.07.2021 12:36:30|          19|                   15|
@@ -216,10 +216,10 @@
 ## Statistiken
 - **122** Repos
 - **75** Versuche
-- **1433** Protokolle
-- **454** Protokolle mit PDFs
+- **1434** Protokolle
+- **455** Protokolle mit PDFs
 - **355** PDFs von _awesome-ap-pdfs_
-- **591** PDFs insgesamt
+- **592** PDFs insgesamt
 
 <p>Zuletzt aktualisiert: <span id="last-modified">[lade…]</span></p>
 <script async>
