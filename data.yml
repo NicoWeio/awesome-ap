@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-04-30 17:49:42
+  last_commit: 2022-05-03 15:12:09
   protokolle:
     101:
       code_analysis:
@@ -301,6 +301,18 @@
         total_sloc: 125
       dirs:
       - V704-Absorption von Beta- und Gammastrahlung
+      pdfs: []
+    901:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - US1-Grundlagen der Ultraschalltechnik
       pdfs: []
 - authors:
   - Benedikt Sander
@@ -568,17 +580,17 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-05-02 21:50:47
+  last_commit: 2022-05-03 10:55:50
   protokolle:
     21:
       code_analysis:
         has_errors: false
-        num_files: 2
-        total_comments: 11
-        total_comments_of_interest: 11
-        total_lloc: 32
-        total_single_comments: 11
-        total_sloc: 32
+        num_files: 1
+        total_comments: 16
+        total_comments_of_interest: 14
+        total_lloc: 50
+        total_single_comments: 16
+        total_sloc: 50
       dirs:
       - Versuche Semester VI/2.V21Optisches_Pumpen
       pdfs: []
@@ -594,7 +606,6 @@
       dirs:
       - Versuche Semester VI/1.V70Vakuumversuche
       pdfs:
-      - Versuche Semester VI/1.V70Vakuumversuche/Protokoll_V70.pdf
       - Versuche Semester VI/1.V70Vakuumversuche/Versuchsbeschreibung_Vakuumversuch_V70.pdf
 - authors:
   - Kevin Heinicke
@@ -6593,7 +6604,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-05-02 19:03:07
+  last_commit: 2022-05-03 12:43:29
   protokolle:
     101:
       code_analysis:
@@ -9766,7 +9777,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-02 22:16:27
+  last_commit: 2022-05-03 20:51:09
   protokolle:
     101:
       code_analysis:
@@ -9863,6 +9874,18 @@
         total_sloc: 80
       dirs:
       - v355
+      pdfs: []
+    503:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - v503
       pdfs: []
     602:
       code_analysis:
@@ -18430,7 +18453,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-05-02 17:41:12
+  last_commit: 2022-05-03 15:25:44
   protokolle:
     103:
       code_analysis:
@@ -18527,6 +18550,18 @@
         total_sloc: 128
       dirs:
       - Protokolle/v354
+      pdfs: []
+    500:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - Protokolle/v500
       pdfs: []
     601:
       code_analysis:
