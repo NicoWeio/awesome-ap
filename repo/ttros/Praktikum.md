@@ -1,6 +1,6 @@
 # [ttros/Praktikum](https://github.com/ttros/Praktikum)
 
-Letzter Commit: 03.05.2022 15:25:44
+Letzter Commit: 04.05.2022 18:00:29
 
 ## Autoren (Klarnamen)
 - Tom Troska

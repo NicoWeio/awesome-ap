@@ -580,20 +580,21 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-05-03 10:55:50
+  last_commit: 2022-05-04 21:06:36
   protokolle:
     21:
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 16
-        total_comments_of_interest: 14
-        total_lloc: 50
-        total_single_comments: 16
-        total_sloc: 50
+        total_comments: 20
+        total_comments_of_interest: 18
+        total_lloc: 75
+        total_single_comments: 20
+        total_sloc: 75
       dirs:
       - Versuche Semester VI/2.V21Optisches_Pumpen
-      pdfs: []
+      pdfs:
+      - Versuche Semester VI/2.V21Optisches_Pumpen/Protokoll_V21.pdf
     70:
       code_analysis:
         has_errors: false
@@ -6604,7 +6605,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-05-03 12:43:29
+  last_commit: 2022-05-04 17:53:24
   protokolle:
     101:
       code_analysis:
@@ -9777,7 +9778,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-03 20:51:09
+  last_commit: 2022-05-04 22:52:15
   protokolle:
     101:
       code_analysis:
@@ -18453,7 +18454,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-05-03 15:25:44
+  last_commit: 2022-05-04 18:00:29
   protokolle:
     103:
       code_analysis:
@@ -18555,11 +18556,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 5
+        total_comments_of_interest: 3
+        total_lloc: 102
+        total_single_comments: 5
+        total_sloc: 103
       dirs:
       - Protokolle/v500
       pdfs: []
