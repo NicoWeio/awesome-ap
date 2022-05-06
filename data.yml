@@ -6605,7 +6605,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-05-05 14:25:40
+  last_commit: 2022-05-06 17:39:15
   protokolle:
     101:
       code_analysis:
@@ -9778,7 +9778,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-05 21:53:34
+  last_commit: 2022-05-06 16:33:33
   protokolle:
     101:
       code_analysis:
@@ -9880,11 +9880,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 21
-        total_comments_of_interest: 5
-        total_lloc: 342
-        total_single_comments: 20
-        total_sloc: 242
+        total_comments: 53
+        total_comments_of_interest: 27
+        total_lloc: 435
+        total_single_comments: 43
+        total_sloc: 335
       dirs:
       - v503
       pdfs: []
@@ -18454,7 +18454,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-05-04 18:00:29
+  last_commit: 2022-05-06 18:30:36
   protokolle:
     103:
       code_analysis:
