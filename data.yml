@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-05-05 13:34:26
+  last_commit: 2022-05-07 23:34:45
   protokolle:
     101:
       code_analysis:
@@ -306,11 +306,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 7
+        total_comments_of_interest: 7
+        total_lloc: 98
+        total_single_comments: 6
+        total_sloc: 99
       dirs:
       - US1-Grundlagen der Ultraschalltechnik
       pdfs: []
@@ -6605,7 +6605,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-05-06 17:39:15
+  last_commit: 2022-05-07 19:15:59
   protokolle:
     101:
       code_analysis:
@@ -9778,7 +9778,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-06 16:33:33
+  last_commit: 2022-05-07 20:11:27
   protokolle:
     101:
       code_analysis:
@@ -9880,11 +9880,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 53
-        total_comments_of_interest: 27
-        total_lloc: 435
-        total_single_comments: 43
-        total_sloc: 335
+        total_comments: 184
+        total_comments_of_interest: 28
+        total_lloc: 482
+        total_single_comments: 171
+        total_sloc: 462
       dirs:
       - v503
       pdfs: []
@@ -18454,7 +18454,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-05-06 18:30:36
+  last_commit: 2022-05-07 14:45:28
   protokolle:
     103:
       code_analysis:
