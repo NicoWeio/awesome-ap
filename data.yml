@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-05-07 23:34:45
+  last_commit: 2022-05-08 11:13:47
   protokolle:
     101:
       code_analysis:
@@ -308,9 +308,9 @@
         num_files: 1
         total_comments: 7
         total_comments_of_interest: 7
-        total_lloc: 98
+        total_lloc: 100
         total_single_comments: 6
-        total_sloc: 99
+        total_sloc: 101
       dirs:
       - US1-Grundlagen der Ultraschalltechnik
       pdfs: []
@@ -9778,7 +9778,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-07 20:11:27
+  last_commit: 2022-05-08 22:15:09
   protokolle:
     101:
       code_analysis:
