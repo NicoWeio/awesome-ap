@@ -580,8 +580,21 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-05-05 21:44:23
+  last_commit: 2022-05-09 10:46:58
   protokolle:
+    14:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 5
+        total_comments_of_interest: 5
+        total_lloc: 43
+        total_single_comments: 5
+        total_sloc: 41
+      dirs:
+      - Versuche Semester VI/4.V14Tomographie
+      pdfs:
+      - Versuche Semester VI/4.V14Tomographie/Versuchsbeschreibung_V14.pdf
     21:
       code_analysis:
         has_errors: false
@@ -595,6 +608,19 @@
       - Versuche Semester VI/2.V21Optisches_Pumpen
       pdfs:
       - Versuche Semester VI/2.V21Optisches_Pumpen/Protokoll_V21.pdf
+    48:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 5
+        total_comments_of_interest: 5
+        total_lloc: 43
+        total_single_comments: 5
+        total_sloc: 41
+      dirs:
+      - Versuche Semester VI/3.V48Dipolrelaxation
+      pdfs:
+      - Versuche Semester VI/3.V48Dipolrelaxation/Versuchsbeschreibung_V48.pdf
     70:
       code_analysis:
         has_errors: false
@@ -18454,7 +18480,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-05-07 14:45:28
+  last_commit: 2022-05-09 15:25:28
   protokolle:
     103:
       code_analysis:
@@ -18556,11 +18582,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 5
-        total_comments_of_interest: 3
-        total_lloc: 102
-        total_single_comments: 5
-        total_sloc: 103
+        total_comments: 6
+        total_comments_of_interest: 4
+        total_lloc: 108
+        total_single_comments: 6
+        total_sloc: 109
       dirs:
       - Protokolle/v500
       pdfs: []
