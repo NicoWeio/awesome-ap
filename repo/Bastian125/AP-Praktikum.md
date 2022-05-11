@@ -1,6 +1,6 @@
 # [Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)
 
-Letzter Commit: 08.05.2022 11:13:47
+Letzter Commit: 10.05.2022 12:52:17
 
 ## Autoren (Klarnamen)
 - Tabea Hacheney
@@ -27,3 +27,4 @@ Letzter Commit: 08.05.2022 11:13:47
 |[702](../../versuch/702)|[V702-Aktivierung mit Neutronen](https://github.com/Bastian125/AP-Praktikum/tree/master/V702-Aktivierung%20mit%20Neutronen)                                |–                                                                                                                                                                                     |
 |[704](../../versuch/704)|[V704-Absorption von Beta- und Gammastrahlung](https://github.com/Bastian125/AP-Praktikum/tree/master/V704-Absorption%20von%20Beta-%20und%20Gammastrahlung)|–                                                                                                                                                                                     |
 |[901](../../versuch/901)|[US1-Grundlagen der Ultraschalltechnik](https://github.com/Bastian125/AP-Praktikum/tree/master/US1-Grundlagen%20der%20Ultraschalltechnik)                  |–                                                                                                                                                                                     |
+|[902](../../versuch/902)|[US2- Scanverfahren in der Ultraschalltechnik](https://github.com/Bastian125/AP-Praktikum/tree/master/US2-%20Scanverfahren%20in%20der%20Ultraschalltechnik)|–                                                                                                                                                                                     |

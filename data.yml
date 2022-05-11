@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-05-08 11:13:47
+  last_commit: 2022-05-10 12:52:17
   protokolle:
     101:
       code_analysis:
@@ -313,6 +313,18 @@
         total_sloc: 101
       dirs:
       - US1-Grundlagen der Ultraschalltechnik
+      pdfs: []
+    902:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - US2- Scanverfahren in der Ultraschalltechnik
       pdfs: []
 - authors:
   - Benedikt Sander
@@ -6631,7 +6643,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-05-07 19:15:59
+  last_commit: 2022-05-10 16:38:39
   protokolle:
     101:
       code_analysis:
@@ -9804,7 +9816,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-08 22:15:09
+  last_commit: 2022-05-10 15:58:07
   protokolle:
     101:
       code_analysis:
@@ -9913,6 +9925,18 @@
         total_sloc: 462
       dirs:
       - v503
+      pdfs: []
+    504:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - v504
       pdfs: []
     602:
       code_analysis:
