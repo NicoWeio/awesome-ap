@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-05-10 12:52:17
+  last_commit: 2022-05-11 13:07:40
   protokolle:
     101:
       code_analysis:
@@ -6643,7 +6643,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-05-10 16:38:39
+  last_commit: 2022-05-11 09:21:20
   protokolle:
     101:
       code_analysis:
@@ -6741,6 +6741,18 @@
       dirs: []
       pdfs:
       - Protokolle/v355.pdf
+    500:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs: []
+      pdfs:
+      - Protokolle/v500.pdf
     601:
       code_analysis:
         has_errors: false
@@ -9816,7 +9828,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-10 15:58:07
+  last_commit: 2022-05-11 21:21:50
   protokolle:
     101:
       code_analysis:
@@ -9930,11 +9942,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 25
+        total_comments_of_interest: 20
+        total_lloc: 94
+        total_single_comments: 14
+        total_sloc: 94
       dirs:
       - v504
       pdfs: []
@@ -18504,7 +18516,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-05-09 15:25:28
+  last_commit: 2022-05-11 14:08:29
   protokolle:
     103:
       code_analysis:
@@ -18613,6 +18625,18 @@
         total_sloc: 109
       dirs:
       - Protokolle/v500
+      pdfs: []
+    503:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 5
+        total_comments_of_interest: 1
+        total_lloc: 17
+        total_single_comments: 2
+        total_sloc: 18
+      dirs:
+      - Protokolle/v503
       pdfs: []
     601:
       code_analysis:
