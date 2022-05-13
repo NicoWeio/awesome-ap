@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-05-11 13:07:40
+  last_commit: 2022-05-12 14:33:59
   protokolle:
     101:
       code_analysis:
@@ -318,11 +318,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 5
+        total_comments_of_interest: 5
+        total_lloc: 35
+        total_single_comments: 5
+        total_sloc: 38
       dirs:
       - US2- Scanverfahren in der Ultraschalltechnik
       pdfs: []
@@ -9828,7 +9828,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-11 21:21:50
+  last_commit: 2022-05-12 18:02:36
   protokolle:
     101:
       code_analysis:
@@ -9942,11 +9942,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 25
+        total_comments: 55
         total_comments_of_interest: 20
-        total_lloc: 94
-        total_single_comments: 14
-        total_sloc: 94
+        total_lloc: 101
+        total_single_comments: 43
+        total_sloc: 99
       dirs:
       - v504
       pdfs: []
