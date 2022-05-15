@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-05-12 14:33:59
+  last_commit: 2022-05-14 09:09:39
   protokolle:
     101:
       code_analysis:
@@ -5537,8 +5537,20 @@
   - html_url: https://github.com/sonia-cyber
     login: sonia-cyber
   full_name: jana-banana/FP-2022
-  last_commit: 2022-04-27 09:41:07
+  last_commit: 2022-05-14 20:01:36
   protokolle:
+    14:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 69
+        total_comments_of_interest: 43
+        total_lloc: 166
+        total_single_comments: 15
+        total_sloc: 166
+      dirs:
+      - V14
+      pdfs: []
     64:
       code_analysis:
         has_errors: false
