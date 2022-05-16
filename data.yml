@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-05-14 09:09:39
+  last_commit: 2022-05-15 18:39:15
   protokolle:
     101:
       code_analysis:
@@ -592,7 +592,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-05-09 10:46:58
+  last_commit: 2022-05-15 18:20:39
   protokolle:
     14:
       code_analysis:
@@ -639,9 +639,9 @@
         num_files: 1
         total_comments: 70
         total_comments_of_interest: 51
-        total_lloc: 287
+        total_lloc: 297
         total_single_comments: 61
-        total_sloc: 289
+        total_sloc: 299
       dirs:
       - Versuche Semester VI/1.V70Vakuumversuche
       pdfs:
@@ -9840,7 +9840,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-13 19:52:58
+  last_commit: 2022-05-15 12:30:43
   protokolle:
     101:
       code_analysis:
@@ -18528,7 +18528,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-05-13 14:09:42
+  last_commit: 2022-05-15 12:05:54
   protokolle:
     103:
       code_analysis:
@@ -18642,11 +18642,11 @@
       code_analysis:
         has_errors: false
         num_files: 2
-        total_comments: 29
-        total_comments_of_interest: 8
-        total_lloc: 138
-        total_single_comments: 22
-        total_sloc: 215
+        total_comments: 35
+        total_comments_of_interest: 14
+        total_lloc: 171
+        total_single_comments: 28
+        total_sloc: 248
       dirs:
       - Protokolle/v503
       pdfs: []
