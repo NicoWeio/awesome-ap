@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-05-15 18:39:15
+  last_commit: 2022-05-17 12:02:35
   protokolle:
     101:
       code_analysis:
@@ -277,6 +277,18 @@
         total_sloc: 123
       dirs:
       - V500-Photoeffekt
+      pdfs: []
+    601:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - V601-Franck-Hertz
       pdfs: []
     702:
       code_analysis:
@@ -6655,7 +6667,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-05-16 19:11:15
+  last_commit: 2022-05-17 16:52:06
   protokolle:
     101:
       code_analysis:
@@ -9840,7 +9852,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-16 15:46:58
+  last_commit: 2022-05-17 17:20:39
   protokolle:
     101:
       code_analysis:
@@ -9937,6 +9949,18 @@
         total_sloc: 80
       dirs:
       - v355
+      pdfs: []
+    401:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - v401
       pdfs: []
     503:
       code_analysis:
@@ -18541,7 +18565,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-05-16 10:33:47
+  last_commit: 2022-05-17 15:48:10
   protokolle:
     103:
       code_analysis:
@@ -18638,6 +18662,18 @@
         total_sloc: 128
       dirs:
       - Protokolle/v354
+      pdfs: []
+    400:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 10
+        total_single_comments: 0
+        total_sloc: 11
+      dirs:
+      - Protokolle/v400
       pdfs: []
     500:
       code_analysis:
