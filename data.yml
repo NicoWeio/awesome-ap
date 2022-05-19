@@ -604,7 +604,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-05-15 18:20:39
+  last_commit: 2022-05-18 22:02:18
   protokolle:
     14:
       code_analysis:
@@ -636,20 +636,21 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 5
-        total_comments_of_interest: 5
-        total_lloc: 43
-        total_single_comments: 5
-        total_sloc: 41
+        total_comments: 23
+        total_comments_of_interest: 20
+        total_lloc: 132
+        total_single_comments: 22
+        total_sloc: 135
       dirs:
       - Versuche Semester VI/3.V48Dipolrelaxation
       pdfs:
+      - Versuche Semester VI/3.V48Dipolrelaxation/Protokoll_V48.pdf
       - Versuche Semester VI/3.V48Dipolrelaxation/Versuchsbeschreibung_V48.pdf
     70:
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 70
+        total_comments: 71
         total_comments_of_interest: 51
         total_lloc: 297
         total_single_comments: 61
@@ -5549,17 +5550,17 @@
   - html_url: https://github.com/sonia-cyber
     login: sonia-cyber
   full_name: jana-banana/FP-2022
-  last_commit: 2022-05-14 20:01:36
+  last_commit: 2022-05-18 10:10:56
   protokolle:
     14:
       code_analysis:
         has_errors: false
-        num_files: 1
-        total_comments: 69
-        total_comments_of_interest: 43
-        total_lloc: 166
-        total_single_comments: 15
-        total_sloc: 166
+        num_files: 2
+        total_comments: 61
+        total_comments_of_interest: 33
+        total_lloc: 381
+        total_single_comments: 29
+        total_sloc: 381
       dirs:
       - V14
       pdfs: []
@@ -6667,7 +6668,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-05-17 16:52:06
+  last_commit: 2022-05-18 18:02:05
   protokolle:
     101:
       code_analysis:
@@ -9852,7 +9853,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-17 17:20:39
+  last_commit: 2022-05-18 18:54:48
   protokolle:
     101:
       code_analysis:
@@ -18565,7 +18566,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-05-17 15:48:10
+  last_commit: 2022-05-18 16:32:53
   protokolle:
     103:
       code_analysis:
@@ -18667,11 +18668,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 10
-        total_single_comments: 0
-        total_sloc: 11
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 19
+        total_single_comments: 1
+        total_sloc: 20
       dirs:
       - Protokolle/v400
       pdfs: []
