@@ -1,6 +1,6 @@
 # [BenediktSan/FortgeschrittenenPraktikum2022](https://github.com/BenediktSan/FortgeschrittenenPraktikum2022)
 
-Letzter Commit: 18.05.2022 22:02:18
+Letzter Commit: 19.05.2022 22:02:59
 
 ## Autoren (Klarnamen)
 - Niklas Düser
