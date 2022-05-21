@@ -1,6 +1,6 @@
 # [Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)
 
-Letzter Commit: 19.05.2022 15:02:26
+Letzter Commit: 21.05.2022 00:40:39
 
 ## Autoren (Klarnamen)
 - Tabea Hacheney
