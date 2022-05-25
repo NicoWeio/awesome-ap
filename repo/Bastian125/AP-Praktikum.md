@@ -1,6 +1,6 @@
 # [Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)
 
-Letzter Commit: 23.05.2022 13:59:47
+Letzter Commit: 24.05.2022 21:13:59
 
 ## Autoren (Klarnamen)
 - Tabea Hacheney
@@ -25,6 +25,7 @@ Letzter Commit: 23.05.2022 13:59:47
 |[400](../../versuch/400)|[V400-Reflexion_Brechung_Beugung](https://github.com/Bastian125/AP-Praktikum/tree/master/V400-Reflexion_Brechung_Beugung)                                  |–                                                                                                                                                                                     |
 |[500](../../versuch/500)|[V500-Photoeffekt](https://github.com/Bastian125/AP-Praktikum/tree/master/V500-Photoeffekt)                                                                |–                                                                                                                                                                                     |
 |[601](../../versuch/601)|[V601-Franck-Hertz](https://github.com/Bastian125/AP-Praktikum/tree/master/V601-Franck-Hertz)                                                              |–                                                                                                                                                                                     |
+|[602](../../versuch/602)|[V602-Roentgenemission und -absorption](https://github.com/Bastian125/AP-Praktikum/tree/master/V602-Roentgenemission%20und%20-absorption)                  |–                                                                                                                                                                                     |
 |[702](../../versuch/702)|[V702-Aktivierung mit Neutronen](https://github.com/Bastian125/AP-Praktikum/tree/master/V702-Aktivierung%20mit%20Neutronen)                                |–                                                                                                                                                                                     |
 |[704](../../versuch/704)|[V704-Absorption von Beta- und Gammastrahlung](https://github.com/Bastian125/AP-Praktikum/tree/master/V704-Absorption%20von%20Beta-%20und%20Gammastrahlung)|–                                                                                                                                                                                     |
 |[901](../../versuch/901)|[US1-Grundlagen der Ultraschalltechnik](https://github.com/Bastian125/AP-Praktikum/tree/master/US1-Grundlagen%20der%20Ultraschalltechnik)                  |–                                                                                                                                                                                     |

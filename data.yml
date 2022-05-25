@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-05-23 13:59:47
+  last_commit: 2022-05-24 21:13:59
   protokolle:
     101:
       code_analysis:
@@ -289,6 +289,18 @@
         total_sloc: 44
       dirs:
       - V601-Franck-Hertz
+      pdfs: []
+    602:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - V602-Roentgenemission und -absorption
       pdfs: []
     702:
       code_analysis:
@@ -9865,7 +9877,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-20 15:49:06
+  last_commit: 2022-05-24 18:49:52
   protokolle:
     101:
       code_analysis:
@@ -9974,6 +9986,18 @@
         total_sloc: 30
       dirs:
       - v401
+      pdfs: []
+    407:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - v407
       pdfs: []
     503:
       code_analysis:
@@ -18580,7 +18604,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-05-23 14:10:20
+  last_commit: 2022-05-24 20:05:33
   protokolle:
     103:
       code_analysis:
@@ -18689,6 +18713,18 @@
         total_sloc: 67
       dirs:
       - Protokolle/v400
+      pdfs: []
+    401:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 9
+        total_comments_of_interest: 0
+        total_lloc: 31
+        total_single_comments: 0
+        total_sloc: 31
+      dirs:
+      - Protokolle/v401
       pdfs: []
     500:
       code_analysis:
