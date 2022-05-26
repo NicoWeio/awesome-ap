@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-05-24 21:13:59
+  last_commit: 2022-05-25 09:15:29
   protokolle:
     101:
       code_analysis:
@@ -616,7 +616,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-05-22 15:57:15
+  last_commit: 2022-05-26 00:59:32
   protokolle:
     14:
       code_analysis:
@@ -648,15 +648,14 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 42
-        total_comments_of_interest: 36
-        total_lloc: 218
-        total_single_comments: 31
-        total_sloc: 213
+        total_comments: 44
+        total_comments_of_interest: 38
+        total_lloc: 228
+        total_single_comments: 32
+        total_sloc: 223
       dirs:
       - Versuche Semester VI/3.V48Dipolrelaxation
       pdfs:
-      - Versuche Semester VI/3.V48Dipolrelaxation/Protokoll_V48.pdf
       - Versuche Semester VI/3.V48Dipolrelaxation/Versuchsbeschreibung_V48.pdf
     70:
       code_analysis:
@@ -1702,7 +1701,7 @@
   - html_url: https://github.com/NicoWeio
     login: NicoWeio
   full_name: chris-topher6/Anfaenger-Praktikum
-  last_commit: 2021-08-26 08:14:31
+  last_commit: 2022-05-25 16:54:20
   protokolle:
     103:
       code_analysis:
@@ -9877,7 +9876,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-24 18:49:52
+  last_commit: 2022-05-25 23:20:44
   protokolle:
     101:
       code_analysis:
@@ -9991,11 +9990,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 10
+        total_comments_of_interest: 8
+        total_lloc: 54
+        total_single_comments: 8
+        total_sloc: 49
       dirs:
       - v407
       pdfs: []
@@ -18604,7 +18603,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-05-24 20:05:33
+  last_commit: 2022-05-25 08:51:20
   protokolle:
     103:
       code_analysis:
