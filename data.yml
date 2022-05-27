@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-05-25 09:15:29
+  last_commit: 2022-05-26 10:48:45
   protokolle:
     101:
       code_analysis:
@@ -342,11 +342,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 5
-        total_comments_of_interest: 5
-        total_lloc: 35
-        total_single_comments: 5
-        total_sloc: 38
+        total_comments: 6
+        total_comments_of_interest: 6
+        total_lloc: 46
+        total_single_comments: 6
+        total_sloc: 49
       dirs:
       - US2- Scanverfahren in der Ultraschalltechnik
       pdfs: []
@@ -616,7 +616,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-05-26 00:59:32
+  last_commit: 2022-05-26 21:51:04
   protokolle:
     14:
       code_analysis:
@@ -656,6 +656,7 @@
       dirs:
       - Versuche Semester VI/3.V48Dipolrelaxation
       pdfs:
+      - Versuche Semester VI/3.V48Dipolrelaxation/Protokoll_V48.pdf
       - Versuche Semester VI/3.V48Dipolrelaxation/Versuchsbeschreibung_V48.pdf
     70:
       code_analysis:
@@ -9876,7 +9877,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-25 23:20:44
+  last_commit: 2022-05-26 19:41:10
   protokolle:
     101:
       code_analysis:
@@ -9990,11 +9991,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 10
-        total_comments_of_interest: 8
-        total_lloc: 54
-        total_single_comments: 8
-        total_sloc: 49
+        total_comments: 22
+        total_comments_of_interest: 9
+        total_lloc: 50
+        total_single_comments: 20
+        total_sloc: 50
       dirs:
       - v407
       pdfs: []
