@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-05-28 21:00:26
+  last_commit: 2022-05-29 20:16:38
   protokolle:
     101:
       code_analysis:
@@ -294,11 +294,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 6
+        total_comments_of_interest: 6
+        total_lloc: 44
+        total_single_comments: 6
+        total_sloc: 44
       dirs:
       - V602-Roentgenemission und -absorption
       pdfs: []
@@ -9877,7 +9877,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-26 19:41:10
+  last_commit: 2022-05-29 21:21:49
   protokolle:
     101:
       code_analysis:
@@ -10046,6 +10046,18 @@
         total_sloc: 112
       dirs:
       - v606
+      pdfs: []
+    704:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - v704
       pdfs: []
     902:
       code_analysis:

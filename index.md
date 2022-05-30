@@ -76,7 +76,7 @@
 |701|Reichweite von Alpha-Strahlung                                       |[Übersicht](versuch/701)|     18|
 |702|Aktivierung mit Neutronen                                            |[Übersicht](versuch/702)|     38|
 |703|Das Geiger-Müller-Zählrohr                                           |[Übersicht](versuch/703)|     46|
-|704|Absorption von Gamma- und Beta-Strahlung                             |[Übersicht](versuch/704)|     18|
+|704|Absorption von Gamma- und Beta-Strahlung                             |[Übersicht](versuch/704)|     19|
 |800|Das Oszilloskop                                                      |[Übersicht](versuch/800)|      2|
 |801|–                                                                    |[Übersicht](versuch/801)|      2|
 |802|Fouriersynthese                                                      |[Übersicht](versuch/802)|      5|
@@ -92,7 +92,7 @@
 |-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------|-----------:|--------------------:|
 |[AReinold/Bachelor-FP](https://github.com/AReinold/Bachelor-FP)                                                  |[Übersicht](repo/AReinold/Bachelor-FP)                         |09.07.2018 09:47:30|           5|                    1|
 |[AReinold/Master-FP](https://github.com/AReinold/Master-FP)                                                      |[Übersicht](repo/AReinold/Master-FP)                           |22.03.2020 13:24:47|           5|                    3|
-|[Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)                                            |[Übersicht](repo/Bastian125/AP-Praktikum)                      |28.05.2022 21:00:26|          16|                    3|
+|[Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)                                            |[Übersicht](repo/Bastian125/AP-Praktikum)                      |29.05.2022 20:16:38|          16|                    3|
 |[BenediktSan/AnfaengerPraktikum2020](https://github.com/BenediktSan/AnfaengerPraktikum2020)                      |[Übersicht](repo/BenediktSan/AnfaengerPraktikum2020)           |05.07.2021 21:32:58|          19|                   16|
 |[BenediktSan/FortgeschrittenenPraktikum2022](https://github.com/BenediktSan/FortgeschrittenenPraktikum2022)      |[Übersicht](repo/BenediktSan/FortgeschrittenenPraktikum2022)   |26.05.2022 21:51:04|           4|                    4|
 |[bixel/AP1213](https://github.com/bixel/AP1213)                                                                  |[Übersicht](repo/bixel/AP1213)                                 |15.03.2014 13:00:24|          23|                   23|
@@ -157,7 +157,7 @@
 |[LiigaSoolane/Paktikum-mit-dem-Teufel](https://github.com/LiigaSoolane/Paktikum-mit-dem-Teufel)                  |[Übersicht](repo/LiigaSoolane/Paktikum-mit-dem-Teufel)         |04.07.2021 12:03:23|          19|                   15|
 |[LuckyJosh/APPhysik](https://github.com/LuckyJosh/APPhysik)                                                      |[Übersicht](repo/LuckyJosh/APPhysik)                           |08.07.2014 19:22:20|          20|                    0|
 |[LuckyJosh/PhysikFP2015](https://github.com/LuckyJosh/PhysikFP2015)                                              |[Übersicht](repo/LuckyJosh/PhysikFP2015)                       |04.04.2020 14:53:48|          11|                    3|
-|[lukas-bert/AP-1-Versuchsprotokolle](https://github.com/lukas-bert/AP-1-Versuchsprotokolle)                      |[Übersicht](repo/lukas-bert/AP-1-Versuchsprotokolle)           |26.05.2022 19:41:10|          16|                    0|
+|[lukas-bert/AP-1-Versuchsprotokolle](https://github.com/lukas-bert/AP-1-Versuchsprotokolle)                      |[Übersicht](repo/lukas-bert/AP-1-Versuchsprotokolle)           |29.05.2022 21:21:49|          17|                    0|
 |[LukasNickel/praktikumsskripte](https://github.com/LukasNickel/praktikumsskripte)                                |[Übersicht](repo/LukasNickel/praktikumsskripte)                |23.12.2015 11:59:52|           4|                    3|
 |[lwitthaus/Anfaengerpraktikum](https://github.com/lwitthaus/Anfaengerpraktikum)                                  |[Übersicht](repo/lwitthaus/Anfaengerpraktikum)                 |11.07.2018 07:44:51|          21|                    0|
 |[maaxxns/FP_Samuel_Max](https://github.com/maaxxns/FP_Samuel_Max)                                                |[Übersicht](repo/maaxxns/FP_Samuel_Max)                        |14.08.2021 11:03:17|           5|                    0|
@@ -217,7 +217,7 @@
 ## Statistiken
 - **122** Repos
 - **76** Versuche
-- **1452** Protokolle
+- **1453** Protokolle
 - **460** Protokolle mit PDFs
 - **355** PDFs von _awesome-ap-pdfs_
 - **597** PDFs insgesamt
