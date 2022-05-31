@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-05-29 20:16:38
+  last_commit: 2022-05-30 20:14:36
   protokolle:
     101:
       code_analysis:
@@ -294,11 +294,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 6
-        total_comments_of_interest: 6
-        total_lloc: 44
-        total_single_comments: 6
-        total_sloc: 44
+        total_comments: 29
+        total_comments_of_interest: 28
+        total_lloc: 151
+        total_single_comments: 29
+        total_sloc: 156
       dirs:
       - V602-Roentgenemission und -absorption
       pdfs: []
@@ -616,7 +616,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-05-26 21:51:04
+  last_commit: 2022-05-30 19:16:03
   protokolle:
     14:
       code_analysis:
@@ -648,28 +648,28 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 44
-        total_comments_of_interest: 38
-        total_lloc: 228
+        total_comments: 46
+        total_comments_of_interest: 40
+        total_lloc: 229
         total_single_comments: 32
-        total_sloc: 223
+        total_sloc: 224
       dirs:
       - Versuche Semester VI/3.V48Dipolrelaxation
       pdfs:
-      - Versuche Semester VI/3.V48Dipolrelaxation/Protokoll_V48.pdf
       - Versuche Semester VI/3.V48Dipolrelaxation/Versuchsbeschreibung_V48.pdf
     70:
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 71
-        total_comments_of_interest: 51
-        total_lloc: 297
-        total_single_comments: 61
-        total_sloc: 299
+        total_comments: 72
+        total_comments_of_interest: 52
+        total_lloc: 298
+        total_single_comments: 62
+        total_sloc: 300
       dirs:
       - Versuche Semester VI/1.V70Vakuumversuche
       pdfs:
+      - Versuche Semester VI/1.V70Vakuumversuche/Protokoll_V70.pdf
       - Versuche Semester VI/1.V70Vakuumversuche/Versuchsbeschreibung_Vakuumversuch_V70.pdf
 - authors:
   - Kevin Heinicke
@@ -5562,7 +5562,7 @@
   - html_url: https://github.com/sonia-cyber
     login: sonia-cyber
   full_name: jana-banana/FP-2022
-  last_commit: 2022-05-23 16:12:55
+  last_commit: 2022-05-30 16:02:24
   protokolle:
     14:
       code_analysis:
@@ -5579,12 +5579,12 @@
     48:
       code_analysis:
         has_errors: false
-        num_files: 1
-        total_comments: 5
-        total_comments_of_interest: 3
-        total_lloc: 20
-        total_single_comments: 1
-        total_sloc: 20
+        num_files: 2
+        total_comments: 106
+        total_comments_of_interest: 66
+        total_lloc: 469
+        total_single_comments: 97
+        total_sloc: 434
       dirs:
       - V48
       pdfs: []
@@ -6692,7 +6692,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-05-23 16:30:17
+  last_commit: 2022-05-30 08:44:15
   protokolle:
     101:
       code_analysis:
@@ -6790,6 +6790,18 @@
       dirs: []
       pdfs:
       - Protokolle/v355.pdf
+    407:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs: []
+      pdfs:
+      - Protokolle/v407.pdf
     500:
       code_analysis:
         has_errors: false
@@ -9877,7 +9889,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-29 21:21:49
+  last_commit: 2022-05-30 20:58:14
   protokolle:
     101:
       code_analysis:
