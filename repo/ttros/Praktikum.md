@@ -1,6 +1,6 @@
 # [ttros/Praktikum](https://github.com/ttros/Praktikum)
 
-Letzter Commit: 25.05.2022 08:51:20
+Letzter Commit: 31.05.2022 21:04:14
 
 ## Autoren (Klarnamen)
 - Tom Troska
@@ -28,5 +28,6 @@ Letzter Commit: 25.05.2022 08:51:20
 |[503](../../versuch/503)|[v503](https://github.com/ttros/Praktikum/tree/main/Protokolle/v503)|–   |
 |[601](../../versuch/601)|[v601](https://github.com/ttros/Praktikum/tree/main/Protokolle/v601)|–   |
 |[602](../../versuch/602)|[v602](https://github.com/ttros/Praktikum/tree/main/Protokolle/v602)|–   |
+|[702](../../versuch/702)|[v702](https://github.com/ttros/Praktikum/tree/main/Protokolle/v702)|–   |
 |[901](../../versuch/901)|[US1](https://github.com/ttros/Praktikum/tree/main/Protokolle/US1)  |–   |
 |[902](../../versuch/902)|[US2](https://github.com/ttros/Praktikum/tree/main/Protokolle/US2)  |–   |

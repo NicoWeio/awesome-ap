@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-05-30 20:14:36
+  last_commit: 2022-05-31 12:52:19
   protokolle:
     101:
       code_analysis:
@@ -349,6 +349,18 @@
         total_sloc: 49
       dirs:
       - US2- Scanverfahren in der Ultraschalltechnik
+      pdfs: []
+    903:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - US3-Dopplersonographie
       pdfs: []
 - authors:
   - Benedikt Sander
@@ -616,17 +628,17 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-05-30 19:16:03
+  last_commit: 2022-05-31 22:39:47
   protokolle:
     14:
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 5
-        total_comments_of_interest: 5
-        total_lloc: 43
-        total_single_comments: 5
-        total_sloc: 41
+        total_comments: 10
+        total_comments_of_interest: 9
+        total_lloc: 57
+        total_single_comments: 10
+        total_sloc: 55
       dirs:
       - Versuche Semester VI/4.V14Tomographie
       pdfs:
@@ -656,6 +668,7 @@
       dirs:
       - Versuche Semester VI/3.V48Dipolrelaxation
       pdfs:
+      - Versuche Semester VI/3.V48Dipolrelaxation/Protokoll_V48.pdf
       - Versuche Semester VI/3.V48Dipolrelaxation/Versuchsbeschreibung_V48.pdf
     70:
       code_analysis:
@@ -5562,7 +5575,7 @@
   - html_url: https://github.com/sonia-cyber
     login: sonia-cyber
   full_name: jana-banana/FP-2022
-  last_commit: 2022-05-30 16:02:24
+  last_commit: 2022-05-31 23:36:03
   protokolle:
     14:
       code_analysis:
@@ -5580,11 +5593,11 @@
       code_analysis:
         has_errors: false
         num_files: 2
-        total_comments: 106
-        total_comments_of_interest: 66
-        total_lloc: 469
-        total_single_comments: 97
-        total_sloc: 434
+        total_comments: 116
+        total_comments_of_interest: 75
+        total_lloc: 510
+        total_single_comments: 105
+        total_sloc: 469
       dirs:
       - V48
       pdfs: []
@@ -6692,7 +6705,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-05-30 08:44:15
+  last_commit: 2022-05-31 13:14:55
   protokolle:
     101:
       code_analysis:
@@ -9889,7 +9902,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-30 20:58:14
+  last_commit: 2022-05-31 21:47:06
   protokolle:
     101:
       code_analysis:
@@ -10063,11 +10076,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 5
+        total_comments_of_interest: 3
+        total_lloc: 34
+        total_single_comments: 2
+        total_sloc: 34
       dirs:
       - v704
       pdfs: []
@@ -18628,7 +18641,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-05-25 08:51:20
+  last_commit: 2022-05-31 21:04:14
   protokolle:
     103:
       code_analysis:
@@ -18797,6 +18810,18 @@
         total_sloc: 260
       dirs:
       - Protokolle/v602
+      pdfs: []
+    702:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 2
+        total_comments_of_interest: 2
+        total_lloc: 71
+        total_single_comments: 2
+        total_sloc: 67
+      dirs:
+      - Protokolle/v702
       pdfs: []
     901:
       code_analysis:
