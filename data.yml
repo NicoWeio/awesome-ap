@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-05-31 12:52:19
+  last_commit: 2022-06-01 06:49:32
   protokolle:
     101:
       code_analysis:
@@ -628,7 +628,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-05-31 22:39:47
+  last_commit: 2022-06-01 13:55:27
   protokolle:
     14:
       code_analysis:
@@ -636,9 +636,9 @@
         num_files: 1
         total_comments: 10
         total_comments_of_interest: 9
-        total_lloc: 57
+        total_lloc: 80
         total_single_comments: 10
-        total_sloc: 55
+        total_sloc: 78
       dirs:
       - Versuche Semester VI/4.V14Tomographie
       pdfs:
@@ -668,7 +668,6 @@
       dirs:
       - Versuche Semester VI/3.V48Dipolrelaxation
       pdfs:
-      - Versuche Semester VI/3.V48Dipolrelaxation/Protokoll_V48.pdf
       - Versuche Semester VI/3.V48Dipolrelaxation/Versuchsbeschreibung_V48.pdf
     70:
       code_analysis:
@@ -5575,7 +5574,7 @@
   - html_url: https://github.com/sonia-cyber
     login: sonia-cyber
   full_name: jana-banana/FP-2022
-  last_commit: 2022-05-31 23:36:03
+  last_commit: 2022-06-01 13:42:12
   protokolle:
     14:
       code_analysis:
@@ -5593,11 +5592,11 @@
       code_analysis:
         has_errors: false
         num_files: 2
-        total_comments: 116
-        total_comments_of_interest: 75
-        total_lloc: 510
-        total_single_comments: 105
-        total_sloc: 469
+        total_comments: 130
+        total_comments_of_interest: 84
+        total_lloc: 581
+        total_single_comments: 116
+        total_sloc: 537
       dirs:
       - V48
       pdfs: []
@@ -6705,7 +6704,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-05-31 13:14:55
+  last_commit: 2022-06-01 16:46:05
   protokolle:
     101:
       code_analysis:
@@ -6803,6 +6802,18 @@
       dirs: []
       pdfs:
       - Protokolle/v355.pdf
+    400:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs: []
+      pdfs:
+      - Protokolle/v400.pdf
     407:
       code_analysis:
         has_errors: false
@@ -6827,6 +6838,18 @@
       dirs: []
       pdfs:
       - Protokolle/v500.pdf
+    504:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs: []
+      pdfs:
+      - Protokolle/v504.pdf
     601:
       code_analysis:
         has_errors: false
@@ -9902,7 +9925,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-05-31 21:47:06
+  last_commit: 2022-06-01 19:59:02
   protokolle:
     101:
       code_analysis:
@@ -10076,11 +10099,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 5
-        total_comments_of_interest: 3
-        total_lloc: 34
-        total_single_comments: 2
-        total_sloc: 34
+        total_comments: 30
+        total_comments_of_interest: 19
+        total_lloc: 118
+        total_single_comments: 16
+        total_sloc: 114
       dirs:
       - v704
       pdfs: []
@@ -18641,7 +18664,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-05-31 21:04:14
+  last_commit: 2022-06-01 14:40:54
   protokolle:
     103:
       code_analysis:
@@ -18817,9 +18840,9 @@
         num_files: 1
         total_comments: 2
         total_comments_of_interest: 2
-        total_lloc: 71
+        total_lloc: 72
         total_single_comments: 2
-        total_sloc: 67
+        total_sloc: 68
       dirs:
       - Protokolle/v702
       pdfs: []
