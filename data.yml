@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-06-02 19:19:12
+  last_commit: 2022-06-04 10:49:27
   protokolle:
     101:
       code_analysis:
@@ -628,17 +628,17 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-06-01 13:55:27
+  last_commit: 2022-06-04 11:06:31
   protokolle:
     14:
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 10
-        total_comments_of_interest: 9
-        total_lloc: 80
-        total_single_comments: 10
-        total_sloc: 78
+        total_comments: 12
+        total_comments_of_interest: 11
+        total_lloc: 94
+        total_single_comments: 11
+        total_sloc: 92
       dirs:
       - Versuche Semester VI/4.V14Tomographie
       pdfs:
