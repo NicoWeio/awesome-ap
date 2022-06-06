@@ -628,17 +628,17 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-06-04 11:06:31
+  last_commit: 2022-06-05 21:23:45
   protokolle:
     14:
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 12
-        total_comments_of_interest: 11
-        total_lloc: 94
+        total_comments: 35
+        total_comments_of_interest: 13
+        total_lloc: 106
         total_single_comments: 11
-        total_sloc: 92
+        total_sloc: 104
       dirs:
       - Versuche Semester VI/4.V14Tomographie
       pdfs:
@@ -668,6 +668,7 @@
       dirs:
       - Versuche Semester VI/3.V48Dipolrelaxation
       pdfs:
+      - Versuche Semester VI/3.V48Dipolrelaxation/Protokoll_V48.pdf
       - Versuche Semester VI/3.V48Dipolrelaxation/Versuchsbeschreibung_V48.pdf
     70:
       code_analysis:
