@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-06-06 12:42:28
+  last_commit: 2022-06-07 14:09:44
   protokolle:
     101:
       code_analysis:
@@ -277,6 +277,18 @@
         total_sloc: 123
       dirs:
       - V500-Photoeffekt
+      pdfs: []
+    503:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - "V503-Der Millikan-\xD6ltr\xF6pfchenversuch"
       pdfs: []
     601:
       code_analysis:
@@ -6705,7 +6717,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-06-06 21:29:38
+  last_commit: 2022-06-07 08:45:53
   protokolle:
     101:
       code_analysis:
@@ -9926,7 +9938,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-06-06 17:43:16
+  last_commit: 2022-06-07 15:27:06
   protokolle:
     101:
       code_analysis:
@@ -10095,6 +10107,18 @@
         total_sloc: 112
       dirs:
       - v606
+      pdfs: []
+    703:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - v703
       pdfs: []
     704:
       code_analysis:
@@ -18665,7 +18689,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-06-06 20:35:35
+  last_commit: 2022-06-07 14:39:58
   protokolle:
     103:
       code_analysis:
@@ -18846,6 +18870,18 @@
         total_sloc: 68
       dirs:
       - Protokolle/v702
+      pdfs: []
+    704:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 47
+        total_comments_of_interest: 10
+        total_lloc: 23
+        total_single_comments: 47
+        total_sloc: 23
+      dirs:
+      - Protokolle/v704
       pdfs: []
     901:
       code_analysis:
