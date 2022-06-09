@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-06-07 14:09:44
+  last_commit: 2022-06-08 19:33:34
   protokolle:
     101:
       code_analysis:
@@ -640,20 +640,21 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-06-06 16:02:44
+  last_commit: 2022-06-08 22:28:08
   protokolle:
     14:
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 42
-        total_comments_of_interest: 14
-        total_lloc: 136
-        total_single_comments: 18
-        total_sloc: 134
+        total_comments: 94
+        total_comments_of_interest: 23
+        total_lloc: 160
+        total_single_comments: 70
+        total_sloc: 158
       dirs:
       - Versuche Semester VI/4.V14Tomographie
       pdfs:
+      - Versuche Semester VI/4.V14Tomographie/Protokoll_V14.pdf
       - Versuche Semester VI/4.V14Tomographie/Versuchsbeschreibung_V14.pdf
     21:
       code_analysis:
@@ -9938,7 +9939,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-06-07 15:27:06
+  last_commit: 2022-06-08 21:09:10
   protokolle:
     101:
       code_analysis:
@@ -18689,7 +18690,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-06-07 14:39:58
+  last_commit: 2022-06-08 17:01:45
   protokolle:
     103:
       code_analysis:
@@ -18875,11 +18876,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 47
-        total_comments_of_interest: 10
-        total_lloc: 23
-        total_single_comments: 47
-        total_sloc: 23
+        total_comments: 19
+        total_comments_of_interest: 16
+        total_lloc: 82
+        total_single_comments: 15
+        total_sloc: 82
       dirs:
       - Protokolle/v704
       pdfs: []
