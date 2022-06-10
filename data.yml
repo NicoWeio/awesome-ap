@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-06-08 19:33:34
+  last_commit: 2022-06-09 22:15:14
   protokolle:
     101:
       code_analysis:
@@ -282,11 +282,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 4
+        total_comments_of_interest: 3
+        total_lloc: 117
+        total_single_comments: 4
+        total_sloc: 117
       dirs:
       - "V503-Der Millikan-\xD6ltr\xF6pfchenversuch"
       pdfs: []
@@ -366,11 +366,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 6
+        total_comments_of_interest: 6
+        total_lloc: 65
+        total_single_comments: 6
+        total_sloc: 64
       dirs:
       - US3-Dopplersonographie
       pdfs: []
@@ -640,7 +640,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-06-08 22:28:08
+  last_commit: 2022-06-09 23:27:27
   protokolle:
     14:
       code_analysis:
@@ -648,9 +648,9 @@
         num_files: 1
         total_comments: 94
         total_comments_of_interest: 23
-        total_lloc: 160
+        total_lloc: 162
         total_single_comments: 70
-        total_sloc: 158
+        total_sloc: 160
       dirs:
       - Versuche Semester VI/4.V14Tomographie
       pdfs:
@@ -6718,7 +6718,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-06-07 08:45:53
+  last_commit: 2022-06-09 07:04:24
   protokolle:
     101:
       code_analysis:
@@ -9939,7 +9939,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-06-08 21:09:10
+  last_commit: 2022-06-09 17:24:05
   protokolle:
     101:
       code_analysis:
@@ -10113,11 +10113,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 11
+        total_comments_of_interest: 10
+        total_lloc: 52
+        total_single_comments: 9
+        total_sloc: 51
       dirs:
       - v703
       pdfs: []
@@ -18273,7 +18273,7 @@
   - html_url: https://github.com/Marinaan
     login: Marinaan
   full_name: Tahirbanane/FP_2022
-  last_commit: 2022-05-20 11:43:01
+  last_commit: 2022-06-09 22:33:40
   protokolle:
     14:
       code_analysis:
@@ -18286,6 +18286,7 @@
         total_sloc: 138
       dirs:
       - V14
+      - V60
       pdfs: []
 - authors:
   - Simon Schulte
@@ -18690,7 +18691,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-06-08 17:01:45
+  last_commit: 2022-06-09 15:40:15
   protokolle:
     103:
       code_analysis:
@@ -18876,11 +18877,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 19
-        total_comments_of_interest: 16
-        total_lloc: 82
-        total_single_comments: 15
-        total_sloc: 82
+        total_comments: 21
+        total_comments_of_interest: 18
+        total_lloc: 96
+        total_single_comments: 16
+        total_sloc: 111
       dirs:
       - Protokolle/v704
       pdfs: []
