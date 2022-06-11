@@ -85,7 +85,7 @@ def find_pdfs(base_dir, num):
 
 
 def import_repo(source, refresh=True):
-    source.update_repo_mirror()
+    source.update_repo_mirror(refresh=refresh)
 
     run_command = get_command_runner(source.cwd_path)
 
