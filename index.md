@@ -33,7 +33,7 @@
 | 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     29|
 | 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     19|
 | 65|Röntgenreflektrometrie                                               |[Übersicht](versuch/65) |      1|
-| 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     10|
+| 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     11|
 |101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     30|
 |102|Drehschwingungen                                                     |[Übersicht](versuch/102)|     14|
 |103|Biegung elastischer Stäbe                                            |[Übersicht](versuch/103)|     37|
@@ -92,9 +92,9 @@
 |-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------|-----------:|--------------------:|
 |[AReinold/Bachelor-FP](https://github.com/AReinold/Bachelor-FP)                                                  |[Übersicht](repo/AReinold/Bachelor-FP)                         |09.07.2018 09:47:30|           5|                    1|
 |[AReinold/Master-FP](https://github.com/AReinold/Master-FP)                                                      |[Übersicht](repo/AReinold/Master-FP)                           |22.03.2020 13:24:47|           5|                    3|
-|[Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)                                            |[Übersicht](repo/Bastian125/AP-Praktikum)                      |09.06.2022 22:15:14|          18|                    3|
+|[Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)                                            |[Übersicht](repo/Bastian125/AP-Praktikum)                      |10.06.2022 14:58:45|          18|                    3|
 |[BenediktSan/AnfaengerPraktikum2020](https://github.com/BenediktSan/AnfaengerPraktikum2020)                      |[Übersicht](repo/BenediktSan/AnfaengerPraktikum2020)           |05.07.2021 21:32:58|          19|                   16|
-|[BenediktSan/FortgeschrittenenPraktikum2022](https://github.com/BenediktSan/FortgeschrittenenPraktikum2022)      |[Übersicht](repo/BenediktSan/FortgeschrittenenPraktikum2022)   |09.06.2022 23:27:27|           4|                    4|
+|[BenediktSan/FortgeschrittenenPraktikum2022](https://github.com/BenediktSan/FortgeschrittenenPraktikum2022)      |[Übersicht](repo/BenediktSan/FortgeschrittenenPraktikum2022)   |10.06.2022 17:26:09|           4|                    4|
 |[bixel/AP1213](https://github.com/bixel/AP1213)                                                                  |[Übersicht](repo/bixel/AP1213)                                 |15.03.2014 13:00:24|          23|                   23|
 |[bixel/FP14](https://github.com/bixel/FP14)                                                                      |[Übersicht](repo/bixel/FP14)                                   |07.10.2016 19:42:14|          11|                    0|
 |[brkkbkc/FPSS18_5](https://github.com/brkkbkc/FPSS18_5)                                                          |[Übersicht](repo/brkkbkc/FPSS18_5)                             |29.08.2018 13:23:12|           6|                    0|
@@ -124,14 +124,14 @@
 |[JaLuka98/FP_SS19](https://github.com/JaLuka98/FP_SS19)                                                          |[Übersicht](repo/JaLuka98/FP_SS19)                             |11.07.2019 14:37:59|           5|                    0|
 |[JaLuka98/FP_WS19-20](https://github.com/JaLuka98/FP_WS19-20)                                                    |[Übersicht](repo/JaLuka98/FP_WS19-20)                          |21.02.2020 14:43:13|           5|                    0|
 |[jana-banana/AP-2020](https://github.com/jana-banana/AP-2020)                                                    |[Übersicht](repo/jana-banana/AP-2020)                          |12.04.2022 09:33:48|          18|                   17|
-|[jana-banana/FP-2022](https://github.com/jana-banana/FP-2022)                                                    |[Übersicht](repo/jana-banana/FP-2022)                          |02.06.2022 19:42:33|           3|                    0|
+|[jana-banana/FP-2022](https://github.com/jana-banana/FP-2022)                                                    |[Übersicht](repo/jana-banana/FP-2022)                          |10.06.2022 17:04:57|           4|                    0|
 |[JaSchl/AP1718](https://github.com/JaSchl/AP1718)                                                                |[Übersicht](repo/JaSchl/AP1718)                                |03.11.2018 15:03:16|          22|                   16|
 |[JaSchl/FP1819](https://github.com/JaSchl/FP1819)                                                                |[Übersicht](repo/JaSchl/FP1819)                                |16.01.2019 13:58:49|           5|                    0|
 |[Jean1995/Praktikum](https://github.com/Jean1995/Praktikum)                                                      |[Übersicht](repo/Jean1995/Praktikum)                           |01.11.2016 19:09:38|          23|                   23|
 |[Jean1995/PraktikumFP](https://github.com/Jean1995/PraktikumFP)                                                  |[Übersicht](repo/Jean1995/PraktikumFP)                         |01.11.2017 20:55:46|           5|                    0|
 |[JLammering/Master-Praktikum](https://github.com/JLammering/Master-Praktikum)                                    |[Übersicht](repo/JLammering/Master-Praktikum)                  |28.08.2020 11:36:06|           9|                    9|
 |[JLammering/Physikalisches-Praktikum](https://github.com/JLammering/Physikalisches-Praktikum)                    |[Übersicht](repo/JLammering/Physikalisches-Praktikum)          |07.01.2022 11:22:35|          15|                   10|
-|[joeyko2706/Anfaengerpraktikum-20-21](https://github.com/joeyko2706/Anfaengerpraktikum-21-22)                    |[Übersicht](repo/joeyko2706/Anfaengerpraktikum-20-21)          |09.06.2022 07:04:24|          15|                   15|
+|[joeyko2706/Anfaengerpraktikum-20-21](https://github.com/joeyko2706/Anfaengerpraktikum-21-22)                    |[Übersicht](repo/joeyko2706/Anfaengerpraktikum-20-21)          |10.06.2022 15:27:19|          15|                   15|
 |[jpherdi/FP_20_21](https://github.com/jpherdi/FP_20_21)                                                          |[Übersicht](repo/jpherdi/FP_20_21)                             |27.03.2021 12:47:42|           5|                    0|
 |[jpherdi/Praktikum](https://github.com/jpherdi/Praktikum)                                                        |[Übersicht](repo/jpherdi/Praktikum)                            |22.08.2020 14:15:53|           4|                    0|
 |[JulianSch/FP-Pelle-Julian](https://github.com/JulianSch/FP-Pelle-Julian)                                        |[Übersicht](repo/JulianSch/FP-Pelle-Julian)                    |06.11.2018 13:29:35|           5|                    4|
@@ -217,7 +217,7 @@
 ## Statistiken
 - **122** Repos
 - **76** Versuche
-- **1461** Protokolle
+- **1462** Protokolle
 - **463** Protokolle mit PDFs
 - **355** PDFs von _awesome-ap-pdfs_
 - **602** PDFs insgesamt

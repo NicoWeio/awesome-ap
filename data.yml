@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-06-09 22:15:14
+  last_commit: 2022-06-10 14:58:45
   protokolle:
     101:
       code_analysis:
@@ -282,11 +282,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 4
-        total_comments_of_interest: 3
-        total_lloc: 117
-        total_single_comments: 4
-        total_sloc: 117
+        total_comments: 96
+        total_comments_of_interest: 14
+        total_lloc: 223
+        total_single_comments: 96
+        total_sloc: 223
       dirs:
       - "V503-Der Millikan-\xD6ltr\xF6pfchenversuch"
       pdfs: []
@@ -640,7 +640,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-06-09 23:27:27
+  last_commit: 2022-06-10 17:26:09
   protokolle:
     14:
       code_analysis:
@@ -5588,7 +5588,7 @@
   - html_url: https://github.com/sonia-cyber
     login: sonia-cyber
   full_name: jana-banana/FP-2022
-  last_commit: 2022-06-02 19:42:33
+  last_commit: 2022-06-10 17:04:57
   protokolle:
     14:
       code_analysis:
@@ -5625,6 +5625,18 @@
         total_sloc: 114
       dirs:
       - V64
+      pdfs: []
+    70:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 23
+        total_single_comments: 1
+        total_sloc: 23
+      dirs:
+      - V70
       pdfs: []
 - authors:
   - Anneke Reinold
@@ -6718,7 +6730,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-06-09 07:04:24
+  last_commit: 2022-06-10 15:27:19
   protokolle:
     101:
       code_analysis:
