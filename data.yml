@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-06-10 14:58:45
+  last_commit: 2022-06-11 11:10:25
   protokolle:
     101:
       code_analysis:
@@ -282,11 +282,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 96
-        total_comments_of_interest: 14
-        total_lloc: 223
-        total_single_comments: 96
-        total_sloc: 223
+        total_comments: 72
+        total_comments_of_interest: 15
+        total_lloc: 301
+        total_single_comments: 72
+        total_sloc: 301
       dirs:
       - "V503-Der Millikan-\xD6ltr\xF6pfchenversuch"
       pdfs: []
@@ -640,7 +640,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-06-10 17:26:09
+  last_commit: 2022-06-11 19:38:36
   protokolle:
     14:
       code_analysis:
@@ -6730,7 +6730,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-06-10 15:27:19
+  last_commit: 2022-06-11 17:43:49
   protokolle:
     101:
       code_analysis:
@@ -9951,7 +9951,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-06-09 17:24:05
+  last_commit: 2022-06-11 22:00:11
   protokolle:
     101:
       code_analysis:
@@ -18703,7 +18703,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-06-09 15:40:15
+  last_commit: 2022-06-11 15:52:36
   protokolle:
     103:
       code_analysis:
@@ -18889,11 +18889,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 21
-        total_comments_of_interest: 18
-        total_lloc: 96
-        total_single_comments: 16
-        total_sloc: 111
+        total_comments: 28
+        total_comments_of_interest: 21
+        total_lloc: 116
+        total_single_comments: 18
+        total_sloc: 131
       dirs:
       - Protokolle/v704
       pdfs: []
