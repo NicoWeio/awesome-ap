@@ -3,7 +3,7 @@ import os
 import yaml
 
 from awesome_ap.analyze.find_common_files import find_common_files
-from awesome_ap.classes.repo import Repo
+from awesome_ap.classes.repo import Repo, RepoNotFoundError
 from awesome_ap.config import CONFIG, DEV, GITHUB_TOKEN, REPOS_BASE_PATH
 from awesome_ap.console import *
 from awesome_ap.exporting.export import generate_yaml
@@ -27,7 +27,8 @@ for repo in repos:
         console.print()
         console.rule(repo['name'])
         repos_to_versuche.append(import_repo(Repo(repo, gh)))
-    except github.UnknownObjectException:
+    except RepoNotFoundError:
+        error(f"Not found: {repo}")
         pass
     except KeyboardInterrupt:
         warn("\n"*5 + "KeyboardInterrupt – exiting early…")

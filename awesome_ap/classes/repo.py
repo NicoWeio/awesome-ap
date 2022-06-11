@@ -8,6 +8,10 @@ from pathlib import Path
 from subprocess import CalledProcessError
 
 
+class RepoNotFoundError(Exception):
+    pass
+
+
 class Repo:
     protokolle: list = []
 
@@ -31,8 +35,7 @@ class Repo:
             self.contributors = list(gh_repo.get_contributors())
             self.html_url = gh_repo.html_url
         except github.UnknownObjectException:
-            error(f"Not found: {self}")
-            raise
+            raise RepoNotFoundError()
 
         # Platzhalter für Testläufe ohne GitHub-API:
         # self.contributors = []
