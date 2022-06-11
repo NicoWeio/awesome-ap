@@ -7,6 +7,7 @@ def get_command_runner(default_cwd):
     def run_command(command, silent=False, **kwargs):
         print = console.print if not silent else lambda *args, **kwargs: None
         kwargs.setdefault('cwd', default_cwd)
+        kwargs.setdefault('check', True)
         if kwargs.get('shell'):
             print(f'$ {command}', style='blue')
         else:
