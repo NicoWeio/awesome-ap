@@ -58,10 +58,23 @@ class Repo:
         if not self.cwd_path.exists():
             debug("Does not exist – cloning…")
             # lege einen „shallow clone“ an, um Speicherplatz zu sparen
-            run_command(["git", "clone"] + (["--branch", self.config.branch] if self.config.branch else []) +
-                        ["--depth", "1", "https://github.com/" + self.full_name, self.cwd_path], cwd=None)
-            # ↓ https://stackoverflow.com/a/34396983/6371758
-            # run_command(["git", "-c", 'core.askPass=""', "clone", "--depth", "1", "https://github.com/" + self.full_name, cwd_path])
+            run_command(
+                # git -c core.askPass='echo' …
+                ["git", "clone"] +
+                (["--branch", self.config.branch] if self.config.branch else []) +
+                ["--depth", "1"] +
+                ["https://github.com/" + self.full_name] +
+                [self.cwd_path],
+                cwd=None,
+                env={'GIT_TERMINAL_PROMPT': '0'},
+            )
+
+            # sanity checks:
+            assert self.cwd_path.exists()
+            # run_command(
+            #     ["git", "status"],
+            #     cwd=self.cwd_path,
+            # )
         elif not refresh:
             debug("Exists – NOT pulling, because refresh=False was passed")
         else:
