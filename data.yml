@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-06-11 11:10:25
+  last_commit: 2022-06-12 16:04:06
   protokolle:
     101:
       code_analysis:
@@ -282,11 +282,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 72
-        total_comments_of_interest: 15
-        total_lloc: 301
-        total_single_comments: 72
-        total_sloc: 301
+        total_comments: 171
+        total_comments_of_interest: 21
+        total_lloc: 242
+        total_single_comments: 171
+        total_sloc: 247
       dirs:
       - "V503-Der Millikan-\xD6ltr\xF6pfchenversuch"
       pdfs: []
@@ -9951,7 +9951,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-06-11 22:00:11
+  last_commit: 2022-06-12 22:16:02
   protokolle:
     101:
       code_analysis:
@@ -10125,11 +10125,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 11
-        total_comments_of_interest: 10
-        total_lloc: 52
-        total_single_comments: 9
-        total_sloc: 51
+        total_comments: 12
+        total_comments_of_interest: 11
+        total_lloc: 59
+        total_single_comments: 10
+        total_sloc: 58
       dirs:
       - v703
       pdfs: []
@@ -18703,7 +18703,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-06-11 15:52:36
+  last_commit: 2022-06-12 17:33:20
   protokolle:
     103:
       code_analysis:
@@ -18890,10 +18890,10 @@
         has_errors: false
         num_files: 1
         total_comments: 28
-        total_comments_of_interest: 21
-        total_lloc: 116
+        total_comments_of_interest: 22
+        total_lloc: 119
         total_single_comments: 18
-        total_sloc: 131
+        total_sloc: 153
       dirs:
       - Protokolle/v704
       pdfs: []
