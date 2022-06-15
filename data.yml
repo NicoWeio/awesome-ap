@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-06-13 17:03:49
+  last_commit: 2022-06-14 11:39:12
   protokolle:
     101:
       code_analysis:
@@ -313,6 +313,18 @@
         total_sloc: 156
       dirs:
       - V602-Roentgenemission und -absorption
+      pdfs: []
+    606:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - "V606-Suszeptibilit\xE4t"
       pdfs: []
     702:
       code_analysis:
@@ -640,7 +652,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-06-11 19:38:36
+  last_commit: 2022-06-14 09:12:35
   protokolle:
     14:
       code_analysis:
@@ -6730,7 +6742,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-06-13 20:42:06
+  last_commit: 2022-06-14 12:10:18
   protokolle:
     101:
       code_analysis:
@@ -9951,7 +9963,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-06-13 22:11:07
+  last_commit: 2022-06-14 15:17:51
   protokolle:
     101:
       code_analysis:
@@ -18716,7 +18728,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-06-13 17:06:39
+  last_commit: 2022-06-14 21:08:28
   protokolle:
     103:
       code_analysis:
@@ -18844,9 +18856,9 @@
         num_files: 1
         total_comments: 0
         total_comments_of_interest: 0
-        total_lloc: 21
+        total_lloc: 59
         total_single_comments: 0
-        total_sloc: 21
+        total_sloc: 59
       dirs:
       - Protokolle/v407
       pdfs: []
