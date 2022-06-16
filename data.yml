@@ -9963,7 +9963,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-06-14 15:17:51
+  last_commit: 2022-06-15 22:41:46
   protokolle:
     101:
       code_analysis:
@@ -10065,11 +10065,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 13
+        total_comments_of_interest: 10
+        total_lloc: 96
+        total_single_comments: 5
+        total_sloc: 96
       dirs:
       - v400
       pdfs: []
@@ -18728,7 +18728,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-06-14 21:08:28
+  last_commit: 2022-06-15 16:10:52
   protokolle:
     103:
       code_analysis:
