@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-06-14 11:39:12
+  last_commit: 2022-06-16 17:37:11
   protokolle:
     101:
       code_analysis:
@@ -6742,7 +6742,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-06-14 12:10:18
+  last_commit: 2022-06-16 17:23:32
   protokolle:
     101:
       code_analysis:
@@ -9963,7 +9963,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-06-15 22:41:46
+  last_commit: 2022-06-16 15:42:50
   protokolle:
     101:
       code_analysis:
@@ -10065,11 +10065,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 13
-        total_comments_of_interest: 10
-        total_lloc: 96
-        total_single_comments: 5
-        total_sloc: 96
+        total_comments: 14
+        total_comments_of_interest: 11
+        total_lloc: 102
+        total_single_comments: 6
+        total_sloc: 102
       dirs:
       - v400
       pdfs: []
@@ -10112,14 +10112,15 @@
     504:
       code_analysis:
         has_errors: false
-        num_files: 1
-        total_comments: 55
-        total_comments_of_interest: 20
-        total_lloc: 99
-        total_single_comments: 43
-        total_sloc: 97
+        num_files: 2
+        total_comments: 111
+        total_comments_of_interest: 41
+        total_lloc: 206
+        total_single_comments: 87
+        total_sloc: 202
       dirs:
       - v504
+      - v504s
       pdfs: []
     602:
       code_analysis:
