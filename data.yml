@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-06-16 17:37:11
+  last_commit: 2022-06-17 17:39:23
   protokolle:
     101:
       code_analysis:
@@ -318,11 +318,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 5
+        total_comments_of_interest: 5
+        total_lloc: 37
+        total_single_comments: 5
+        total_sloc: 37
       dirs:
       - "V606-Suszeptibilit\xE4t"
       pdfs: []
@@ -9963,7 +9963,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-06-16 15:42:50
+  last_commit: 2022-06-17 13:28:36
   protokolle:
     101:
       code_analysis:
