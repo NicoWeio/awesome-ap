@@ -1,6 +1,6 @@
 # [joeyko2706/Anfaengerpraktikum-20-21](https://github.com/joeyko2706/Anfaengerpraktikum-21-22)
 
-Letzter Commit: 16.06.2022 17:23:32
+Letzter Commit: 18.06.2022 17:16:02
 
 ## Autoren (Klarnamen)
 - Joel Koch
