@@ -41,6 +41,7 @@
 - name: chris-topher6/Anfaenger-Praktikum
   dirs_to_versuche:
     V302: 302 # in der Datei steht fälschlicherweise V301
+- name: chris-topher6/FP
 - name: dagbjoern/AP-Physik
   pdfs:
     in_source_dir: true
@@ -433,3 +434,4 @@
 # keine vollständigen Protokolle
 # - name: xxholzixx1/Anfaengerpraktikum
 - name: YanickKi/AP_T_Y
+- name: YanickKi/FP_T_Y
