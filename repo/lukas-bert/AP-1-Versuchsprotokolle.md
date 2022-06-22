@@ -1,6 +1,6 @@
 # [lukas-bert/AP-1-Versuchsprotokolle](https://github.com/lukas-bert/AP-1-Versuchsprotokolle)
 
-Letzter Commit: 20.06.2022 20:12:28
+Letzter Commit: 21.06.2022 22:10:21
 
 ## Autoren (Klarnamen)
 - Lukas Bertsch
@@ -29,6 +29,7 @@ Letzter Commit: 20.06.2022 20:12:28
 |[504](../../versuch/504)|[v504](https://github.com/lukas-bert/AP-1-Versuchsprotokolle/tree/main/v504)<br/>[v504s](https://github.com/lukas-bert/AP-1-Versuchsprotokolle/tree/main/v504s)|–   |
 |[602](../../versuch/602)|[v602](https://github.com/lukas-bert/AP-1-Versuchsprotokolle/tree/main/v602)                                                                                   |–   |
 |[606](../../versuch/606)|[v606](https://github.com/lukas-bert/AP-1-Versuchsprotokolle/tree/main/v606)                                                                                   |–   |
+|[702](../../versuch/702)|[v702](https://github.com/lukas-bert/AP-1-Versuchsprotokolle/tree/main/v702)                                                                                   |–   |
 |[703](../../versuch/703)|[v703](https://github.com/lukas-bert/AP-1-Versuchsprotokolle/tree/main/v703)                                                                                   |–   |
 |[704](../../versuch/704)|[v704](https://github.com/lukas-bert/AP-1-Versuchsprotokolle/tree/main/v704)                                                                                   |–   |
 |[902](../../versuch/902)|[vUS2](https://github.com/lukas-bert/AP-1-Versuchsprotokolle/tree/main/vUS2)                                                                                   |–   |

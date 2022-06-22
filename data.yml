@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-06-19 13:26:18
+  last_commit: 2022-06-21 08:38:59
   protokolle:
     101:
       code_analysis:
@@ -289,6 +289,18 @@
         total_sloc: 247
       dirs:
       - "V503-Der Millikan-\xD6ltr\xF6pfchenversuch"
+      pdfs: []
+    504:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - V504-Thermische Elektronenemission
       pdfs: []
     601:
       code_analysis:
@@ -9963,7 +9975,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-06-20 20:12:28
+  last_commit: 2022-06-21 22:10:21
   protokolle:
     101:
       code_analysis:
@@ -10146,15 +10158,27 @@
       dirs:
       - v606
       pdfs: []
+    702:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - v702
+      pdfs: []
     703:
       code_analysis:
         has_errors: false
         num_files: 1
         total_comments: 13
         total_comments_of_interest: 12
-        total_lloc: 59
+        total_lloc: 67
         total_single_comments: 11
-        total_sloc: 58
+        total_sloc: 67
       dirs:
       - v703
       pdfs: []
@@ -18729,7 +18753,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-06-20 16:08:24
+  last_commit: 2022-06-21 20:41:56
   protokolle:
     103:
       code_analysis:
@@ -18927,11 +18951,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 11
-        total_comments_of_interest: 8
+        total_comments: 12
+        total_comments_of_interest: 9
         total_lloc: 74
-        total_single_comments: 9
-        total_sloc: 70
+        total_single_comments: 10
+        total_sloc: 71
       dirs:
       - Protokolle/v703
       pdfs: []
