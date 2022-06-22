@@ -378,6 +378,10 @@
     directory: Versuchs_pdfs
 - name: Robubabu/YR-Praktikum
 # - name: SamGTex/FP # TODO: noch leer
+# TODO: Inkonsistente Ordnerstruktur
+- name: sadiahazeem/AP2
+  subdirectory:
+    - "*/latex-template"
 - name: SamGTex/Physik_Praktikum_Samuel_Max
 # TODO: PDFs in „BFP“ werden noch nicht erkannt
 - name: SanjoR/FP-Jonas-Donata
