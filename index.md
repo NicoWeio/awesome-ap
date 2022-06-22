@@ -57,33 +57,33 @@
 |354|Gedämpfte und erzwungene Schwingungen                                |[Übersicht](versuch/354)|     41|
 |355|Gekoppelte Schwingkreise                                             |[Übersicht](versuch/355)|     18|
 |356|Kettenschaltungen mit LC-Gliedern                                    |[Übersicht](versuch/356)|      7|
-|400|Reflexion, Brechung und Beugung                                      |[Übersicht](versuch/400)|     13|
-|401|Das Michelson-Interferometer                                         |[Übersicht](versuch/401)|     26|
+|400|Reflexion, Brechung und Beugung                                      |[Übersicht](versuch/400)|     14|
+|401|Das Michelson-Interferometer                                         |[Übersicht](versuch/401)|     27|
 |402|Dispersionsmessungen am Glasprisma                                   |[Übersicht](versuch/402)|     17|
 |406|Beugung am Spalt                                                     |[Übersicht](versuch/406)|     37|
-|407|–                                                                    |[Übersicht](versuch/407)|      3|
+|407|–                                                                    |[Übersicht](versuch/407)|      4|
 |408|Geometrische Optik                                                   |[Übersicht](versuch/408)|     29|
 |500|Der Photoeffekt                                                      |[Übersicht](versuch/500)|     35|
 |501|Elektronen im elektrischen und magnetischen Feld                     |[Übersicht](versuch/501)|     26|
 |502|Elektronen im transversalen Magnetfeld                               |[Übersicht](versuch/502)|      1|
-|503|Der Millikan-Versuch                                                 |[Übersicht](versuch/503)|     12|
-|504|Thermische Elektronenemission                                        |[Übersicht](versuch/504)|     28|
+|503|Der Millikan-Versuch                                                 |[Übersicht](versuch/503)|     13|
+|504|Thermische Elektronenemission                                        |[Übersicht](versuch/504)|     29|
 |601|Der Franck-Hertz-Versuch                                             |[Übersicht](versuch/601)|     36|
-|602|Röntgenemission und -absorption                                      |[Übersicht](versuch/602)|     46|
+|602|Röntgenemission und -absorption                                      |[Übersicht](versuch/602)|     47|
 |603|Der Compton-Effekt                                                   |[Übersicht](versuch/603)|     18|
 |605|Alkali-Spektren                                                      |[Übersicht](versuch/605)|      6|
-|606|Messung der Suszeptibilität paramagnetischer Substanzen              |[Übersicht](versuch/606)|     30|
-|701|Reichweite von Alpha-Strahlung                                       |[Übersicht](versuch/701)|     18|
+|606|Messung der Suszeptibilität paramagnetischer Substanzen              |[Übersicht](versuch/606)|     31|
+|701|Reichweite von Alpha-Strahlung                                       |[Übersicht](versuch/701)|     19|
 |702|Aktivierung mit Neutronen                                            |[Übersicht](versuch/702)|     40|
-|703|Das Geiger-Müller-Zählrohr                                           |[Übersicht](versuch/703)|     48|
-|704|Absorption von Gamma- und Beta-Strahlung                             |[Übersicht](versuch/704)|     20|
+|703|Das Geiger-Müller-Zählrohr                                           |[Übersicht](versuch/703)|     49|
+|704|Absorption von Gamma- und Beta-Strahlung                             |[Übersicht](versuch/704)|     21|
 |800|Das Oszilloskop                                                      |[Übersicht](versuch/800)|      2|
 |801|–                                                                    |[Übersicht](versuch/801)|      2|
 |802|Fouriersynthese                                                      |[Übersicht](versuch/802)|      5|
 |803|Das Hookesche Gesetz                                                 |[Übersicht](versuch/803)|      7|
 |901|Grundlagen der Ultraschalltechnik                                    |[Übersicht](versuch/901)|     27|
-|902|Scanverfahren in der Ultraschalltechnik                              |[Übersicht](versuch/902)|     24|
-|903|Doppler-Sonographie                                                  |[Übersicht](versuch/903)|     29|
+|902|Scanverfahren in der Ultraschalltechnik                              |[Übersicht](versuch/902)|     25|
+|903|Doppler-Sonographie                                                  |[Übersicht](versuch/903)|     30|
 
 
 ## Repos
@@ -196,6 +196,7 @@
 |[RnLe/AP1920-AJRM](https://github.com/RnLe/AP1920-AJRM)                                                          |[Übersicht](repo/RnLe/AP1920-AJRM)                             |02.10.2020 13:42:04|          19|                   19|
 |[Robubabu/FFS-Praktikum](https://github.com/Robubabu/FFS-Praktikum)                                              |[Übersicht](repo/Robubabu/FFS-Praktikum)                       |20.01.2018 12:57:14|          24|                   19|
 |[Robubabu/YR-Praktikum](https://github.com/Robubabu/YR-Praktikum)                                                |[Übersicht](repo/Robubabu/YR-Praktikum)                        |01.03.2018 13:07:39|           5|                    2|
+|[sadiahazeem/AP2](https://github.com/sadiahazeem/AP2)                                                            |[Übersicht](repo/sadiahazeem/AP2)                              |22.06.2022 12:56:47|          12|                    0|
 |[SamGTex/Physik_Praktikum_Samuel_Max](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max)                    |[Übersicht](repo/SamGTex/Physik_Praktikum_Samuel_Max)          |30.03.2022 09:53:21|          20|                   18|
 |[SanjoR/FP-Jonas-Donata](https://github.com/SanjoR/FP-Jonas-Donata)                                              |[Übersicht](repo/SanjoR/FP-Jonas-Donata)                       |11.03.2021 13:26:37|           9|                    5|
 |[SHilgers/Praktikum2](https://github.com/SHilgers/Praktikum2)                                                    |[Übersicht](repo/SHilgers/Praktikum2)                          |04.02.2020 08:43:30|          29|                    1|
@@ -217,9 +218,9 @@
 
 
 ## Statistiken
-- **124** Repos
+- **125** Repos
 - **76** Versuche
-- **1476** Protokolle
+- **1488** Protokolle
 - **463** Protokolle mit PDFs
 - **355** PDFs von _awesome-ap-pdfs_
 - **602** PDFs insgesamt
