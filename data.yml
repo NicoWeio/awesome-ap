@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-06-21 08:38:59
+  last_commit: 2022-06-22 09:36:12
   protokolle:
     101:
       code_analysis:
@@ -1969,6 +1969,66 @@
         total_sloc: 327
       dirs:
       - US3
+      pdfs: []
+- authors:
+  - Christopher Breitfeld
+  - "Henry Kr\xE4merk\xE4mper"
+  branch: master
+  contributors:
+  - html_url: https://github.com/chris-topher6
+    login: chris-topher6
+  - html_url: https://github.com/Hernyoo
+    login: Hernyoo
+  full_name: chris-topher6/FP
+  last_commit: 2022-06-17 07:19:37
+  protokolle:
+    1:
+      code_analysis:
+        has_errors: false
+        num_files: 6
+        total_comments: 40
+        total_comments_of_interest: 23
+        total_lloc: 173
+        total_single_comments: 23
+        total_sloc: 166
+      dirs:
+      - V01
+      pdfs: []
+    21:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 10
+        total_comments_of_interest: 9
+        total_lloc: 30
+        total_single_comments: 11
+        total_sloc: 47
+      dirs:
+      - V21
+      pdfs: []
+    27:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 19
+        total_comments_of_interest: 4
+        total_lloc: 75
+        total_single_comments: 4
+        total_sloc: 94
+      dirs:
+      - V27
+      pdfs: []
+    46:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 36
+        total_comments_of_interest: 20
+        total_lloc: 122
+        total_single_comments: 25
+        total_sloc: 243
+      dirs:
+      - V46
       pdfs: []
 - authors:
   - "Dag-Bj\xF6rn Hering"
@@ -6754,7 +6814,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-06-20 18:59:14
+  last_commit: 2022-06-22 09:30:32
   protokolle:
     101:
       code_analysis:
@@ -9975,7 +10035,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-06-21 22:10:21
+  last_commit: 2022-06-22 06:26:33
   protokolle:
     101:
       code_analysis:
@@ -19570,4 +19630,64 @@
         total_sloc: 113
       dirs:
       - v903
+      pdfs: []
+- authors:
+  - Till Willershausen
+  - Yanick Sebastian Kind
+  branch: main
+  contributors:
+  - html_url: https://github.com/Till-Will
+    login: Till-Will
+  - html_url: https://github.com/YanickKi
+    login: YanickKi
+  full_name: YanickKi/FP_T_Y
+  last_commit: 2022-06-09 18:31:14
+  protokolle:
+    23:
+      code_analysis:
+        has_errors: false
+        num_files: 28
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 195
+        total_single_comments: 0
+        total_sloc: 200
+      dirs:
+      - V23
+      pdfs: []
+    46:
+      code_analysis:
+        has_errors: false
+        num_files: 5
+        total_comments: 4
+        total_comments_of_interest: 4
+        total_lloc: 100
+        total_single_comments: 0
+        total_sloc: 112
+      dirs:
+      - V46
+      pdfs: []
+    60:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - V60
+      pdfs: []
+    61:
+      code_analysis:
+        has_errors: false
+        num_files: 5
+        total_comments: 3
+        total_comments_of_interest: 2
+        total_lloc: 96
+        total_single_comments: 1
+        total_sloc: 138
+      dirs:
+      - V61
       pdfs: []
