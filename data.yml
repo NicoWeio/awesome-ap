@@ -5672,7 +5672,7 @@
   - html_url: https://github.com/sonia-cyber
     login: sonia-cyber
   full_name: jana-banana/FP-2022
-  last_commit: 2022-06-13 18:56:47
+  last_commit: 2022-06-22 12:16:19
   protokolle:
     14:
       code_analysis:
@@ -5713,12 +5713,12 @@
     70:
       code_analysis:
         has_errors: false
-        num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 23
-        total_single_comments: 1
-        total_sloc: 23
+        num_files: 3
+        total_comments: 124
+        total_comments_of_interest: 56
+        total_lloc: 758
+        total_single_comments: 110
+        total_sloc: 740
       dirs:
       - V70
       pdfs: []
@@ -18813,7 +18813,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-06-21 20:41:56
+  last_commit: 2022-06-22 12:23:26
   protokolle:
     103:
       code_analysis:
