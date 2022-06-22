@@ -89,8 +89,16 @@ def import_repo(source, refresh=True):
 
     run_command = get_command_runner(source.cwd_path)
 
+    # determine which directories may contain the actual protocol directories
+    explicit_subdirs = set()
+    for subdir in source.config.subdirs:
+        if '*' in subdir:  # glob pattern
+            explicit_subdirs |= set(f for f in source.cwd_path.glob(subdir) if f.is_dir())
+        else:  # exact path
+            explicit_subdirs.add(source.cwd_path / subdir)
+
+    # add all protocol dir candidates (direct non-hidden children dirs of the parents specified earlier)
     dir_candidates = []
-    explicit_subdirs = list(source.cwd_path / subdir for subdir in source.config.subdirs)
     for subdir in explicit_subdirs:
         dir_candidates.extend([CoolPath(f, cwd=source.cwd_path)
                               for f in subdir.iterdir() if f.is_dir() and not f.name.startswith('.')])
