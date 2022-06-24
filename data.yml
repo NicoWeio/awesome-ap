@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-06-22 09:36:12
+  last_commit: 2022-06-23 10:35:47
   protokolle:
     101:
       code_analysis:
@@ -1980,7 +1980,7 @@
   - html_url: https://github.com/Hernyoo
     login: Hernyoo
   full_name: chris-topher6/FP
-  last_commit: 2022-06-17 07:19:37
+  last_commit: 2022-06-23 08:52:39
   protokolle:
     1:
       code_analysis:
@@ -1998,11 +1998,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 10
-        total_comments_of_interest: 9
-        total_lloc: 30
-        total_single_comments: 11
-        total_sloc: 47
+        total_comments: 13
+        total_comments_of_interest: 10
+        total_lloc: 52
+        total_single_comments: 13
+        total_sloc: 92
       dirs:
       - V21
       pdfs: []
@@ -5672,7 +5672,7 @@
   - html_url: https://github.com/sonia-cyber
     login: sonia-cyber
   full_name: jana-banana/FP-2022
-  last_commit: 2022-06-22 12:16:19
+  last_commit: 2022-06-23 16:22:34
   protokolle:
     14:
       code_analysis:
@@ -5714,11 +5714,11 @@
       code_analysis:
         has_errors: false
         num_files: 3
-        total_comments: 124
+        total_comments: 125
         total_comments_of_interest: 56
-        total_lloc: 758
-        total_single_comments: 110
-        total_sloc: 740
+        total_lloc: 770
+        total_single_comments: 111
+        total_sloc: 752
       dirs:
       - V70
       pdfs: []
@@ -6814,7 +6814,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-06-22 09:30:32
+  last_commit: 2022-06-23 15:42:15
   protokolle:
     101:
       code_analysis:
@@ -18550,21 +18550,32 @@
   - html_url: https://github.com/Marinaan
     login: Marinaan
   full_name: Tahirbanane/FP_2022
-  last_commit: 2022-06-13 15:01:28
+  last_commit: 2022-06-24 00:28:09
   protokolle:
     14:
       code_analysis:
         has_errors: false
-        num_files: 2
-        total_comments: 50
-        total_comments_of_interest: 8
-        total_lloc: 198
-        total_single_comments: 26
-        total_sloc: 276
+        num_files: 1
+        total_comments: 25
+        total_comments_of_interest: 4
+        total_lloc: 99
+        total_single_comments: 13
+        total_sloc: 138
       dirs:
       - V14
-      - V23
       - V60
+      pdfs: []
+    23:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 25
+        total_comments_of_interest: 4
+        total_lloc: 99
+        total_single_comments: 13
+        total_sloc: 138
+      dirs:
+      - V23
       pdfs: []
 - authors:
   - Simon Schulte
@@ -18969,7 +18980,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-06-22 12:23:26
+  last_commit: 2022-06-23 19:52:50
   protokolle:
     103:
       code_analysis:
@@ -19167,11 +19178,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 12
-        total_comments_of_interest: 9
-        total_lloc: 74
-        total_single_comments: 10
-        total_sloc: 71
+        total_comments: 13
+        total_comments_of_interest: 11
+        total_lloc: 92
+        total_single_comments: 11
+        total_sloc: 87
       dirs:
       - Protokolle/v703
       pdfs: []
