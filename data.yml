@@ -5672,7 +5672,7 @@
   - html_url: https://github.com/sonia-cyber
     login: sonia-cyber
   full_name: jana-banana/FP-2022
-  last_commit: 2022-06-23 16:22:34
+  last_commit: 2022-06-24 20:00:53
   protokolle:
     14:
       code_analysis:
@@ -6814,7 +6814,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-06-23 15:42:15
+  last_commit: 2022-06-24 06:59:26
   protokolle:
     101:
       code_analysis:
@@ -10035,7 +10035,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-06-22 21:28:49
+  last_commit: 2022-06-24 12:44:04
   protokolle:
     101:
       code_analysis:
@@ -10222,11 +10222,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 18
+        total_comments_of_interest: 16
+        total_lloc: 101
+        total_single_comments: 15
+        total_sloc: 102
       dirs:
       - v702
       pdfs: []
