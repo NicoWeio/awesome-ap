@@ -1980,7 +1980,7 @@
   - html_url: https://github.com/Hernyoo
     login: Hernyoo
   full_name: chris-topher6/FP
-  last_commit: 2022-06-23 08:52:39
+  last_commit: 2022-06-26 21:08:04
   protokolle:
     1:
       code_analysis:
@@ -2009,12 +2009,12 @@
     27:
       code_analysis:
         has_errors: false
-        num_files: 3
-        total_comments: 19
-        total_comments_of_interest: 4
-        total_lloc: 75
-        total_single_comments: 4
-        total_sloc: 94
+        num_files: 4
+        total_comments: 39
+        total_comments_of_interest: 12
+        total_lloc: 101
+        total_single_comments: 6
+        total_sloc: 123
       dirs:
       - V27
       pdfs: []
@@ -2029,6 +2029,18 @@
         total_sloc: 243
       dirs:
       - V46
+      pdfs: []
+    70:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - V70
       pdfs: []
 - authors:
   - "Dag-Bj\xF6rn Hering"
@@ -10035,7 +10047,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-06-24 12:44:04
+  last_commit: 2022-06-26 21:28:20
   protokolle:
     101:
       code_analysis:
@@ -10222,11 +10234,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 18
-        total_comments_of_interest: 16
-        total_lloc: 101
-        total_single_comments: 15
-        total_sloc: 102
+        total_comments: 19
+        total_comments_of_interest: 17
+        total_lloc: 107
+        total_single_comments: 16
+        total_sloc: 108
       dirs:
       - v702
       pdfs: []
@@ -18980,7 +18992,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-06-23 19:52:50
+  last_commit: 2022-06-26 16:39:48
   protokolle:
     103:
       code_analysis:
@@ -19180,9 +19192,9 @@
         num_files: 1
         total_comments: 13
         total_comments_of_interest: 11
-        total_lloc: 92
+        total_lloc: 101
         total_single_comments: 11
-        total_sloc: 87
+        total_sloc: 96
       dirs:
       - Protokolle/v703
       pdfs: []

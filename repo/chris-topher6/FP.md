@@ -1,6 +1,6 @@
 # [chris-topher6/FP](https://github.com/chris-topher6/FP)
 
-Letzter Commit: 23.06.2022 08:52:39
+Letzter Commit: 26.06.2022 21:08:04
 
 ## Autoren (Klarnamen)
 - Christopher Breitfeld
@@ -18,3 +18,4 @@ Letzter Commit: 23.06.2022 08:52:39
 |[21](../../versuch/21)|[V21](https://github.com/chris-topher6/FP/tree/master/V21)|–   |
 |[27](../../versuch/27)|[V27](https://github.com/chris-topher6/FP/tree/master/V27)|–   |
 |[46](../../versuch/46)|[V46](https://github.com/chris-topher6/FP/tree/master/V46)|–   |
+|[70](../../versuch/70)|[V70](https://github.com/chris-topher6/FP/tree/master/V70)|–   |
