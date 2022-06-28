@@ -155,7 +155,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-06-25 16:20:24
+  last_commit: 2022-06-27 18:47:23
   protokolle:
     101:
       code_analysis:
@@ -294,11 +294,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 18
+        total_comments_of_interest: 12
+        total_lloc: 95
+        total_single_comments: 18
+        total_sloc: 101
       dirs:
       - V504-Thermische Elektronenemission
       pdfs: []
@@ -6826,7 +6826,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-06-24 06:59:26
+  last_commit: 2022-06-27 23:35:52
   protokolle:
     101:
       code_analysis:
@@ -10047,7 +10047,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-06-26 21:28:20
+  last_commit: 2022-06-27 21:33:23
   protokolle:
     101:
       code_analysis:
@@ -18992,7 +18992,7 @@
   - html_url: https://github.com/th3odor
     login: th3odor
   full_name: ttros/Praktikum
-  last_commit: 2022-06-26 16:39:48
+  last_commit: 2022-06-27 14:59:04
   protokolle:
     103:
       code_analysis:
@@ -19192,9 +19192,9 @@
         num_files: 1
         total_comments: 13
         total_comments_of_interest: 11
-        total_lloc: 101
+        total_lloc: 102
         total_single_comments: 11
-        total_sloc: 96
+        total_sloc: 97
       dirs:
       - Protokolle/v703
       pdfs: []
