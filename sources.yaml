@@ -428,6 +428,9 @@
 - name: Vale112/FP_B_SS19
   dirs_to_versuche:
     V00: false
+- name: VorniV/FP
+  pdfs:
+    in_source_dir: true
 - name: vsulaiman/Praktikum
   subdirectory:
     - SS17
