@@ -6826,7 +6826,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-06-27 23:35:52
+  last_commit: 2022-06-29 07:59:51
   protokolle:
     101:
       code_analysis:
@@ -19306,6 +19306,81 @@
       dirs:
       - V48
       pdfs: []
+- authors:
+  - Jannis Vornholt
+  - Philip Jaletzky
+  branch: main
+  contributors:
+  - html_url: https://github.com/VorniV
+    login: VorniV
+  - html_url: https://github.com/philipjy
+    login: philipjy
+  full_name: VorniV/FP
+  last_commit: 2022-06-28 15:04:38
+  protokolle:
+    27:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 41
+        total_comments_of_interest: 18
+        total_lloc: 59
+        total_single_comments: 22
+        total_sloc: 59
+      dirs:
+      - V27_Zeeman
+      pdfs: []
+    44:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 21
+        total_comments_of_interest: 18
+        total_lloc: 95
+        total_single_comments: 21
+        total_sloc: 95
+      dirs:
+      - "V44_R\xF6ntgenreflektometrie"
+      pdfs:
+      - "V44_R\xF6ntgenreflektometrie/main.pdf"
+    46:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - V46_Faraday
+      pdfs: []
+    61:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 27
+        total_comments_of_interest: 16
+        total_lloc: 84
+        total_single_comments: 23
+        total_sloc: 84
+      dirs:
+      - V61_HeNe-Laser
+      pdfs:
+      - V61_HeNe-Laser/build/main.pdf
+    70:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 60
+        total_comments_of_interest: 34
+        total_lloc: 293
+        total_single_comments: 59
+        total_sloc: 269
+      dirs:
+      - V70_Vakuumversuch
+      pdfs:
+      - V70_Vakuumversuch/build/main.pdf
 - authors:
   - Christopher Krause
   - Lucas Witthaus

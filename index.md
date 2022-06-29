@@ -16,11 +16,11 @@
 | 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     33|
 | 23|Quanten-Analogien                                                    |[Übersicht](versuch/23) |     12|
 | 25|Der Stern-Gerlach-Versuch                                            |[Übersicht](versuch/25) |      3|
-| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     33|
+| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     34|
 | 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      8|
 | 41|Debye-Scherrer-Aufnahmen                                             |[Übersicht](versuch/41) |      7|
-| 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     11|
-| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     32|
+| 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     12|
+| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     33|
 | 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     22|
 | 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     23|
 | 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     14|
@@ -30,10 +30,10 @@
 | 57|Elektrische Schwankungserscheinungen                                 |[Übersicht](versuch/57) |      2|
 | 59|Modulation und Demodulation elektrischer Schwingungen                |[Übersicht](versuch/59) |      5|
 | 60|Diodenlaser                                                          |[Übersicht](versuch/60) |     15|
-| 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     30|
+| 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     31|
 | 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     19|
 | 65|Röntgenreflektrometrie                                               |[Übersicht](versuch/65) |      1|
-| 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     12|
+| 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     13|
 |101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     30|
 |102|Drehschwingungen                                                     |[Übersicht](versuch/102)|     14|
 |103|Biegung elastischer Stäbe                                            |[Übersicht](versuch/103)|     37|
@@ -132,7 +132,7 @@
 |[Jean1995/PraktikumFP](https://github.com/Jean1995/PraktikumFP)                                                  |[Übersicht](repo/Jean1995/PraktikumFP)                         |01.11.2017 20:55:46|           5|                    0|
 |[JLammering/Master-Praktikum](https://github.com/JLammering/Master-Praktikum)                                    |[Übersicht](repo/JLammering/Master-Praktikum)                  |28.08.2020 11:36:06|           9|                    9|
 |[JLammering/Physikalisches-Praktikum](https://github.com/JLammering/Physikalisches-Praktikum)                    |[Übersicht](repo/JLammering/Physikalisches-Praktikum)          |07.01.2022 11:22:35|          15|                   10|
-|[joeyko2706/Anfaengerpraktikum-20-21](https://github.com/joeyko2706/Anfaengerpraktikum-21-22)                    |[Übersicht](repo/joeyko2706/Anfaengerpraktikum-20-21)          |27.06.2022 23:35:52|          15|                   15|
+|[joeyko2706/Anfaengerpraktikum-20-21](https://github.com/joeyko2706/Anfaengerpraktikum-21-22)                    |[Übersicht](repo/joeyko2706/Anfaengerpraktikum-20-21)          |29.06.2022 07:59:51|          15|                   15|
 |[jpherdi/FP_20_21](https://github.com/jpherdi/FP_20_21)                                                          |[Übersicht](repo/jpherdi/FP_20_21)                             |27.03.2021 12:47:42|           5|                    0|
 |[jpherdi/Praktikum](https://github.com/jpherdi/Praktikum)                                                        |[Übersicht](repo/jpherdi/Praktikum)                            |22.08.2020 14:15:53|           4|                    0|
 |[JulianSch/FP-Pelle-Julian](https://github.com/JulianSch/FP-Pelle-Julian)                                        |[Übersicht](repo/JulianSch/FP-Pelle-Julian)                    |06.11.2018 13:29:35|           5|                    4|
@@ -212,18 +212,19 @@
 |[TRose27/FP](https://github.com/TRose27/FP)                                                                      |[Übersicht](repo/TRose27/FP)                                   |15.04.2019 08:32:51|           5|                    0|
 |[ttros/Praktikum](https://github.com/ttros/Praktikum)                                                            |[Übersicht](repo/ttros/Praktikum)                              |27.06.2022 14:59:04|          20|                    0|
 |[Vale112/FP_B_SS19](https://github.com/Vale112/FP_B_SS19)                                                        |[Übersicht](repo/Vale112/FP_B_SS19)                            |13.09.2019 09:06:37|           5|                    0|
+|[VorniV/FP](https://github.com/VorniV/FP)                                                                        |[Übersicht](repo/VorniV/FP)                                    |28.06.2022 15:04:38|           5|                    3|
 |[woklop9/Anfaengerpraktikum](https://github.com/lwitthaus/Anfaengerpraktikum)                                    |[Übersicht](repo/woklop9/Anfaengerpraktikum)                   |11.07.2018 07:44:51|          21|                   17|
 |[YanickKi/AP_T_Y](https://github.com/YanickKi/AP_T_Y)                                                            |[Übersicht](repo/YanickKi/AP_T_Y)                              |05.07.2021 12:36:30|          19|                   15|
 |[YanickKi/FP_T_Y](https://github.com/YanickKi/FP_T_Y)                                                            |[Übersicht](repo/YanickKi/FP_T_Y)                              |09.06.2022 18:31:14|           4|                    0|
 
 
 ## Statistiken
-- **125** Repos
+- **126** Repos
 - **76** Versuche
-- **1490** Protokolle
-- **463** Protokolle mit PDFs
+- **1495** Protokolle
+- **466** Protokolle mit PDFs
 - **355** PDFs von _awesome-ap-pdfs_
-- **602** PDFs insgesamt
+- **605** PDFs insgesamt
 
 <p>Zuletzt aktualisiert: <span id="last-modified">[lade…]</span></p>
 <script async>
