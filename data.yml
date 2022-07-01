@@ -5684,7 +5684,7 @@
   - html_url: https://github.com/sonia-cyber
     login: sonia-cyber
   full_name: jana-banana/FP-2022
-  last_commit: 2022-06-24 20:00:53
+  last_commit: 2022-06-30 09:56:36
   protokolle:
     14:
       code_analysis:
@@ -19895,8 +19895,20 @@
   - html_url: https://github.com/YanickKi
     login: YanickKi
   full_name: YanickKi/FP_T_Y
-  last_commit: 2022-06-09 18:31:14
+  last_commit: 2022-06-30 21:11:36
   protokolle:
+    21:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 5
+        total_comments_of_interest: 0
+        total_lloc: 38
+        total_single_comments: 0
+        total_sloc: 38
+      dirs:
+      - V21
+      pdfs: []
     23:
       code_analysis:
         has_errors: false
