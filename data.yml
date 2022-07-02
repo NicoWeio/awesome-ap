@@ -19895,7 +19895,7 @@
   - html_url: https://github.com/YanickKi
     login: YanickKi
   full_name: YanickKi/FP_T_Y
-  last_commit: 2022-06-30 21:11:36
+  last_commit: 2022-07-01 15:32:16
   protokolle:
     21:
       code_analysis:
@@ -19903,9 +19903,9 @@
         num_files: 2
         total_comments: 5
         total_comments_of_interest: 0
-        total_lloc: 38
+        total_lloc: 47
         total_single_comments: 0
-        total_sloc: 38
+        total_sloc: 47
       dirs:
       - V21
       pdfs: []
