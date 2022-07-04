@@ -664,7 +664,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-06-14 09:12:35
+  last_commit: 2022-07-04 00:01:43
   protokolle:
     14:
       code_analysis:
@@ -697,15 +697,14 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 46
-        total_comments_of_interest: 40
-        total_lloc: 229
+        total_comments: 47
+        total_comments_of_interest: 41
+        total_lloc: 241
         total_single_comments: 32
-        total_sloc: 224
+        total_sloc: 236
       dirs:
       - Versuche Semester VI/3.V48Dipolrelaxation
       pdfs:
-      - Versuche Semester VI/3.V48Dipolrelaxation/Protokoll_V48.pdf
       - Versuche Semester VI/3.V48Dipolrelaxation/Versuchsbeschreibung_V48.pdf
     70:
       code_analysis:
@@ -5684,8 +5683,20 @@
   - html_url: https://github.com/sonia-cyber
     login: sonia-cyber
   full_name: jana-banana/FP-2022
-  last_commit: 2022-06-30 09:56:36
+  last_commit: 2022-07-03 19:53:09
   protokolle:
+    1:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 23
+        total_single_comments: 1
+        total_sloc: 23
+      dirs:
+      - V01
+      pdfs: []
     14:
       code_analysis:
         has_errors: false
@@ -19895,7 +19906,7 @@
   - html_url: https://github.com/YanickKi
     login: YanickKi
   full_name: YanickKi/FP_T_Y
-  last_commit: 2022-07-01 15:32:16
+  last_commit: 2022-07-03 20:14:56
   protokolle:
     21:
       code_analysis:
