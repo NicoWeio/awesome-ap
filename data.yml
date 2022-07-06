@@ -1,3 +1,71 @@
+- authors: []
+  branch: master
+  contributors:
+  - html_url: https://github.com/Claerchen
+    login: Claerchen
+  full_name: Anjaaaa/FP-17
+  last_commit: 2017-07-12 14:59:52
+  protokolle:
+    21:
+      code_analysis:
+        has_errors: true
+        num_files: 3
+        total_comments: 49
+        total_comments_of_interest: 33
+        total_lloc: 251
+        total_single_comments: 43
+        total_sloc: 283
+      dirs:
+      - V21-Optisches-Pumpen
+      pdfs: []
+    27:
+      code_analysis:
+        has_errors: true
+        num_files: 3
+        total_comments: 58
+        total_comments_of_interest: 34
+        total_lloc: 209
+        total_single_comments: 47
+        total_sloc: 246
+      dirs:
+      - V27-Zeeman-Effekt
+      pdfs: []
+    28:
+      code_analysis:
+        has_errors: true
+        num_files: 4
+        total_comments: 58
+        total_comments_of_interest: 42
+        total_lloc: 217
+        total_single_comments: 52
+        total_sloc: 248
+      dirs:
+      - V28-ESR
+      pdfs: []
+    52:
+      code_analysis:
+        has_errors: true
+        num_files: 18
+        total_comments: 149
+        total_comments_of_interest: 116
+        total_lloc: 722
+        total_single_comments: 138
+        total_sloc: 789
+      dirs:
+      - V52-Signale-auf-Leitungen
+      pdfs: []
+    61:
+      code_analysis:
+        has_errors: false
+        num_files: 5
+        total_comments: 43
+        total_comments_of_interest: 33
+        total_lloc: 321
+        total_single_comments: 38
+        total_sloc: 382
+      dirs:
+      - V61-HeNe-Laser
+      pdfs: []
 - authors:
   - Anneke Reinold
   - Paul-Simon Blomenkamp
@@ -12186,6 +12254,122 @@
       - V60
       pdfs:
       - V60/V60_Skript.pdf
+- authors: []
+  branch: master
+  contributors:
+  - html_url: https://github.com/MikKusch
+    login: MikKusch
+  full_name: MikKusch/Praktikum
+  last_commit: 2022-06-21 01:43:20
+  protokolle:
+    206:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 65
+        total_single_comments: 0
+        total_sloc: 65
+      dirs:
+      - V206
+      pdfs: []
+    302:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 14
+        total_single_comments: 0
+        total_sloc: 14
+      dirs:
+      - V302
+      pdfs: []
+    303:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - V303
+      pdfs: []
+    354:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 76
+        total_single_comments: 1
+        total_sloc: 73
+      dirs:
+      - V354
+      pdfs: []
+    601:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 120
+        total_single_comments: 0
+        total_sloc: 120
+      dirs:
+      - V601
+      pdfs: []
+    602:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 4
+        total_comments_of_interest: 4
+        total_lloc: 282
+        total_single_comments: 4
+        total_sloc: 281
+      dirs:
+      - V602
+      pdfs: []
+    606:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 3
+        total_comments_of_interest: 3
+        total_lloc: 85
+        total_single_comments: 3
+        total_sloc: 85
+      dirs:
+      - V606
+      pdfs: []
+    702:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 18
+        total_comments_of_interest: 18
+        total_lloc: 306
+        total_single_comments: 14
+        total_sloc: 296
+      dirs:
+      - V702
+      pdfs: []
+    703:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 2
+        total_comments_of_interest: 2
+        total_lloc: 50
+        total_single_comments: 2
+        total_sloc: 49
+      dirs:
+      - V703
+      pdfs: []
 - authors:
   - Daniel Wendler
   - Miriam Simm
@@ -14588,6 +14772,302 @@
       dirs:
       - V70 - Vakuumphysik
       pdfs: []
+- authors:
+  - Jonas Osterholz
+  - Moritz Rempe
+  branch: master
+  contributors:
+  - html_url: https://github.com/Remponator
+    login: Remponator
+  full_name: Remponator/MedPhy_AP
+  last_commit: 2022-07-06 08:11:03
+  protokolle:
+    102:
+      code_analysis:
+        has_errors: false
+        num_files: 4
+        total_comments: 41
+        total_comments_of_interest: 28
+        total_lloc: 154
+        total_single_comments: 3
+        total_sloc: 154
+      dirs:
+      - V102_Drehschwingung
+      pdfs:
+      - V102_Drehschwingung/Main.pdf
+    105:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - V105_magnMoment
+      pdfs: []
+    201:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 23
+        total_comments_of_interest: 10
+        total_lloc: 44
+        total_single_comments: 5
+        total_sloc: 44
+      dirs:
+      - V201_DulongPetitscheGesetz
+      pdfs:
+      - V201_DulongPetitscheGesetz/Main.pdf
+    204:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - "V204_W\xE4rmeleitungVonMetallen"
+      pdfs:
+      - "V204_W\xE4rmeleitungVonMetallen/Main.pdf"
+      - "V204_W\xE4rmeleitungVonMetallen/Main_fertig.pdf"
+    207:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 7
+        total_comments_of_interest: 4
+        total_lloc: 76
+        total_single_comments: 2
+        total_sloc: 82
+      dirs:
+      - V207_KugelfallViskosimeterHoeppler
+      pdfs:
+      - V207_KugelfallViskosimeterHoeppler/Main.pdf
+    301:
+      code_analysis:
+        has_errors: false
+        num_files: 5
+        total_comments: 3
+        total_comments_of_interest: 3
+        total_lloc: 116
+        total_single_comments: 3
+        total_sloc: 116
+      dirs:
+      - V301_Leerlaufspannung
+      pdfs:
+      - V301_Leerlaufspannung/Main.pdf
+    302:
+      code_analysis:
+        has_errors: false
+        num_files: 9
+        total_comments: 28
+        total_comments_of_interest: 21
+        total_lloc: 170
+        total_single_comments: 9
+        total_sloc: 170
+      dirs:
+      - V302_ElektrischeBrueckenschaltungen
+      pdfs:
+      - V302_ElektrischeBrueckenschaltungen/Main.pdf
+    303:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 3
+        total_comments_of_interest: 3
+        total_lloc: 73
+        total_single_comments: 3
+        total_sloc: 82
+      dirs:
+      - V303_LockInVerstaerker
+      pdfs:
+      - V303_LockInVerstaerker/Main.pdf
+    353:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - V353_RelaxationRCSchwingkreis
+      pdfs:
+      - V353_RelaxationRCSchwingkreis/Main.pdf
+    354:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 8
+        total_comments_of_interest: 4
+        total_lloc: 37
+        total_single_comments: 0
+        total_sloc: 37
+      dirs:
+      - V354_GedaempfteErzwungeneSchwingung
+      pdfs:
+      - V354_GedaempfteErzwungeneSchwingung/Main.pdf
+    401:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - V401_MichelsonInterferometer
+      pdfs:
+      - V401_MichelsonInterferometer/Main.pdf
+    406:
+      code_analysis:
+        has_errors: false
+        num_files: 9
+        total_comments: 171
+        total_comments_of_interest: 68
+        total_lloc: 281
+        total_single_comments: 116
+        total_sloc: 284
+      dirs:
+      - V406_BeugungAmSpalt
+      pdfs:
+      - V406_BeugungAmSpalt/Main.pdf
+    408:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - V408_GeometrischeOptik
+      pdfs:
+      - V408_GeometrischeOptik/Main.pdf
+    500:
+      code_analysis:
+        has_errors: false
+        num_files: 7
+        total_comments: 14
+        total_comments_of_interest: 8
+        total_lloc: 165
+        total_single_comments: 11
+        total_sloc: 161
+      dirs:
+      - V500_Photoeffekt
+      pdfs:
+      - V500_Photoeffekt/Main.pdf
+    501:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - V501:2_AblenkungdurchE-B-Feld
+      pdfs:
+      - V501:2_AblenkungdurchE-B-Feld/Main.pdf
+    504:
+      code_analysis:
+        has_errors: false
+        num_files: 5
+        total_comments: 28
+        total_comments_of_interest: 18
+        total_lloc: 90
+        total_single_comments: 9
+        total_sloc: 87
+      dirs:
+      - V504_ThermischeElektronenemission
+      pdfs:
+      - V504_ThermischeElektronenemission/Main.pdf
+    601:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - V601_FrankHertz
+      pdfs:
+      - V601_FrankHertz/Main.pdf
+    602:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 5
+        total_single_comments: 0
+        total_sloc: 5
+      dirs:
+      - V602_Roentgen
+      pdfs:
+      - V602_Roentgen/Main.pdf
+    702:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 24
+        total_comments_of_interest: 17
+        total_lloc: 99
+        total_single_comments: 16
+        total_sloc: 94
+      dirs:
+      - V702_AktivierungMitNeutronen
+      pdfs:
+      - V702_AktivierungMitNeutronen/Main.pdf
+    703:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 10
+        total_comments_of_interest: 11
+        total_lloc: 44
+        total_single_comments: 6
+        total_sloc: 43
+      dirs:
+      - V703_GeigerMuellerZaehlrohr
+      pdfs:
+      - V703_GeigerMuellerZaehlrohr/Main.pdf
+    704:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - V704_AbsorptionVonStrahlung
+      pdfs:
+      - V704_AbsorptionVonStrahlung/Main.pdf
+    902:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 7
+        total_comments_of_interest: 5
+        total_lloc: 41
+        total_single_comments: 0
+        total_sloc: 41
+      dirs:
+      - US2
+      pdfs:
+      - US2/Main.pdf
 - authors:
   - Fabian Lehmann
   - Marc Posorske
@@ -19465,6 +19945,270 @@
       - V70_Vakuumversuch
       pdfs:
       - V70_Vakuumversuch/build/main.pdf
+- authors:
+  - Erich Wagner
+  - Toby Teasdale
+  branch: main
+  contributors:
+  - html_url: https://github.com/waerther
+    login: waerther
+  - html_url: https://github.com/TobyGitT
+    login: TobyGitT
+  full_name: waerther/grundpraktikum1
+  last_commit: 2022-07-03 12:56:20
+  protokolle:
+    101:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - v101
+      pdfs: []
+    103:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - v103
+      pdfs: []
+    203:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 17
+        total_comments_of_interest: 7
+        total_lloc: 90
+        total_single_comments: 6
+        total_sloc: 91
+      dirs:
+      - v203
+      pdfs: []
+    206:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 7
+        total_comments_of_interest: 7
+        total_lloc: 61
+        total_single_comments: 5
+        total_sloc: 59
+      dirs:
+      - v206
+      pdfs: []
+    302:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 5
+        total_comments_of_interest: 0
+        total_lloc: 32
+        total_single_comments: 0
+        total_sloc: 32
+      dirs:
+      - v302
+      pdfs: []
+    308:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 5
+        total_comments_of_interest: 5
+        total_lloc: 62
+        total_single_comments: 5
+        total_sloc: 62
+      dirs:
+      - v308
+      pdfs: []
+    353:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 12
+        total_comments_of_interest: 7
+        total_lloc: 81
+        total_single_comments: 6
+        total_sloc: 83
+      dirs:
+      - v353
+      pdfs: []
+    355:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 26
+        total_single_comments: 0
+        total_sloc: 25
+      dirs:
+      - v355
+      pdfs: []
+- authors:
+  - Erich Wagner
+  - Toby Teasdale
+  branch: master
+  contributors:
+  - html_url: https://github.com/waerther
+    login: waerther
+  - html_url: https://github.com/TobyGitT
+    login: TobyGitT
+  full_name: waerther/grundpraktikum2
+  last_commit: 2022-06-24 08:50:28
+  protokolle:
+    401:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 6
+        total_comments_of_interest: 1
+        total_lloc: 23
+        total_single_comments: 1
+        total_sloc: 24
+      dirs:
+      - v401
+      pdfs: []
+    407:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 10
+        total_comments_of_interest: 4
+        total_lloc: 37
+        total_single_comments: 3
+        total_sloc: 34
+      dirs:
+      - v407
+      pdfs: []
+    500:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 2
+        total_single_comments: 0
+        total_sloc: 2
+      dirs:
+      - v500
+      pdfs: []
+    504:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 13
+        total_comments_of_interest: 8
+        total_lloc: 81
+        total_single_comments: 7
+        total_sloc: 81
+      dirs:
+      - v504
+      pdfs: []
+    601:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 40
+        total_single_comments: 0
+        total_sloc: 36
+      dirs:
+      - v601
+      pdfs: []
+    602:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 27
+        total_comments_of_interest: 19
+        total_lloc: 362
+        total_single_comments: 22
+        total_sloc: 423
+      dirs:
+      - v602
+      pdfs: []
+    606:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 24
+        total_comments_of_interest: 11
+        total_lloc: 50
+        total_single_comments: 13
+        total_sloc: 51
+      dirs:
+      - v606
+      pdfs: []
+    703:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 20
+        total_comments_of_interest: 14
+        total_lloc: 76
+        total_single_comments: 6
+        total_sloc: 70
+      dirs:
+      - v703
+      pdfs: []
+    704:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 26
+        total_comments_of_interest: 17
+        total_lloc: 129
+        total_single_comments: 14
+        total_sloc: 98
+      dirs:
+      - v704
+      pdfs: []
+    901:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 7
+        total_comments_of_interest: 7
+        total_lloc: 39
+        total_single_comments: 6
+        total_sloc: 57
+      dirs:
+      - us1
+      pdfs: []
+    902:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - us2
+      pdfs: []
+    903:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 16
+        total_comments_of_interest: 11
+        total_lloc: 113
+        total_single_comments: 9
+        total_sloc: 114
+      dirs:
+      - us3
+      pdfs: []
 - authors:
   - Christopher Krause
   - Lucas Witthaus

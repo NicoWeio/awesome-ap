@@ -13,11 +13,11 @@
 | 15|Vermessung und Untersuchung von Silizium-Streifensensoren            |[Übersicht](versuch/15) |      3|
 | 16|Rutherford-Streuung                                                  |[Übersicht](versuch/16) |     13|
 | 18|Der Reinst-Germanium-Detektor als Instrument der Gamma-Spektroskopie |[Übersicht](versuch/18) |     14|
-| 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     34|
+| 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     35|
 | 23|Quanten-Analogien                                                    |[Übersicht](versuch/23) |     12|
 | 25|Der Stern-Gerlach-Versuch                                            |[Übersicht](versuch/25) |      3|
-| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     34|
-| 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      8|
+| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     35|
+| 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      9|
 | 41|Debye-Scherrer-Aufnahmen                                             |[Übersicht](versuch/41) |      7|
 | 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     12|
 | 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     33|
@@ -25,71 +25,72 @@
 | 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     23|
 | 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     14|
 | 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |      8|
-| 52|Signale auf Leitungen                                                |[Übersicht](versuch/52) |      3|
+| 52|Signale auf Leitungen                                                |[Übersicht](versuch/52) |      4|
 | 53|Mikrowellen auf Hohlleitern                                          |[Übersicht](versuch/53) |     15|
 | 57|Elektrische Schwankungserscheinungen                                 |[Übersicht](versuch/57) |      2|
 | 59|Modulation und Demodulation elektrischer Schwingungen                |[Übersicht](versuch/59) |      5|
 | 60|Diodenlaser                                                          |[Übersicht](versuch/60) |     15|
-| 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     31|
+| 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     32|
 | 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     19|
 | 65|Röntgenreflektrometrie                                               |[Übersicht](versuch/65) |      1|
 | 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     13|
-|101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     30|
-|102|Drehschwingungen                                                     |[Übersicht](versuch/102)|     14|
-|103|Biegung elastischer Stäbe                                            |[Übersicht](versuch/103)|     37|
+|101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     31|
+|102|Drehschwingungen                                                     |[Übersicht](versuch/102)|     15|
+|103|Biegung elastischer Stäbe                                            |[Übersicht](versuch/103)|     38|
 |104|Der Doppler-Effekt                                                   |[Übersicht](versuch/104)|      9|
-|105|Das magnetische Moment                                               |[Übersicht](versuch/105)|      8|
+|105|Das magnetische Moment                                               |[Übersicht](versuch/105)|      9|
 |106|Gekoppelte Pendel                                                    |[Übersicht](versuch/106)|     20|
 |107|Das Kugelfall-Viskosimeter nach Höppler                              |[Übersicht](versuch/107)|     11|
-|201|Das Dulong-Petit-Gesetz                                              |[Übersicht](versuch/201)|     26|
-|203|Verdampfungswärme und Dampfdruckkurve                                |[Übersicht](versuch/203)|     22|
-|204|Wärmeleitung von Metallen                                            |[Übersicht](versuch/204)|     33|
-|206|Die Wärmepumpe                                                       |[Übersicht](versuch/206)|     41|
-|207|–                                                                    |[Übersicht](versuch/207)|     13|
+|201|Das Dulong-Petit-Gesetz                                              |[Übersicht](versuch/201)|     27|
+|203|Verdampfungswärme und Dampfdruckkurve                                |[Übersicht](versuch/203)|     23|
+|204|Wärmeleitung von Metallen                                            |[Übersicht](versuch/204)|     34|
+|206|Die Wärmepumpe                                                       |[Übersicht](versuch/206)|     43|
+|207|–                                                                    |[Übersicht](versuch/207)|     14|
 |300|–                                                                    |[Übersicht](versuch/300)|      1|
-|301|Leerlaufspannung und Innenwiderstand von Spannungsquellen            |[Übersicht](versuch/301)|     25|
-|302|Elektrische Brückenschaltungen                                       |[Übersicht](versuch/302)|     33|
-|303|Der Lock-In-Verstärker                                               |[Übersicht](versuch/303)|     32|
-|308|Spulen und Magnetfelder                                              |[Übersicht](versuch/308)|     14|
+|301|Leerlaufspannung und Innenwiderstand von Spannungsquellen            |[Übersicht](versuch/301)|     26|
+|302|Elektrische Brückenschaltungen                                       |[Übersicht](versuch/302)|     36|
+|303|Der Lock-In-Verstärker                                               |[Übersicht](versuch/303)|     34|
+|308|Spulen und Magnetfelder                                              |[Übersicht](versuch/308)|     15|
 |311|Der Hall-Effekt                                                      |[Übersicht](versuch/311)|     13|
 |351|Fourier-Analyse und -Synthese                                        |[Übersicht](versuch/351)|     23|
-|353|Relaxationsverhalten eines RC-Kreises                                |[Übersicht](versuch/353)|     39|
-|354|Gedämpfte und erzwungene Schwingungen                                |[Übersicht](versuch/354)|     41|
-|355|Gekoppelte Schwingkreise                                             |[Übersicht](versuch/355)|     18|
+|353|Relaxationsverhalten eines RC-Kreises                                |[Übersicht](versuch/353)|     41|
+|354|Gedämpfte und erzwungene Schwingungen                                |[Übersicht](versuch/354)|     43|
+|355|Gekoppelte Schwingkreise                                             |[Übersicht](versuch/355)|     19|
 |356|Kettenschaltungen mit LC-Gliedern                                    |[Übersicht](versuch/356)|      7|
 |400|Reflexion, Brechung und Beugung                                      |[Übersicht](versuch/400)|     14|
-|401|Das Michelson-Interferometer                                         |[Übersicht](versuch/401)|     27|
+|401|Das Michelson-Interferometer                                         |[Übersicht](versuch/401)|     29|
 |402|Dispersionsmessungen am Glasprisma                                   |[Übersicht](versuch/402)|     17|
-|406|Beugung am Spalt                                                     |[Übersicht](versuch/406)|     37|
-|407|–                                                                    |[Übersicht](versuch/407)|      4|
-|408|Geometrische Optik                                                   |[Übersicht](versuch/408)|     29|
-|500|Der Photoeffekt                                                      |[Übersicht](versuch/500)|     35|
-|501|Elektronen im elektrischen und magnetischen Feld                     |[Übersicht](versuch/501)|     26|
+|406|Beugung am Spalt                                                     |[Übersicht](versuch/406)|     38|
+|407|–                                                                    |[Übersicht](versuch/407)|      5|
+|408|Geometrische Optik                                                   |[Übersicht](versuch/408)|     30|
+|500|Der Photoeffekt                                                      |[Übersicht](versuch/500)|     37|
+|501|Elektronen im elektrischen und magnetischen Feld                     |[Übersicht](versuch/501)|     27|
 |502|Elektronen im transversalen Magnetfeld                               |[Übersicht](versuch/502)|      1|
 |503|Der Millikan-Versuch                                                 |[Übersicht](versuch/503)|     13|
-|504|Thermische Elektronenemission                                        |[Übersicht](versuch/504)|     29|
-|601|Der Franck-Hertz-Versuch                                             |[Übersicht](versuch/601)|     36|
-|602|Röntgenemission und -absorption                                      |[Übersicht](versuch/602)|     48|
+|504|Thermische Elektronenemission                                        |[Übersicht](versuch/504)|     31|
+|601|Der Franck-Hertz-Versuch                                             |[Übersicht](versuch/601)|     39|
+|602|Röntgenemission und -absorption                                      |[Übersicht](versuch/602)|     51|
 |603|Der Compton-Effekt                                                   |[Übersicht](versuch/603)|     18|
 |605|Alkali-Spektren                                                      |[Übersicht](versuch/605)|      6|
-|606|Messung der Suszeptibilität paramagnetischer Substanzen              |[Übersicht](versuch/606)|     31|
+|606|Messung der Suszeptibilität paramagnetischer Substanzen              |[Übersicht](versuch/606)|     33|
 |701|Reichweite von Alpha-Strahlung                                       |[Übersicht](versuch/701)|     19|
-|702|Aktivierung mit Neutronen                                            |[Übersicht](versuch/702)|     41|
-|703|Das Geiger-Müller-Zählrohr                                           |[Übersicht](versuch/703)|     50|
-|704|Absorption von Gamma- und Beta-Strahlung                             |[Übersicht](versuch/704)|     21|
+|702|Aktivierung mit Neutronen                                            |[Übersicht](versuch/702)|     43|
+|703|Das Geiger-Müller-Zählrohr                                           |[Übersicht](versuch/703)|     53|
+|704|Absorption von Gamma- und Beta-Strahlung                             |[Übersicht](versuch/704)|     23|
 |800|Das Oszilloskop                                                      |[Übersicht](versuch/800)|      2|
 |801|–                                                                    |[Übersicht](versuch/801)|      2|
 |802|Fouriersynthese                                                      |[Übersicht](versuch/802)|      5|
 |803|Das Hookesche Gesetz                                                 |[Übersicht](versuch/803)|      7|
-|901|Grundlagen der Ultraschalltechnik                                    |[Übersicht](versuch/901)|     29|
-|902|Scanverfahren in der Ultraschalltechnik                              |[Übersicht](versuch/902)|     26|
-|903|Doppler-Sonographie                                                  |[Übersicht](versuch/903)|     30|
+|901|Grundlagen der Ultraschalltechnik                                    |[Übersicht](versuch/901)|     30|
+|902|Scanverfahren in der Ultraschalltechnik                              |[Übersicht](versuch/902)|     28|
+|903|Doppler-Sonographie                                                  |[Übersicht](versuch/903)|     31|
 
 
 ## Repos
 
 |                                                      Repo                                                       |                                                               |  Letzter Commit   |# Protokolle|# Protokolle mit PDFs|
 |-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------|-----------:|--------------------:|
+|[Anjaaaa/FP-17](https://github.com/Anjaaaa/FP-17)                                                                |[Übersicht](repo/Anjaaaa/FP-17)                                |12.07.2017 14:59:52|           5|                    0|
 |[AReinold/Bachelor-FP](https://github.com/AReinold/Bachelor-FP)                                                  |[Übersicht](repo/AReinold/Bachelor-FP)                         |09.07.2018 09:47:30|           5|                    1|
 |[AReinold/Master-FP](https://github.com/AReinold/Master-FP)                                                      |[Übersicht](repo/AReinold/Master-FP)                           |22.03.2020 13:24:47|           5|                    3|
 |[Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)                                            |[Übersicht](repo/Bastian125/AP-Praktikum)                      |28.06.2022 07:29:13|          20|                    3|
@@ -172,6 +173,7 @@
 |[maxnoe/tudo_masterfp](https://github.com/maxnoe/tudo_masterfp)                                                  |[Übersicht](repo/maxnoe/tudo_masterfp)                         |05.07.2016 12:07:25|           3|                    0|
 |[MaxSac/AP-Praktikum](https://github.com/MaxSac/AP-Praktikum)                                                    |[Übersicht](repo/MaxSac/AP-Praktikum)                          |03.10.2016 08:28:39|          23|                   13|
 |[MaxSac/FP-Praktikum](https://github.com/MaxSac/FP-Praktikum)                                                    |[Übersicht](repo/MaxSac/FP-Praktikum)                          |12.06.2017 21:24:30|           5|                    1|
+|[MikKusch/Praktikum](https://github.com/MikKusch/Praktikum)                                                      |[Übersicht](repo/MikKusch/Praktikum)                           |21.06.2022 01:43:20|           9|                    0|
 |[miriamsimm/FP](https://github.com/miriamsimm/FP)                                                                |[Übersicht](repo/miriamsimm/FP)                                |21.02.2022 15:06:44|           5|                    0|
 |[moritzbo/anfaenger_praktikum](https://github.com/moritzbo/anfaenger_praktikum)                                  |[Übersicht](repo/moritzbo/anfaenger_praktikum)                 |30.06.2021 11:21:40|          18|                    0|
 |[moritzbo/fortgeschrittenes_praktikum](https://github.com/moritzbo/fortgeschrittenes_praktikum)                  |[Übersicht](repo/moritzbo/fortgeschrittenes_praktikum)         |09.02.2022 14:23:16|           5|                    4|
@@ -187,6 +189,7 @@
 |[paul-stoerbrock/Praktikum](https://github.com/paul-stoerbrock/Praktikum)                                        |[Übersicht](repo/paul-stoerbrock/Praktikum)                    |17.07.2020 15:53:36|          18|                   16|
 |[phlipo95/AP-Praktikum](https://github.com/phlipo95/AP-Praktikum)                                                |[Übersicht](repo/phlipo95/AP-Praktikum)                        |25.11.2019 18:36:53|          21|                   11|
 |[phlipo95/FP-Praktikum](https://github.com/phlipo95/FP-Praktikum)                                                |[Übersicht](repo/phlipo95/FP-Praktikum)                        |25.11.2019 18:40:27|           5|                    1|
+|[Remponator/MedPhy_AP](https://github.com/Remponator/MedPhy_AP)                                                  |[Übersicht](repo/Remponator/MedPhy_AP)                         |06.07.2022 08:11:03|          22|                   21|
 |[Renameus/PhysikPraktikum1](https://github.com/Renameus/PhysikPraktikum1)                                        |[Übersicht](repo/Renameus/PhysikPraktikum1)                    |20.12.2012 18:07:06|           8|                    8|
 |[Renameus/PhysikPraktikum2](https://github.com/Renameus/PhysikPraktikum2)                                        |[Übersicht](repo/Renameus/PhysikPraktikum2)                    |14.02.2013 10:50:06|           3|                    3|
 |[rkallo/APWS1718](https://github.com/rkallo/APWS1718)                                                            |[Übersicht](repo/rkallo/APWS1718)                              |21.11.2019 18:05:29|          25|                   25|
@@ -213,18 +216,20 @@
 |[ttros/Praktikum](https://github.com/ttros/Praktikum)                                                            |[Übersicht](repo/ttros/Praktikum)                              |27.06.2022 14:59:04|          20|                    0|
 |[Vale112/FP_B_SS19](https://github.com/Vale112/FP_B_SS19)                                                        |[Übersicht](repo/Vale112/FP_B_SS19)                            |13.09.2019 09:06:37|           5|                    0|
 |[VorniV/FP](https://github.com/VorniV/FP)                                                                        |[Übersicht](repo/VorniV/FP)                                    |05.07.2022 20:43:56|           5|                    3|
+|[waerther/grundpraktikum1](https://github.com/waerther/grundpraktikum1)                                          |[Übersicht](repo/waerther/grundpraktikum1)                     |03.07.2022 12:56:20|           8|                    0|
+|[waerther/grundpraktikum2](https://github.com/waerther/grundpraktikum2)                                          |[Übersicht](repo/waerther/grundpraktikum2)                     |24.06.2022 08:50:28|          12|                    0|
 |[woklop9/Anfaengerpraktikum](https://github.com/lwitthaus/Anfaengerpraktikum)                                    |[Übersicht](repo/woklop9/Anfaengerpraktikum)                   |11.07.2018 07:44:51|          21|                   17|
 |[YanickKi/AP_T_Y](https://github.com/YanickKi/AP_T_Y)                                                            |[Übersicht](repo/YanickKi/AP_T_Y)                              |05.07.2021 12:36:30|          19|                   15|
 |[YanickKi/FP_T_Y](https://github.com/YanickKi/FP_T_Y)                                                            |[Übersicht](repo/YanickKi/FP_T_Y)                              |05.07.2022 15:32:57|           5|                    0|
 
 
 ## Statistiken
-- **126** Repos
+- **131** Repos
 - **76** Versuche
-- **1503** Protokolle
-- **471** Protokolle mit PDFs
+- **1559** Protokolle
+- **492** Protokolle mit PDFs
 - **355** PDFs von _awesome-ap-pdfs_
-- **609** PDFs insgesamt
+- **631** PDFs insgesamt
 
 <p>Zuletzt aktualisiert: <span id="last-modified">[lade…]</span></p>
 <script async>
