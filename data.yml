@@ -664,7 +664,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-07-05 00:11:25
+  last_commit: 2022-07-05 10:40:10
   protokolle:
     14:
       code_analysis:
@@ -5683,7 +5683,7 @@
   - html_url: https://github.com/sonia-cyber
     login: sonia-cyber
   full_name: jana-banana/FP-2022
-  last_commit: 2022-07-04 11:53:22
+  last_commit: 2022-07-05 21:38:07
   protokolle:
     1:
       code_analysis:
@@ -5736,12 +5736,12 @@
     70:
       code_analysis:
         has_errors: false
-        num_files: 3
-        total_comments: 125
-        total_comments_of_interest: 56
-        total_lloc: 770
-        total_single_comments: 111
-        total_sloc: 752
+        num_files: 4
+        total_comments: 167
+        total_comments_of_interest: 96
+        total_lloc: 1129
+        total_single_comments: 147
+        total_sloc: 1095
       dirs:
       - V70
       pdfs: []
@@ -6837,7 +6837,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-07-04 22:54:19
+  last_commit: 2022-07-05 14:43:15
   protokolle:
     101:
       code_analysis:
@@ -6995,6 +6995,18 @@
       dirs: []
       pdfs:
       - Protokolle/v601.pdf
+    602:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs: []
+      pdfs:
+      - Protokolle/v602.pdf
     606:
       code_analysis:
         has_errors: false
@@ -7007,6 +7019,54 @@
       dirs: []
       pdfs:
       - Protokolle/v606.pdf
+    702:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs: []
+      pdfs:
+      - Protokolle/v702.pdf
+    703:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs: []
+      pdfs:
+      - Protokolle/v703.pdf
+    901:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs: []
+      pdfs:
+      - Protokolle/vUS1.pdf
+    902:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs: []
+      pdfs:
+      - Protokolle/US2.pdf
     903:
       code_analysis:
         has_errors: false
@@ -15999,7 +16059,7 @@
   - html_url: https://github.com/sadiahazeem
     login: sadiahazeem
   full_name: sadiahazeem/AP2
-  last_commit: 2022-06-22 12:56:47
+  last_commit: 2022-07-05 10:52:41
   protokolle:
     400:
       code_analysis:
@@ -16120,6 +16180,18 @@
         total_sloc: 0
       dirs:
       - Gammarino/latex-template/v704
+      pdfs: []
+    901:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 4
+        total_single_comments: 0
+        total_sloc: 4
+      dirs:
+      - us1/latex-template/us1
       pdfs: []
     902:
       code_analysis:
@@ -18344,7 +18416,7 @@
   - html_url: https://github.com/dormail
     login: dormail
   full_name: Tahirbanane/AP
-  last_commit: 2021-07-08 14:44:07
+  last_commit: 2022-07-05 19:19:16
   protokolle:
     103:
       code_analysis:
@@ -18573,7 +18645,7 @@
   - html_url: https://github.com/Marinaan
     login: Marinaan
   full_name: Tahirbanane/FP_2022
-  last_commit: 2022-06-29 19:10:30
+  last_commit: 2022-07-06 00:06:58
   protokolle:
     14:
       code_analysis:
@@ -18591,14 +18663,15 @@
     23:
       code_analysis:
         has_errors: false
-        num_files: 1
+        num_files: 2
         total_comments: 51
         total_comments_of_interest: 19
-        total_lloc: 348
-        total_single_comments: 49
-        total_sloc: 546
+        total_lloc: 374
+        total_single_comments: 50
+        total_sloc: 572
       dirs:
       - V23
+      - V27
       pdfs: []
 - authors:
   - Simon Schulte
@@ -19327,7 +19400,7 @@
   - html_url: https://github.com/philipjy
     login: philipjy
   full_name: VorniV/FP
-  last_commit: 2022-06-29 19:08:33
+  last_commit: 2022-07-05 20:43:56
   protokolle:
     27:
       code_analysis:
@@ -19358,11 +19431,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 3
+        total_comments_of_interest: 3
+        total_lloc: 61
+        total_single_comments: 3
+        total_sloc: 60
       dirs:
       - V46_Faraday
       pdfs: []
@@ -19906,7 +19979,7 @@
   - html_url: https://github.com/YanickKi
     login: YanickKi
   full_name: YanickKi/FP_T_Y
-  last_commit: 2022-07-04 19:44:47
+  last_commit: 2022-07-05 15:32:57
   protokolle:
     21:
       code_analysis:

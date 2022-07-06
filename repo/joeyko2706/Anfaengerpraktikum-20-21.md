@@ -1,6 +1,6 @@
 # [joeyko2706/Anfaengerpraktikum-20-21](https://github.com/joeyko2706/Anfaengerpraktikum-21-22)
 
-Letzter Commit: 04.07.2022 22:54:19
+Letzter Commit: 05.07.2022 14:43:15
 
 ## Autoren (Klarnamen)
 - Joel Koch
@@ -27,5 +27,10 @@ Letzter Commit: 04.07.2022 22:54:19
 |[500](../../versuch/500)|–     |[v500.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/v500.pdf)                    |
 |[504](../../versuch/504)|–     |[v504.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/v504.pdf)                    |
 |[601](../../versuch/601)|–     |[v601.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/v601.pdf)                    |
+|[602](../../versuch/602)|–     |[v602.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/v602.pdf)                    |
 |[606](../../versuch/606)|–     |[v606.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/v606.pdf)                    |
+|[702](../../versuch/702)|–     |[v702.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/v702.pdf)                    |
+|[703](../../versuch/703)|–     |[v703.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/v703.pdf)                    |
+|[901](../../versuch/901)|–     |[vUS1.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/vUS1.pdf)                    |
+|[902](../../versuch/902)|–     |[US2.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/US2.pdf)                      |
 |[903](../../versuch/903)|–     |[vUS3.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/vUS3.pdf)                    |
