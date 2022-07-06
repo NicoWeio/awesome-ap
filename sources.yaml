@@ -4,6 +4,7 @@
     - WiSe
   pdfs:
     directory: Protokolle
+- name: Anjaaaa/FP-17
 - name: AReinold/Bachelor-FP
   pdfs:
     directory: Abtestate_PDF # TODO: werden noch nicht erkannt
@@ -291,6 +292,7 @@
 - name: MariusHotte/MaFP_HuMa
   pdfs:
     in_source_dir: true
+- name: MikKusch/Praktikum
 - name: miriamsimm/FP
 - name: moritzbo/anfaenger_praktikum
 - name: moritzbo/fortgeschrittenes_praktikum
@@ -346,6 +348,10 @@
 - name: paul-stoerbrock/Praktikum
 - name: phlipo95/AP-Praktikum
 - name: phlipo95/FP-Praktikum
+# https://github.com/Remponator/MedPhy_AP/pull/1 ✓
+- name: Remponator/MedPhy_AP
+  pdfs:
+    in_source_dir: true
 - name: Renameus/PhysikPraktikum1
   pdfs:
     in_source_dir: true
@@ -437,6 +443,8 @@
     - WS1617
   pdfs:
     directory: AP Protokolle
+- name: waerther/grundpraktikum1
+- name: waerther/grundpraktikum2
 - name: woklop9/Anfaengerpraktikum
 # keine vollständigen Protokolle
 # - name: xxholzixx1/Anfaengerpraktikum
