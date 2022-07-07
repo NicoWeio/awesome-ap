@@ -29,7 +29,7 @@
 | 53|Mikrowellen auf Hohlleitern                                          |[Übersicht](versuch/53) |     15|
 | 57|Elektrische Schwankungserscheinungen                                 |[Übersicht](versuch/57) |      2|
 | 59|Modulation und Demodulation elektrischer Schwingungen                |[Übersicht](versuch/59) |      5|
-| 60|Diodenlaser                                                          |[Übersicht](versuch/60) |     15|
+| 60|Diodenlaser                                                          |[Übersicht](versuch/60) |     16|
 | 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     32|
 | 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     19|
 | 65|Röntgenreflektrometrie                                               |[Übersicht](versuch/65) |      1|
@@ -210,12 +210,12 @@
 |[stefangri/s_s_masterpraktikum](https://github.com/stefangri/s_s_masterpraktikum)                                |[Übersicht](repo/stefangri/s_s_masterpraktikum)                |19.12.2018 20:26:21|           5|                    0|
 |[stefangri/s_s_productions](https://github.com/stefangri/s_s_productions)                                        |[Übersicht](repo/stefangri/s_s_productions)                    |05.02.2018 06:01:44|          21|                    0|
 |[Tahirbanane/AP](https://github.com/Tahirbanane/AP)                                                              |[Übersicht](repo/Tahirbanane/AP)                               |05.07.2022 19:19:16|          18|                   15|
-|[Tahirbanane/FP_2022](https://github.com/Tahirbanane/FP_2022)                                                    |[Übersicht](repo/Tahirbanane/FP_2022)                          |06.07.2022 00:06:58|           2|                    0|
+|[Tahirbanane/FP_2022](https://github.com/Tahirbanane/FP_2022)                                                    |[Übersicht](repo/Tahirbanane/FP_2022)                          |07.07.2022 00:55:13|           3|                    0|
 |[TimBizeps/BachelorAP](https://github.com/TimBizeps/BachelorAP)                                                  |[Übersicht](repo/TimBizeps/BachelorAP)                         |26.09.2018 13:21:16|          24|                   18|
 |[TRose27/FP](https://github.com/TRose27/FP)                                                                      |[Übersicht](repo/TRose27/FP)                                   |15.04.2019 08:32:51|           5|                    0|
 |[ttros/Praktikum](https://github.com/ttros/Praktikum)                                                            |[Übersicht](repo/ttros/Praktikum)                              |27.06.2022 14:59:04|          20|                    0|
 |[Vale112/FP_B_SS19](https://github.com/Vale112/FP_B_SS19)                                                        |[Übersicht](repo/Vale112/FP_B_SS19)                            |13.09.2019 09:06:37|           5|                    0|
-|[VorniV/FP](https://github.com/VorniV/FP)                                                                        |[Übersicht](repo/VorniV/FP)                                    |05.07.2022 20:43:56|           5|                    3|
+|[VorniV/FP](https://github.com/VorniV/FP)                                                                        |[Übersicht](repo/VorniV/FP)                                    |06.07.2022 23:25:58|           5|                    3|
 |[waerther/grundpraktikum1](https://github.com/waerther/grundpraktikum1)                                          |[Übersicht](repo/waerther/grundpraktikum1)                     |03.07.2022 12:56:20|           8|                    0|
 |[waerther/grundpraktikum2](https://github.com/waerther/grundpraktikum2)                                          |[Übersicht](repo/waerther/grundpraktikum2)                     |24.06.2022 08:50:28|          12|                    0|
 |[woklop9/Anfaengerpraktikum](https://github.com/lwitthaus/Anfaengerpraktikum)                                    |[Übersicht](repo/woklop9/Anfaengerpraktikum)                   |11.07.2018 07:44:51|          21|                   17|
@@ -226,7 +226,7 @@
 ## Statistiken
 - **131** Repos
 - **76** Versuche
-- **1559** Protokolle
+- **1560** Protokolle
 - **492** Protokolle mit PDFs
 - **355** PDFs von _awesome-ap-pdfs_
 - **631** PDFs insgesamt

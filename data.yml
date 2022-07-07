@@ -14779,6 +14779,8 @@
   contributors:
   - html_url: https://github.com/Remponator
     login: Remponator
+  - html_url: https://github.com/NicoWeio
+    login: NicoWeio
   full_name: Remponator/MedPhy_AP
   last_commit: 2022-07-06 08:11:03
   protokolle:
@@ -19125,33 +19127,44 @@
   - html_url: https://github.com/Marinaan
     login: Marinaan
   full_name: Tahirbanane/FP_2022
-  last_commit: 2022-07-06 00:06:58
+  last_commit: 2022-07-07 00:55:13
   protokolle:
     14:
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 25
-        total_comments_of_interest: 4
+        total_comments: 33
+        total_comments_of_interest: 5
         total_lloc: 99
-        total_single_comments: 13
-        total_sloc: 138
+        total_single_comments: 21
+        total_sloc: 140
       dirs:
       - V14
-      - V60
       pdfs: []
     23:
       code_analysis:
         has_errors: false
         num_files: 2
-        total_comments: 51
+        total_comments: 59
         total_comments_of_interest: 19
-        total_lloc: 374
-        total_single_comments: 50
-        total_sloc: 572
+        total_lloc: 375
+        total_single_comments: 58
+        total_sloc: 573
       dirs:
       - V23
       - V27
+      pdfs: []
+    60:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - V60
       pdfs: []
 - authors:
   - Simon Schulte
@@ -19880,7 +19893,7 @@
   - html_url: https://github.com/philipjy
     login: philipjy
   full_name: VorniV/FP
-  last_commit: 2022-07-05 20:43:56
+  last_commit: 2022-07-06 23:25:58
   protokolle:
     27:
       code_analysis:
@@ -19911,11 +19924,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 3
-        total_comments_of_interest: 3
-        total_lloc: 61
-        total_single_comments: 3
-        total_sloc: 60
+        total_comments: 2
+        total_comments_of_interest: 2
+        total_lloc: 83
+        total_single_comments: 2
+        total_sloc: 83
       dirs:
       - V46_Faraday
       pdfs: []

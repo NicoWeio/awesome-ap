@@ -7,6 +7,7 @@ Letzter Commit: 06.07.2022 08:11:03
 - Moritz Rempe
 
 ## Autoren (GitHub)
+- [NicoWeio](https://github.com/NicoWeio)
 - [Remponator](https://github.com/Remponator)
 
 ## Versuche
