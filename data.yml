@@ -732,7 +732,7 @@
   - html_url: https://github.com/NiklasD
     login: NiklasD
   full_name: BenediktSan/FortgeschrittenenPraktikum2022
-  last_commit: 2022-07-05 10:40:10
+  last_commit: 2022-07-07 09:10:40
   protokolle:
     14:
       code_analysis:
@@ -19127,7 +19127,7 @@
   - html_url: https://github.com/Marinaan
     login: Marinaan
   full_name: Tahirbanane/FP_2022
-  last_commit: 2022-07-07 00:55:13
+  last_commit: 2022-07-08 00:40:34
   protokolle:
     14:
       code_analysis:
@@ -19144,14 +19144,25 @@
     23:
       code_analysis:
         has_errors: false
-        num_files: 2
-        total_comments: 59
+        num_files: 1
+        total_comments: 51
         total_comments_of_interest: 19
-        total_lloc: 375
-        total_single_comments: 58
-        total_sloc: 573
+        total_lloc: 347
+        total_single_comments: 50
+        total_sloc: 545
       dirs:
       - V23
+      pdfs: []
+    27:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 20
+        total_comments_of_interest: 8
+        total_lloc: 61
+        total_single_comments: 12
+        total_sloc: 61
+      dirs:
       - V27
       pdfs: []
     60:
@@ -20736,7 +20747,7 @@
   - html_url: https://github.com/YanickKi
     login: YanickKi
   full_name: YanickKi/FP_T_Y
-  last_commit: 2022-07-05 15:32:57
+  last_commit: 2022-07-07 19:49:01
   protokolle:
     21:
       code_analysis:
