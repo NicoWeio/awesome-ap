@@ -5751,17 +5751,17 @@
   - html_url: https://github.com/sonia-cyber
     login: sonia-cyber
   full_name: jana-banana/FP-2022
-  last_commit: 2022-07-05 21:38:07
+  last_commit: 2022-07-08 21:57:07
   protokolle:
     1:
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 23
-        total_single_comments: 1
-        total_sloc: 23
+        total_comments: 19
+        total_comments_of_interest: 14
+        total_lloc: 201
+        total_single_comments: 14
+        total_sloc: 191
       dirs:
       - V01
       pdfs: []
