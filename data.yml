@@ -2047,7 +2047,7 @@
   - html_url: https://github.com/Hernyoo
     login: Hernyoo
   full_name: chris-topher6/FP
-  last_commit: 2022-06-26 21:08:04
+  last_commit: 2022-07-13 22:37:34
   protokolle:
     1:
       code_analysis:
@@ -2065,11 +2065,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 13
+        total_comments: 12
         total_comments_of_interest: 10
-        total_lloc: 52
+        total_lloc: 51
         total_single_comments: 13
-        total_sloc: 92
+        total_sloc: 91
       dirs:
       - V21
       pdfs: []
