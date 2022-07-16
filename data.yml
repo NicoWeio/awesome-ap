@@ -2047,7 +2047,7 @@
   - html_url: https://github.com/Hernyoo
     login: Hernyoo
   full_name: chris-topher6/FP
-  last_commit: 2022-07-14 13:51:06
+  last_commit: 2022-07-15 21:28:43
   protokolle:
     1:
       code_analysis:
@@ -2101,11 +2101,11 @@
       code_analysis:
         has_errors: false
         num_files: 5
-        total_comments: 50
-        total_comments_of_interest: 23
-        total_lloc: 338
-        total_single_comments: 48
-        total_sloc: 358
+        total_comments: 52
+        total_comments_of_interest: 25
+        total_lloc: 333
+        total_single_comments: 50
+        total_sloc: 353
       dirs:
       - V70
       pdfs: []
@@ -19127,7 +19127,7 @@
   - html_url: https://github.com/Marinaan
     login: Marinaan
   full_name: Tahirbanane/FP_2022
-  last_commit: 2022-07-14 14:31:16
+  last_commit: 2022-07-15 10:33:18
   protokolle:
     14:
       code_analysis:
@@ -19145,11 +19145,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 51
-        total_comments_of_interest: 19
-        total_lloc: 347
-        total_single_comments: 50
-        total_sloc: 545
+        total_comments: 52
+        total_comments_of_interest: 20
+        total_lloc: 345
+        total_single_comments: 51
+        total_sloc: 544
       dirs:
       - V23
       pdfs: []
@@ -19169,11 +19169,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 6
+        total_comments: 7
         total_comments_of_interest: 5
-        total_lloc: 80
-        total_single_comments: 4
-        total_sloc: 73
+        total_lloc: 82
+        total_single_comments: 5
+        total_sloc: 75
       dirs:
       - V48
       pdfs: []
