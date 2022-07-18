@@ -2047,7 +2047,7 @@
   - html_url: https://github.com/Hernyoo
     login: Hernyoo
   full_name: chris-topher6/FP
-  last_commit: 2022-07-16 20:48:05
+  last_commit: 2022-07-17 18:25:40
   protokolle:
     1:
       code_analysis:
@@ -2055,9 +2055,9 @@
         num_files: 6
         total_comments: 40
         total_comments_of_interest: 23
-        total_lloc: 173
+        total_lloc: 235
         total_single_comments: 23
-        total_sloc: 166
+        total_sloc: 220
       dirs:
       - V01
       pdfs: []
@@ -19127,7 +19127,7 @@
   - html_url: https://github.com/Marinaan
     login: Marinaan
   full_name: Tahirbanane/FP_2022
-  last_commit: 2022-07-16 17:59:51
+  last_commit: 2022-07-17 17:30:51
   protokolle:
     14:
       code_analysis:
@@ -19145,8 +19145,8 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 52
-        total_comments_of_interest: 20
+        total_comments: 53
+        total_comments_of_interest: 21
         total_lloc: 345
         total_single_comments: 51
         total_sloc: 544
