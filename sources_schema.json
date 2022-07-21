@@ -8,12 +8,12 @@
                 "type": "string"
             },
             "dirs_to_versuche": {
-                "description": "Allows extending and overriding automatically detected protocols. The key is the directory, the value is the experiment number.",
+                "description": "Allows extending and overriding automatically detected protocols. The key is the directory, the value is the experiment number. To ignore a directory, set the value to false.",
                 "type": "object"
             },
             "name": {
                 "description": "Full name of the repository: &lt;login&gt;/&lt;repo&gt;",
-                "pattern": "^[a-zA-Z0-9-_]+/[a-zA-Z0-9-_]+$",
+                "pattern": "^[a-zA-Z0-9-_.]+/[a-zA-Z0-9-_.]+$",
                 "type": "string"
             },
             "parsing": {
