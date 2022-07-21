@@ -59,6 +59,31 @@
 - name: DavidP181/FP
   pdfs:
     in_source_dir: true
+- name: Diman1992/Prak1213
+  dirs_to_versuche:
+    "01.204 Waermeleitung Metalle": 204
+    "02.303 Lock-In-Verstaerker": 303
+    "05.501 Elektronen in E und B Feld": 501
+    "06.602 Roentgenemmision": 602
+    "09.107 Viskosimeter": 107
+  pdfs:
+    in_source_dir: true
+  parsing:
+    dirname: false
+# TODO: Parsing der Versuche aus TeX-Dateien funktioniert nicht wegen verschachtelter Makros
+- name: Diman1992/FP-M.Sc
+  dirs_to_versuche:
+    "01Molekuel-_und_Ionendynamik": false
+    "02Debye_Scherrer": false
+    "03Roentgenreflektometrie": false
+    "04Rauschen": false
+    "05Diodenlaser": 60
+    "06NMR": 49
+    "07Myonen": 1
+    "08opv": 51
+    "Myonen": 1
+  parsing:
+    dirname: false
 - name: dlmsr/praktikum
 - name: dormail/ap
 - name: elliekayl/Protokolle
@@ -82,6 +107,7 @@
       - MFP/PDF-Dateien # TODO: Versuch-Nummern fehlen
 - name: Fresoquark/Anfaengerpraktikum
 - name: FSchierok/FP
+# TODO: ghzut – Einzel-Repos
 - name: HelenaCarlArne/ProtokolleAP
 - name: HelenaCarlArne/ProtokolleFP
 - name: henne169/FP
@@ -96,6 +122,9 @@
     23-Praktikum-V501-502: 501 # Doppelversuch
   parsing:
     contents: false # Die „…w.tex“ genannten Dateien stören die Erkennung sonst erheblich.
+  pdfs:
+    in_source_dir: true
+- name: JackDO1998/Praktikum
   pdfs:
     in_source_dir: true
 - name: JaLuka98/AP_17-18
@@ -261,6 +290,7 @@
 - name: MagischeMiesmuschel/FPMaster
   pdfs:
     directory: Protokolle
+# TODO: majesticrock – Einzel-Repos
 - name: Mampfzwerg/FP
   pdfs:
     in_source_dir: true
@@ -426,6 +456,12 @@
     in_source_dir: true
 - name: Tahirbanane/FP_2022
 - name: TimBizeps/BachelorAP
+  pdfs:
+    in_source_dir: true
+- name: timtheissel/AnfaengerPraktikum
+  subdirectory:
+    - .
+    - Fortgeschrittenen Praktikum
   pdfs:
     in_source_dir: true
 - name: TRose27/FP
