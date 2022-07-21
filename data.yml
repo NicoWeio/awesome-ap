@@ -2629,6 +2629,144 @@
       pdfs:
       - V47/BerichtV47.pdf
 - authors:
+  - Dimitrios Skodras
+  - Jan Adam
+  branch: master
+  contributors:
+  - html_url: https://github.com/Diman1992
+    login: Diman1992
+  - html_url: https://github.com/Solarer
+    login: Solarer
+  full_name: Diman1992/Prak1213
+  last_commit: 2013-07-15 13:57:19
+  protokolle:
+    107:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 09.107 Viskosimeter
+      pdfs:
+      - 09.107 Viskosimeter/107 protokoll.pdf
+    204:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 01.204 Waermeleitung Metalle
+      pdfs: []
+    303:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 02.303 Lock-In-Verstaerker
+      pdfs: []
+    501:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 05.501 Elektronen in E und B Feld
+      pdfs:
+      - 05.501 Elektronen in E und B Feld/501_502.pdf
+    602:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 06.602 Roentgenemmision
+      pdfs:
+      - 06.602 Roentgenemmision/protokoll602.pdf
+- authors:
+  - Dimitrios Skodras
+  - Jan Adam
+  branch: master
+  contributors:
+  - html_url: https://github.com/Diman1992
+    login: Diman1992
+  - html_url: https://github.com/Solarer
+    login: Solarer
+  - html_url: https://github.com/TragaMonedas
+    login: TragaMonedas
+  full_name: Diman1992/FP-M.Sc
+  last_commit: 2017-02-23 19:03:40
+  protokolle:
+    1:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 6
+        total_single_comments: 0
+        total_sloc: 6
+      dirs:
+      - 07Myonen
+      - Myonen
+      pdfs: []
+    49:
+      code_analysis:
+        has_errors: false
+        num_files: 10
+        total_comments: 234
+        total_comments_of_interest: 73
+        total_lloc: 734
+        total_single_comments: 211
+        total_sloc: 692
+      dirs:
+      - 06NMR
+      pdfs: []
+    51:
+      code_analysis:
+        has_errors: false
+        num_files: 6
+        total_comments: 92
+        total_comments_of_interest: 47
+        total_lloc: 684
+        total_single_comments: 91
+        total_sloc: 646
+      dirs:
+      - 08opv
+      pdfs: []
+    60:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 05Diodenlaser
+      pdfs: []
+- authors:
   - "Daniel Mei\xDFner"
   - Kevin Moch
   branch: master
@@ -5077,6 +5215,238 @@
         total_sloc: 19
       dirs:
       - 17-Praktikum-US2
+      pdfs: []
+- authors:
+  - Jan Gaschina
+  - Leander Flottau
+  branch: main
+  contributors:
+  - html_url: https://github.com/JackDO1998
+    login: JackDO1998
+  - html_url: https://github.com/Leander80
+    login: Leander80
+  full_name: JackDO1998/Praktikum
+  last_commit: 2021-07-05 20:53:05
+  protokolle:
+    103:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - BiegungElastischerStaebe
+      pdfs:
+      - BiegungElastischerStaebe/main.pdf
+    106:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 21
+        total_single_comments: 1
+        total_sloc: 21
+      dirs:
+      - GekoppeltePendel
+      - Halleffekt
+      pdfs:
+      - GekoppeltePendel/main.pdf
+      - GekoppeltePendel/main_mit_Anhang.pdf
+      - Halleffekt/main.pdf
+      - Halleffekt/main_mit_Anhang.pdf
+    107:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - Viskosimeter
+      pdfs:
+      - Viskosimeter/main.pdf
+      - Viskosimeter/main_mit_anhang.pdf
+    204:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - waermeleitung
+      pdfs:
+      - waermeleitung/main.pdf
+    206:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - DieWaermepumpe
+      pdfs:
+      - DieWaermepumpe/main.pdf
+    354:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - GedaempfteUndErzwungeneSchwingungen
+      pdfs:
+      - "GedaempfteUndErzwungeneSchwingungen/main-zusammengef\xFCgt (10).pdf"
+      - GedaempfteUndErzwungeneSchwingungen/main.pdf
+    400:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - ReflexionBrechungBeugung
+      pdfs:
+      - "ReflexionBrechungBeugung/main-zusammengef\xFCgt.pdf"
+      - ReflexionBrechungBeugung/main.pdf
+    406:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - BeugungAmSpalt
+      pdfs:
+      - BeugungAmSpalt/main.pdf
+    504:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - ThermischeElektronenemmission
+      pdfs:
+      - ThermischeElektronenemmission/main.pdf
+    602:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - RoentgenemmisionUndAbsorbtion
+      pdfs:
+      - RoentgenemmisionUndAbsorbtion/main.pdf
+    603:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - ComptonEffekt
+      pdfs:
+      - ComptonEffekt/main.pdf
+    606:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - "Suszeptibilit\xE4t"
+      pdfs:
+      - "Suszeptibilit\xE4t/main.pdf"
+    702:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - AktivierungMitNeutronen
+      - Relaxationsverhalten
+      pdfs:
+      - AktivierungMitNeutronen/main.pdf
+      - AktivierungMitNeutronen/main_mit_anhang.pdf
+      - Relaxationsverhalten/main.pdf
+    703:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - GeigerMuellerZaehlrohr
+      pdfs:
+      - GeigerMuellerZaehlrohr/main.pdf
+      - GeigerMuellerZaehlrohr/main_mit_anhang.pdf
+    901:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - Ultraschall1
+      pdfs:
+      - "Ultraschall1/main-zusammengef\xFCgt (1).pdf"
+      - "Ultraschall1/main-zusammengef\xFCgt.pdf"
+      - Ultraschall1/main.pdf
+    903:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - US3
       pdfs: []
 - authors:
   - Jan Lukas Schubert
@@ -19509,6 +19879,236 @@
         total_sloc: 94
       dirs:
       - US3
+      pdfs: []
+- authors:
+  - "Connor Magnus B\xF6ckmann"
+  - Tim Theissel
+  - 'email:'
+  branch: main
+  contributors:
+  - html_url: https://github.com/CptFlashpoint
+    login: CptFlashpoint
+  - html_url: https://github.com/timtheissel
+    login: timtheissel
+  full_name: timtheissel/AnfaengerPraktikum
+  last_commit: 2022-05-31 09:46:00
+  protokolle:
+    103:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 11
+        total_comments_of_interest: 11
+        total_lloc: 170
+        total_single_comments: 11
+        total_sloc: 170
+      dirs:
+      - Biegung
+      pdfs:
+      - Biegung/V103_korrigiert.pdf
+    106:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - gekoppeltes Pendel
+      pdfs: []
+    204:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 95
+        total_single_comments: 0
+        total_sloc: 104
+      dirs:
+      - Waermeleitung
+      pdfs:
+      - Waermeleitung/V204.1.pdf
+      - Waermeleitung/V204.pdf
+    206:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 3
+        total_comments_of_interest: 2
+        total_lloc: 52
+        total_single_comments: 3
+        total_sloc: 57
+      dirs:
+      - waermepumpe
+      pdfs: []
+    302:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 55
+        total_single_comments: 0
+        total_sloc: 55
+      dirs:
+      - Brueckenschaltung
+      pdfs:
+      - Brueckenschaltung/V302.pdf
+    311:
+      code_analysis:
+        has_errors: false
+        num_files: 5
+        total_comments: 23
+        total_comments_of_interest: 8
+        total_lloc: 102
+        total_single_comments: 23
+        total_sloc: 102
+      dirs:
+      - HallEffekt
+      pdfs: []
+    353:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 78
+        total_single_comments: 0
+        total_sloc: 78
+      dirs:
+      - RCKreis
+      pdfs:
+      - RCKreis/V353.pdf
+    354:
+      code_analysis:
+        has_errors: false
+        num_files: 5
+        total_comments: 20
+        total_comments_of_interest: 14
+        total_lloc: 184
+        total_single_comments: 14
+        total_sloc: 184
+      dirs:
+      - Gekoppelte Schwingungen
+      pdfs: []
+    400:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 5
+        total_comments_of_interest: 3
+        total_lloc: 37
+        total_single_comments: 5
+        total_sloc: 37
+      dirs:
+      - Beugung
+      pdfs:
+      - Beugung/V400.pdf
+    406:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 64
+        total_single_comments: 0
+        total_sloc: 64
+      dirs:
+      - BeugungSpalt
+      pdfs:
+      - BeugungSpalt/V406.pdf
+    504:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 94
+        total_single_comments: 0
+        total_sloc: 94
+      dirs:
+      - Emission
+      pdfs:
+      - Emission/V504.pdf
+    601:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 65
+        total_single_comments: 0
+        total_sloc: 65
+      dirs:
+      - FranckHertz
+      pdfs:
+      - FranckHertz/V601.pdf
+    602:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 3
+        total_comments_of_interest: 3
+        total_lloc: 229
+        total_single_comments: 2
+        total_sloc: 245
+      dirs:
+      - Roentgen
+      pdfs:
+      - Roentgen/V602.pdf
+    603:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 9
+        total_comments_of_interest: 7
+        total_lloc: 76
+        total_single_comments: 9
+        total_sloc: 85
+      dirs:
+      - Compton
+      pdfs:
+      - Compton/V603.pdf
+    606:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 16
+        total_comments_of_interest: 2
+        total_lloc: 43
+        total_single_comments: 16
+        total_sloc: 43
+      dirs:
+      - Paramagnetismus
+      pdfs:
+      - Paramagnetismus/V606.pdf
+    703:
+      code_analysis:
+        has_errors: false
+        num_files: 7
+        total_comments: 2
+        total_comments_of_interest: 1
+        total_lloc: 181
+        total_single_comments: 2
+        total_sloc: 177
+      dirs:
+      - Aktivierung
+      - GeigerMueller
+      pdfs: []
+    903:
+      code_analysis:
+        has_errors: false
+        num_files: 5
+        total_comments: 24
+        total_comments_of_interest: 24
+        total_lloc: 136
+        total_single_comments: 24
+        total_sloc: 136
+      dirs:
+      - Dopplersonographie
       pdfs: []
 - authors:
   - Gordon Scholz
