@@ -10556,7 +10556,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: lukas-bert/AP-1-Versuchsprotokolle
-  last_commit: 2022-07-24 09:07:55
+  last_commit: 2022-07-30 12:57:08
   protokolle:
     101:
       code_analysis:
@@ -10755,10 +10755,10 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 13
-        total_comments_of_interest: 12
+        total_comments: 16
+        total_comments_of_interest: 15
         total_lloc: 67
-        total_single_comments: 11
+        total_single_comments: 13
         total_sloc: 67
       dirs:
       - v703
