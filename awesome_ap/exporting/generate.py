@@ -14,7 +14,7 @@ def fmt_repo(repo):
 def fmt_files(files):
     if not files:
         return '–'
-    return '<br/>'.join(fmt_file(file) for file in sorted(files, key=lambda file: file.name.lower()))
+    return '<br/>'.join(fmt_file(file) for file in sorted(files, key=lambda f: (f.name.lower(), str(f.path).lower())))
 
 
 def fmt_file(f: File):
@@ -40,7 +40,7 @@ def generate_md(repos_to_versuche, versuche_to_repos, versuche_data, versuche_to
         if common_files := versuche_to_common_files.get(versuch):
             common_files_out = '\n'.join(
                 f'- [{f.name}]({f.view_url})'
-                for f in sorted(common_files, key=lambda f: f.name.lower())
+                for f in sorted(common_files, key=lambda f: (f.name.lower(), str(f.path).lower()))
             )
             out += '## Gemeinsame Dateien\n' + common_files_out + '\n\n'
 
