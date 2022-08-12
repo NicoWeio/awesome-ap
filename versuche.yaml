@@ -64,6 +64,8 @@
   name: "Gekoppelte Pendel"
 107:
   name: "Das Kugelfall-Viskosimeter nach Höppler"
+  notes: |-
+    Siehe auch V207.
 201:
   name: "Das Dulong-Petit-Gesetz"
 203:
@@ -72,10 +74,13 @@
   name: "Wärmeleitung von Metallen"
 206:
   name: "Die Wärmepumpe"
+# TODO: Hier wäre noch Detektivarbeit zu leisten…
 207:
-  # name: "Das Kugelfall-Viskosimeter nach Höppler"
-  # name: "Das Stefan-Boltzmann Gesetz"
-  name: null
+  name: "Das Kugelfall-Viskosimeter nach Höppler / Das Stefan-Boltzmann-Gesetz"
+  notes: |-
+    Diese Versuchsnummer ist doppelt belegt:
+    Früher bezeichnete sie den Versuch „Das Stefan-Boltzmann-Gesetz“, seitdem hingegen „Das Kugelfall-Viskosimeter nach Höppler“.
+    Zu letzterem Versuch siehe auch V107.
 300:
   name: null
 301:
