@@ -61,22 +61,16 @@
     in_source_dir: true
 - name: Diman1992/Prak1213
   dirs_to_versuche:
-    "01.204 Waermeleitung Metalle": 204
-    "02.303 Lock-In-Verstaerker": 303
-    "05.501 Elektronen in E und B Feld": 501
-    "06.602 Roentgenemmision": 602
-    "09.107 Viskosimeter": 107
+    "08.Solarzelle": false
   pdfs:
     in_source_dir: true
-  parsing:
-    dirname: false
 # TODO: Parsing der Versuche aus TeX-Dateien funktioniert nicht wegen verschachtelter Makros
 - name: Diman1992/FP-M.Sc
   dirs_to_versuche:
-    "01Molekuel-_und_Ionendynamik": false
-    "02Debye_Scherrer": false
-    "03Roentgenreflektometrie": false
-    "04Rauschen": false
+    "01Molekuel-_und_Ionendynamik": false # siehe auch H-berg∕FP2/NMR
+    "02Debye_Scherrer": 41
+    "03Roentgenreflektometrie": 47 # „Lehrstuhlversuch E1“
+    "04Rauschen": 57 # in der Datei steht fälschlicherweise „Lehrstuhlversuch E1 - Röntgenreflektometrie“
     "05Diodenlaser": 60
     "06NMR": 49
     "07Myonen": 1
