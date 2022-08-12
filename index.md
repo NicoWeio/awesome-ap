@@ -45,7 +45,7 @@
 |203|Verdampfungswärme und Dampfdruckkurve                                |[Übersicht](versuch/203)|     23|
 |204|Wärmeleitung von Metallen                                            |[Übersicht](versuch/204)|     37|
 |206|Die Wärmepumpe                                                       |[Übersicht](versuch/206)|     45|
-|207|–                                                                    |[Übersicht](versuch/207)|     15|
+|207|Das Kugelfall-Viskosimeter nach Höppler / Das Stefan-Boltzmann-Gesetz|[Übersicht](versuch/207)|     15|
 |300|–                                                                    |[Übersicht](versuch/300)|      1|
 |301|Leerlaufspannung und Innenwiderstand von Spannungsquellen            |[Übersicht](versuch/301)|     27|
 |302|Elektrische Brückenschaltungen                                       |[Übersicht](versuch/302)|     37|
