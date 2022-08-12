@@ -9,7 +9,18 @@
             },
             "dirs_to_versuche": {
                 "description": "Allows extending and overriding automatically detected protocols. The key is the directory, the value is the experiment number. To ignore a directory, set the value to false.",
-                "type": "object"
+                "type": "object",
+                "additionalProperties": {
+                    "anyOf": [
+                        {
+                            "type": "number"
+                        },
+                        {
+                            "type": "boolean",
+                            "const": false
+                        }
+                    ]
+                }
             },
             "name": {
                 "description": "Full name of the repository: &lt;login&gt;/&lt;repo&gt;",
