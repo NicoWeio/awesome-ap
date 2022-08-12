@@ -2047,7 +2047,7 @@
   - html_url: https://github.com/Hernyoo
     login: Hernyoo
   full_name: chris-topher6/FP
-  last_commit: 2022-08-09 09:08:56
+  last_commit: 2022-08-12 07:01:19
   protokolle:
     1:
       code_analysis:
@@ -2640,6 +2640,18 @@
   full_name: Diman1992/Prak1213
   last_commit: 2013-07-15 13:57:19
   protokolle:
+    101:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 18.101 Traegheit
+      pdfs: []
     107:
       code_analysis:
         has_errors: false
@@ -2653,6 +2665,18 @@
       - 09.107 Viskosimeter
       pdfs:
       - 09.107 Viskosimeter/107 protokoll.pdf
+    201:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 19.201 Dulong-Petit
+      pdfs: []
     204:
       code_analysis:
         has_errors: false
@@ -2665,6 +2689,31 @@
       dirs:
       - 01.204 Waermeleitung Metalle
       pdfs: []
+    207:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 10.207 Lesliewuerfel
+      pdfs:
+      - 10.207 Lesliewuerfel/protokoll207.pdf
+    301:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 20.301 EMK und Innenwiderstand
+      pdfs: []
     303:
       code_analysis:
         has_errors: false
@@ -2676,6 +2725,93 @@
         total_sloc: 0
       dirs:
       - 02.303 Lock-In-Verstaerker
+      pdfs: []
+    304:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 11.304 Magnetisches Moment
+      pdfs:
+      - 11.304 Magnetisches Moment/protokoll.pdf
+    351:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 21.351 Fourier
+      pdfs: []
+    353:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 03.353 Relaxationsverhalten eines RC Kreises
+      pdfs:
+      - 03.353 Relaxationsverhalten eines RC Kreises/protokoll353.pdf
+    402:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 22.402 Dispersion
+      pdfs: []
+    406:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 04.406 Beugung am Spalt
+      pdfs:
+      - 04.406 Beugung am Spalt/protokoll_406.pdf
+    408:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 12.408 Geometrische Optik
+      pdfs: []
+    500:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 16.500 Photoeffekt
       pdfs: []
     501:
       code_analysis:
@@ -2690,6 +2826,30 @@
       - 05.501 Elektronen in E und B Feld
       pdfs:
       - 05.501 Elektronen in E und B Feld/501_502.pdf
+    504:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 13.504 Thermische Elektronenemission
+      pdfs: []
+    601:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 23.601 Frank-Hertz
+      pdfs: []
     602:
       code_analysis:
         has_errors: false
@@ -2703,6 +2863,66 @@
       - 06.602 Roentgenemmision
       pdfs:
       - 06.602 Roentgenemmision/protokoll602.pdf
+    606:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 14.606 Suszeptibilitaet
+      pdfs: []
+    701:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 24.701 Alphastrahlung
+      pdfs: []
+    702:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 07.702 Aktivierung mit Neutronen
+      pdfs: []
+    703:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 15.703 Geiger-Mueller
+      pdfs: []
+    901:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 17.US1 Ultraschall
+      pdfs: []
 - authors:
   - Dimitrios Skodras
   - Jan Adam
@@ -2730,6 +2950,30 @@
       - 07Myonen
       - Myonen
       pdfs: []
+    41:
+      code_analysis:
+        has_errors: false
+        num_files: 6
+        total_comments: 101
+        total_comments_of_interest: 77
+        total_lloc: 503
+        total_single_comments: 91
+        total_sloc: 500
+      dirs:
+      - 02Debye_Scherrer
+      pdfs: []
+    47:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 43
+        total_comments_of_interest: 28
+        total_lloc: 161
+        total_single_comments: 40
+        total_sloc: 247
+      dirs:
+      - 03Roentgenreflektometrie
+      pdfs: []
     49:
       code_analysis:
         has_errors: false
@@ -2753,6 +2997,18 @@
         total_sloc: 646
       dirs:
       - 08opv
+      pdfs: []
+    57:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - 04Rauschen
       pdfs: []
     60:
       code_analysis:
