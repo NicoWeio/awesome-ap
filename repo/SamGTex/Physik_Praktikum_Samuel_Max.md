@@ -1,6 +1,6 @@
 # [SamGTex/Physik_Praktikum_Samuel_Max](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max)
 
-Letzter Commit: 30.03.2022 09:53:21
+Letzter Commit: 13.08.2022 10:43:57
 
 ## Autoren (Klarnamen)
 - Samuel Haefs
