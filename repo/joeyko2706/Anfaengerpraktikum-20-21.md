@@ -1,6 +1,6 @@
 # [joeyko2706/Anfaengerpraktikum-20-21](https://github.com/joeyko2706/Anfaengerpraktikum-21-22)
 
-Letzter Commit: 05.07.2022 14:43:15
+Letzter Commit: 15.08.2022 09:16:01
 
 ## Autoren (Klarnamen)
 - Joel Koch
@@ -32,5 +32,5 @@ Letzter Commit: 05.07.2022 14:43:15
 |[702](../../versuch/702)|–     |[v702.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/v702.pdf)                    |
 |[703](../../versuch/703)|–     |[v703.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/v703.pdf)                    |
 |[901](../../versuch/901)|–     |[vUS1.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/vUS1.pdf)                    |
-|[902](../../versuch/902)|–     |[US2.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/US2.pdf)                      |
+|[902](../../versuch/902)|–     |[vUS2.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/vUS2.pdf)                    |
 |[903](../../versuch/903)|–     |[vUS3.pdf](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/joeyko2706/Anfaengerpraktikum-20-21/main/Protokolle/vUS3.pdf)                    |

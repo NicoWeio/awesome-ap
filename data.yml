@@ -7531,7 +7531,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-07-05 14:43:15
+  last_commit: 2022-08-15 09:16:01
   protokolle:
     101:
       code_analysis:
@@ -7760,7 +7760,7 @@
         total_sloc: 0
       dirs: []
       pdfs:
-      - Protokolle/US2.pdf
+      - Protokolle/vUS2.pdf
     903:
       code_analysis:
         has_errors: false
