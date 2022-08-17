@@ -7531,7 +7531,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-08-15 09:16:01
+  last_commit: 2022-08-16 12:34:06
   protokolle:
     101:
       code_analysis:
@@ -12886,7 +12886,7 @@
   - html_url: https://github.com/MikKusch
     login: MikKusch
   full_name: MikKusch/Praktikum
-  last_commit: 2022-06-21 01:43:20
+  last_commit: 2022-08-16 22:03:09
   protokolle:
     206:
       code_analysis:
@@ -12942,9 +12942,9 @@
         num_files: 3
         total_comments: 0
         total_comments_of_interest: 0
-        total_lloc: 120
+        total_lloc: 135
         total_single_comments: 0
-        total_sloc: 120
+        total_sloc: 135
       dirs:
       - V601
       pdfs: []

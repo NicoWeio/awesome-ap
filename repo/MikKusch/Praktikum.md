@@ -1,6 +1,6 @@
 # [MikKusch/Praktikum](https://github.com/MikKusch/Praktikum)
 
-Letzter Commit: 21.06.2022 01:43:20
+Letzter Commit: 16.08.2022 22:03:09
 
 ## Autoren (GitHub)
 - [MikKusch](https://github.com/MikKusch)
