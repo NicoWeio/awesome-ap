@@ -223,7 +223,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-06-28 07:29:13
+  last_commit: 2022-08-18 11:26:44
   protokolle:
     101:
       code_analysis:
@@ -249,7 +249,8 @@
         total_sloc: 252
       dirs:
       - 103-Biegung_elastischer_Staebe
-      pdfs: []
+      pdfs:
+      - "Versuche/103 - Biegung elastischer St\xE4be.pdf"
     107:
       code_analysis:
         has_errors: false
@@ -261,7 +262,8 @@
         total_sloc: 71
       dirs:
       - V107-Kugelfallviskosimeter
-      pdfs: []
+      pdfs:
+      - Versuche/107 - Kugelfallviskosimeter.pdf
     203:
       code_analysis:
         has_errors: false
@@ -273,7 +275,8 @@
         total_sloc: 70
       dirs:
       - 203-Verdampfungswaerme
-      pdfs: []
+      pdfs:
+      - "Versuche/203 - Verdampfungsw\xE4rme.pdf"
     204:
       code_analysis:
         has_errors: false
@@ -285,7 +288,8 @@
         total_sloc: 82
       dirs:
       - V204-Waermeleitfaehigkeit
-      pdfs: []
+      pdfs:
+      - "Versuche/204 - W\xE4rmeleitf\xE4higkeit.pdf"
     302:
       code_analysis:
         has_errors: false
@@ -297,7 +301,8 @@
         total_sloc: 44
       dirs:
       - 302-Brueckenschaltung
-      pdfs: []
+      pdfs:
+      - "Versuche/302 - Br\xFCckenschaltung.pdf"
     308:
       code_analysis:
         has_errors: false
@@ -309,7 +314,8 @@
         total_sloc: 89
       dirs:
       - 308-Spulen_und_Magnetfelder
-      pdfs: []
+      pdfs:
+      - Versuche/308 - Spulen und Magnetfelder.pdf
     353:
       code_analysis:
         has_errors: false
@@ -321,7 +327,8 @@
         total_sloc: 162
       dirs:
       - V353-RelaxationsverhaltenRCKreis
-      pdfs: []
+      pdfs:
+      - Versuche/353 - Realaxationsverhalten des RC-Kreises.pdf
     400:
       code_analysis:
         has_errors: false
@@ -333,7 +340,8 @@
         total_sloc: 16
       dirs:
       - V400-Reflexion_Brechung_Beugung
-      pdfs: []
+      pdfs:
+      - Versuche/400 - Reflexion, Brechung und Beugung.pdf
     500:
       code_analysis:
         has_errors: false
@@ -345,7 +353,8 @@
         total_sloc: 123
       dirs:
       - V500-Photoeffekt
-      pdfs: []
+      pdfs:
+      - Versuche/500 - Photoeffekt.pdf
     503:
       code_analysis:
         has_errors: false
@@ -357,7 +366,8 @@
         total_sloc: 247
       dirs:
       - "V503-Der Millikan-\xD6ltr\xF6pfchenversuch"
-      pdfs: []
+      pdfs:
+      - Versuche/503 - Millikanversuch.pdf
     504:
       code_analysis:
         has_errors: false
@@ -369,7 +379,8 @@
         total_sloc: 101
       dirs:
       - V504-Thermische Elektronenemission
-      pdfs: []
+      pdfs:
+      - Versuche/504 - Thermische Elektronenemission.pdf
     601:
       code_analysis:
         has_errors: false
@@ -381,7 +392,8 @@
         total_sloc: 44
       dirs:
       - V601-Franck-Hertz
-      pdfs: []
+      pdfs:
+      - Versuche/601 - Franck-Hertz-Versuch.pdf
     602:
       code_analysis:
         has_errors: false
@@ -393,7 +405,8 @@
         total_sloc: 156
       dirs:
       - V602-Roentgenemission und -absorption
-      pdfs: []
+      pdfs:
+      - "Versuche/602 - R\xF6ntgenemission und Absorption.pdf"
     606:
       code_analysis:
         has_errors: false
@@ -405,7 +418,8 @@
         total_sloc: 119
       dirs:
       - "V606-Suszeptibilit\xE4t"
-      pdfs: []
+      pdfs:
+      - "Versuche/606 - Suszeptibilit\xE4t.pdf"
     702:
       code_analysis:
         has_errors: false
@@ -417,7 +431,8 @@
         total_sloc: 80
       dirs:
       - V702-Aktivierung mit Neutronen
-      pdfs: []
+      pdfs:
+      - Versuche/702 - Aktivierung mit Neutronen.pdf
     704:
       code_analysis:
         has_errors: false
@@ -429,7 +444,8 @@
         total_sloc: 125
       dirs:
       - V704-Absorption von Beta- und Gammastrahlung
-      pdfs: []
+      pdfs:
+      - Versuche/704 - Absorption von Gamma- und Betastrahlung.pdf
     901:
       code_analysis:
         has_errors: false
@@ -441,7 +457,8 @@
         total_sloc: 101
       dirs:
       - US1-Grundlagen der Ultraschalltechnik
-      pdfs: []
+      pdfs:
+      - Versuche/US1 - Grundlagen der Ultraschalltechnik.pdf
     902:
       code_analysis:
         has_errors: false
@@ -453,7 +470,8 @@
         total_sloc: 49
       dirs:
       - US2- Scanverfahren in der Ultraschalltechnik
-      pdfs: []
+      pdfs:
+      - Versuche/US2 - Scannverfahren in der Ultrachalltechnik.pdf
     903:
       code_analysis:
         has_errors: false
@@ -465,7 +483,8 @@
         total_sloc: 64
       dirs:
       - US3-Dopplersonographie
-      pdfs: []
+      pdfs:
+      - Versuche/US3 - Dopplersonographie.pdf
 - authors:
   - Benedikt Sander
   - "Niklas D\xFCser"
