@@ -223,7 +223,7 @@
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
   full_name: Bastian125/AP-Praktikum
-  last_commit: 2022-08-18 11:26:44
+  last_commit: 2022-08-19 09:32:15
   protokolle:
     101:
       code_analysis:
@@ -12405,10 +12405,10 @@
   - "Philip Sch\xE4fers"
   branch: master
   contributors:
-  - html_url: https://github.com/phlipo95
-    login: phlipo95
   - html_url: https://github.com/MaxSac
     login: MaxSac
+  - html_url: https://github.com/phlipo95
+    login: phlipo95
   full_name: MaxSac/AP-Praktikum
   last_commit: 2016-10-03 08:28:39
   protokolle:
@@ -13398,6 +13398,8 @@
   contributors:
   - html_url: https://github.com/nbiederbeck
     login: nbiederbeck
+  - html_url: https://github.com/MaxSac
+    login: MaxSac
   full_name: nbiederbeck/masterpraktikum
   last_commit: 2019-04-01 14:28:09
   protokolle:
