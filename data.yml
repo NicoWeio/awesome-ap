@@ -7550,7 +7550,7 @@
   - html_url: https://github.com/FelixSym
     login: FelixSym
   full_name: joeyko2706/Anfaengerpraktikum-20-21
-  last_commit: 2022-08-20 08:01:48
+  last_commit: 2022-10-21 15:56:10
   protokolle:
     101:
       code_analysis:
@@ -9127,10 +9127,10 @@
   - Marcel Kebekus
   branch: main
   contributors:
-  - html_url: https://github.com/komrozik
-    login: komrozik
   - html_url: https://github.com/marcelkebe
     login: marcelkebe
+  - html_url: https://github.com/komrozik
+    login: komrozik
   full_name: komrozik/FP2021
   last_commit: 2021-10-05 22:37:18
   protokolle:
@@ -9207,10 +9207,10 @@
   - Konstantin Mrozik
   branch: main
   contributors:
-  - html_url: https://github.com/komrozik
-    login: komrozik
   - html_url: https://github.com/DaGutn
     login: DaGutn
+  - html_url: https://github.com/komrozik
+    login: komrozik
   full_name: komrozik/Master_FP
   last_commit: 2022-03-05 16:59:20
   protokolle:
