@@ -1276,10 +1276,10 @@
   - Kevin Moch
   branch: master
   contributors:
-  - html_url: https://github.com/brkkbkc
-    login: brkkbkc
   - html_url: https://github.com/VersorgungsAuge
     login: VersorgungsAuge
+  - html_url: https://github.com/brkkbkc
+    login: brkkbkc
   full_name: brkkbkc/FPSS18_5
   last_commit: 2018-08-29 13:23:12
   protokolle:
@@ -1831,12 +1831,12 @@
   - "Henry Kr\xE4merk\xE4mper"
   branch: master
   contributors:
-  - html_url: https://github.com/chris-topher6
-    login: chris-topher6
   - html_url: https://github.com/Hernyoo
     login: Hernyoo
   - html_url: https://github.com/NicoWeio
     login: NicoWeio
+  - html_url: https://github.com/chris-topher6
+    login: chris-topher6
   full_name: chris-topher6/Anfaenger-Praktikum
   last_commit: 2022-05-25 16:54:20
   protokolle:
@@ -2061,10 +2061,10 @@
   - "Henry Kr\xE4merk\xE4mper"
   branch: master
   contributors:
-  - html_url: https://github.com/chris-topher6
-    login: chris-topher6
   - html_url: https://github.com/Hernyoo
     login: Hernyoo
+  - html_url: https://github.com/chris-topher6
+    login: chris-topher6
   full_name: chris-topher6/FP
   last_commit: 2022-08-12 07:01:19
   protokolle:
@@ -2133,10 +2133,10 @@
   - Ksenia Klassen
   branch: master
   contributors:
-  - html_url: https://github.com/larsfu
-    login: larsfu
   - html_url: https://github.com/dagbjoern
     login: dagbjoern
+  - html_url: https://github.com/larsfu
+    login: larsfu
   full_name: dagbjoern/AP-Physik
   last_commit: 2016-07-12 09:19:16
   protokolle:
@@ -2532,10 +2532,10 @@
   - Lasse Sternemann
   branch: main
   contributors:
-  - html_url: https://github.com/lassestern
-    login: lassestern
   - html_url: https://github.com/DaGutn
     login: DaGutn
+  - html_url: https://github.com/lassestern
+    login: lassestern
   full_name: DaGutn/FP_David_Lasse
   last_commit: 2021-10-01 12:10:51
   protokolle:
@@ -4291,10 +4291,10 @@
   - Tom Rosenstein
   branch: master
   contributors:
-  - html_url: https://github.com/TRose27
-    login: TRose27
   - html_url: https://github.com/Fresoquark
     login: Fresoquark
+  - html_url: https://github.com/TRose27
+    login: TRose27
   full_name: Fresoquark/Anfaengerpraktikum
   last_commit: 2018-07-08 16:41:54
   protokolle:
@@ -4889,10 +4889,10 @@
   - "Mark Sch\xF6ne"
   branch: master
   contributors:
-  - html_url: https://github.com/markschoene
-    login: markschoene
   - html_url: https://github.com/henningpt
     login: henningpt
+  - html_url: https://github.com/markschoene
+    login: markschoene
   full_name: henningpt/FP-Physik
   last_commit: 2017-07-18 13:34:11
   protokolle:
@@ -5728,10 +5728,10 @@
   - "Jan Lukas Sp\xE4h"
   branch: master
   contributors:
-  - html_url: https://github.com/jalu98
-    login: jalu98
   - html_url: https://github.com/JaLuka98
     login: JaLuka98
+  - html_url: https://github.com/jalu98
+    login: jalu98
   full_name: JaLuka98/AP_17-18
   last_commit: 2018-07-09 17:46:14
   protokolle:
@@ -6016,10 +6016,10 @@
   - "Jan Lukas Sp\xE4h"
   branch: master
   contributors:
-  - html_url: https://github.com/jalu98
-    login: jalu98
   - html_url: https://github.com/JaLuka98
     login: JaLuka98
+  - html_url: https://github.com/jalu98
+    login: jalu98
   full_name: JaLuka98/FP_SS19
   last_commit: 2019-07-11 14:37:59
   protokolle:
@@ -6759,10 +6759,10 @@
 - authors: []
   branch: master
   contributors:
-  - html_url: https://github.com/smcchark
-    login: smcchark
   - html_url: https://github.com/JaSchl
     login: JaSchl
+  - html_url: https://github.com/smcchark
+    login: smcchark
   full_name: JaSchl/FP1819
   last_commit: 2019-01-16 13:58:49
   protokolle:
@@ -7351,12 +7351,12 @@
   contributors:
   - html_url: https://github.com/JLammering
     login: JLammering
+  - html_url: https://github.com/NicoWeio
+    login: NicoWeio
   - html_url: https://github.com/TIm097
     login: TIm097
   - html_url: https://github.com/larsfu
     login: larsfu
-  - html_url: https://github.com/NicoWeio
-    login: NicoWeio
   full_name: JLammering/Physikalisches-Praktikum
   last_commit: 2022-01-07 11:22:35
   protokolle:
@@ -7545,10 +7545,10 @@
   - Joel Koch
   branch: main
   contributors:
-  - html_url: https://github.com/joeyko2706
-    login: joeyko2706
   - html_url: https://github.com/FelixSym
     login: FelixSym
+  - html_url: https://github.com/joeyko2706
+    login: joeyko2706
   full_name: joeyko2706/Anfaengerpraktikum-20-21
   last_commit: 2022-10-21 15:56:10
   protokolle:
@@ -7797,10 +7797,10 @@
   - Katrin Bolsmann
   branch: master
   contributors:
-  - html_url: https://github.com/katrinbls
-    login: katrinbls
   - html_url: https://github.com/jpherdi
     login: jpherdi
+  - html_url: https://github.com/katrinbls
+    login: katrinbls
   full_name: jpherdi/FP_20_21
   last_commit: 2021-03-27 12:47:42
   protokolle:
@@ -7869,10 +7869,10 @@
   - Karina Overhoff
   branch: master
   contributors:
-  - html_url: https://github.com/karina1007
-    login: karina1007
   - html_url: https://github.com/jpherdi
     login: jpherdi
+  - html_url: https://github.com/karina1007
+    login: karina1007
   full_name: jpherdi/Praktikum
   last_commit: 2020-08-22 14:15:53
   protokolle:
@@ -7929,10 +7929,10 @@
   - Pelle Ofenbach
   branch: master
   contributors:
-  - html_url: https://github.com/Plockwurst
-    login: Plockwurst
   - html_url: https://github.com/JulianSch
     login: JulianSch
+  - html_url: https://github.com/Plockwurst
+    login: Plockwurst
   full_name: JulianSch/FP-Pelle-Julian
   last_commit: 2018-11-06 13:29:35
   protokolle:
@@ -8722,10 +8722,10 @@
   - Maik Becker
   branch: master
   contributors:
-  - html_url: https://github.com/MaikBecker
-    login: MaikBecker
   - html_url: https://github.com/KevSed
     login: KevSed
+  - html_url: https://github.com/MaikBecker
+    login: MaikBecker
   full_name: KevSed/Praktikum
   last_commit: 2019-10-28 07:29:12
   protokolle:
@@ -8854,10 +8854,10 @@
   - Marcel Kebekus
   branch: master
   contributors:
-  - html_url: https://github.com/marcelkebe
-    login: marcelkebe
   - html_url: https://github.com/komrozik
     login: komrozik
+  - html_url: https://github.com/marcelkebe
+    login: marcelkebe
   full_name: komrozik/AP2019
   last_commit: 2021-05-02 15:27:33
   protokolle:
@@ -9127,10 +9127,10 @@
   - Marcel Kebekus
   branch: main
   contributors:
-  - html_url: https://github.com/marcelkebe
-    login: marcelkebe
   - html_url: https://github.com/komrozik
     login: komrozik
+  - html_url: https://github.com/marcelkebe
+    login: marcelkebe
   full_name: komrozik/FP2021
   last_commit: 2021-10-05 22:37:18
   protokolle:
@@ -9280,10 +9280,10 @@
   - Oskar Kleine
   branch: master
   contributors:
-  - html_url: https://github.com/larsfu
-    login: larsfu
   - html_url: https://github.com/annsophie
     login: annsophie
+  - html_url: https://github.com/larsfu
+    login: larsfu
   full_name: larsfu/ap
   last_commit: 2016-10-05 11:32:36
   protokolle:
@@ -9568,10 +9568,10 @@
   - Lars Funke
   branch: master
   contributors:
-  - html_url: https://github.com/larsfu
-    login: larsfu
   - html_url: https://github.com/annsophie
     login: annsophie
+  - html_url: https://github.com/larsfu
+    login: larsfu
   full_name: larsfu/fp
   last_commit: 2017-09-10 14:33:08
   protokolle:
@@ -9755,10 +9755,10 @@
   - Lasse Sternemann
   branch: master
   contributors:
-  - html_url: https://github.com/lassestern
-    login: lassestern
   - html_url: https://github.com/DaGutn
     login: DaGutn
+  - html_url: https://github.com/lassestern
+    login: lassestern
   full_name: lassestern/praktikum-david-lasse
   last_commit: 2020-07-24 22:21:57
   protokolle:
@@ -10678,10 +10678,10 @@
 - authors: []
   branch: master
   contributors:
-  - html_url: https://github.com/LuckyJosh
-    login: LuckyJosh
   - html_url: https://github.com/Leongrim
     login: Leongrim
+  - html_url: https://github.com/LuckyJosh
+    login: LuckyJosh
   full_name: LuckyJosh/PhysikFP2015
   last_commit: 2020-04-04 14:53:48
   protokolle:
@@ -11404,10 +11404,10 @@
   - Samuel Haefs
   branch: main
   contributors:
-  - html_url: https://github.com/maaxxns
-    login: maaxxns
   - html_url: https://github.com/SamGTex
     login: SamGTex
+  - html_url: https://github.com/maaxxns
+    login: maaxxns
   full_name: maaxxns/FP_Samuel_Max
   last_commit: 2021-08-14 11:03:17
   protokolle:
@@ -12357,10 +12357,10 @@
   - "Maximilian N\xF6the"
   branch: master
   contributors:
-  - html_url: https://github.com/maxnoe
-    login: maxnoe
   - html_url: https://github.com/kbruegge
     login: kbruegge
+  - html_url: https://github.com/maxnoe
+    login: maxnoe
   full_name: maxnoe/tudo_masterfp
   last_commit: 2016-07-05 12:07:25
   protokolle:
@@ -13092,12 +13092,12 @@
   - Philipp Zolthoff
   branch: main
   contributors:
-  - html_url: https://github.com/moritzbo
-    login: moritzbo
-  - html_url: https://github.com/Zypha
-    login: Zypha
   - html_url: https://github.com/PhilippZo
     login: PhilippZo
+  - html_url: https://github.com/Zypha
+    login: Zypha
+  - html_url: https://github.com/moritzbo
+    login: moritzbo
   full_name: moritzbo/anfaenger_praktikum
   last_commit: 2021-06-30 11:21:40
   protokolle:
@@ -13322,12 +13322,12 @@
   - Philipp Zolthoff
   branch: main
   contributors:
-  - html_url: https://github.com/moritzbo
-    login: moritzbo
-  - html_url: https://github.com/Zypha
-    login: Zypha
   - html_url: https://github.com/PhilippZo
     login: PhilippZo
+  - html_url: https://github.com/Zypha
+    login: Zypha
+  - html_url: https://github.com/moritzbo
+    login: moritzbo
   full_name: moritzbo/fortgeschrittenes_praktikum
   last_commit: 2022-02-09 14:23:16
   protokolle:
@@ -13396,10 +13396,10 @@
   - Noah Biederbeck
   branch: master
   contributors:
-  - html_url: https://github.com/nbiederbeck
-    login: nbiederbeck
   - html_url: https://github.com/MaxSac
     login: MaxSac
+  - html_url: https://github.com/nbiederbeck
+    login: nbiederbeck
   full_name: nbiederbeck/masterpraktikum
   last_commit: 2019-04-01 14:28:09
   protokolle:
@@ -13468,10 +13468,10 @@
   - Nico Guth
   branch: master
   contributors:
-  - html_url: https://github.com/NicoJG
-    login: NicoJG
   - html_url: https://github.com/Daverku
     login: Daverku
+  - html_url: https://github.com/NicoJG
+    login: NicoJG
   full_name: NicoJG/Anfaengerpraktikum
   last_commit: 2021-12-22 18:59:30
   protokolle:
@@ -13856,10 +13856,10 @@
 - authors: []
   branch: gh-pages
   contributors:
-  - html_url: https://github.com/NicoWeio
-    login: NicoWeio
   - html_url: https://github.com/KathiPopp
     login: KathiPopp
+  - html_url: https://github.com/NicoWeio
+    login: NicoWeio
   full_name: NicoWeio/AP
   last_commit: 2022-01-16 12:32:08
   protokolle:
@@ -14136,10 +14136,10 @@
   - "Raphael S\xFCtterlin"
   branch: master
   contributors:
-  - html_url: https://github.com/NilBre
-    login: NilBre
   - html_url: https://github.com/Fresoquark
     login: Fresoquark
+  - html_url: https://github.com/NilBre
+    login: NilBre
   - html_url: https://github.com/SepplL
     login: SepplL
   full_name: NilBre/4Physiker_Ap
@@ -14174,12 +14174,12 @@
   - Vanessa Sulaiman
   branch: master
   contributors:
-  - html_url: https://github.com/vsulaiman
-    login: vsulaiman
-  - html_url: https://github.com/Ninilini
-    login: Ninilini
   - html_url: https://github.com/KevSed
     login: KevSed
+  - html_url: https://github.com/Ninilini
+    login: Ninilini
+  - html_url: https://github.com/vsulaiman
+    login: vsulaiman
   full_name: Ninilini/FP-Bachelor
   last_commit: 2018-08-03 13:55:46
   protokolle:
@@ -14860,10 +14860,10 @@
   - "Tobias R\xFCcker"
   branch: master
   contributors:
-  - html_url: https://github.com/paul-stoerbrock
-    login: paul-stoerbrock
   - html_url: https://github.com/Fafnier8
     login: Fafnier8
+  - html_url: https://github.com/paul-stoerbrock
+    login: paul-stoerbrock
   full_name: paul-stoerbrock/Praktikum
   last_commit: 2020-07-17 15:53:36
   protokolle:
@@ -15424,10 +15424,10 @@
   - Moritz Rempe
   branch: master
   contributors:
-  - html_url: https://github.com/Remponator
-    login: Remponator
   - html_url: https://github.com/NicoWeio
     login: NicoWeio
+  - html_url: https://github.com/Remponator
+    login: Remponator
   full_name: Remponator/MedPhy_AP
   last_commit: 2022-07-06 08:11:03
   protokolle:
@@ -15722,10 +15722,10 @@
   - Marc Posorske
   branch: master
   contributors:
-  - html_url: https://github.com/mposorske
-    login: mposorske
   - html_url: https://github.com/Renameus
     login: Renameus
+  - html_url: https://github.com/mposorske
+    login: mposorske
   full_name: Renameus/PhysikPraktikum1
   last_commit: 2012-12-20 18:07:06
   protokolle:
@@ -15842,10 +15842,10 @@
   - Oliver Zietek
   branch: master
   contributors:
-  - html_url: https://github.com/olitek
-    login: olitek
   - html_url: https://github.com/Renameus
     login: Renameus
+  - html_url: https://github.com/olitek
+    login: olitek
   full_name: Renameus/PhysikPraktikum2
   last_commit: 2013-02-14 10:50:06
   protokolle:
@@ -17729,10 +17729,10 @@
   - Stefanie Hilgers
   branch: master
   contributors:
-  - html_url: https://github.com/SHilgers
-    login: SHilgers
   - html_url: https://github.com/Nolara
     login: Nolara
+  - html_url: https://github.com/SHilgers
+    login: SHilgers
   full_name: SHilgers/Praktikum2
   last_commit: 2020-02-04 08:43:30
   protokolle:
@@ -18811,10 +18811,10 @@
   - Raphael Rico Kaiser
   branch: main
   contributors:
-  - html_url: https://github.com/smrakais
-    login: smrakais
   - html_url: https://github.com/karina1007
     login: karina1007
+  - html_url: https://github.com/smrakais
+    login: smrakais
   full_name: smrakais/Master-Praktikum
   last_commit: 2022-02-25 14:20:13
   protokolle:
@@ -18885,10 +18885,10 @@
   - Steven Becker
   branch: master
   contributors:
-  - html_url: https://github.com/stefangri
-    login: stefangri
   - html_url: https://github.com/beckstev
     login: beckstev
+  - html_url: https://github.com/stefangri
+    login: stefangri
   full_name: stefangri/s_s_masterpraktikum
   last_commit: 2018-12-19 20:26:21
   protokolle:
@@ -18957,10 +18957,10 @@
   - Steven Becker
   branch: master
   contributors:
-  - html_url: https://github.com/stefangri
-    login: stefangri
   - html_url: https://github.com/beckstev
     login: beckstev
+  - html_url: https://github.com/stefangri
+    login: stefangri
   full_name: stefangri/s_s_productions
   last_commit: 2018-02-05 06:01:44
   protokolle:
@@ -19538,10 +19538,10 @@
   - Tahir Kamcili
   branch: main
   contributors:
-  - html_url: https://github.com/Tahirbanane
-    login: Tahirbanane
   - html_url: https://github.com/Marinaan
     login: Marinaan
+  - html_url: https://github.com/Tahirbanane
+    login: Tahirbanane
   - html_url: https://github.com/dormail
     login: dormail
   full_name: Tahirbanane/AP
@@ -19769,10 +19769,10 @@
   - Tahir Kamcili
   branch: master
   contributors:
-  - html_url: https://github.com/Tahirbanane
-    login: Tahirbanane
   - html_url: https://github.com/Marinaan
     login: Marinaan
+  - html_url: https://github.com/Tahirbanane
+    login: Tahirbanane
   full_name: Tahirbanane/FP_2022
   last_commit: 2022-08-29 23:29:33
   protokolle:
@@ -19841,10 +19841,10 @@
   - Tim Sedlaczek
   branch: master
   contributors:
-  - html_url: https://github.com/TimBizeps
-    login: TimBizeps
   - html_url: https://github.com/SchulteSimon
     login: SchulteSimon
+  - html_url: https://github.com/TimBizeps
+    login: TimBizeps
   full_name: TimBizeps/BachelorAP
   last_commit: 2018-09-26 13:21:16
   protokolle:
@@ -20392,10 +20392,10 @@
   - Tom Rosenstein
   branch: master
   contributors:
-  - html_url: https://github.com/TRose27
-    login: TRose27
   - html_url: https://github.com/GordonScholz
     login: GordonScholz
+  - html_url: https://github.com/TRose27
+    login: TRose27
   full_name: TRose27/FP
   last_commit: 2019-04-15 08:32:51
   protokolle:
@@ -20464,10 +20464,10 @@
   - Tom Troska
   branch: main
   contributors:
-  - html_url: https://github.com/ttros
-    login: ttros
   - html_url: https://github.com/th3odor
     login: th3odor
+  - html_url: https://github.com/ttros
+    login: ttros
   full_name: ttros/Praktikum
   last_commit: 2022-09-23 16:35:39
   protokolle:
@@ -20863,10 +20863,10 @@
   - Toby Teasdale
   branch: main
   contributors:
-  - html_url: https://github.com/waerther
-    login: waerther
   - html_url: https://github.com/TobyGitT
     login: TobyGitT
+  - html_url: https://github.com/waerther
+    login: waerther
   full_name: waerther/grundpraktikum1
   last_commit: 2022-07-03 12:56:20
   protokolle:
@@ -20971,10 +20971,10 @@
   - Toby Teasdale
   branch: master
   contributors:
-  - html_url: https://github.com/waerther
-    login: waerther
   - html_url: https://github.com/TobyGitT
     login: TobyGitT
+  - html_url: https://github.com/waerther
+    login: waerther
   full_name: waerther/grundpraktikum2
   last_commit: 2022-06-24 08:50:28
   protokolle:
@@ -21391,10 +21391,10 @@
   - Yanick Sebastian Kind
   branch: main
   contributors:
-  - html_url: https://github.com/YanickKi
-    login: YanickKi
   - html_url: https://github.com/Till-Will
     login: Till-Will
+  - html_url: https://github.com/YanickKi
+    login: YanickKi
   full_name: YanickKi/AP_T_Y
   last_commit: 2021-07-05 12:36:30
   protokolle:
