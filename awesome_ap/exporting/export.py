@@ -15,7 +15,10 @@ def serialize_repo(repo):
     return {a: getattr(repo, a) for a in ['branch', 'last_commit', 'full_name']} | \
         {
         'authors': sorted(repo.authors),
-        'contributors': [{a: getattr(contributor, a) for a in ['html_url', 'login']} for contributor in repo.contributors],
+        'contributors': [
+            {a: getattr(contributor, a) for a in ['html_url', 'login']}
+            for contributor in sorted(repo.contributors, key=lambda c: c.login)
+        ],
         'protokolle': {protokoll.versuch: serialize_protokoll(protokoll) for protokoll in repo.protokolle},
     }
 
