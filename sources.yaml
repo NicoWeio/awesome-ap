@@ -4,6 +4,10 @@
     - WiSe
   pdfs:
     directory: Protokolle
+- name: Anjaaaa/AP-1516
+  pdfs:
+    # directory: Protokolle_gesamt
+    in_source_dir: true
 - name: Anjaaaa/FP-17
 - name: AReinold/Bachelor-FP
   pdfs:
@@ -27,6 +31,11 @@
     - Versuche Semester VI
   pdfs:
     in_source_dir: true
+- name: BenediktSan/FortgeschrittenenPraktikum2023
+  subdirectory:
+    - Versuche Semester VII
+  pdfs:
+    in_source_dir: true # TODO: warte auf erste Abgabe
 - name: bixel/AP1213
   dirs_to_versuche:
     V501-2_E-B-Feld: 501 # in der Datei steht fälschlicherweise V406
@@ -35,6 +44,11 @@
 - name: bixel/FP14
 # TODO: hat Altprotokolle in Unterordnern
 - name: brkkbkc/FPSS18_5
+- name: bwgro/FP
+  dirs_to_versuche:
+    latex-template: false
+  pdfs:
+    in_source_dir: true
 - name: chrbeckm/anfaenger-praktikum
 - name: chrbeckm/tudo-physik-fp
 - name: Christopherkrause1/FortgeschrittenesPraktikum
@@ -119,6 +133,11 @@
   pdfs:
     in_source_dir: true
 - name: JackDO1998/Praktikum
+  pdfs:
+    in_source_dir: true
+# TODO: Hängt sich bei der Code-Analyse auf
+- name: JackDO1998/FPraktikum
+  ignore: true
   pdfs:
     in_source_dir: true
 - name: JaLuka98/AP_17-18
@@ -433,6 +452,9 @@
 - name: smjolame/Fortgeschrittenenpraktikum
   dirs_to_versuche:
     template: false
+- name: smjolame/Master_FP
+  pdfs:
+    in_source_dir: true # TODO: warte auf erste Abgabe
 - name: smjolame/Praktikum_1
   pdfs:
     in_source_dir: true
@@ -479,6 +501,9 @@
 - name: waerther/grundpraktikum2
 - name: woklop9/Anfaengerpraktikum
 - name: xxholzixx1/Anfaengerpraktikum
+  ignore: true
+  note: keine vollständigen Protokolle
+- name: xxholzixx1/FP
   ignore: true
   note: keine vollständigen Protokolle
 - name: YanickKi/AP_T_Y
