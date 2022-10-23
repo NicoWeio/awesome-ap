@@ -23,6 +23,8 @@ REPOS_BASE_PATH.mkdir(exist_ok=True)
 # ■ Laden der Daten:
 repos_to_versuche = []
 for repo in repos:
+    if repo.get('ignore', False):
+        continue
     try:
         console.print()
         console.rule(repo['name'])

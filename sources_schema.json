@@ -22,9 +22,18 @@
                     ]
                 }
             },
+            "ignore": {
+                "description": "Whether to ignore this entry in the main program. Other tools such as discovery scripts might still use it. This helps with known repos that are not up to standard.",
+                "type": "boolean",
+                "default": false
+            },
             "name": {
                 "description": "Full name of the repository: &lt;login&gt;/&lt;repo&gt;",
                 "pattern": "^[a-zA-Z0-9-_.]+/[a-zA-Z0-9-_.]+$",
+                "type": "string"
+            },
+            "note": {
+                "description": "A place for arbitrary notes",
                 "type": "string"
             },
             "parsing": {

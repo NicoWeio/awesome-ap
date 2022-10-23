@@ -196,8 +196,10 @@
     fp_prüfung: false
     protokollgerüst: false
     rutherford_abtestat: 16
-# NOTE: KevSed/Praktikum_FP ist scheinbar eine ältere Version des Repos
 - name: KevSed/Praktikum
+- name: KevSed/Praktikum_FP
+  ignore: true
+  note: scheinbar eine ältere Version von KevSed/Praktikum
 # TODO: PDFs unregelmäßig benannt
 - name: komrozik/AP2019
   pdfs:
@@ -476,7 +478,8 @@
 - name: waerther/grundpraktikum1
 - name: waerther/grundpraktikum2
 - name: woklop9/Anfaengerpraktikum
-# keine vollständigen Protokolle
-# - name: xxholzixx1/Anfaengerpraktikum
+- name: xxholzixx1/Anfaengerpraktikum
+  ignore: true
+  note: keine vollständigen Protokolle
 - name: YanickKi/AP_T_Y
 - name: YanickKi/FP_T_Y
