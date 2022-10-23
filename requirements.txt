@@ -1,7 +1,8 @@
-PyGithub
-pylatexenc
-pytablewriter
-python-dotenv
-pyyaml
-radon
-rich
+PyGithub~=1.56
+pylatexenc~=2.10
+pytablewriter~=0.64.2
+python-dotenv~=0.21.0
+PyYAML~=6.0
+radon~=5.1.0
+requests~=2.28.1
+rich~=12.6.0
