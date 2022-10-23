@@ -1,8 +1,9 @@
+import re
+from collections import Counter
+
 from ..console import *
 from ..misc import lax_most_common
 from .tex import parse_tex
-from collections import Counter
-import re
 
 
 def parse_versuch_nummer(dirname, dirs_to_versuche=None):

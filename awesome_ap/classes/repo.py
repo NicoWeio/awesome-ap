@@ -1,11 +1,12 @@
+from datetime import datetime
+from subprocess import CalledProcessError
+
+import github
+
 from ..config import REPOS_BASE_PATH
 from ..console import *
 from ..misc import get_command_runner
 from .repo_config import RepoConfig
-from datetime import datetime
-import github
-from pathlib import Path
-from subprocess import CalledProcessError
 
 
 class RepoNotFoundError(Exception):

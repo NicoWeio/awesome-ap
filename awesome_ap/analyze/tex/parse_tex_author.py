@@ -1,7 +1,10 @@
-from ...console import *
-from pylatexenc.latexwalker import *
-from pylatexenc.macrospec import MacroSpec, MacroStandardArgsParser, LatexContextDb
 import re
+
+from pylatexenc.latexwalker import *
+from pylatexenc.macrospec import (LatexContextDb, MacroSpec,
+                                  MacroStandardArgsParser)
+
+from ...console import *
 
 # Der LatexWalker muss wissen, dass `\subject` genau ein Argument bekommt.
 latex_context = get_default_latex_context_db()

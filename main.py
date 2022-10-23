@@ -1,7 +1,7 @@
 import github
-import os
 import yaml
 
+from awesome_ap import transpose
 from awesome_ap.analyze.find_common_files import find_common_files
 from awesome_ap.classes.repo import Repo, RepoNotFoundError
 from awesome_ap.config import CONFIG, DEV, GITHUB_TOKEN, REPOS_BASE_PATH
@@ -10,7 +10,6 @@ from awesome_ap.exporting.export import generate_yaml
 from awesome_ap.exporting.generate import generate_md
 from awesome_ap.importing.import_external_pdfs import add_aap_pdfs
 from awesome_ap.importing.import_repo import import_repo
-import awesome_ap.transpose as transpose
 
 # funktioniert auch ohne Token
 gh = github.Github(GITHUB_TOKEN)

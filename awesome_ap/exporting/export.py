@@ -1,5 +1,6 @@
-from ..console import *
 import yaml
+
+from ..console import *
 
 
 def generate_yaml(repos_to_versuche):

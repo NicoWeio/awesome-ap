@@ -1,10 +1,10 @@
-from .file import File
-from .repo import Repo
-from ..analyze.analyze_code import analyze_dirs
-from ..console import *
 from dataclasses import dataclass
 from functools import cached_property
-from pathlib import Path
+
+from ..analyze.analyze_code import analyze_dirs
+from ..console import *
+from .file import File
+from .repo import Repo
 
 
 @dataclass(order=True)

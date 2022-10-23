@@ -1,13 +1,12 @@
+from dataclasses import dataclass
 from pathlib import Path
 
-from radon.raw import analyze
-from radon.metrics import mi_visit
-from radon.complexity import cc_visit
 from radon.cli.tools import iter_filenames
+from radon.complexity import cc_visit
+from radon.metrics import mi_visit
+from radon.raw import analyze
 
 from .code.comments import analyze as custom_analyze
-
-from dataclasses import dataclass
 
 
 @dataclass

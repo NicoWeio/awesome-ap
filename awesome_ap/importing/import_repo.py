@@ -1,13 +1,12 @@
-from ..analyze.analyze_content import analyze_file, parse_versuch_nummer, find_from_candidates
-from ..config import REPOS_BASE_PATH
-from ..console import *
+import re
+
+from ..analyze.analyze_content import (analyze_file, find_from_candidates,
+                                       parse_versuch_nummer)
 from ..classes.file import File
 from ..classes.path import CoolPath
 from ..classes.protokoll import Protokoll
+from ..console import *
 from ..misc import get_command_runner
-import github
-import re
-import subprocess
 
 
 def is_dir_ignored(dir, dirs_to_versuche):

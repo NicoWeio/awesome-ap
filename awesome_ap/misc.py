@@ -1,6 +1,7 @@
-from .console import console
 import hashlib
 import subprocess
+
+from .console import console
 
 
 def get_command_runner(default_cwd):

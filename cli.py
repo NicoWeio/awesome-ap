@@ -1,13 +1,15 @@
+import os
+from collections import OrderedDict
+
+import click
+import github
+import yaml
+
 from awesome_ap.classes.repo import Repo
 from awesome_ap.config import GITHUB_TOKEN
 from awesome_ap.console import *
 from awesome_ap.exporting.export import serialize_repo
 from awesome_ap.importing.import_repo import import_repo
-import click
-from collections import OrderedDict
-import github
-import os
-import yaml
 
 # funktioniert auch ohne Token
 gh = github.Github(GITHUB_TOKEN)

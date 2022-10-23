@@ -1,8 +1,10 @@
-from dotenv import load_dotenv
 import os
-from rich import print, progress
+
 import requests
 import yaml
+from dotenv import load_dotenv
+from rich import print, progress
+
 load_dotenv()
 TOKEN = os.getenv('GITHUB_TOKEN') or os.getenv('INPUT_GITHUB_TOKEN')
 headers = {"Authorization": 'Bearer ' + TOKEN}

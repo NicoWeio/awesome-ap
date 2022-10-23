@@ -1,7 +1,8 @@
-from .repo import Repo
-from dataclasses import dataclass, field
+from dataclasses import dataclass
 from pathlib import Path
 from urllib.parse import quote
+
+from .repo import Repo
 
 
 @dataclass(frozen=True, order=True)

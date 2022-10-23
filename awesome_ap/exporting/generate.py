@@ -1,10 +1,10 @@
-from ..console import *
-from ..classes.file import File
-from datetime import datetime
 import os
 from pathlib import Path
+
 import pytablewriter
-from urllib.parse import quote
+
+from ..classes.file import File
+from ..console import *
 
 
 def fmt_repo(repo):
