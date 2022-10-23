@@ -1,6 +1,7 @@
-from rich.console import Console
 import requests
+import tenacity
 import yaml
+from rich.console import Console
 
 console = Console()
 
@@ -12,6 +13,8 @@ with console.status("Loading data…"):
 def check_archived(url):
     """Check whether the url is archived in the Wayback Machine."""
     r = requests.get('https://archive.org/wayback/available', params={'url': url})
+    r.raise_for_status()
+    # archived_snapshots is an empty object if the url is not archived
     return r.json().get('archived_snapshots', {}).get('closest', {}).get('available', False)
 
 
@@ -21,6 +24,14 @@ def check_url(url):
     return r.status_code == 200
 
 
+@tenacity.retry(
+    # Handle "429 Client Error: TOO MANY REQUESTS"
+    stop=tenacity.stop_after_delay(60*2),
+    wait=tenacity.wait_exponential(multiplier=1, min=5, max=60),
+    retry=tenacity.retry_if_exception(lambda e: isinstance(e, requests.exceptions.HTTPError) and e.response.status_code == 429),
+    before_sleep=lambda retry_state: print(f"⌛ Retrying in {retry_state.next_action.sleep} seconds…"),
+    reraise=True,
+)
 def archive_url(url):
     """Archive the url in the Wayback Machine."""
     r = requests.get(f'https://web.archive.org/save/{url}')
@@ -54,6 +65,10 @@ def handle_url(url):
 
 
 def main():
+    if not data:
+        print("The data file appears to be empty.")
+        return
+
     for repo in data:
         console.rule(repo['full_name'])
 
@@ -62,8 +77,8 @@ def main():
 
         # PDFs
         for protokoll in repo['protokolle'].values():
-            for pdfPath in protokoll['pdfs']:
-                handle_url(f"https://raw.githubusercontent.com/{repo['full_name']}/{repo['branch']}/{pdfPath}")
+            for pdf_path in protokoll['pdfs']:
+                handle_url(f"https://raw.githubusercontent.com/{repo['full_name']}/{repo['branch']}/{pdf_path}")
 
         # contributors
         for contributor in repo['contributors']:
