@@ -1,3 +1,304 @@
+- authors:
+  - Anja Beck
+  - Clara Rittmann
+  branch: master
+  contributors:
+  - html_url: https://github.com/Claerchen
+    login: Claerchen
+  full_name: Anjaaaa/AP-1516
+  last_commit: 2016-08-25 10:31:08
+  protokolle:
+    101:
+      code_analysis:
+        has_errors: false
+        num_files: 6
+        total_comments: 22
+        total_comments_of_interest: 14
+        total_lloc: 170
+        total_single_comments: 17
+        total_sloc: 173
+      dirs:
+      - V101-Das-Traegheitsmoment
+      pdfs:
+      - V101-Das-Traegheitsmoment/Protokoll.pdf
+    103:
+      code_analysis:
+        has_errors: false
+        num_files: 5
+        total_comments: 46
+        total_comments_of_interest: 30
+        total_lloc: 221
+        total_single_comments: 23
+        total_sloc: 221
+      dirs:
+      - "V103-Biegung elastischer St\xE4be"
+      pdfs:
+      - "V103-Biegung elastischer St\xE4be/Protokoll.pdf"
+    104:
+      code_analysis:
+        has_errors: false
+        num_files: 8
+        total_comments: 32
+        total_comments_of_interest: 22
+        total_lloc: 168
+        total_single_comments: 18
+        total_sloc: 168
+      dirs:
+      - V104-Der Dopplereffekt
+      pdfs:
+      - V104-Der Dopplereffekt/Protokoll.pdf
+    107:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 4
+        total_comments_of_interest: 3
+        total_lloc: 77
+        total_single_comments: 4
+        total_sloc: 77
+      dirs:
+      - "V107-Kugelfall-Viskosimeter nach H\xF6ppler"
+      pdfs:
+      - "V107-Kugelfall-Viskosimeter nach H\xF6ppler/Protokoll.pdf"
+    201:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 10
+        total_comments_of_interest: 1
+        total_lloc: 8
+        total_single_comments: 10
+        total_sloc: 8
+      dirs:
+      - V201-Das Dulong-Petitsche Gesetz
+      pdfs:
+      - V201-Das Dulong-Petitsche Gesetz/Protokoll.pdf
+      - V201-Das Dulong-Petitsche Gesetz/Protokoll_fertig.pdf
+    203:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 12
+        total_comments_of_interest: 9
+        total_lloc: 104
+        total_single_comments: 5
+        total_sloc: 104
+      dirs:
+      - "V203-Verdampfungsw\xE4rme und Dampfdruck-Kurve"
+      pdfs:
+      - "V203-Verdampfungsw\xE4rme und Dampfdruck-Kurve/Protokoll.pdf"
+    204:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 17
+        total_comments_of_interest: 6
+        total_lloc: 85
+        total_single_comments: 14
+        total_sloc: 85
+      dirs:
+      - "V204-W\xE4rmeleitung"
+      pdfs:
+      - "V204-W\xE4rmeleitung/Protokoll.pdf"
+    301:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 6
+        total_comments_of_interest: 5
+        total_lloc: 113
+        total_single_comments: 2
+        total_sloc: 113
+      dirs:
+      - V301-EMK und Innenwiderstand
+      pdfs:
+      - V301-EMK und Innenwiderstand/Protokoll.pdf
+    303:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 19
+        total_comments_of_interest: 14
+        total_lloc: 122
+        total_single_comments: 12
+        total_sloc: 124
+      dirs:
+      - "V303-Lock-In-Verst\xE4rker"
+      pdfs:
+      - "V303-Lock-In-Verst\xE4rker/Protokoll.pdf"
+    351:
+      code_analysis:
+        has_errors: true
+        num_files: 2
+        total_comments: 7
+        total_comments_of_interest: 6
+        total_lloc: 19
+        total_single_comments: 5
+        total_sloc: 19
+      dirs:
+      - V351-Fourieranalyse und -synthese
+      pdfs:
+      - V351-Fourieranalyse und -synthese/Protokoll.pdf
+    353:
+      code_analysis:
+        has_errors: false
+        num_files: 4
+        total_comments: 17
+        total_comments_of_interest: 16
+        total_lloc: 139
+        total_single_comments: 12
+        total_sloc: 139
+      dirs:
+      - V353-Das Relaxationsverhalten
+      pdfs: []
+    355:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 10
+        total_comments_of_interest: 9
+        total_lloc: 52
+        total_single_comments: 6
+        total_sloc: 52
+      dirs:
+      - V355-Gekoppelte Schwingkreise
+      pdfs:
+      - V355-Gekoppelte Schwingkreise/Protokoll.pdf
+      - V355-Gekoppelte Schwingkreise/Protokoll_alternativ.pdf
+    401:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 49
+        total_comments_of_interest: 34
+        total_lloc: 173
+        total_single_comments: 41
+        total_sloc: 188
+      dirs:
+      - V401-Michelson-Interferometer
+      pdfs: []
+    402:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 60
+        total_comments_of_interest: 31
+        total_lloc: 248
+        total_single_comments: 56
+        total_sloc: 263
+      dirs:
+      - V402-Dispersion-am-Glasprisma
+      pdfs:
+      - V402-Dispersion-am-Glasprisma/Protokoll.pdf
+    500:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 50
+        total_comments_of_interest: 41
+        total_lloc: 313
+        total_single_comments: 44
+        total_sloc: 312
+      dirs:
+      - V500-Der-Photoeffekt
+      pdfs: []
+    503:
+      code_analysis:
+        has_errors: false
+        num_files: 4
+        total_comments: 161
+        total_comments_of_interest: 69
+        total_lloc: 639
+        total_single_comments: 134
+        total_sloc: 683
+      dirs:
+      - "V503-Millikan-\xD6ltr\xF6pfchen"
+      pdfs: []
+    601:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 26
+        total_comments_of_interest: 16
+        total_lloc: 193
+        total_single_comments: 20
+        total_sloc: 204
+      dirs:
+      - V601-Franck-Hertz
+      pdfs:
+      - V601-Franck-Hertz/V601.pdf
+    605:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 38
+        total_comments_of_interest: 27
+        total_lloc: 233
+        total_single_comments: 30
+        total_sloc: 291
+      dirs:
+      - V605-Alkali-Spektren
+      pdfs: []
+    701:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 56
+        total_comments_of_interest: 44
+        total_lloc: 320
+        total_single_comments: 41
+        total_sloc: 327
+      dirs:
+      - V701-Reichweite a Strahlung
+      pdfs: []
+    702:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 35
+        total_comments_of_interest: 23
+        total_lloc: 238
+        total_single_comments: 28
+        total_sloc: 254
+      dirs:
+      - V702-Neutronen
+      pdfs: []
+    703:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 31
+        total_comments_of_interest: 24
+        total_lloc: 204
+        total_single_comments: 23
+        total_sloc: 215
+      dirs:
+      - V703-Geiger-Muller
+      pdfs: []
+    901:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 39
+        total_comments_of_interest: 26
+        total_lloc: 201
+        total_single_comments: 27
+        total_sloc: 216
+      dirs:
+      - US1
+      pdfs: []
+    902:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 34
+        total_comments_of_interest: 23
+        total_lloc: 210
+        total_single_comments: 30
+        total_sloc: 269
+      dirs:
+      - US2
+      pdfs: []
 - authors: []
   branch: master
   contributors:
@@ -808,6 +1109,31 @@
       - Versuche Semester VI/1.V70Vakuumversuche/Protokoll_V70.pdf
       - Versuche Semester VI/1.V70Vakuumversuche/Versuchsbeschreibung_Vakuumversuch_V70.pdf
 - authors:
+  - Benedikt Sander
+  - "Jana Schl\xFCcking"
+  branch: main
+  contributors:
+  - html_url: https://github.com/BenediktSan
+    login: BenediktSan
+  - html_url: https://github.com/jana-banana
+    login: jana-banana
+  full_name: BenediktSan/FortgeschrittenenPraktikum2023
+  last_commit: 2022-11-03 03:25:03
+  protokolle:
+    44:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 71
+        total_comments_of_interest: 38
+        total_lloc: 193
+        total_single_comments: 57
+        total_sloc: 189
+      dirs:
+      - "Versuche Semester VII/1. V44 R\xF6ntgenreflektometrie"
+      pdfs:
+      - "Versuche Semester VII/1. V44 R\xF6ntgenreflektometrie/V44.pdf"
+- authors:
   - Kevin Heinicke
   - Markus Stabrin
   branch: master
@@ -1355,6 +1681,83 @@
       dirs:
       - V64-Interferometrie
       pdfs: []
+- authors:
+  - Ben Werner Grobecker
+  - "Sebastian R\xFC\xDFmann"
+  branch: main
+  contributors:
+  - html_url: https://github.com/Quotenspacken
+    login: Quotenspacken
+  - html_url: https://github.com/bwgro
+    login: bwgro
+  full_name: bwgro/FP
+  last_commit: 2022-09-29 16:33:06
+  protokolle:
+    44:
+      code_analysis:
+        has_errors: false
+        num_files: 4
+        total_comments: 28
+        total_comments_of_interest: 22
+        total_lloc: 152
+        total_single_comments: 22
+        total_sloc: 152
+      dirs:
+      - V44
+      pdfs:
+      - V44/main.pdf
+    47:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 17
+        total_comments_of_interest: 9
+        total_lloc: 54
+        total_single_comments: 12
+        total_sloc: 54
+      dirs:
+      - V47
+      pdfs:
+      - V47/main.pdf
+    48:
+      code_analysis:
+        has_errors: false
+        num_files: 4
+        total_comments: 137
+        total_comments_of_interest: 99
+        total_lloc: 554
+        total_single_comments: 122
+        total_sloc: 519
+      dirs:
+      - V48
+      pdfs:
+      - V48/main.pdf
+    60:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - V60
+      pdfs:
+      - V60/main.pdf
+    70:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 41
+        total_comments_of_interest: 37
+        total_lloc: 242
+        total_single_comments: 41
+        total_sloc: 234
+      dirs:
+      - V70
+      pdfs:
+      - V70/V70_korrektur.pdf
 - authors: []
   branch: master
   contributors:
@@ -7549,7 +7952,7 @@
     login: FelixSym
   - html_url: https://github.com/joeyko2706
     login: joeyko2706
-  full_name: joeyko2706/Anfaengerpraktikum-20-21
+  full_name: joeyko2706/Anfaengerpraktikum-21-22
   last_commit: 2022-10-21 15:56:10
   protokolle:
     101:
@@ -18573,6 +18976,42 @@
       pdfs: []
 - authors:
   - Johannes Lamers
+  - "Selin \xD6z"
+  branch: main
+  contributors:
+  - html_url: https://github.com/Slin1999
+    login: Slin1999
+  - html_url: https://github.com/smjolame
+    login: smjolame
+  full_name: smjolame/Master_FP
+  last_commit: 2022-11-02 10:24:47
+  protokolle:
+    21:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 52
+        total_comments_of_interest: 25
+        total_lloc: 165
+        total_single_comments: 34
+        total_sloc: 170
+      dirs:
+      - V21_Optisches_Pumpen
+      pdfs: []
+    27:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 16
+        total_comments_of_interest: 1
+        total_lloc: 12
+        total_single_comments: 15
+        total_sloc: 12
+      dirs:
+      - template
+      pdfs: []
+- authors:
+  - Johannes Lamers
   - Sebastian Fischer
   branch: master
   contributors:
@@ -21121,270 +21560,6 @@
         total_sloc: 114
       dirs:
       - us3
-      pdfs: []
-- authors:
-  - Christopher Krause
-  - Lucas Witthaus
-  branch: master
-  contributors:
-  - html_url: https://github.com/Christopherkrause1
-    login: Christopherkrause1
-  - html_url: https://github.com/lwitthaus
-    login: lwitthaus
-  full_name: woklop9/Anfaengerpraktikum
-  last_commit: 2018-07-11 07:44:51
-  protokolle:
-    101:
-      code_analysis:
-        has_errors: false
-        num_files: 5
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 118
-        total_single_comments: 0
-        total_sloc: 118
-      dirs:
-      - V101-Traegheitsmoment
-      pdfs: []
-    103:
-      code_analysis:
-        has_errors: false
-        num_files: 6
-        total_comments: 19
-        total_comments_of_interest: 4
-        total_lloc: 91
-        total_single_comments: 19
-        total_sloc: 91
-      dirs:
-      - V103-Biegung
-      pdfs: []
-    206:
-      code_analysis:
-        has_errors: false
-        num_files: 5
-        total_comments: 3
-        total_comments_of_interest: 3
-        total_lloc: 74
-        total_single_comments: 3
-        total_sloc: 74
-      dirs:
-      - V206-Waermepumpe
-      pdfs: []
-    301:
-      code_analysis:
-        has_errors: false
-        num_files: 6
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 111
-        total_single_comments: 0
-        total_sloc: 111
-      dirs:
-      - V301-EMK
-      pdfs: []
-    302:
-      code_analysis:
-        has_errors: false
-        num_files: 2
-        total_comments: 155
-        total_comments_of_interest: 6
-        total_lloc: 32
-        total_single_comments: 155
-        total_sloc: 32
-      dirs:
-      - V302-Brueckenschaltung
-      pdfs: []
-    303:
-      code_analysis:
-        has_errors: false
-        num_files: 4
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 86
-        total_single_comments: 0
-        total_sloc: 86
-      dirs:
-      - V303-Lock-In
-      pdfs: []
-    351:
-      code_analysis:
-        has_errors: false
-        num_files: 3
-        total_comments: 6
-        total_comments_of_interest: 3
-        total_lloc: 60
-        total_single_comments: 6
-        total_sloc: 60
-      dirs:
-      - V351-Fourier
-      pdfs: []
-    353:
-      code_analysis:
-        has_errors: false
-        num_files: 4
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 80
-        total_single_comments: 0
-        total_sloc: 80
-      dirs:
-      - V353-Relaxation
-      pdfs: []
-    354:
-      code_analysis:
-        has_errors: false
-        num_files: 6
-        total_comments: 16
-        total_comments_of_interest: 10
-        total_lloc: 140
-        total_single_comments: 16
-        total_sloc: 140
-      dirs:
-      - V354-Schwingung
-      pdfs: []
-    402:
-      code_analysis:
-        has_errors: false
-        num_files: 3
-        total_comments: 14
-        total_comments_of_interest: 3
-        total_lloc: 48
-        total_single_comments: 14
-        total_sloc: 48
-      dirs:
-      - V402-Dispersion
-      pdfs: []
-    406:
-      code_analysis:
-        has_errors: false
-        num_files: 2
-        total_comments: 43
-        total_comments_of_interest: 17
-        total_lloc: 127
-        total_single_comments: 21
-        total_sloc: 127
-      dirs:
-      - V406-Beugung
-      pdfs: []
-    408:
-      code_analysis:
-        has_errors: false
-        num_files: 4
-        total_comments: 53
-        total_comments_of_interest: 8
-        total_lloc: 102
-        total_single_comments: 53
-        total_sloc: 102
-      dirs:
-      - V408-Optik
-      pdfs: []
-    500:
-      code_analysis:
-        has_errors: false
-        num_files: 6
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 142
-        total_single_comments: 0
-        total_sloc: 142
-      dirs:
-      - V500-Photoeffekt
-      pdfs: []
-    501:
-      code_analysis:
-        has_errors: false
-        num_files: 4
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 132
-        total_single_comments: 0
-        total_sloc: 132
-      dirs:
-      - V501,2- Elektronenstrahl
-      pdfs: []
-    602:
-      code_analysis:
-        has_errors: false
-        num_files: 8
-        total_comments: 2
-        total_comments_of_interest: 1
-        total_lloc: 181
-        total_single_comments: 2
-        total_sloc: 171
-      dirs:
-      - V602-Roentgenemission
-      pdfs: []
-    606:
-      code_analysis:
-        has_errors: false
-        num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 15
-        total_single_comments: 1
-        total_sloc: 15
-      dirs:
-      - V606-Suszeptibilitaet
-      pdfs: []
-    701:
-      code_analysis:
-        has_errors: false
-        num_files: 5
-        total_comments: 21
-        total_comments_of_interest: 12
-        total_lloc: 104
-        total_single_comments: 21
-        total_sloc: 104
-      dirs:
-      - V701-Alphastrahlung
-      pdfs: []
-    703:
-      code_analysis:
-        has_errors: false
-        num_files: 3
-        total_comments: 6
-        total_comments_of_interest: 5
-        total_lloc: 52
-        total_single_comments: 6
-        total_sloc: 52
-      dirs:
-      - V703-Geigerzaehler
-      pdfs: []
-    704:
-      code_analysis:
-        has_errors: false
-        num_files: 4
-        total_comments: 3
-        total_comments_of_interest: 3
-        total_lloc: 89
-        total_single_comments: 3
-        total_sloc: 89
-      dirs:
-      - V704-Strahlungsabsorption
-      pdfs: []
-    902:
-      code_analysis:
-        has_errors: false
-        num_files: 2
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 28
-        total_single_comments: 1
-        total_sloc: 28
-      dirs:
-      - US-2
-      pdfs: []
-    903:
-      code_analysis:
-        has_errors: false
-        num_files: 6
-        total_comments: 74
-        total_comments_of_interest: 8
-        total_lloc: 67
-        total_single_comments: 74
-        total_sloc: 67
-      dirs:
-      - US-3
       pdfs: []
 - authors:
   - Till Willershausen
