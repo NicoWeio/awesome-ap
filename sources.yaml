@@ -178,7 +178,7 @@
     "15 Röntgenemission -absorption ": 602 # in der Datei steht fälschlicherweise V605
   parsing:
     dirname: false
-- name: joeyko2706/Anfaengerpraktikum-20-21
+- name: joeyko2706/Anfaengerpraktikum-21-22
   pdfs:
     directory: Protokolle
 - name: jpherdi/FP_20_21
@@ -499,7 +499,6 @@
     directory: AP Protokolle
 - name: waerther/grundpraktikum1
 - name: waerther/grundpraktikum2
-- name: woklop9/Anfaengerpraktikum
 - name: xxholzixx1/Anfaengerpraktikum
   ignore: true
   note: keine vollständigen Protokolle
