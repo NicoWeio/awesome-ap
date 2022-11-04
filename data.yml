@@ -1118,17 +1118,17 @@
   - html_url: https://github.com/jana-banana
     login: jana-banana
   full_name: BenediktSan/FortgeschrittenenPraktikum2023
-  last_commit: 2022-11-03 03:25:03
+  last_commit: 2022-11-04 03:27:46
   protokolle:
     44:
       code_analysis:
         has_errors: false
         num_files: 1
         total_comments: 71
-        total_comments_of_interest: 38
-        total_lloc: 193
-        total_single_comments: 57
-        total_sloc: 189
+        total_comments_of_interest: 41
+        total_lloc: 202
+        total_single_comments: 55
+        total_sloc: 198
       dirs:
       - "Versuche Semester VII/1. V44 R\xF6ntgenreflektometrie"
       pdfs:
@@ -21149,6 +21149,122 @@
         total_sloc: 75
       dirs:
       - Protokolle/US2
+      pdfs: []
+- authors: []
+  branch: master
+  contributors:
+  - html_url: https://github.com/twelvemd12
+    login: twelvemd12
+  full_name: twelvemd12/fp
+  last_commit: 2016-11-29 09:46:44
+  protokolle:
+    14:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 117
+        total_comments_of_interest: 98
+        total_lloc: 369
+        total_single_comments: 110
+        total_sloc: 467
+      dirs:
+      - versuche/tomographie
+      pdfs: []
+    21:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 97
+        total_comments_of_interest: 47
+        total_lloc: 108
+        total_single_comments: 95
+        total_sloc: 170
+      dirs:
+      - versuche/optisches_pumpen
+      pdfs: []
+    41:
+      code_analysis:
+        has_errors: false
+        num_files: 5
+        total_comments: 215
+        total_comments_of_interest: 205
+        total_lloc: 499
+        total_single_comments: 188
+        total_sloc: 619
+      dirs:
+      - versuche/debye
+      pdfs: []
+    44:
+      code_analysis:
+        has_errors: false
+        num_files: 5
+        total_comments: 356
+        total_comments_of_interest: 191
+        total_lloc: 816
+        total_single_comments: 328
+        total_sloc: 1249
+      dirs:
+      - versuche/roentgenreflektometrie
+      pdfs: []
+    47:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 55
+        total_comments_of_interest: 52
+        total_lloc: 149
+        total_single_comments: 52
+        total_sloc: 299
+      dirs:
+      - versuche/molwaerme
+      pdfs: []
+    48:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 76
+        total_comments_of_interest: 33
+        total_lloc: 257
+        total_single_comments: 76
+        total_sloc: 278
+      dirs:
+      - versuche/dipol
+      pdfs: []
+    52:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 231
+        total_comments_of_interest: 164
+        total_lloc: 475
+        total_single_comments: 199
+        total_sloc: 867
+      dirs:
+      - versuche/signale
+      pdfs: []
+    57:
+      code_analysis:
+        has_errors: false
+        num_files: 9
+        total_comments: 356
+        total_comments_of_interest: 360
+        total_lloc: 694
+        total_single_comments: 328
+        total_sloc: 984
+      dirs:
+      - versuche/rauschen
+      pdfs: []
+    61:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 142
+        total_comments_of_interest: 78
+        total_lloc: 213
+        total_single_comments: 131
+        total_sloc: 362
+      dirs:
+      - versuche/hene
       pdfs: []
 - authors:
   - Andrej Kusurmann
