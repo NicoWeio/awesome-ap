@@ -485,6 +485,19 @@
 - name: TRose27/FP
 - name: ttros/Praktikum
   subdirectory: Protokolle
+# TODO: Eigenwillige Ordnerstruktur
+- name: twelvemd12/fp
+  subdirectory: versuche
+  dirs_to_versuche:
+    debye: 41
+    dipol: 48
+    hene: 61
+    molwaerme: 47
+    optisches_pumpen: 21
+    rauschen: 57
+    roentgenreflektometrie: 44
+    signale: 52
+    tomographie: 14
 - name: Vale112/FP_B_SS19
   dirs_to_versuche:
     V00: false
