@@ -1118,8 +1118,21 @@
   - html_url: https://github.com/jana-banana
     login: jana-banana
   full_name: BenediktSan/FortgeschrittenenPraktikum2023
-  last_commit: 2022-11-04 03:27:46
+  last_commit: 2022-11-06 16:04:48
   protokolle:
+    27:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 6
+        total_comments_of_interest: 5
+        total_lloc: 23
+        total_single_comments: 6
+        total_sloc: 23
+      dirs:
+      - Versuche Semester VII/2. V27 Zeeman Effekt
+      pdfs:
+      - Versuche Semester VII/2. V27 Zeeman Effekt/V27.pdf
     44:
       code_analysis:
         has_errors: false
@@ -18984,7 +18997,7 @@
   - html_url: https://github.com/smjolame
     login: smjolame
   full_name: smjolame/Master_FP
-  last_commit: 2022-11-02 10:24:47
+  last_commit: 2022-11-06 17:49:51
   protokolle:
     21:
       code_analysis:
@@ -19009,6 +19022,18 @@
         total_sloc: 12
       dirs:
       - template
+      pdfs: []
+    46:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 16
+        total_comments_of_interest: 1
+        total_lloc: 12
+        total_single_comments: 15
+        total_sloc: 12
+      dirs:
+      - V46_Der_Faraday_Effekt
       pdfs: []
 - authors:
   - Johannes Lamers

@@ -16,11 +16,11 @@
 | 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     37|
 | 23|Quanten-Analogien                                                    |[Übersicht](versuch/23) |     12|
 | 25|Der Stern-Gerlach-Versuch                                            |[Übersicht](versuch/25) |      3|
-| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     37|
+| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     38|
 | 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      9|
 | 41|Debye-Scherrer-Aufnahmen                                             |[Übersicht](versuch/41) |      9|
 | 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     15|
-| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     33|
+| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     34|
 | 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     25|
 | 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     26|
 | 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     15|
@@ -98,7 +98,7 @@
 |[Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)                                            |[Übersicht](repo/Bastian125/AP-Praktikum)                      |19.08.2022 09:32:15|          20|                   20|
 |[BenediktSan/AnfaengerPraktikum2020](https://github.com/BenediktSan/AnfaengerPraktikum2020)                      |[Übersicht](repo/BenediktSan/AnfaengerPraktikum2020)           |05.07.2021 21:32:58|          19|                   16|
 |[BenediktSan/FortgeschrittenenPraktikum2022](https://github.com/BenediktSan/FortgeschrittenenPraktikum2022)      |[Übersicht](repo/BenediktSan/FortgeschrittenenPraktikum2022)   |22.07.2022 04:14:44|           4|                    4|
-|[BenediktSan/FortgeschrittenenPraktikum2023](https://github.com/BenediktSan/FortgeschrittenenPraktikum2023)      |[Übersicht](repo/BenediktSan/FortgeschrittenenPraktikum2023)   |04.11.2022 03:27:46|           1|                    1|
+|[BenediktSan/FortgeschrittenenPraktikum2023](https://github.com/BenediktSan/FortgeschrittenenPraktikum2023)      |[Übersicht](repo/BenediktSan/FortgeschrittenenPraktikum2023)   |06.11.2022 16:04:48|           2|                    2|
 |[bixel/AP1213](https://github.com/bixel/AP1213)                                                                  |[Übersicht](repo/bixel/AP1213)                                 |15.03.2014 13:00:24|          23|                   23|
 |[bixel/FP14](https://github.com/bixel/FP14)                                                                      |[Übersicht](repo/bixel/FP14)                                   |07.10.2016 19:42:14|          11|                    0|
 |[brkkbkc/FPSS18_5](https://github.com/brkkbkc/FPSS18_5)                                                          |[Übersicht](repo/brkkbkc/FPSS18_5)                             |29.08.2018 13:23:12|           6|                    0|
@@ -212,7 +212,7 @@
 |[SHilgers/Praktikum2](https://github.com/SHilgers/Praktikum2)                                                    |[Übersicht](repo/SHilgers/Praktikum2)                          |04.02.2020 08:43:30|          29|                    1|
 |[smjhnits/Praktikum_TU_D_16-17](https://github.com/smjhnits/Praktikum_TU_D_16-17)                                |[Übersicht](repo/smjhnits/Praktikum_TU_D_16-17)                |30.01.2019 12:22:48|          31|                   29|
 |[smjolame/Fortgeschrittenenpraktikum](https://github.com/smjolame/Fortgeschrittenenpraktikum)                    |[Übersicht](repo/smjolame/Fortgeschrittenenpraktikum)          |14.10.2021 17:19:15|           5|                    3|
-|[smjolame/Master_FP](https://github.com/smjolame/Master_FP)                                                      |[Übersicht](repo/smjolame/Master_FP)                           |02.11.2022 10:24:47|           2|                    0|
+|[smjolame/Master_FP](https://github.com/smjolame/Master_FP)                                                      |[Übersicht](repo/smjolame/Master_FP)                           |06.11.2022 17:49:51|           3|                    0|
 |[smjolame/Praktikum_1](https://github.com/smjolame/Praktikum_1)                                                  |[Übersicht](repo/smjolame/Praktikum_1)                         |11.04.2021 11:36:04|          18|                    9|
 |[smrakais/Master-Praktikum](https://github.com/smrakais/Master-Praktikum)                                        |[Übersicht](repo/smrakais/Master-Praktikum)                    |25.02.2022 14:20:13|           5|                    2|
 |[stefangri/s_s_masterpraktikum](https://github.com/stefangri/s_s_masterpraktikum)                                |[Übersicht](repo/stefangri/s_s_masterpraktikum)                |19.12.2018 20:26:21|           5|                    0|
@@ -235,10 +235,10 @@
 ## Statistiken
 - **139** Repos
 - **77** Versuche
-- **1645** Protokolle
-- **563** Protokolle mit PDFs
+- **1647** Protokolle
+- **564** Protokolle mit PDFs
 - **338** PDFs von _awesome-ap-pdfs_
-- **716** PDFs insgesamt
+- **717** PDFs insgesamt
 
 <p>Zuletzt aktualisiert: <span id="last-modified">[lade…]</span></p>
 <script async>
