@@ -226,8 +226,8 @@
 |[twelvemd12/fp](https://github.com/twelvemd12/fp)                                                                |[Übersicht](repo/twelvemd12/fp)                                |29.11.2016 09:46:44|           9|                    0|
 |[Vale112/FP_B_SS19](https://github.com/Vale112/FP_B_SS19)                                                        |[Übersicht](repo/Vale112/FP_B_SS19)                            |13.09.2019 09:06:37|           5|                    0|
 |[VorniV/FP](https://github.com/VorniV/FP)                                                                        |[Übersicht](repo/VorniV/FP)                                    |06.07.2022 23:25:58|           5|                    3|
-|[waerther/grundpraktikum1](https://github.com/waerther/grundpraktikum1)                                          |[Übersicht](repo/waerther/grundpraktikum1)                     |03.07.2022 12:56:20|           8|                    0|
-|[waerther/grundpraktikum2](https://github.com/waerther/grundpraktikum2)                                          |[Übersicht](repo/waerther/grundpraktikum2)                     |24.06.2022 08:50:28|          12|                    0|
+|[waerther/grundpraktikum1](https://github.com/waerther/grundpraktikum1)                                          |[Übersicht](repo/waerther/grundpraktikum1)                     |08.11.2022 15:05:52|           8|                    0|
+|[waerther/grundpraktikum2](https://github.com/waerther/grundpraktikum2)                                          |[Übersicht](repo/waerther/grundpraktikum2)                     |08.11.2022 15:01:15|          12|                    0|
 |[YanickKi/AP_T_Y](https://github.com/YanickKi/AP_T_Y)                                                            |[Übersicht](repo/YanickKi/AP_T_Y)                              |05.07.2021 12:36:30|          19|                   15|
 |[YanickKi/FP_T_Y](https://github.com/YanickKi/FP_T_Y)                                                            |[Übersicht](repo/YanickKi/FP_T_Y)                              |12.10.2022 10:30:10|           6|                    0|
 

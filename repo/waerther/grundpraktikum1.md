@@ -1,6 +1,6 @@
 # [waerther/grundpraktikum1](https://github.com/waerther/grundpraktikum1)
 
-Letzter Commit: 03.07.2022 12:56:20
+Letzter Commit: 08.11.2022 15:05:52
 
 ## Autoren (Klarnamen)
 - Toby Teasdale
