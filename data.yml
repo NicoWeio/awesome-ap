@@ -1118,17 +1118,17 @@
   - html_url: https://github.com/jana-banana
     login: jana-banana
   full_name: BenediktSan/FortgeschrittenenPraktikum2023
-  last_commit: 2022-11-07 15:33:02
+  last_commit: 2022-11-15 01:15:55
   protokolle:
     27:
       code_analysis:
         has_errors: false
-        num_files: 1
-        total_comments: 6
-        total_comments_of_interest: 5
-        total_lloc: 23
-        total_single_comments: 6
-        total_sloc: 23
+        num_files: 2
+        total_comments: 21
+        total_comments_of_interest: 21
+        total_lloc: 228
+        total_single_comments: 21
+        total_sloc: 222
       dirs:
       - Versuche Semester VII/2. V27 Zeeman Effekt
       pdfs:
@@ -1137,10 +1137,10 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 71
-        total_comments_of_interest: 41
-        total_lloc: 202
-        total_single_comments: 55
+        total_comments: 75
+        total_comments_of_interest: 43
+        total_lloc: 201
+        total_single_comments: 59
         total_sloc: 198
       dirs:
       - "Versuche Semester VII/1. V44 R\xF6ntgenreflektometrie"
@@ -18997,7 +18997,7 @@
   - html_url: https://github.com/smjolame
     login: smjolame
   full_name: smjolame/Master_FP
-  last_commit: 2022-11-09 16:37:25
+  last_commit: 2022-11-14 14:38:41
   protokolle:
     21:
       code_analysis:
