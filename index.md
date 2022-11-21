@@ -20,10 +20,10 @@
 | 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      9|
 | 41|Debye-Scherrer-Aufnahmen                                             |[Übersicht](versuch/41) |      9|
 | 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     15|
-| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     34|
+| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     35|
 | 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     25|
 | 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     26|
-| 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     15|
+| 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     16|
 | 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |      9|
 | 52|Signale auf Leitungen                                                |[Übersicht](versuch/52) |      5|
 | 53|Mikrowellen auf Hohlleitern                                          |[Übersicht](versuch/53) |     15|
@@ -98,7 +98,7 @@
 |[Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)                                            |[Übersicht](repo/Bastian125/AP-Praktikum)                      |19.08.2022 09:32:15|          20|                   20|
 |[BenediktSan/AnfaengerPraktikum2020](https://github.com/BenediktSan/AnfaengerPraktikum2020)                      |[Übersicht](repo/BenediktSan/AnfaengerPraktikum2020)           |05.07.2021 21:32:58|          19|                   16|
 |[BenediktSan/FortgeschrittenenPraktikum2022](https://github.com/BenediktSan/FortgeschrittenenPraktikum2022)      |[Übersicht](repo/BenediktSan/FortgeschrittenenPraktikum2022)   |22.07.2022 04:14:44|           4|                    4|
-|[BenediktSan/FortgeschrittenenPraktikum2023](https://github.com/BenediktSan/FortgeschrittenenPraktikum2023)      |[Übersicht](repo/BenediktSan/FortgeschrittenenPraktikum2023)   |18.11.2022 20:50:26|           2|                    2|
+|[BenediktSan/FortgeschrittenenPraktikum2023](https://github.com/BenediktSan/FortgeschrittenenPraktikum2023)      |[Übersicht](repo/BenediktSan/FortgeschrittenenPraktikum2023)   |20.11.2022 17:38:55|           4|                    4|
 |[bixel/AP1213](https://github.com/bixel/AP1213)                                                                  |[Übersicht](repo/bixel/AP1213)                                 |15.03.2014 13:00:24|          23|                   23|
 |[bixel/FP14](https://github.com/bixel/FP14)                                                                      |[Übersicht](repo/bixel/FP14)                                   |07.10.2016 19:42:14|          11|                    0|
 |[brkkbkc/FPSS18_5](https://github.com/brkkbkc/FPSS18_5)                                                          |[Übersicht](repo/brkkbkc/FPSS18_5)                             |29.08.2018 13:23:12|           6|                    0|
@@ -235,10 +235,10 @@
 ## Statistiken
 - **139** Repos
 - **77** Versuche
-- **1647** Protokolle
-- **564** Protokolle mit PDFs
+- **1649** Protokolle
+- **566** Protokolle mit PDFs
 - **338** PDFs von _awesome-ap-pdfs_
-- **717** PDFs insgesamt
+- **720** PDFs insgesamt
 
 <p>Zuletzt aktualisiert: <span id="last-modified">[lade…]</span></p>
 <script async>

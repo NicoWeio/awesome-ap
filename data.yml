@@ -1118,7 +1118,7 @@
   - html_url: https://github.com/jana-banana
     login: jana-banana
   full_name: BenediktSan/FortgeschrittenenPraktikum2023
-  last_commit: 2022-11-18 20:50:26
+  last_commit: 2022-11-20 17:38:55
   protokolle:
     27:
       code_analysis:
@@ -1146,6 +1146,33 @@
       - "Versuche Semester VII/1. V44 R\xF6ntgenreflektometrie"
       pdfs:
       - "Versuche Semester VII/1. V44 R\xF6ntgenreflektometrie/V44.pdf"
+    46:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 8
+        total_comments_of_interest: 6
+        total_lloc: 27
+        total_single_comments: 8
+        total_sloc: 27
+      dirs:
+      - Versuche Semester VII/X. V46 Farady Effekt
+      pdfs:
+      - Versuche Semester VII/X. V46 Farady Effekt/V46.pdf
+      - Versuche Semester VII/X. V46 Farady Effekt/V46_Anhang.pdf
+    49:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 8
+        total_comments_of_interest: 6
+        total_lloc: 27
+        total_single_comments: 8
+        total_sloc: 27
+      dirs:
+      - Versuche Semester VII/3. V49 gepulste NMR
+      pdfs:
+      - Versuche Semester VII/3. V49 gepulste NMR/V49 Kurzanleitung.pdf
 - authors:
   - Kevin Heinicke
   - Markus Stabrin
