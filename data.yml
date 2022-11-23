@@ -19024,7 +19024,7 @@
   - html_url: https://github.com/smjolame
     login: smjolame
   full_name: smjolame/Master_FP
-  last_commit: 2022-11-21 14:53:40
+  last_commit: 2022-11-22 18:22:56
   protokolle:
     21:
       code_analysis:
@@ -19054,11 +19054,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 15
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 15
-        total_sloc: 20
+        total_comments: 11
+        total_comments_of_interest: 7
+        total_lloc: 89
+        total_single_comments: 11
+        total_sloc: 94
       dirs:
       - V46_Der_Faraday_Effekt
       pdfs: []
