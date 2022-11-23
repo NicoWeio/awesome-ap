@@ -8,30 +8,30 @@
 
 |Nr.|                                Name                                 |                        |# Repos|
 |--:|---------------------------------------------------------------------|------------------------|------:|
-|  1|Lebensdauer der Myonen                                               |[Übersicht](versuch/1)  |     22|
+|  1|Lebensdauer der Myonen                                               |[Übersicht](versuch/1)  |     23|
 | 14|Tomographie mit Gamma-Strahlung                                      |[Übersicht](versuch/14) |     26|
 | 15|Vermessung und Untersuchung von Silizium-Streifensensoren            |[Übersicht](versuch/15) |      3|
 | 16|Rutherford-Streuung                                                  |[Übersicht](versuch/16) |     13|
 | 18|Der Reinst-Germanium-Detektor als Instrument der Gamma-Spektroskopie |[Übersicht](versuch/18) |     14|
-| 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     37|
+| 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     39|
 | 23|Quanten-Analogien                                                    |[Übersicht](versuch/23) |     12|
 | 25|Der Stern-Gerlach-Versuch                                            |[Übersicht](versuch/25) |      3|
-| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     38|
+| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     37|
 | 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      9|
 | 41|Debye-Scherrer-Aufnahmen                                             |[Übersicht](versuch/41) |      9|
 | 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     15|
 | 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     35|
-| 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     25|
+| 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     27|
 | 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     26|
 | 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     16|
-| 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |      9|
+| 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |     10|
 | 52|Signale auf Leitungen                                                |[Übersicht](versuch/52) |      5|
 | 53|Mikrowellen auf Hohlleitern                                          |[Übersicht](versuch/53) |     15|
 | 57|Elektrische Schwankungserscheinungen                                 |[Übersicht](versuch/57) |      4|
 | 59|Modulation und Demodulation elektrischer Schwingungen                |[Übersicht](versuch/59) |      5|
 | 60|Diodenlaser                                                          |[Übersicht](versuch/60) |     18|
 | 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     33|
-| 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     20|
+| 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     21|
 | 65|Röntgenreflektrometrie                                               |[Übersicht](versuch/65) |      1|
 | 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     14|
 |101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     32|
@@ -133,7 +133,7 @@
 |[JaLuka98/FP_SS19](https://github.com/JaLuka98/FP_SS19)                                                          |[Übersicht](repo/JaLuka98/FP_SS19)                             |11.07.2019 14:37:59|           5|                    0|
 |[JaLuka98/FP_WS19-20](https://github.com/JaLuka98/FP_WS19-20)                                                    |[Übersicht](repo/JaLuka98/FP_WS19-20)                          |21.02.2020 14:43:13|           5|                    0|
 |[jana-banana/AP-2020](https://github.com/jana-banana/AP-2020)                                                    |[Übersicht](repo/jana-banana/AP-2020)                          |12.04.2022 09:33:48|          18|                   17|
-|[jana-banana/FP-2022](https://github.com/jana-banana/FP-2022)                                                    |[Übersicht](repo/jana-banana/FP-2022)                          |20.07.2022 07:53:27|           5|                    0|
+|[jana-banana/FP-2022](https://github.com/jana-banana/FP-2022)                                                    |[Übersicht](repo/jana-banana/FP-2022)                          |20.07.2022 07:53:27|           5|                    5|
 |[JaSchl/AP1718](https://github.com/JaSchl/AP1718)                                                                |[Übersicht](repo/JaSchl/AP1718)                                |03.11.2018 15:03:16|          22|                   16|
 |[JaSchl/FP1819](https://github.com/JaSchl/FP1819)                                                                |[Übersicht](repo/JaSchl/FP1819)                                |16.01.2019 13:58:49|           5|                    0|
 |[Jean1995/Praktikum](https://github.com/Jean1995/Praktikum)                                                      |[Übersicht](repo/Jean1995/Praktikum)                           |01.11.2016 19:09:38|          23|                   23|
@@ -201,18 +201,20 @@
 |[Renameus/PhysikPraktikum2](https://github.com/Renameus/PhysikPraktikum2)                                        |[Übersicht](repo/Renameus/PhysikPraktikum2)                    |14.02.2013 10:50:06|           3|                    3|
 |[rkallo/APWS1718](https://github.com/rkallo/APWS1718)                                                            |[Übersicht](repo/rkallo/APWS1718)                              |21.11.2019 18:05:29|          25|                   25|
 |[rkallo/FPWS1819](https://github.com/rkallo/FPWS1819)                                                            |[Übersicht](repo/rkallo/FPWS1819)                              |21.11.2019 18:10:39|           5|                    2|
+|[rleven/FP_Master_nice](https://github.com/rleven/FP_Master_nice)                                                |[Übersicht](repo/rleven/FP_Master_nice)                        |21.11.2022 14:02:29|           2|                    0|
 |[rleven/Praktikum2020](https://github.com/rleven/Praktikum2020)                                                  |[Übersicht](repo/rleven/Praktikum2020)                         |04.08.2020 22:34:52|           8|                    8|
 |[rleven/richard_joell_Praktikum](https://github.com/rleven/richard_joell_Praktikum)                              |[Übersicht](repo/rleven/richard_joell_Praktikum)               |06.02.2020 12:21:22|           8|                    6|
 |[RnLe/AP1920-AJRM](https://github.com/RnLe/AP1920-AJRM)                                                          |[Übersicht](repo/RnLe/AP1920-AJRM)                             |02.10.2020 13:42:04|          19|                   19|
 |[Robubabu/FFS-Praktikum](https://github.com/Robubabu/FFS-Praktikum)                                              |[Übersicht](repo/Robubabu/FFS-Praktikum)                       |20.01.2018 12:57:14|          24|                   19|
 |[Robubabu/YR-Praktikum](https://github.com/Robubabu/YR-Praktikum)                                                |[Übersicht](repo/Robubabu/YR-Praktikum)                        |01.03.2018 13:07:39|           5|                    2|
 |[sadiahazeem/AP2](https://github.com/sadiahazeem/AP2)                                                            |[Übersicht](repo/sadiahazeem/AP2)                              |05.07.2022 10:52:41|          13|                    0|
+|[SamGTex/FP_Master_WS22-23](https://github.com/SamGTex/FP_Master_WS22-23)                                        |[Übersicht](repo/SamGTex/FP_Master_WS22-23)                    |23.11.2022 15:23:08|           2|                    0|
 |[SamGTex/Physik_Praktikum_Samuel_Max](https://github.com/SamGTex/Physik_Praktikum_Samuel_Max)                    |[Übersicht](repo/SamGTex/Physik_Praktikum_Samuel_Max)          |13.08.2022 10:43:57|          20|                   18|
 |[SanjoR/FP-Jonas-Donata](https://github.com/SanjoR/FP-Jonas-Donata)                                              |[Übersicht](repo/SanjoR/FP-Jonas-Donata)                       |11.03.2021 13:26:37|           9|                    5|
 |[SHilgers/Praktikum2](https://github.com/SHilgers/Praktikum2)                                                    |[Übersicht](repo/SHilgers/Praktikum2)                          |04.02.2020 08:43:30|          29|                    1|
 |[smjhnits/Praktikum_TU_D_16-17](https://github.com/smjhnits/Praktikum_TU_D_16-17)                                |[Übersicht](repo/smjhnits/Praktikum_TU_D_16-17)                |30.01.2019 12:22:48|          31|                   29|
 |[smjolame/Fortgeschrittenenpraktikum](https://github.com/smjolame/Fortgeschrittenenpraktikum)                    |[Übersicht](repo/smjolame/Fortgeschrittenenpraktikum)          |14.10.2021 17:19:15|           5|                    3|
-|[smjolame/Master_FP](https://github.com/smjolame/Master_FP)                                                      |[Übersicht](repo/smjolame/Master_FP)                           |22.11.2022 18:22:56|           3|                    0|
+|[smjolame/Master_FP](https://github.com/smjolame/Master_FP)                                                      |[Übersicht](repo/smjolame/Master_FP)                           |22.11.2022 18:22:56|           2|                    0|
 |[smjolame/Praktikum_1](https://github.com/smjolame/Praktikum_1)                                                  |[Übersicht](repo/smjolame/Praktikum_1)                         |11.04.2021 11:36:04|          18|                    9|
 |[smrakais/Master-Praktikum](https://github.com/smrakais/Master-Praktikum)                                        |[Übersicht](repo/smrakais/Master-Praktikum)                    |25.02.2022 14:20:13|           5|                    2|
 |[stefangri/s_s_masterpraktikum](https://github.com/stefangri/s_s_masterpraktikum)                                |[Übersicht](repo/stefangri/s_s_masterpraktikum)                |19.12.2018 20:26:21|           5|                    0|
@@ -230,15 +232,16 @@
 |[waerther/grundpraktikum2](https://github.com/waerther/grundpraktikum2)                                          |[Übersicht](repo/waerther/grundpraktikum2)                     |08.11.2022 15:01:15|          12|                    0|
 |[YanickKi/AP_T_Y](https://github.com/YanickKi/AP_T_Y)                                                            |[Übersicht](repo/YanickKi/AP_T_Y)                              |05.07.2021 12:36:30|          19|                   15|
 |[YanickKi/FP_T_Y](https://github.com/YanickKi/FP_T_Y)                                                            |[Übersicht](repo/YanickKi/FP_T_Y)                              |12.10.2022 10:30:10|           6|                    0|
+|[YanickKi/FP_T_Y_Ma](https://github.com/YanickKi/FP_T_Y_Ma)                                                      |[Übersicht](repo/YanickKi/FP_T_Y_Ma)                           |22.11.2022 11:03:18|           3|                    0|
 
 
 ## Statistiken
-- **139** Repos
+- **142** Repos
 - **77** Versuche
-- **1649** Protokolle
-- **566** Protokolle mit PDFs
+- **1655** Protokolle
+- **571** Protokolle mit PDFs
 - **338** PDFs von _awesome-ap-pdfs_
-- **720** PDFs insgesamt
+- **729** PDFs insgesamt
 
 <p>Zuletzt aktualisiert: <span id="last-modified">[lade…]</span></p>
 <script async>

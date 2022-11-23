@@ -8,7 +8,6 @@ Letzter Commit: 01.04.2019 14:28:09
 
 ## Autoren (GitHub)
 - [MaxSac](https://github.com/MaxSac)
-- [nbiederbeck](https://github.com/nbiederbeck)
 
 ## Versuche
 

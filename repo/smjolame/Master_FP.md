@@ -15,5 +15,4 @@ Letzter Commit: 22.11.2022 18:22:56
 |       Versuch        |                                             Ordner                                             |PDFs|
 |----------------------|------------------------------------------------------------------------------------------------|----|
 |[21](../../versuch/21)|[V21_Optisches_Pumpen](https://github.com/smjolame/Master_FP/tree/main/V21_Optisches_Pumpen)    |–   |
-|[27](../../versuch/27)|[template](https://github.com/smjolame/Master_FP/tree/main/template)                            |–   |
 |[46](../../versuch/46)|[V46_Der_Faraday_Effekt](https://github.com/smjolame/Master_FP/tree/main/V46_Der_Faraday_Effekt)|–   |
