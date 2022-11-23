@@ -153,6 +153,8 @@
   pdfs:
     in_source_dir: true
 - name: jana-banana/FP-2022
+  pdfs:
+    in_source_dir: true
 - name: JaSale/AP
   dirs_to_versuche:
     V701: 701 # in der Datei steht fälschlicherweise 402
@@ -414,6 +416,7 @@
 - name: rkallo/FPWS1819
   pdfs:
     in_source_dir: true
+- name: rleven/FP_Master_nice
 - name: rleven/Praktikum2020
 - name: rleven/richard_joell_Praktikum
 - name: RnLe/AP1920-AJRM
@@ -428,11 +431,11 @@
   pdfs:
     directory: Versuchs_pdfs
 - name: Robubabu/YR-Praktikum
-# - name: SamGTex/FP # TODO: noch leer
 # TODO: Inkonsistente Ordnerstruktur
 - name: sadiahazeem/AP2
   subdirectory:
     - "*/latex-template"
+- name: SamGTex/FP_Master_WS22-23
 - name: SamGTex/Physik_Praktikum_Samuel_Max
 # TODO: PDFs in „BFP“ werden noch nicht erkannt
 - name: SanjoR/FP-Jonas-Donata
@@ -453,6 +456,8 @@
   dirs_to_versuche:
     template: false
 - name: smjolame/Master_FP
+  dirs_to_versuche:
+    template: false
   pdfs:
     in_source_dir: true # TODO: warte auf erste Abgabe
 - name: smjolame/Praktikum_1
@@ -520,3 +525,4 @@
   note: keine vollständigen Protokolle
 - name: YanickKi/AP_T_Y
 - name: YanickKi/FP_T_Y
+- name: YanickKi/FP_T_Y_Ma
