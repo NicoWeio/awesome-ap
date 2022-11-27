@@ -1118,7 +1118,7 @@
   - html_url: https://github.com/jana-banana
     login: jana-banana
   full_name: BenediktSan/FortgeschrittenenPraktikum2023
-  last_commit: 2022-11-20 17:38:55
+  last_commit: 2022-11-26 15:10:06
   protokolle:
     27:
       code_analysis:
@@ -22128,7 +22128,7 @@
   - html_url: https://github.com/YanickKi
     login: YanickKi
   full_name: YanickKi/FP_T_Y_Ma
-  last_commit: 2022-11-22 11:03:18
+  last_commit: 2022-11-27 00:12:26
   protokolle:
     1:
       code_analysis:
@@ -22145,12 +22145,12 @@
     51:
       code_analysis:
         has_errors: false
-        num_files: 6
-        total_comments: 4
-        total_comments_of_interest: 4
-        total_lloc: 99
-        total_single_comments: 4
-        total_sloc: 99
+        num_files: 8
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 182
+        total_single_comments: 0
+        total_sloc: 188
       dirs:
       - V51
       pdfs: []

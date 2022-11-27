@@ -1,6 +1,6 @@
 # [BenediktSan/FortgeschrittenenPraktikum2023](https://github.com/BenediktSan/FortgeschrittenenPraktikum2023)
 
-Letzter Commit: 20.11.2022 17:38:55
+Letzter Commit: 26.11.2022 15:10:06
 
 ## Autoren (Klarnamen)
 - Benedikt Sander
