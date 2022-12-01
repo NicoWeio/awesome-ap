@@ -16775,7 +16775,7 @@
   - html_url: https://github.com/rleven
     login: rleven
   full_name: rleven/FP_Master_nice
-  last_commit: 2022-11-29 07:43:19
+  last_commit: 2022-12-01 01:13:29
   protokolle:
     21:
       code_analysis:
@@ -16793,11 +16793,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 19
-        total_single_comments: 1
-        total_sloc: 18
+        total_comments: 16
+        total_comments_of_interest: 15
+        total_lloc: 103
+        total_single_comments: 13
+        total_sloc: 111
       dirs:
       - "V47_Molw\xE4rme_Kupfer"
       pdfs: []
