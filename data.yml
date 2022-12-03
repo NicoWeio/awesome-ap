@@ -1118,7 +1118,7 @@
   - html_url: https://github.com/jana-banana
     login: jana-banana
   full_name: BenediktSan/FortgeschrittenenPraktikum2023
-  last_commit: 2022-11-28 21:40:12
+  last_commit: 2022-12-02 03:00:01
   protokolle:
     27:
       code_analysis:
@@ -1164,11 +1164,11 @@
       code_analysis:
         has_errors: false
         num_files: 2
-        total_comments: 53
-        total_comments_of_interest: 42
-        total_lloc: 152
-        total_single_comments: 40
-        total_sloc: 145
+        total_comments: 63
+        total_comments_of_interest: 48
+        total_lloc: 182
+        total_single_comments: 45
+        total_sloc: 175
       dirs:
       - Versuche Semester VII/3. V49 gepulste NMR
       pdfs:
@@ -17464,8 +17464,20 @@
   - html_url: https://github.com/SamGTex
     login: SamGTex
   full_name: SamGTex/FP_Master_WS22-23
-  last_commit: 2022-11-24 21:42:25
+  last_commit: 2022-12-02 10:56:52
   protokolle:
+    1:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - V01_Kosmische_Myonen
+      pdfs: []
     21:
       code_analysis:
         has_errors: false
@@ -18725,7 +18737,7 @@
   - html_url: https://github.com/smjolame
     login: smjolame
   full_name: smjolame/Master_FP
-  last_commit: 2022-11-22 18:22:56
+  last_commit: 2022-12-02 16:12:26
   protokolle:
     21:
       code_analysis:
@@ -18750,6 +18762,18 @@
         total_sloc: 94
       dirs:
       - V46_Der_Faraday_Effekt
+      pdfs: []
+    47:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 16
+        total_comments_of_interest: 1
+        total_lloc: 12
+        total_single_comments: 15
+        total_sloc: 12
+      dirs:
+      - V47_Molwaerme
       pdfs: []
 - authors:
   - Johannes Lamers
