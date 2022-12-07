@@ -1,6 +1,6 @@
 # [rleven/FP_Master_nice](https://github.com/rleven/FP_Master_nice)
 
-Letzter Commit: 01.12.2022 11:18:35
+Letzter Commit: 06.12.2022 13:53:43
 
 ## Autoren (Klarnamen)
 - Max Koch
@@ -12,7 +12,8 @@ Letzter Commit: 01.12.2022 11:18:35
 
 ## Versuche
 
-|       Versuch        |                                              Ordner                                              |PDFs|
-|----------------------|--------------------------------------------------------------------------------------------------|----|
-|[21](../../versuch/21)|[V21_Optisches_Pumpen](https://github.com/rleven/FP_Master_nice/tree/main/V21_Optisches_Pumpen)   |–   |
-|[47](../../versuch/47)|[V47_Molwärme_Kupfer](https://github.com/rleven/FP_Master_nice/tree/main/V47_Molw%C3%A4rme_Kupfer)|–   |
+|       Versuch        |                                                   Ordner                                                   |PDFs|
+|----------------------|------------------------------------------------------------------------------------------------------------|----|
+|[21](../../versuch/21)|[V21_Optisches_Pumpen](https://github.com/rleven/FP_Master_nice/tree/main/V21_Optisches_Pumpen)             |–   |
+|[47](../../versuch/47)|[V47_Molwärme_Kupfer](https://github.com/rleven/FP_Master_nice/tree/main/V47_Molw%C3%A4rme_Kupfer)          |–   |
+|[51](../../versuch/51)|[V51_Operationsverstärker](https://github.com/rleven/FP_Master_nice/tree/main/V51_Operationsverst%C3%A4rker)|–   |

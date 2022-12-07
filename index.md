@@ -24,7 +24,7 @@
 | 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     27|
 | 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     25|
 | 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     16|
-| 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |     10|
+| 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |     11|
 | 52|Signale auf Leitungen                                                |[Übersicht](versuch/52) |      5|
 | 53|Mikrowellen auf Hohlleitern                                          |[Übersicht](versuch/53) |     14|
 | 57|Elektrische Schwankungserscheinungen                                 |[Übersicht](versuch/57) |      4|
@@ -199,7 +199,7 @@
 |[Renameus/PhysikPraktikum2](https://github.com/Renameus/PhysikPraktikum2)                                        |[Übersicht](repo/Renameus/PhysikPraktikum2)                    |14.02.2013 10:50:06|           3|                    3|
 |[rkallo/APWS1718](https://github.com/rkallo/APWS1718)                                                            |[Übersicht](repo/rkallo/APWS1718)                              |21.11.2019 18:05:29|          25|                   25|
 |[rkallo/FPWS1819](https://github.com/rkallo/FPWS1819)                                                            |[Übersicht](repo/rkallo/FPWS1819)                              |21.11.2019 18:10:39|           5|                    2|
-|[rleven/FP_Master_nice](https://github.com/rleven/FP_Master_nice)                                                |[Übersicht](repo/rleven/FP_Master_nice)                        |01.12.2022 11:18:35|           2|                    0|
+|[rleven/FP_Master_nice](https://github.com/rleven/FP_Master_nice)                                                |[Übersicht](repo/rleven/FP_Master_nice)                        |06.12.2022 13:53:43|           3|                    0|
 |[rleven/Praktikum2020](https://github.com/rleven/Praktikum2020)                                                  |[Übersicht](repo/rleven/Praktikum2020)                         |04.08.2020 22:34:52|           8|                    8|
 |[rleven/richard_joell_Praktikum](https://github.com/rleven/richard_joell_Praktikum)                              |[Übersicht](repo/rleven/richard_joell_Praktikum)               |06.02.2020 12:21:22|           8|                    6|
 |[RnLe/AP1920-AJRM](https://github.com/RnLe/AP1920-AJRM)                                                          |[Übersicht](repo/RnLe/AP1920-AJRM)                             |02.10.2020 13:42:04|          19|                   19|
@@ -236,7 +236,7 @@
 ## Statistiken
 - **140** Repos
 - **77** Versuche
-- **1628** Protokolle
+- **1629** Protokolle
 - **571** Protokolle mit PDFs
 - **313** PDFs von _awesome-ap-pdfs_
 - **729** PDFs insgesamt
