@@ -17476,7 +17476,7 @@
   - html_url: https://github.com/SamGTex
     login: SamGTex
   full_name: SamGTex/FP_Master_WS22-23
-  last_commit: 2022-12-07 10:39:40
+  last_commit: 2022-12-08 16:06:53
   protokolle:
     1:
       code_analysis:
@@ -18749,7 +18749,7 @@
   - html_url: https://github.com/smjolame
     login: smjolame
   full_name: smjolame/Master_FP
-  last_commit: 2022-12-06 00:33:23
+  last_commit: 2022-12-08 23:51:41
   protokolle:
     21:
       code_analysis:
@@ -18779,11 +18779,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 15
-        total_comments_of_interest: 6
-        total_lloc: 90
-        total_single_comments: 8
-        total_sloc: 88
+        total_comments: 22
+        total_comments_of_interest: 10
+        total_lloc: 101
+        total_single_comments: 11
+        total_sloc: 109
       dirs:
       - V47_Molwaerme
       pdfs: []
