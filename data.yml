@@ -1118,7 +1118,7 @@
   - html_url: https://github.com/jana-banana
     login: jana-banana
   full_name: BenediktSan/FortgeschrittenenPraktikum2023
-  last_commit: 2022-12-05 14:10:37
+  last_commit: 2022-12-09 13:25:18
   protokolle:
     27:
       code_analysis:
@@ -16397,7 +16397,7 @@
   - html_url: https://github.com/rleven
     login: rleven
   full_name: rleven/FP_Master_nice
-  last_commit: 2022-12-06 13:53:43
+  last_commit: 2022-12-09 23:03:09
   protokolle:
     21:
       code_analysis:
@@ -16427,11 +16427,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 4
-        total_single_comments: 0
-        total_sloc: 4
+        total_comments: 15
+        total_comments_of_interest: 6
+        total_lloc: 50
+        total_single_comments: 9
+        total_sloc: 43
       dirs:
       - "V51_Operationsverst\xE4rker"
       pdfs: []
@@ -18749,7 +18749,7 @@
   - html_url: https://github.com/smjolame
     login: smjolame
   full_name: smjolame/Master_FP
-  last_commit: 2022-12-08 23:51:41
+  last_commit: 2022-12-09 16:16:45
   protokolle:
     21:
       code_analysis:
