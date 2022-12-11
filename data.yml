@@ -16397,7 +16397,7 @@
   - html_url: https://github.com/rleven
     login: rleven
   full_name: rleven/FP_Master_nice
-  last_commit: 2022-12-09 23:03:09
+  last_commit: 2022-12-10 14:28:43
   protokolle:
     21:
       code_analysis:
@@ -16427,11 +16427,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 15
-        total_comments_of_interest: 6
-        total_lloc: 50
-        total_single_comments: 9
-        total_sloc: 43
+        total_comments: 36
+        total_comments_of_interest: 15
+        total_lloc: 91
+        total_single_comments: 28
+        total_sloc: 79
       dirs:
       - "V51_Operationsverst\xE4rker"
       pdfs: []
@@ -18749,7 +18749,7 @@
   - html_url: https://github.com/smjolame
     login: smjolame
   full_name: smjolame/Master_FP
-  last_commit: 2022-12-09 16:16:45
+  last_commit: 2022-12-10 15:23:50
   protokolle:
     21:
       code_analysis:
