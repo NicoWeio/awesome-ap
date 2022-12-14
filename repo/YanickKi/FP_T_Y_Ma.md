@@ -1,10 +1,10 @@
 # [YanickKi/FP_T_Y_Ma](https://github.com/YanickKi/FP_T_Y_Ma)
 
-Letzter Commit: 12.12.2022 16:14:55
+Letzter Commit: 13.12.2022 15:42:42
 
 ## Autoren (Klarnamen)
 - Yanick Sebastian Kind
-- Till willershausen
+- Till Willershausen
 
 ## Autoren (GitHub)
 - [YanickKi](https://github.com/YanickKi)

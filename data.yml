@@ -1118,7 +1118,7 @@
   - html_url: https://github.com/jana-banana
     login: jana-banana
   full_name: BenediktSan/FortgeschrittenenPraktikum2023
-  last_commit: 2022-12-12 14:55:21
+  last_commit: 2022-12-14 00:05:30
   protokolle:
     27:
       code_analysis:
@@ -1149,12 +1149,12 @@
     46:
       code_analysis:
         has_errors: false
-        num_files: 2
-        total_comments: 22
-        total_comments_of_interest: 8
-        total_lloc: 90
-        total_single_comments: 9
-        total_sloc: 90
+        num_files: 3
+        total_comments: 77
+        total_comments_of_interest: 13
+        total_lloc: 169
+        total_single_comments: 51
+        total_sloc: 169
       dirs:
       - Versuche Semester VII/X. V46 Farady Effekt
       pdfs:
@@ -17476,7 +17476,7 @@
   - html_url: https://github.com/SamGTex
     login: SamGTex
   full_name: SamGTex/FP_Master_WS22-23
-  last_commit: 2022-12-11 16:12:12
+  last_commit: 2022-12-13 17:38:45
   protokolle:
     1:
       code_analysis:
@@ -21779,14 +21779,14 @@
       - V64
       pdfs: []
 - authors:
-  - Till willershausen
+  - Till Willershausen
   - Yanick Sebastian Kind
   branch: main
   contributors:
   - html_url: https://github.com/YanickKi
     login: YanickKi
   full_name: YanickKi/FP_T_Y_Ma
-  last_commit: 2022-12-12 16:14:55
+  last_commit: 2022-12-13 15:42:42
   protokolle:
     1:
       code_analysis:
@@ -21806,9 +21806,9 @@
         num_files: 2
         total_comments: 14
         total_comments_of_interest: 12
-        total_lloc: 103
+        total_lloc: 108
         total_single_comments: 9
-        total_sloc: 103
+        total_sloc: 108
       dirs:
       - V27
       pdfs: []
