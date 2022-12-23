@@ -1118,7 +1118,7 @@
   - html_url: https://github.com/jana-banana
     login: jana-banana
   full_name: BenediktSan/FortgeschrittenenPraktikum2023
-  last_commit: 2022-12-14 00:05:30
+  last_commit: 2022-12-14 09:24:33
   protokolle:
     27:
       code_analysis:
@@ -1156,10 +1156,10 @@
         total_single_comments: 51
         total_sloc: 169
       dirs:
-      - Versuche Semester VII/X. V46 Farady Effekt
+      - Versuche Semester VII/4. V46 Farady Effekt
       pdfs:
-      - Versuche Semester VII/X. V46 Farady Effekt/V46.pdf
-      - Versuche Semester VII/X. V46 Farady Effekt/V46_Anhang.pdf
+      - Versuche Semester VII/4. V46 Farady Effekt/V46.pdf
+      - Versuche Semester VII/4. V46 Farady Effekt/V46_Anhang.pdf
     49:
       code_analysis:
         has_errors: false
@@ -16397,7 +16397,7 @@
   - html_url: https://github.com/rleven
     login: rleven
   full_name: rleven/FP_Master_nice
-  last_commit: 2022-12-10 14:28:43
+  last_commit: 2022-12-15 22:31:33
   protokolle:
     21:
       code_analysis:
@@ -16427,11 +16427,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 36
-        total_comments_of_interest: 15
-        total_lloc: 91
-        total_single_comments: 28
-        total_sloc: 79
+        total_comments: 52
+        total_comments_of_interest: 22
+        total_lloc: 135
+        total_single_comments: 41
+        total_sloc: 119
       dirs:
       - "V51_Operationsverst\xE4rker"
       pdfs: []
@@ -18749,7 +18749,7 @@
   - html_url: https://github.com/smjolame
     login: smjolame
   full_name: smjolame/Master_FP
-  last_commit: 2022-12-11 16:57:10
+  last_commit: 2022-12-22 15:33:27
   protokolle:
     21:
       code_analysis:
@@ -18786,6 +18786,18 @@
         total_sloc: 109
       dirs:
       - V47_Molwaerme
+      pdfs: []
+    64:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 24
+        total_comments_of_interest: 6
+        total_lloc: 35
+        total_single_comments: 19
+        total_sloc: 35
+      dirs:
+      - V64_Interferometrie
       pdfs: []
 - authors:
   - Johannes Lamers
@@ -21786,7 +21798,7 @@
   - html_url: https://github.com/YanickKi
     login: YanickKi
   full_name: YanickKi/FP_T_Y_Ma
-  last_commit: 2022-12-13 15:42:42
+  last_commit: 2022-12-20 09:59:25
   protokolle:
     1:
       code_analysis:
@@ -21811,6 +21823,18 @@
         total_sloc: 108
       dirs:
       - V27
+      pdfs: []
+    44:
+      code_analysis:
+        has_errors: false
+        num_files: 6
+        total_comments: 5
+        total_comments_of_interest: 4
+        total_lloc: 77
+        total_single_comments: 3
+        total_sloc: 77
+      dirs:
+      - V44
       pdfs: []
     51:
       code_analysis:
