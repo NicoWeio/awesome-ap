@@ -1,6 +1,6 @@
 # [YanickKi/FP_T_Y_Ma](https://github.com/YanickKi/FP_T_Y_Ma)
 
-Letzter Commit: 20.12.2022 09:59:25
+Letzter Commit: 27.12.2022 16:12:08
 
 ## Autoren (Klarnamen)
 - Yanick Sebastian Kind
