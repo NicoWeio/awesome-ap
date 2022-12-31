@@ -21810,7 +21810,7 @@
   - html_url: https://github.com/YanickKi
     login: YanickKi
   full_name: YanickKi/FP_T_Y_Ma
-  last_commit: 2022-12-27 16:12:08
+  last_commit: 2022-12-30 21:55:17
   protokolle:
     1:
       code_analysis:
@@ -21840,11 +21840,11 @@
       code_analysis:
         has_errors: false
         num_files: 6
-        total_comments: 5
-        total_comments_of_interest: 4
-        total_lloc: 77
-        total_single_comments: 3
-        total_sloc: 77
+        total_comments: 2
+        total_comments_of_interest: 2
+        total_lloc: 87
+        total_single_comments: 1
+        total_sloc: 86
       dirs:
       - V44
       pdfs: []
