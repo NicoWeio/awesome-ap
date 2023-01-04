@@ -8,7 +8,7 @@
 
 |Nr.|                                Name                                 |                        |# Repos|
 |--:|---------------------------------------------------------------------|------------------------|------:|
-|  1|Lebensdauer der Myonen                                               |[Übersicht](versuch/1)  |     25|
+|  1|Lebensdauer der Myonen                                               |[Übersicht](versuch/1)  |     24|
 | 14|Tomographie mit Gamma-Strahlung                                      |[Übersicht](versuch/14) |     25|
 | 15|Vermessung und Untersuchung von Silizium-Streifensensoren            |[Übersicht](versuch/15) |      3|
 | 16|Rutherford-Streuung                                                  |[Übersicht](versuch/16) |     12|
@@ -16,22 +16,22 @@
 | 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     38|
 | 23|Quanten-Analogien                                                    |[Übersicht](versuch/23) |     11|
 | 25|Der Stern-Gerlach-Versuch                                            |[Übersicht](versuch/25) |      3|
-| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     38|
+| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     37|
 | 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      9|
 | 41|Debye-Scherrer-Aufnahmen                                             |[Übersicht](versuch/41) |      9|
-| 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     16|
+| 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     15|
 | 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     34|
 | 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     27|
 | 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     25|
 | 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     16|
-| 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |     11|
+| 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |     10|
 | 52|Signale auf Leitungen                                                |[Übersicht](versuch/52) |      5|
 | 53|Mikrowellen auf Hohlleitern                                          |[Übersicht](versuch/53) |     14|
 | 57|Elektrische Schwankungserscheinungen                                 |[Übersicht](versuch/57) |      4|
 | 59|Modulation und Demodulation elektrischer Schwingungen                |[Übersicht](versuch/59) |      5|
 | 60|Diodenlaser                                                          |[Übersicht](versuch/60) |     18|
 | 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     32|
-| 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     21|
+| 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     20|
 | 65|Röntgenreflektrometrie                                               |[Übersicht](versuch/65) |      1|
 | 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     14|
 |101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     32|
@@ -199,7 +199,7 @@
 |[Renameus/PhysikPraktikum2](https://github.com/Renameus/PhysikPraktikum2)                                        |[Übersicht](repo/Renameus/PhysikPraktikum2)                    |14.02.2013 10:50:06|           3|                    3|
 |[rkallo/APWS1718](https://github.com/rkallo/APWS1718)                                                            |[Übersicht](repo/rkallo/APWS1718)                              |21.11.2019 18:05:29|          25|                   25|
 |[rkallo/FPWS1819](https://github.com/rkallo/FPWS1819)                                                            |[Übersicht](repo/rkallo/FPWS1819)                              |21.11.2019 18:10:39|           5|                    2|
-|[rleven/FP_Master_nice](https://github.com/rleven/FP_Master_nice)                                                |[Übersicht](repo/rleven/FP_Master_nice)                        |29.12.2022 17:40:41|           4|                    0|
+|[rleven/FP_Master_nice](https://github.com/rleven/FP_Master_nice)                                                |[Übersicht](repo/rleven/FP_Master_nice)                        |03.01.2023 21:35:44|           4|                    0|
 |[rleven/Praktikum2020](https://github.com/rleven/Praktikum2020)                                                  |[Übersicht](repo/rleven/Praktikum2020)                         |04.08.2020 22:34:52|           8|                    0|
 |[rleven/richard_joell_Praktikum](https://github.com/rleven/richard_joell_Praktikum)                              |[Übersicht](repo/rleven/richard_joell_Praktikum)               |06.02.2020 12:21:22|           8|                    0|
 |[RnLe/AP1920-AJRM](https://github.com/RnLe/AP1920-AJRM)                                                          |[Übersicht](repo/RnLe/AP1920-AJRM)                             |02.10.2020 13:42:04|          19|                   19|
@@ -230,13 +230,12 @@
 |[waerther/grundpraktikum2](https://github.com/waerther/grundpraktikum2)                                          |[Übersicht](repo/waerther/grundpraktikum2)                     |08.11.2022 15:01:15|          12|                    0|
 |[YanickKi/AP_T_Y](https://github.com/YanickKi/AP_T_Y)                                                            |[Übersicht](repo/YanickKi/AP_T_Y)                              |05.07.2021 12:36:30|          19|                    0|
 |[YanickKi/FP_T_Y](https://github.com/YanickKi/FP_T_Y)                                                            |[Übersicht](repo/YanickKi/FP_T_Y)                              |12.10.2022 10:30:10|           6|                    0|
-|[YanickKi/FP_T_Y_Ma](https://github.com/YanickKi/FP_T_Y_Ma)                                                      |[Übersicht](repo/YanickKi/FP_T_Y_Ma)                           |02.01.2023 23:19:08|           5|                    0|
 
 
 ## Statistiken
-- **140** Repos
+- **139** Repos
 - **77** Versuche
-- **1632** Protokolle
+- **1627** Protokolle
 - **571** Protokolle mit PDFs
 - **0** PDFs von _awesome-ap-pdfs_
 - **729** PDFs insgesamt
