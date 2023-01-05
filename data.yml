@@ -18761,7 +18761,7 @@
   - html_url: https://github.com/smjolame
     login: smjolame
   full_name: smjolame/Master_FP
-  last_commit: 2022-12-31 17:02:08
+  last_commit: 2023-01-04 21:42:04
   protokolle:
     21:
       code_analysis:
@@ -18791,11 +18791,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 22
-        total_comments_of_interest: 10
-        total_lloc: 101
-        total_single_comments: 11
-        total_sloc: 109
+        total_comments: 17
+        total_comments_of_interest: 12
+        total_lloc: 89
+        total_single_comments: 8
+        total_sloc: 89
       dirs:
       - V47_Molwaerme
       pdfs: []
