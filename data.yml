@@ -1118,7 +1118,7 @@
   - html_url: https://github.com/jana-banana
     login: jana-banana
   full_name: BenediktSan/FortgeschrittenenPraktikum2023
-  last_commit: 2022-12-14 09:24:33
+  last_commit: 2023-01-06 00:10:19
   protokolle:
     27:
       code_analysis:
@@ -16397,17 +16397,17 @@
   - html_url: https://github.com/rleven
     login: rleven
   full_name: rleven/FP_Master_nice
-  last_commit: 2023-01-03 21:35:44
+  last_commit: 2023-01-05 19:13:38
   protokolle:
     1:
       code_analysis:
         has_errors: false
-        num_files: 1
-        total_comments: 8
-        total_comments_of_interest: 8
-        total_lloc: 25
-        total_single_comments: 8
-        total_sloc: 25
+        num_files: 2
+        total_comments: 11
+        total_comments_of_interest: 11
+        total_lloc: 74
+        total_single_comments: 10
+        total_sloc: 69
       dirs:
       - V01_kosmische_Myonen
       pdfs: []
