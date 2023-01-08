@@ -24,7 +24,7 @@
 | 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     27|
 | 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     25|
 | 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     16|
-| 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |     10|
+| 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |     11|
 | 52|Signale auf Leitungen                                                |[Übersicht](versuch/52) |      5|
 | 53|Mikrowellen auf Hohlleitern                                          |[Übersicht](versuch/53) |     14|
 | 57|Elektrische Schwankungserscheinungen                                 |[Übersicht](versuch/57) |      4|
@@ -98,7 +98,7 @@
 |[Bastian125/AP-Praktikum](https://github.com/Bastian125/AP-Praktikum)                                            |[Übersicht](repo/Bastian125/AP-Praktikum)                      |19.08.2022 09:32:15|          20|                   20|
 |[BenediktSan/AnfaengerPraktikum2020](https://github.com/BenediktSan/AnfaengerPraktikum2020)                      |[Übersicht](repo/BenediktSan/AnfaengerPraktikum2020)           |05.07.2021 21:32:58|          19|                   16|
 |[BenediktSan/FortgeschrittenenPraktikum2022](https://github.com/BenediktSan/FortgeschrittenenPraktikum2022)      |[Übersicht](repo/BenediktSan/FortgeschrittenenPraktikum2022)   |22.07.2022 04:14:44|           4|                    4|
-|[BenediktSan/FortgeschrittenenPraktikum2023](https://github.com/BenediktSan/FortgeschrittenenPraktikum2023)      |[Übersicht](repo/BenediktSan/FortgeschrittenenPraktikum2023)   |06.01.2023 00:10:19|           4|                    4|
+|[BenediktSan/FortgeschrittenenPraktikum2023](https://github.com/BenediktSan/FortgeschrittenenPraktikum2023)      |[Übersicht](repo/BenediktSan/FortgeschrittenenPraktikum2023)   |07.01.2023 22:13:47|           5|                    5|
 |[bixel/AP1213](https://github.com/bixel/AP1213)                                                                  |[Übersicht](repo/bixel/AP1213)                                 |15.03.2014 13:00:24|          23|                   23|
 |[bixel/FP14](https://github.com/bixel/FP14)                                                                      |[Übersicht](repo/bixel/FP14)                                   |07.10.2016 19:42:14|          11|                    0|
 |[brkkbkc/FPSS18_5](https://github.com/brkkbkc/FPSS18_5)                                                          |[Übersicht](repo/brkkbkc/FPSS18_5)                             |29.08.2018 13:23:12|           6|                    0|
@@ -235,10 +235,10 @@
 ## Statistiken
 - **139** Repos
 - **77** Versuche
-- **1627** Protokolle
-- **571** Protokolle mit PDFs
+- **1628** Protokolle
+- **572** Protokolle mit PDFs
 - **0** PDFs von _awesome-ap-pdfs_
-- **729** PDFs insgesamt
+- **731** PDFs insgesamt
 
 <p>Zuletzt aktualisiert: <span id="last-modified">[lade…]</span></p>
 <script async>

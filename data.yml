@@ -1118,7 +1118,7 @@
   - html_url: https://github.com/jana-banana
     login: jana-banana
   full_name: BenediktSan/FortgeschrittenenPraktikum2023
-  last_commit: 2023-01-06 00:10:19
+  last_commit: 2023-01-07 22:13:47
   protokolle:
     27:
       code_analysis:
@@ -1136,12 +1136,12 @@
     44:
       code_analysis:
         has_errors: false
-        num_files: 1
-        total_comments: 75
-        total_comments_of_interest: 43
-        total_lloc: 201
-        total_single_comments: 59
-        total_sloc: 198
+        num_files: 2
+        total_comments: 169
+        total_comments_of_interest: 74
+        total_lloc: 316
+        total_single_comments: 139
+        total_sloc: 313
       dirs:
       - "Versuche Semester VII/1. V44 R\xF6ntgenreflektometrie"
       pdfs:
@@ -1164,15 +1164,29 @@
       code_analysis:
         has_errors: false
         num_files: 2
-        total_comments: 63
-        total_comments_of_interest: 48
-        total_lloc: 182
-        total_single_comments: 45
-        total_sloc: 175
+        total_comments: 70
+        total_comments_of_interest: 54
+        total_lloc: 206
+        total_single_comments: 50
+        total_sloc: 199
       dirs:
       - Versuche Semester VII/3. V49 gepulste NMR
       pdfs:
       - Versuche Semester VII/3. V49 gepulste NMR/V49 Kurzanleitung.pdf
+      - Versuche Semester VII/3. V49 gepulste NMR/V49_alte_anleitung.pdf
+    51:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 6
+        total_comments_of_interest: 5
+        total_lloc: 23
+        total_single_comments: 6
+        total_sloc: 23
+      dirs:
+      - "Versuche Semester VII/5. V51 Operationsverst\xE4rker"
+      pdfs:
+      - "Versuche Semester VII/5. V51 Operationsverst\xE4rker/V51.pdf"
 - authors:
   - Kevin Heinicke
   - Markus Stabrin
