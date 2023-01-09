@@ -1,6 +1,6 @@
 # [rleven/FP_Master_nice](https://github.com/rleven/FP_Master_nice)
 
-Letzter Commit: 06.01.2023 23:28:51
+Letzter Commit: 08.01.2023 18:13:32
 
 ## Autoren (Klarnamen)
 - Max Koch
