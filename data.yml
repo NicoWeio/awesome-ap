@@ -18775,7 +18775,7 @@
   - html_url: https://github.com/smjolame
     login: smjolame
   full_name: smjolame/Master_FP
-  last_commit: 2023-01-04 21:42:04
+  last_commit: 2023-01-09 17:20:21
   protokolle:
     21:
       code_analysis:
@@ -18817,11 +18817,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 28
-        total_comments_of_interest: 6
-        total_lloc: 44
-        total_single_comments: 21
-        total_sloc: 44
+        total_comments: 33
+        total_comments_of_interest: 11
+        total_lloc: 94
+        total_single_comments: 26
+        total_sloc: 94
       dirs:
       - V64_Interferometrie
       pdfs: []
