@@ -1745,7 +1745,7 @@
   - html_url: https://github.com/bwgro
     login: bwgro
   full_name: bwgro/FP
-  last_commit: 2022-09-29 16:33:06
+  last_commit: 2023-01-11 15:35:45
   protokolle:
     44:
       code_analysis:
@@ -1777,11 +1777,11 @@
       code_analysis:
         has_errors: false
         num_files: 4
-        total_comments: 137
-        total_comments_of_interest: 99
-        total_lloc: 554
-        total_single_comments: 122
-        total_sloc: 519
+        total_comments: 138
+        total_comments_of_interest: 100
+        total_lloc: 562
+        total_single_comments: 123
+        total_sloc: 527
       dirs:
       - V48
       pdfs:
