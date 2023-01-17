@@ -1118,7 +1118,7 @@
   - html_url: https://github.com/jana-banana
     login: jana-banana
   full_name: BenediktSan/FortgeschrittenenPraktikum2023
-  last_commit: 2023-01-07 22:13:47
+  last_commit: 2023-01-16 14:30:24
   protokolle:
     27:
       code_analysis:
@@ -1137,11 +1137,11 @@
       code_analysis:
         has_errors: false
         num_files: 2
-        total_comments: 169
-        total_comments_of_interest: 74
-        total_lloc: 316
-        total_single_comments: 139
-        total_sloc: 313
+        total_comments: 185
+        total_comments_of_interest: 77
+        total_lloc: 326
+        total_single_comments: 137
+        total_sloc: 323
       dirs:
       - "Versuche Semester VII/1. V44 R\xF6ntgenreflektometrie"
       pdfs:
@@ -1164,11 +1164,11 @@
       code_analysis:
         has_errors: false
         num_files: 2
-        total_comments: 70
-        total_comments_of_interest: 54
-        total_lloc: 206
-        total_single_comments: 50
-        total_sloc: 199
+        total_comments: 80
+        total_comments_of_interest: 60
+        total_lloc: 232
+        total_single_comments: 56
+        total_sloc: 225
       dirs:
       - Versuche Semester VII/3. V49 gepulste NMR
       pdfs:
@@ -17514,7 +17514,7 @@
   - html_url: https://github.com/SamGTex
     login: SamGTex
   full_name: SamGTex/FP_Master_WS22-23
-  last_commit: 2023-01-15 15:57:30
+  last_commit: 2023-01-16 16:11:18
   protokolle:
     1:
       code_analysis:
@@ -18799,7 +18799,7 @@
   - html_url: https://github.com/smjolame
     login: smjolame
   full_name: smjolame/Master_FP
-  last_commit: 2023-01-16 01:21:29
+  last_commit: 2023-01-16 10:55:21
   protokolle:
     21:
       code_analysis:
@@ -20113,327 +20113,6 @@
         total_sloc: 0
       dirs:
       - V60
-      pdfs: []
-- authors:
-  - Simon Schulte
-  - Tim Sedlaczek
-  branch: master
-  contributors:
-  - html_url: https://github.com/SchulteSimon
-    login: SchulteSimon
-  - html_url: https://github.com/TimBizeps
-    login: TimBizeps
-  full_name: TimBizeps/BachelorAP
-  last_commit: 2018-09-26 13:21:16
-  protokolle:
-    21:
-      code_analysis:
-        has_errors: false
-        num_files: 0
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 0
-        total_single_comments: 0
-        total_sloc: 0
-      dirs:
-      - Simons V21
-      pdfs: []
-    101:
-      code_analysis:
-        has_errors: false
-        num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 40
-        total_single_comments: 1
-        total_sloc: 40
-      dirs:
-      - "V101_Das Tr\xE4gheitsmoment"
-      pdfs: []
-    103:
-      code_analysis:
-        has_errors: false
-        num_files: 1
-        total_comments: 33
-        total_comments_of_interest: 14
-        total_lloc: 121
-        total_single_comments: 21
-        total_sloc: 151
-      dirs:
-      - "V103_Biegung elastischer St\xE4be"
-      pdfs:
-      - "V103_Biegung elastischer St\xE4be/V103.pdf"
-    201:
-      code_analysis:
-        has_errors: false
-        num_files: 1
-        total_comments: 14
-        total_comments_of_interest: 3
-        total_lloc: 185
-        total_single_comments: 8
-        total_sloc: 185
-      dirs:
-      - V201_Dulong-Petit
-      pdfs:
-      - V201_Dulong-Petit/V201.pdf
-    203:
-      code_analysis:
-        has_errors: false
-        num_files: 3
-        total_comments: 7
-        total_comments_of_interest: 5
-        total_lloc: 89
-        total_single_comments: 0
-        total_sloc: 89
-      dirs:
-      - "V203_Verdampfungsw\xE4rmen und Dampfdruck-Kurve"
-      pdfs:
-      - "V203_Verdampfungsw\xE4rmen und Dampfdruck-Kurve/V203.pdf"
-    206:
-      code_analysis:
-        has_errors: false
-        num_files: 3
-        total_comments: 29
-        total_comments_of_interest: 10
-        total_lloc: 225
-        total_single_comments: 8
-        total_sloc: 240
-      dirs:
-      - "V206_W\xE4rmepumpe"
-      pdfs:
-      - "V206_W\xE4rmepumpe/V206.pdf"
-    207:
-      code_analysis:
-        has_errors: false
-        num_files: 3
-        total_comments: 5
-        total_comments_of_interest: 5
-        total_lloc: 177
-        total_single_comments: 5
-        total_sloc: 177
-      dirs:
-      - "V207_Kugelfall-Viskosimeter nach H\xF6ppler"
-      pdfs: []
-    302:
-      code_analysis:
-        has_errors: false
-        num_files: 1
-        total_comments: 4
-        total_comments_of_interest: 4
-        total_lloc: 191
-        total_single_comments: 1
-        total_sloc: 196
-      dirs:
-      - "V302_Br\xFCckenschaltungen"
-      pdfs:
-      - "V302_Br\xFCckenschaltungen/V302.pdf"
-    303:
-      code_analysis:
-        has_errors: false
-        num_files: 4
-        total_comments: 9
-        total_comments_of_interest: 6
-        total_lloc: 102
-        total_single_comments: 9
-        total_sloc: 113
-      dirs:
-      - "V303_LockInVerst\xE4rker"
-      pdfs:
-      - "V303_LockInVerst\xE4rker/V303.pdf"
-    351:
-      code_analysis:
-        has_errors: false
-        num_files: 2
-        total_comments: 10
-        total_comments_of_interest: 6
-        total_lloc: 43
-        total_single_comments: 10
-        total_sloc: 43
-      dirs:
-      - V351_Fourier
-      pdfs:
-      - V351_Fourier/V351.pdf
-    354:
-      code_analysis:
-        has_errors: false
-        num_files: 3
-        total_comments: 20
-        total_comments_of_interest: 4
-        total_lloc: 98
-        total_single_comments: 19
-        total_sloc: 115
-      dirs:
-      - "V354_Ged\xE4mpfte und erzwungene Schwingungen"
-      pdfs:
-      - "V354_Ged\xE4mpfte und erzwungene Schwingungen/V354.pdf"
-    355:
-      code_analysis:
-        has_errors: false
-        num_files: 1
-        total_comments: 10
-        total_comments_of_interest: 9
-        total_lloc: 97
-        total_single_comments: 0
-        total_sloc: 102
-      dirs:
-      - V355_Gekoppelte Schwingkreise
-      pdfs:
-      - V355_Gekoppelte Schwingkreise/V355.pdf
-    356:
-      code_analysis:
-        has_errors: false
-        num_files: 6
-        total_comments: 7
-        total_comments_of_interest: 0
-        total_lloc: 146
-        total_single_comments: 7
-        total_sloc: 180
-      dirs:
-      - V356_LC Kettenschaltung
-      pdfs:
-      - V356_LC Kettenschaltung/356.pdf
-      - V356_LC Kettenschaltung/V356.pdf
-    406:
-      code_analysis:
-        has_errors: false
-        num_files: 4
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 139
-        total_single_comments: 1
-        total_sloc: 159
-      dirs:
-      - V406_Beugung am Spalt
-      pdfs:
-      - V406_Beugung am Spalt/V406.pdf
-    408:
-      code_analysis:
-        has_errors: false
-        num_files: 3
-        total_comments: 12
-        total_comments_of_interest: 4
-        total_lloc: 44
-        total_single_comments: 3
-        total_sloc: 57
-      dirs:
-      - V408_Geometrische Optik
-      pdfs:
-      - V408_Geometrische Optik/V408.pdf
-    503:
-      code_analysis:
-        has_errors: false
-        num_files: 15
-        total_comments: 313
-        total_comments_of_interest: 149
-        total_lloc: 948
-        total_single_comments: 207
-        total_sloc: 928
-      dirs:
-      - V503
-      - V503_Millikan Versuch
-      pdfs:
-      - V503/V503.pdf
-      - V503_Millikan Versuch/V503.pdf
-    504:
-      code_analysis:
-        has_errors: false
-        num_files: 4
-        total_comments: 52
-        total_comments_of_interest: 6
-        total_lloc: 189
-        total_single_comments: 2
-        total_sloc: 210
-      dirs:
-      - V504_Thermische Elektronenemission
-      pdfs:
-      - V504_Thermische Elektronenemission/V504.pdf
-    602:
-      code_analysis:
-        has_errors: false
-        num_files: 1
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 25
-        total_single_comments: 0
-        total_sloc: 25
-      dirs:
-      - "V602_R\xF6ntgen-Emissions- und Absorpionsspektren"
-      pdfs:
-      - "V602_R\xF6ntgen-Emissions- und Absorpionsspektren/V602.pdf"
-    606:
-      code_analysis:
-        has_errors: false
-        num_files: 1
-        total_comments: 47
-        total_comments_of_interest: 8
-        total_lloc: 114
-        total_single_comments: 0
-        total_sloc: 119
-      dirs:
-      - "V606_Messung der Suszeptibilit\xE4t paramagnetischer Substanzen"
-      pdfs:
-      - "V606_Messung der Suszeptibilit\xE4t paramagnetischer Substanzen/V606.pdf"
-    703:
-      code_analysis:
-        has_errors: false
-        num_files: 3
-        total_comments: 15
-        total_comments_of_interest: 2
-        total_lloc: 91
-        total_single_comments: 15
-        total_sloc: 106
-      dirs:
-      - "V703_Geiger-M\xFCller-Z\xE4hlrohr"
-      pdfs:
-      - "V703_Geiger-M\xFCller-Z\xE4hlrohr/V703.pdf"
-    704:
-      code_analysis:
-        has_errors: false
-        num_files: 1
-        total_comments: 34
-        total_comments_of_interest: 23
-        total_lloc: 104
-        total_single_comments: 31
-        total_sloc: 102
-      dirs:
-      - V704
-      pdfs:
-      - V704/V704_3.pdf
-    901:
-      code_analysis:
-        has_errors: false
-        num_files: 1
-        total_comments: 3
-        total_comments_of_interest: 2
-        total_lloc: 110
-        total_single_comments: 3
-        total_sloc: 112
-      dirs:
-      - US1
-      pdfs: []
-    902:
-      code_analysis:
-        has_errors: false
-        num_files: 3
-        total_comments: 30
-        total_comments_of_interest: 7
-        total_lloc: 104
-        total_single_comments: 8
-        total_sloc: 119
-      dirs:
-      - US2
-      pdfs: []
-    903:
-      code_analysis:
-        has_errors: false
-        num_files: 1
-        total_comments: 11
-        total_comments_of_interest: 8
-        total_lloc: 94
-        total_single_comments: 11
-        total_sloc: 94
-      dirs:
-      - US3
       pdfs: []
 - authors:
   - "Connor Magnus B\xF6ckmann"
