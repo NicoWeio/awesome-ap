@@ -1118,7 +1118,7 @@
   - html_url: https://github.com/jana-banana
     login: jana-banana
   full_name: BenediktSan/FortgeschrittenenPraktikum2023
-  last_commit: 2023-01-16 14:30:24
+  last_commit: 2023-01-23 21:39:36
   protokolle:
     27:
       code_analysis:
@@ -1137,11 +1137,11 @@
       code_analysis:
         has_errors: false
         num_files: 2
-        total_comments: 185
-        total_comments_of_interest: 77
-        total_lloc: 326
-        total_single_comments: 137
-        total_sloc: 323
+        total_comments: 197
+        total_comments_of_interest: 81
+        total_lloc: 343
+        total_single_comments: 141
+        total_sloc: 340
       dirs:
       - "Versuche Semester VII/1. V44 R\xF6ntgenreflektometrie"
       pdfs:
@@ -1178,11 +1178,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 6
-        total_comments_of_interest: 5
-        total_lloc: 23
-        total_single_comments: 6
-        total_sloc: 23
+        total_comments: 35
+        total_comments_of_interest: 18
+        total_lloc: 33
+        total_single_comments: 20
+        total_sloc: 42
       dirs:
       - "Versuche Semester VII/5. V51 Operationsverst\xE4rker"
       pdfs:
@@ -18802,7 +18802,7 @@
   - html_url: https://github.com/smjolame
     login: smjolame
   full_name: smjolame/Master_FP
-  last_commit: 2023-01-22 16:47:37
+  last_commit: 2023-01-23 17:02:59
   protokolle:
     21:
       code_analysis:
@@ -18839,6 +18839,18 @@
         total_sloc: 89
       dirs:
       - V47_Molwaerme
+      pdfs: []
+    51:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 16
+        total_comments_of_interest: 1
+        total_lloc: 12
+        total_single_comments: 15
+        total_sloc: 12
+      dirs:
+      - V51_Operationsverstaerker
       pdfs: []
     64:
       code_analysis:
