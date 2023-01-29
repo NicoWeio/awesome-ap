@@ -1118,7 +1118,7 @@
   - html_url: https://github.com/jana-banana
     login: jana-banana
   full_name: BenediktSan/FortgeschrittenenPraktikum2023
-  last_commit: 2023-01-23 21:39:36
+  last_commit: 2023-01-28 18:45:37
   protokolle:
     27:
       code_analysis:
@@ -1152,9 +1152,9 @@
         num_files: 3
         total_comments: 77
         total_comments_of_interest: 13
-        total_lloc: 169
+        total_lloc: 171
         total_single_comments: 51
-        total_sloc: 169
+        total_sloc: 171
       dirs:
       - Versuche Semester VII/4. V46 Farady Effekt
       pdfs:
@@ -16414,7 +16414,7 @@
   - html_url: https://github.com/rleven
     login: rleven
   full_name: rleven/FP_Master_nice
-  last_commit: 2023-01-27 22:25:31
+  last_commit: 2023-01-28 11:56:32
   protokolle:
     1:
       code_analysis:
