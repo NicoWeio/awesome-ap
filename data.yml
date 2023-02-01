@@ -18814,7 +18814,7 @@
   - html_url: https://github.com/smjolame
     login: smjolame
   full_name: smjolame/Master_FP
-  last_commit: 2023-01-27 17:32:04
+  last_commit: 2023-01-31 04:17:18
   protokolle:
     21:
       code_analysis:
@@ -18855,12 +18855,12 @@
     51:
       code_analysis:
         has_errors: false
-        num_files: 1
-        total_comments: 16
-        total_comments_of_interest: 1
-        total_lloc: 12
-        total_single_comments: 15
-        total_sloc: 12
+        num_files: 4
+        total_comments: 37
+        total_comments_of_interest: 12
+        total_lloc: 227
+        total_single_comments: 36
+        total_sloc: 235
       dirs:
       - V51_Operationsverstaerker
       pdfs: []
