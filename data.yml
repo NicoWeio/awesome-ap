@@ -1118,7 +1118,7 @@
   - html_url: https://github.com/jana-banana
     login: jana-banana
   full_name: BenediktSan/FortgeschrittenenPraktikum2023
-  last_commit: 2023-02-05 11:39:24
+  last_commit: 2023-02-06 11:05:44
   protokolle:
     27:
       code_analysis:
@@ -1178,11 +1178,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 73
-        total_comments_of_interest: 57
-        total_lloc: 165
-        total_single_comments: 39
-        total_sloc: 169
+        total_comments: 83
+        total_comments_of_interest: 65
+        total_lloc: 214
+        total_single_comments: 44
+        total_sloc: 218
       dirs:
       - "Versuche Semester VII/5. V51 Operationsverst\xE4rker"
       pdfs:
@@ -16414,7 +16414,7 @@
   - html_url: https://github.com/rleven
     login: rleven
   full_name: rleven/FP_Master_nice
-  last_commit: 2023-02-05 18:01:39
+  last_commit: 2023-02-06 22:12:08
   protokolle:
     1:
       code_analysis:
@@ -16468,11 +16468,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 19
+        total_comments: 20
         total_comments_of_interest: 15
-        total_lloc: 92
-        total_single_comments: 10
-        total_sloc: 86
+        total_lloc: 106
+        total_single_comments: 11
+        total_sloc: 98
       dirs:
       - V64_Interferometrie
       pdfs: []
