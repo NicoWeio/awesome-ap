@@ -1118,7 +1118,7 @@
   - html_url: https://github.com/jana-banana
     login: jana-banana
   full_name: BenediktSan/FortgeschrittenenPraktikum2023
-  last_commit: 2023-02-20 15:51:49
+  last_commit: 2023-02-26 19:09:44
   protokolle:
     27:
       code_analysis:
@@ -1137,11 +1137,11 @@
       code_analysis:
         has_errors: false
         num_files: 2
-        total_comments: 197
-        total_comments_of_interest: 81
-        total_lloc: 343
-        total_single_comments: 141
-        total_sloc: 340
+        total_comments: 193
+        total_comments_of_interest: 87
+        total_lloc: 372
+        total_single_comments: 135
+        total_sloc: 368
       dirs:
       - "Versuche Semester VII/1. V44 R\xF6ntgenreflektometrie"
       pdfs:
