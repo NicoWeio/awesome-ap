@@ -1736,86 +1736,6 @@
       - V64-Interferometrie
       pdfs: []
 - authors:
-  - Ben Werner Grobecker
-  - "Sebastian R\xFC\xDFmann"
-  branch: main
-  contributors:
-  - html_url: https://github.com/Quotenspacken
-    login: Quotenspacken
-  - html_url: https://github.com/bwgro
-    login: bwgro
-  full_name: bwgro/FP
-  last_commit: 2023-01-17 14:00:00
-  protokolle:
-    44:
-      code_analysis:
-        has_errors: false
-        num_files: 4
-        total_comments: 28
-        total_comments_of_interest: 22
-        total_lloc: 152
-        total_single_comments: 22
-        total_sloc: 152
-      dirs:
-      - V44
-      pdfs:
-      - V44/V44.pdf
-      - V44/main.pdf
-    47:
-      code_analysis:
-        has_errors: false
-        num_files: 1
-        total_comments: 17
-        total_comments_of_interest: 9
-        total_lloc: 54
-        total_single_comments: 12
-        total_sloc: 54
-      dirs:
-      - V47
-      pdfs:
-      - V47/main.pdf
-    48:
-      code_analysis:
-        has_errors: false
-        num_files: 6
-        total_comments: 159
-        total_comments_of_interest: 117
-        total_lloc: 680
-        total_single_comments: 144
-        total_sloc: 631
-      dirs:
-      - V48
-      pdfs:
-      - V48/Grobecker_Ruessmann_V48.pdf
-      - V48/Grobecker_Ruessmann_V48_Korrektur.pdf
-      - V48/main.pdf
-    60:
-      code_analysis:
-        has_errors: false
-        num_files: 0
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 0
-        total_single_comments: 0
-        total_sloc: 0
-      dirs:
-      - V60
-      pdfs:
-      - V60/main.pdf
-    70:
-      code_analysis:
-        has_errors: false
-        num_files: 3
-        total_comments: 41
-        total_comments_of_interest: 37
-        total_lloc: 242
-        total_single_comments: 41
-        total_sloc: 234
-      dirs:
-      - V70
-      pdfs:
-      - V70/V70_korrektur.pdf
-- authors:
   - Christopher Krause
   - Lucas Witthaus
   branch: master
@@ -7641,7 +7561,7 @@
   - html_url: https://github.com/joeyko2706
     login: joeyko2706
   full_name: joeyko2706/Anfaengerpraktikum-21-22
-  last_commit: 2023-03-20 12:08:28
+  last_commit: 2023-04-18 10:12:43
   protokolle:
     101:
       code_analysis:

@@ -19,21 +19,21 @@
 | 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     37|
 | 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      9|
 | 41|Debye-Scherrer-Aufnahmen                                             |[Übersicht](versuch/41) |      9|
-| 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     15|
+| 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     14|
 | 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     35|
-| 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     27|
-| 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     25|
+| 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     26|
+| 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     24|
 | 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     16|
 | 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |     12|
 | 52|Signale auf Leitungen                                                |[Übersicht](versuch/52) |      5|
 | 53|Mikrowellen auf Hohlleitern                                          |[Übersicht](versuch/53) |     14|
 | 57|Elektrische Schwankungserscheinungen                                 |[Übersicht](versuch/57) |      4|
 | 59|Modulation und Demodulation elektrischer Schwingungen                |[Übersicht](versuch/59) |      5|
-| 60|Diodenlaser                                                          |[Übersicht](versuch/60) |     18|
+| 60|Diodenlaser                                                          |[Übersicht](versuch/60) |     17|
 | 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     32|
 | 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     22|
 | 65|Röntgenreflektrometrie                                               |[Übersicht](versuch/65) |      1|
-| 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     14|
+| 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     13|
 |101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     31|
 |102|Drehschwingungen                                                     |[Übersicht](versuch/102)|     15|
 |103|Biegung elastischer Stäbe                                            |[Übersicht](versuch/103)|     38|
@@ -102,7 +102,6 @@
 |[bixel/AP1213](https://github.com/bixel/AP1213)                                                                  |[Übersicht](repo/bixel/AP1213)                                 |15.03.2014 13:00:24|          23|                   23|
 |[bixel/FP14](https://github.com/bixel/FP14)                                                                      |[Übersicht](repo/bixel/FP14)                                   |07.10.2016 19:42:14|          11|                    0|
 |[brkkbkc/FPSS18_5](https://github.com/brkkbkc/FPSS18_5)                                                          |[Übersicht](repo/brkkbkc/FPSS18_5)                             |29.08.2018 13:23:12|           6|                    0|
-|[bwgro/FP](https://github.com/bwgro/FP)                                                                          |[Übersicht](repo/bwgro/FP)                                     |17.01.2023 14:00:00|           5|                    5|
 |[chris-topher6/Anfaenger-Praktikum](https://github.com/chris-topher6/Anfaenger-Praktikum)                        |[Übersicht](repo/chris-topher6/Anfaenger-Praktikum)            |25.05.2022 16:54:20|          18|                    0|
 |[chris-topher6/FP](https://github.com/chris-topher6/FP)                                                          |[Übersicht](repo/chris-topher6/FP)                             |12.08.2022 07:01:19|           5|                    0|
 |[Christopherkrause1/FortgeschrittenesPraktikum](https://github.com/Christopherkrause1/FortgeschrittenesPraktikum)|[Übersicht](repo/Christopherkrause1/FortgeschrittenesPraktikum)|26.06.2019 07:54:06|           5|                    0|
@@ -138,7 +137,7 @@
 |[Jean1995/PraktikumFP](https://github.com/Jean1995/PraktikumFP)                                                  |[Übersicht](repo/Jean1995/PraktikumFP)                         |01.11.2017 20:55:46|           5|                    0|
 |[JLammering/Master-Praktikum](https://github.com/JLammering/Master-Praktikum)                                    |[Übersicht](repo/JLammering/Master-Praktikum)                  |28.08.2020 11:36:06|           9|                    9|
 |[JLammering/Physikalisches-Praktikum](https://github.com/JLammering/Physikalisches-Praktikum)                    |[Übersicht](repo/JLammering/Physikalisches-Praktikum)          |07.01.2022 11:22:35|          15|                    0|
-|[joeyko2706/Anfaengerpraktikum-21-22](https://github.com/joeyko2706/Anfaengerpraktikum-21-22)                    |[Übersicht](repo/joeyko2706/Anfaengerpraktikum-21-22)          |20.03.2023 12:08:28|          20|                   20|
+|[joeyko2706/Anfaengerpraktikum-21-22](https://github.com/joeyko2706/Anfaengerpraktikum-21-22)                    |[Übersicht](repo/joeyko2706/Anfaengerpraktikum-21-22)          |18.04.2023 10:12:43|          20|                   20|
 |[jpherdi/FP_20_21](https://github.com/jpherdi/FP_20_21)                                                          |[Übersicht](repo/jpherdi/FP_20_21)                             |27.03.2021 12:47:42|           5|                    0|
 |[jpherdi/Praktikum](https://github.com/jpherdi/Praktikum)                                                        |[Übersicht](repo/jpherdi/Praktikum)                            |22.08.2020 14:15:53|           4|                    0|
 |[JulianSch/FP-Pelle-Julian](https://github.com/JulianSch/FP-Pelle-Julian)                                        |[Übersicht](repo/JulianSch/FP-Pelle-Julian)                    |06.11.2018 13:29:35|           5|                    4|
@@ -232,12 +231,12 @@
 
 
 ## Statistiken
-- **138** Repos
+- **137** Repos
 - **77** Versuche
-- **1608** Protokolle
-- **554** Protokolle mit PDFs
+- **1603** Protokolle
+- **549** Protokolle mit PDFs
 - **0** PDFs von _awesome-ap-pdfs_
-- **714** PDFs insgesamt
+- **706** PDFs insgesamt
 
 <p>Zuletzt aktualisiert: <span id="last-modified">[lade…]</span></p>
 <script async>
