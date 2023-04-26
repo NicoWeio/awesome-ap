@@ -7,6 +7,7 @@ Letzter Commit: 20.08.2018 09:40:55
 - Kevin Talits
 
 ## Autoren (GitHub)
+- [jannisspeer](https://github.com/jannisspeer)
 - [MagischeMiesmuschel](https://github.com/MagischeMiesmuschel)
 
 ## Versuche
