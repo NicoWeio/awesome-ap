@@ -527,3 +527,23 @@
 - name: YanickKi/AP_T_Y
 - name: YanickKi/FP_T_Y
 - name: YanickKi/FP_T_Y_Ma
+
+# ██████████ nicht AP/FP
+# Künftig könnte das Awesome-AP-Projekt weitere Module umfassen, aktuell ist dies nur eine Art Blacklist.
+#
+# ███ Festkörperphysik
+- name: DaGutn/Master_FP2
+  ignore: true
+- name: H-berg/FP2
+  ignore: true
+- name: lassestern/FK_FP
+  ignore: true
+- name: stefangri/fekoe_fp
+  ignore: true
+# ███ Elektronik
+# ███ Teilchenphysik / Detektoren
+- name: Ninilini/FP_Teilchen
+  ignore: true
+- name: noahbehling/Teilchenpraktikum
+  ignore: true
+# ███ „Theoretikum“ (Programmierpraktikum)
