@@ -101,6 +101,7 @@
       - V01-46
       - V100-V354
       - V400-703
+- name: Enno-Enno/PraktikumWS2223
 - name: FeGeyer/praktikum
   subdirectory:
     - 3_Semester
