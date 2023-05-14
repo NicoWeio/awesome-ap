@@ -3884,6 +3884,176 @@
       pdfs:
       - US/US1_Ultraschalltechnik.pdf
 - authors:
+  - Clara Sondermann
+  - Enno Wellmann
+  - Frau Clara Sondermann
+  - Herr Enno Wellmann
+  branch: main
+  contributors:
+  - html_url: https://github.com/ClarSon01
+    login: ClarSon01
+  - html_url: https://github.com/Enno-Enno
+    login: Enno-Enno
+  full_name: Enno-Enno/PraktikumWS2223
+  last_commit: 2023-05-14 13:04:25
+  protokolle:
+    103:
+      code_analysis:
+        has_errors: false
+        num_files: 9
+        total_comments: 203
+        total_comments_of_interest: 68
+        total_lloc: 325
+        total_single_comments: 127
+        total_sloc: 313
+      dirs:
+      - 07_v103
+      pdfs: []
+    206:
+      code_analysis:
+        has_errors: false
+        num_files: 8
+        total_comments: 213
+        total_comments_of_interest: 78
+        total_lloc: 398
+        total_single_comments: 202
+        total_sloc: 398
+      dirs:
+      - 02_v206
+      pdfs: []
+    207:
+      code_analysis:
+        has_errors: false
+        num_files: 5
+        total_comments: 120
+        total_comments_of_interest: 29
+        total_lloc: 347
+        total_single_comments: 115
+        total_sloc: 341
+      dirs:
+      - 01_v207
+      pdfs: []
+    303:
+      code_analysis:
+        has_errors: false
+        num_files: 4
+        total_comments: 93
+        total_comments_of_interest: 25
+        total_lloc: 138
+        total_single_comments: 88
+        total_sloc: 138
+      dirs:
+      - 03_v303
+      pdfs: []
+    308:
+      code_analysis:
+        has_errors: false
+        num_files: 5
+        total_comments: 77
+        total_comments_of_interest: 24
+        total_lloc: 223
+        total_single_comments: 62
+        total_sloc: 191
+      dirs:
+      - 04_v308
+      pdfs: []
+    353:
+      code_analysis:
+        has_errors: false
+        num_files: 6
+        total_comments: 37
+        total_comments_of_interest: 21
+        total_lloc: 146
+        total_single_comments: 22
+        total_sloc: 146
+      dirs:
+      - 05_v353
+      pdfs: []
+    354:
+      code_analysis:
+        has_errors: false
+        num_files: 5
+        total_comments: 172
+        total_comments_of_interest: 37
+        total_lloc: 182
+        total_single_comments: 150
+        total_sloc: 180
+      dirs:
+      - 06_v354
+      pdfs: []
+    400:
+      code_analysis:
+        has_errors: false
+        num_files: 6
+        total_comments: 163
+        total_comments_of_interest: 18
+        total_lloc: 195
+        total_single_comments: 158
+        total_sloc: 183
+      dirs:
+      - 11_v400
+      pdfs: []
+    504:
+      code_analysis:
+        has_errors: false
+        num_files: 5
+        total_comments: 43
+        total_comments_of_interest: 31
+        total_lloc: 200
+        total_single_comments: 33
+        total_sloc: 190
+      dirs:
+      - 12_v504
+      pdfs: []
+    601:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 7
+        total_comments_of_interest: 4
+        total_lloc: 64
+        total_single_comments: 5
+        total_sloc: 64
+      dirs:
+      - 08_v601
+      pdfs: []
+    602:
+      code_analysis:
+        has_errors: false
+        num_files: 8
+        total_comments: 68
+        total_comments_of_interest: 21
+        total_lloc: 200
+        total_single_comments: 58
+        total_sloc: 200
+      dirs:
+      - 13_v602
+      pdfs: []
+    702:
+      code_analysis:
+        has_errors: false
+        num_files: 5
+        total_comments: 186
+        total_comments_of_interest: 47
+        total_lloc: 237
+        total_single_comments: 166
+        total_sloc: 231
+      dirs:
+      - 10_v702
+      pdfs: []
+    901:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 13
+        total_comments_of_interest: 2
+        total_lloc: 71
+        total_single_comments: 10
+        total_sloc: 76
+      dirs:
+      - 09_us1
+      pdfs: []
+- authors:
   - Felix Geyer
   - Rune Dominik
   branch: master

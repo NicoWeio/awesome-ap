@@ -36,7 +36,7 @@
 | 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     13|
 |101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     31|
 |102|Drehschwingungen                                                     |[Übersicht](versuch/102)|     15|
-|103|Biegung elastischer Stäbe                                            |[Übersicht](versuch/103)|     38|
+|103|Biegung elastischer Stäbe                                            |[Übersicht](versuch/103)|     39|
 |104|Der Doppler-Effekt                                                   |[Übersicht](versuch/104)|     10|
 |105|Das magnetische Moment                                               |[Übersicht](versuch/105)|      9|
 |106|Gekoppelte Pendel                                                    |[Übersicht](versuch/106)|     22|
@@ -44,21 +44,21 @@
 |201|Das Dulong-Petit-Gesetz                                              |[Übersicht](versuch/201)|     27|
 |203|Verdampfungswärme und Dampfdruckkurve                                |[Übersicht](versuch/203)|     23|
 |204|Wärmeleitung von Metallen                                            |[Übersicht](versuch/204)|     37|
-|206|Die Wärmepumpe                                                       |[Übersicht](versuch/206)|     42|
-|207|Das Kugelfall-Viskosimeter nach Höppler / Das Stefan-Boltzmann-Gesetz|[Übersicht](versuch/207)|     14|
+|206|Die Wärmepumpe                                                       |[Übersicht](versuch/206)|     43|
+|207|Das Kugelfall-Viskosimeter nach Höppler / Das Stefan-Boltzmann-Gesetz|[Übersicht](versuch/207)|     15|
 |300|–                                                                    |[Übersicht](versuch/300)|      1|
 |301|Leerlaufspannung und Innenwiderstand von Spannungsquellen            |[Übersicht](versuch/301)|     26|
 |302|Elektrische Brückenschaltungen                                       |[Übersicht](versuch/302)|     34|
-|303|Der Lock-In-Verstärker                                               |[Übersicht](versuch/303)|     34|
+|303|Der Lock-In-Verstärker                                               |[Übersicht](versuch/303)|     35|
 |304|–                                                                    |[Übersicht](versuch/304)|      1|
-|308|Spulen und Magnetfelder                                              |[Übersicht](versuch/308)|     14|
+|308|Spulen und Magnetfelder                                              |[Übersicht](versuch/308)|     15|
 |311|Der Hall-Effekt                                                      |[Übersicht](versuch/311)|     14|
 |351|Fourier-Analyse und -Synthese                                        |[Übersicht](versuch/351)|     22|
-|353|Relaxationsverhalten eines RC-Kreises                                |[Übersicht](versuch/353)|     42|
-|354|Gedämpfte und erzwungene Schwingungen                                |[Übersicht](versuch/354)|     42|
+|353|Relaxationsverhalten eines RC-Kreises                                |[Übersicht](versuch/353)|     43|
+|354|Gedämpfte und erzwungene Schwingungen                                |[Übersicht](versuch/354)|     43|
 |355|Gekoppelte Schwingkreise                                             |[Übersicht](versuch/355)|     19|
 |356|Kettenschaltungen mit LC-Gliedern                                    |[Übersicht](versuch/356)|      6|
-|400|Reflexion, Brechung und Beugung                                      |[Übersicht](versuch/400)|     16|
+|400|Reflexion, Brechung und Beugung                                      |[Übersicht](versuch/400)|     17|
 |401|Das Michelson-Interferometer                                         |[Übersicht](versuch/401)|     29|
 |402|Dispersionsmessungen am Glasprisma                                   |[Übersicht](versuch/402)|     18|
 |406|Beugung am Spalt                                                     |[Übersicht](versuch/406)|     38|
@@ -68,21 +68,21 @@
 |501|Elektronen im elektrischen und magnetischen Feld                     |[Übersicht](versuch/501)|     26|
 |502|Elektronen im transversalen Magnetfeld                               |[Übersicht](versuch/502)|      1|
 |503|Der Millikan-Versuch                                                 |[Übersicht](versuch/503)|     13|
-|504|Thermische Elektronenemission                                        |[Übersicht](versuch/504)|     32|
-|601|Der Franck-Hertz-Versuch                                             |[Übersicht](versuch/601)|     41|
-|602|Röntgenemission und -absorption                                      |[Übersicht](versuch/602)|     51|
+|504|Thermische Elektronenemission                                        |[Übersicht](versuch/504)|     33|
+|601|Der Franck-Hertz-Versuch                                             |[Übersicht](versuch/601)|     42|
+|602|Röntgenemission und -absorption                                      |[Übersicht](versuch/602)|     52|
 |603|Der Compton-Effekt                                                   |[Übersicht](versuch/603)|     20|
 |605|Alkali-Spektren                                                      |[Übersicht](versuch/605)|      7|
 |606|Messung der Suszeptibilität paramagnetischer Substanzen              |[Übersicht](versuch/606)|     34|
 |701|Reichweite von Alpha-Strahlung                                       |[Übersicht](versuch/701)|     20|
-|702|Aktivierung mit Neutronen                                            |[Übersicht](versuch/702)|     45|
+|702|Aktivierung mit Neutronen                                            |[Übersicht](versuch/702)|     46|
 |703|Das Geiger-Müller-Zählrohr                                           |[Übersicht](versuch/703)|     54|
 |704|Absorption von Gamma- und Beta-Strahlung                             |[Übersicht](versuch/704)|     21|
 |800|Das Oszilloskop                                                      |[Übersicht](versuch/800)|      2|
 |801|–                                                                    |[Übersicht](versuch/801)|      2|
 |802|Fouriersynthese                                                      |[Übersicht](versuch/802)|      5|
 |803|Das Hookesche Gesetz                                                 |[Übersicht](versuch/803)|      7|
-|901|Grundlagen der Ultraschalltechnik                                    |[Übersicht](versuch/901)|     31|
+|901|Grundlagen der Ultraschalltechnik                                    |[Übersicht](versuch/901)|     32|
 |902|Scanverfahren in der Ultraschalltechnik                              |[Übersicht](versuch/902)|     26|
 |903|Doppler-Sonographie                                                  |[Übersicht](versuch/903)|     31|
 
@@ -116,6 +116,7 @@
 |[dlmsr/praktikum](https://github.com/dlmsr/praktikum)                                                            |[Übersicht](repo/dlmsr/praktikum)                              |12.03.2020 11:10:24|          26|                    0|
 |[dormail/ap](https://github.com/dormail/ap)                                                                      |[Übersicht](repo/dormail/ap)                                   |15.07.2021 06:59:00|          18|                    0|
 |[elliekayl/Protokolle](https://github.com/elliekayl/Protokolle)                                                  |[Übersicht](repo/elliekayl/Protokolle)                         |21.12.2019 22:15:36|          23|                   23|
+|[Enno-Enno/PraktikumWS2223](https://github.com/Enno-Enno/PraktikumWS2223)                                        |[Übersicht](repo/Enno-Enno/PraktikumWS2223)                    |14.05.2023 13:04:25|          13|                    0|
 |[FeGeyer/praktikum](https://github.com/FeGeyer/praktikum)                                                        |[Übersicht](repo/FeGeyer/praktikum)                            |06.03.2019 12:03:15|          31|                   21|
 |[Fresoquark/Anfaengerpraktikum](https://github.com/Fresoquark/Anfaengerpraktikum)                                |[Übersicht](repo/Fresoquark/Anfaengerpraktikum)                |08.07.2018 16:41:54|          12|                    0|
 |[FSchierok/FP](https://github.com/FSchierok/FP)                                                                  |[Übersicht](repo/FSchierok/FP)                                 |13.11.2018 22:06:54|           3|                    0|
@@ -231,9 +232,9 @@
 
 
 ## Statistiken
-- **137** Repos
+- **138** Repos
 - **77** Versuche
-- **1603** Protokolle
+- **1616** Protokolle
 - **549** Protokolle mit PDFs
 - **0** PDFs von _awesome-ap-pdfs_
 - **706** PDFs insgesamt
