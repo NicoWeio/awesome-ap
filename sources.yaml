@@ -116,7 +116,6 @@
       - MFP/PDF-Dateien # TODO: Versuch-Nummern fehlen
 - name: Fresoquark/Anfaengerpraktikum
 - name: FSchierok/FP
-# TODO: ghzut – Einzel-Repos
 - name: HelenaCarlArne/ProtokolleAP
 - name: HelenaCarlArne/ProtokolleFP
 - name: henne169/FP
@@ -308,7 +307,6 @@
 - name: MagischeMiesmuschel/FPMaster
   pdfs:
     directory: Protokolle
-# TODO: majesticrock – Einzel-Repos
 - name: Mampfzwerg/FP
   pdfs:
     in_source_dir: true
@@ -527,6 +525,14 @@
 - name: YanickKi/AP_T_Y
 - name: YanickKi/FP_T_Y
 - name: YanickKi/FP_T_Y_Ma
+
+# ██████████ „Einzel-Repos“
+# Strukturen, bei denen jeder Versuch in einem eigenen Repo liegt, werden aktuell nicht unterstützt.
+#
+# - 4iphaton
+# - ghzut
+# - majesticrock
+# - MiraArndt
 
 # ██████████ nicht AP/FP
 # Künftig könnte das Awesome-AP-Projekt weitere Module umfassen, aktuell ist dies nur eine Art Blacklist.
