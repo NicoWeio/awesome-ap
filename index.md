@@ -76,7 +76,7 @@
 |606|Messung der Suszeptibilität paramagnetischer Substanzen              |[Übersicht](versuch/606)|     34|
 |701|Reichweite von Alpha-Strahlung                                       |[Übersicht](versuch/701)|     20|
 |702|Aktivierung mit Neutronen                                            |[Übersicht](versuch/702)|     46|
-|703|Das Geiger-Müller-Zählrohr                                           |[Übersicht](versuch/703)|     54|
+|703|Das Geiger-Müller-Zählrohr                                           |[Übersicht](versuch/703)|     55|
 |704|Absorption von Gamma- und Beta-Strahlung                             |[Übersicht](versuch/704)|     21|
 |800|Das Oszilloskop                                                      |[Übersicht](versuch/800)|      2|
 |801|–                                                                    |[Übersicht](versuch/801)|      2|
@@ -116,7 +116,7 @@
 |[dlmsr/praktikum](https://github.com/dlmsr/praktikum)                                                            |[Übersicht](repo/dlmsr/praktikum)                              |12.03.2020 11:10:24|          26|                    0|
 |[dormail/ap](https://github.com/dormail/ap)                                                                      |[Übersicht](repo/dormail/ap)                                   |15.07.2021 06:59:00|          18|                    0|
 |[elliekayl/Protokolle](https://github.com/elliekayl/Protokolle)                                                  |[Übersicht](repo/elliekayl/Protokolle)                         |21.12.2019 22:15:36|          23|                   23|
-|[Enno-Enno/PraktikumWS2223](https://github.com/Enno-Enno/PraktikumWS2223)                                        |[Übersicht](repo/Enno-Enno/PraktikumWS2223)                    |15.05.2023 20:49:26|          13|                    0|
+|[Enno-Enno/PraktikumWS2223](https://github.com/Enno-Enno/PraktikumWS2223)                                        |[Übersicht](repo/Enno-Enno/PraktikumWS2223)                    |16.05.2023 18:22:08|          14|                    0|
 |[FeGeyer/praktikum](https://github.com/FeGeyer/praktikum)                                                        |[Übersicht](repo/FeGeyer/praktikum)                            |06.03.2019 12:03:15|          31|                   21|
 |[Fresoquark/Anfaengerpraktikum](https://github.com/Fresoquark/Anfaengerpraktikum)                                |[Übersicht](repo/Fresoquark/Anfaengerpraktikum)                |08.07.2018 16:41:54|          12|                    0|
 |[FSchierok/FP](https://github.com/FSchierok/FP)                                                                  |[Übersicht](repo/FSchierok/FP)                                 |13.11.2018 22:06:54|           3|                    0|
@@ -234,7 +234,7 @@
 ## Statistiken
 - **138** Repos
 - **77** Versuche
-- **1616** Protokolle
+- **1617** Protokolle
 - **549** Protokolle mit PDFs
 - **0** PDFs von _awesome-ap-pdfs_
 - **706** PDFs insgesamt
