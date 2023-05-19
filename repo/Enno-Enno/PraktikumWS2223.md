@@ -5,8 +5,8 @@ Letzter Commit: 17.05.2023 14:36:15
 ## Autoren (Klarnamen)
 - Frau Clara Sondermann
 - Clara Sondermann
-- Herr Enno Wellmann
 - Enno Wellmann
+- Herr Enno Wellmann
 
 ## Autoren (GitHub)
 - [ClarSon01](https://github.com/ClarSon01)
