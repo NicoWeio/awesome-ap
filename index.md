@@ -62,7 +62,7 @@
 |401|Das Michelson-Interferometer                                         |[Übersicht](versuch/401)|     29|
 |402|Dispersionsmessungen am Glasprisma                                   |[Übersicht](versuch/402)|     18|
 |406|Beugung am Spalt                                                     |[Übersicht](versuch/406)|     38|
-|407|–                                                                    |[Übersicht](versuch/407)|      5|
+|407|–                                                                    |[Übersicht](versuch/407)|      6|
 |408|Geometrische Optik                                                   |[Übersicht](versuch/408)|     29|
 |500|Der Photoeffekt                                                      |[Übersicht](versuch/500)|     38|
 |501|Elektronen im elektrischen und magnetischen Feld                     |[Übersicht](versuch/501)|     26|
@@ -116,7 +116,7 @@
 |[dlmsr/praktikum](https://github.com/dlmsr/praktikum)                                                            |[Übersicht](repo/dlmsr/praktikum)                              |12.03.2020 11:10:24|          26|                    0|
 |[dormail/ap](https://github.com/dormail/ap)                                                                      |[Übersicht](repo/dormail/ap)                                   |15.07.2021 06:59:00|          18|                    0|
 |[elliekayl/Protokolle](https://github.com/elliekayl/Protokolle)                                                  |[Übersicht](repo/elliekayl/Protokolle)                         |21.12.2019 22:15:36|          23|                   23|
-|[Enno-Enno/PraktikumWS2223](https://github.com/Enno-Enno/PraktikumWS2223)                                        |[Übersicht](repo/Enno-Enno/PraktikumWS2223)                    |29.05.2023 20:56:30|          15|                    0|
+|[Enno-Enno/PraktikumWS2223](https://github.com/Enno-Enno/PraktikumWS2223)                                        |[Übersicht](repo/Enno-Enno/PraktikumWS2223)                    |30.05.2023 11:54:23|          16|                    0|
 |[FeGeyer/praktikum](https://github.com/FeGeyer/praktikum)                                                        |[Übersicht](repo/FeGeyer/praktikum)                            |06.03.2019 12:03:15|          31|                   21|
 |[Fresoquark/Anfaengerpraktikum](https://github.com/Fresoquark/Anfaengerpraktikum)                                |[Übersicht](repo/Fresoquark/Anfaengerpraktikum)                |08.07.2018 16:41:54|          12|                    0|
 |[FSchierok/FP](https://github.com/FSchierok/FP)                                                                  |[Übersicht](repo/FSchierok/FP)                                 |13.11.2018 22:06:54|           3|                    0|
@@ -234,7 +234,7 @@
 ## Statistiken
 - **138** Repos
 - **77** Versuche
-- **1618** Protokolle
+- **1619** Protokolle
 - **549** Protokolle mit PDFs
 - **0** PDFs von _awesome-ap-pdfs_
 - **706** PDFs insgesamt
