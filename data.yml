@@ -3895,7 +3895,7 @@
   - html_url: https://github.com/Enno-Enno
     login: Enno-Enno
   full_name: Enno-Enno/PraktikumWS2223
-  last_commit: 2023-06-04 12:06:50
+  last_commit: 2023-06-05 08:26:06
   protokolle:
     103:
       code_analysis:
@@ -4088,6 +4088,18 @@
         total_sloc: 76
       dirs:
       - 09_us1
+      pdfs: []
+    903:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 7
+        total_comments_of_interest: 2
+        total_lloc: 10
+        total_single_comments: 5
+        total_sloc: 10
+      dirs:
+      - 17_us3
       pdfs: []
 - authors:
   - Felix Geyer
