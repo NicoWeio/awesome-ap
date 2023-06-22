@@ -1,12 +1,12 @@
 # [Enno-Enno/PraktikumWS2223](https://github.com/Enno-Enno/PraktikumWS2223)
 
-Letzter Commit: 17.06.2023 14:49:29
+Letzter Commit: 21.06.2023 15:54:26
 
 ## Autoren (Klarnamen)
 - Frau Clara Sondermann
 - Clara Sondermann
-- Enno Wellmann
 - Herr Enno Wellmann
+- Enno Wellmann
 
 ## Autoren (GitHub)
 - [ClarSon01](https://github.com/ClarSon01)
@@ -29,6 +29,7 @@ Letzter Commit: 17.06.2023 14:49:29
 |[504](../../versuch/504)|[12_v504](https://github.com/Enno-Enno/PraktikumWS2223/tree/main/12_v504)|–   |
 |[601](../../versuch/601)|[08_v601](https://github.com/Enno-Enno/PraktikumWS2223/tree/main/08_v601)|–   |
 |[602](../../versuch/602)|[13_v602](https://github.com/Enno-Enno/PraktikumWS2223/tree/main/13_v602)|–   |
+|[606](../../versuch/606)|[19_v606](https://github.com/Enno-Enno/PraktikumWS2223/tree/main/19_v606)|–   |
 |[701](../../versuch/701)|[15_v701](https://github.com/Enno-Enno/PraktikumWS2223/tree/main/15_v701)|–   |
 |[702](../../versuch/702)|[10_v702](https://github.com/Enno-Enno/PraktikumWS2223/tree/main/10_v702)|–   |
 |[703](../../versuch/703)|[14_v703](https://github.com/Enno-Enno/PraktikumWS2223/tree/main/14_v703)|–   |

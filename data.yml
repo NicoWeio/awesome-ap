@@ -3895,7 +3895,7 @@
   - html_url: https://github.com/Enno-Enno
     login: Enno-Enno
   full_name: Enno-Enno/PraktikumWS2223
-  last_commit: 2023-06-17 14:49:29
+  last_commit: 2023-06-21 15:54:26
   protokolle:
     103:
       code_analysis:
@@ -4052,6 +4052,18 @@
         total_sloc: 369
       dirs:
       - 13_v602
+      pdfs: []
+    606:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 46
+        total_comments_of_interest: 14
+        total_lloc: 80
+        total_single_comments: 14
+        total_sloc: 80
+      dirs:
+      - 19_v606
       pdfs: []
     701:
       code_analysis:
