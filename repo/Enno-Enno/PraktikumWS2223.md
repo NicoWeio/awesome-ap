@@ -1,12 +1,12 @@
 # [Enno-Enno/PraktikumWS2223](https://github.com/Enno-Enno/PraktikumWS2223)
 
-Letzter Commit: 22.06.2023 20:05:08
+Letzter Commit: 01.07.2023 14:01:19
 
 ## Autoren (Klarnamen)
 - Clara Sondermann
 - Frau Clara Sondermann
-- Enno Wellmann
 - Herr Enno Wellmann
+- Enno Wellmann
 
 ## Autoren (GitHub)
 - [ClarSon01](https://github.com/ClarSon01)
