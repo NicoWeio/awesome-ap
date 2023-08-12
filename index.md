@@ -91,8 +91,8 @@
 
 |                                                      Repo                                                       |                                                               |  Letzter Commit   |# Protokolle|# Protokolle mit PDFs|
 |-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------|-----------:|--------------------:|
-|[Anjaaaa/AP-1516](https://github.com/Anjaaaa/AP-1516)                                                            |[Übersicht](repo/Anjaaaa/AP-1516)                              |25.08.2016 10:31:08|          23|                   13|
-|[Anjaaaa/FP-17](https://github.com/Anjaaaa/FP-17)                                                                |[Übersicht](repo/Anjaaaa/FP-17)                                |12.07.2017 14:59:52|           5|                    0|
+|[Anjaaaa/AP-1516](https://github.com/anjabeck/AP-1516)                                                           |[Übersicht](repo/Anjaaaa/AP-1516)                              |25.08.2016 10:31:08|          23|                   13|
+|[Anjaaaa/FP-17](https://github.com/anjabeck/FP-17)                                                               |[Übersicht](repo/Anjaaaa/FP-17)                                |12.07.2017 14:59:52|           5|                    0|
 |[AReinold/Bachelor-FP](https://github.com/AReinold/Bachelor-FP)                                                  |[Übersicht](repo/AReinold/Bachelor-FP)                         |09.07.2018 09:47:30|           5|                    0|
 |[AReinold/Master-FP](https://github.com/AReinold/Master-FP)                                                      |[Übersicht](repo/AReinold/Master-FP)                           |22.03.2020 13:24:47|           5|                    3|
 |[Bastian125/AP-Praktikum](https://github.com/Bastian125/AP)                                                      |[Übersicht](repo/Bastian125/AP-Praktikum)                      |08.05.2023 15:49:16|          20|                   20|
