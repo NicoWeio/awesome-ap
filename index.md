@@ -9,18 +9,18 @@
 |Nr.|                                Name                                 |                        |# Repos|
 |--:|---------------------------------------------------------------------|------------------------|------:|
 |  1|Lebensdauer der Myonen                                               |[Übersicht](versuch/1)  |     24|
-| 14|Tomographie mit Gamma-Strahlung                                      |[Übersicht](versuch/14) |     25|
+| 14|Tomographie mit Gamma-Strahlung                                      |[Übersicht](versuch/14) |     24|
 | 15|Vermessung und Untersuchung von Silizium-Streifensensoren            |[Übersicht](versuch/15) |      3|
 | 16|Rutherford-Streuung                                                  |[Übersicht](versuch/16) |     12|
 | 18|Der Reinst-Germanium-Detektor als Instrument der Gamma-Spektroskopie |[Übersicht](versuch/18) |     14|
-| 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     37|
+| 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     36|
 | 23|Quanten-Analogien                                                    |[Übersicht](versuch/23) |     11|
 | 25|Der Stern-Gerlach-Versuch                                            |[Übersicht](versuch/25) |      3|
-| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     37|
+| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     36|
 | 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      9|
 | 41|Debye-Scherrer-Aufnahmen                                             |[Übersicht](versuch/41) |      9|
 | 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     14|
-| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     35|
+| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     34|
 | 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     26|
 | 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     24|
 | 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     16|
@@ -34,11 +34,11 @@
 | 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     22|
 | 65|Röntgenreflektrometrie                                               |[Übersicht](versuch/65) |      1|
 | 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     13|
-|101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     31|
+|101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     30|
 |102|Drehschwingungen                                                     |[Übersicht](versuch/102)|     15|
-|103|Biegung elastischer Stäbe                                            |[Übersicht](versuch/103)|     39|
+|103|Biegung elastischer Stäbe                                            |[Übersicht](versuch/103)|     38|
 |104|Der Doppler-Effekt                                                   |[Übersicht](versuch/104)|     10|
-|105|Das magnetische Moment                                               |[Übersicht](versuch/105)|      9|
+|105|Das magnetische Moment                                               |[Übersicht](versuch/105)|      8|
 |106|Gekoppelte Pendel                                                    |[Übersicht](versuch/106)|     22|
 |107|Das Kugelfall-Viskosimeter nach Höppler                              |[Übersicht](versuch/107)|     14|
 |201|Das Dulong-Petit-Gesetz                                              |[Übersicht](versuch/201)|     27|
@@ -47,42 +47,42 @@
 |206|Die Wärmepumpe                                                       |[Übersicht](versuch/206)|     43|
 |207|Das Kugelfall-Viskosimeter nach Höppler / Das Stefan-Boltzmann-Gesetz|[Übersicht](versuch/207)|     15|
 |300|–                                                                    |[Übersicht](versuch/300)|      1|
-|301|Leerlaufspannung und Innenwiderstand von Spannungsquellen            |[Übersicht](versuch/301)|     26|
+|301|Leerlaufspannung und Innenwiderstand von Spannungsquellen            |[Übersicht](versuch/301)|     25|
 |302|Elektrische Brückenschaltungen                                       |[Übersicht](versuch/302)|     34|
 |303|Der Lock-In-Verstärker                                               |[Übersicht](versuch/303)|     35|
 |304|–                                                                    |[Übersicht](versuch/304)|      1|
-|308|Spulen und Magnetfelder                                              |[Übersicht](versuch/308)|     15|
+|308|Spulen und Magnetfelder                                              |[Übersicht](versuch/308)|     14|
 |311|Der Hall-Effekt                                                      |[Übersicht](versuch/311)|     14|
-|351|Fourier-Analyse und -Synthese                                        |[Übersicht](versuch/351)|     22|
-|353|Relaxationsverhalten eines RC-Kreises                                |[Übersicht](versuch/353)|     43|
-|354|Gedämpfte und erzwungene Schwingungen                                |[Übersicht](versuch/354)|     43|
+|351|Fourier-Analyse und -Synthese                                        |[Übersicht](versuch/351)|     21|
+|353|Relaxationsverhalten eines RC-Kreises                                |[Übersicht](versuch/353)|     42|
+|354|Gedämpfte und erzwungene Schwingungen                                |[Übersicht](versuch/354)|     42|
 |355|Gekoppelte Schwingkreise                                             |[Übersicht](versuch/355)|     19|
 |356|Kettenschaltungen mit LC-Gliedern                                    |[Übersicht](versuch/356)|      6|
 |400|Reflexion, Brechung und Beugung                                      |[Übersicht](versuch/400)|     17|
-|401|Das Michelson-Interferometer                                         |[Übersicht](versuch/401)|     30|
+|401|Das Michelson-Interferometer                                         |[Übersicht](versuch/401)|     29|
 |402|Dispersionsmessungen am Glasprisma                                   |[Übersicht](versuch/402)|     18|
-|406|Beugung am Spalt                                                     |[Übersicht](versuch/406)|     38|
+|406|Beugung am Spalt                                                     |[Übersicht](versuch/406)|     37|
 |407|–                                                                    |[Übersicht](versuch/407)|      6|
 |408|Geometrische Optik                                                   |[Übersicht](versuch/408)|     29|
-|500|Der Photoeffekt                                                      |[Übersicht](versuch/500)|     38|
-|501|Elektronen im elektrischen und magnetischen Feld                     |[Übersicht](versuch/501)|     26|
+|500|Der Photoeffekt                                                      |[Übersicht](versuch/500)|     37|
+|501|Elektronen im elektrischen und magnetischen Feld                     |[Übersicht](versuch/501)|     25|
 |502|Elektronen im transversalen Magnetfeld                               |[Übersicht](versuch/502)|      1|
 |503|Der Millikan-Versuch                                                 |[Übersicht](versuch/503)|     13|
-|504|Thermische Elektronenemission                                        |[Übersicht](versuch/504)|     33|
-|601|Der Franck-Hertz-Versuch                                             |[Übersicht](versuch/601)|     42|
-|602|Röntgenemission und -absorption                                      |[Übersicht](versuch/602)|     52|
+|504|Thermische Elektronenemission                                        |[Übersicht](versuch/504)|     32|
+|601|Der Franck-Hertz-Versuch                                             |[Übersicht](versuch/601)|     41|
+|602|Röntgenemission und -absorption                                      |[Übersicht](versuch/602)|     51|
 |603|Der Compton-Effekt                                                   |[Übersicht](versuch/603)|     20|
 |605|Alkali-Spektren                                                      |[Übersicht](versuch/605)|      7|
-|606|Messung der Suszeptibilität paramagnetischer Substanzen              |[Übersicht](versuch/606)|     35|
+|606|Messung der Suszeptibilität paramagnetischer Substanzen              |[Übersicht](versuch/606)|     34|
 |701|Reichweite von Alpha-Strahlung                                       |[Übersicht](versuch/701)|     21|
-|702|Aktivierung mit Neutronen                                            |[Übersicht](versuch/702)|     46|
-|703|Das Geiger-Müller-Zählrohr                                           |[Übersicht](versuch/703)|     55|
+|702|Aktivierung mit Neutronen                                            |[Übersicht](versuch/702)|     45|
+|703|Das Geiger-Müller-Zählrohr                                           |[Übersicht](versuch/703)|     54|
 |704|Absorption von Gamma- und Beta-Strahlung                             |[Übersicht](versuch/704)|     21|
 |800|Das Oszilloskop                                                      |[Übersicht](versuch/800)|      2|
 |801|–                                                                    |[Übersicht](versuch/801)|      2|
 |802|Fouriersynthese                                                      |[Übersicht](versuch/802)|      5|
 |803|Das Hookesche Gesetz                                                 |[Übersicht](versuch/803)|      7|
-|901|Grundlagen der Ultraschalltechnik                                    |[Übersicht](versuch/901)|     32|
+|901|Grundlagen der Ultraschalltechnik                                    |[Übersicht](versuch/901)|     31|
 |902|Scanverfahren in der Ultraschalltechnik                              |[Übersicht](versuch/902)|     26|
 |903|Doppler-Sonographie                                                  |[Übersicht](versuch/903)|     32|
 
@@ -115,7 +115,6 @@
 |[Diman1992/Prak1213](https://github.com/Diman1992/Prak1213)                                                      |[Übersicht](repo/Diman1992/Prak1213)                           |15.07.2013 13:57:19|          23|                    7|
 |[dlmsr/praktikum](https://github.com/dlmsr/praktikum)                                                            |[Übersicht](repo/dlmsr/praktikum)                              |12.03.2020 11:10:24|          26|                    0|
 |[dormail/ap](https://github.com/dormail/ap)                                                                      |[Übersicht](repo/dormail/ap)                                   |15.07.2021 06:59:00|          18|                    0|
-|[elliekayl/Protokolle](https://github.com/elliekayl/Protokolle)                                                  |[Übersicht](repo/elliekayl/Protokolle)                         |21.12.2019 22:15:36|          23|                   23|
 |[Enno-Enno/PraktikumWS2223](https://github.com/Enno-Enno/PraktikumWS2223)                                        |[Übersicht](repo/Enno-Enno/PraktikumWS2223)                    |01.07.2023 14:01:19|          19|                    0|
 |[FeGeyer/praktikum](https://github.com/FeGeyer/praktikum)                                                        |[Übersicht](repo/FeGeyer/praktikum)                            |06.03.2019 12:03:15|          31|                   21|
 |[Fresoquark/Anfaengerpraktikum](https://github.com/Fresoquark/Anfaengerpraktikum)                                |[Übersicht](repo/Fresoquark/Anfaengerpraktikum)                |08.07.2018 16:41:54|          12|                    0|
@@ -232,12 +231,12 @@
 
 
 ## Statistiken
-- **138** Repos
+- **137** Repos
 - **77** Versuche
-- **1622** Protokolle
-- **549** Protokolle mit PDFs
+- **1599** Protokolle
+- **526** Protokolle mit PDFs
 - **0** PDFs von _awesome-ap-pdfs_
-- **706** PDFs insgesamt
+- **682** PDFs insgesamt
 
 <p>Zuletzt aktualisiert: <span id="last-modified">[lade…]</span></p>
 <script async>
