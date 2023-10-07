@@ -34,7 +34,7 @@
 | 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     22|
 | 65|Röntgenreflektrometrie                                               |[Übersicht](versuch/65) |      1|
 | 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     13|
-|101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     30|
+|101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     31|
 |102|Drehschwingungen                                                     |[Übersicht](versuch/102)|     15|
 |103|Biegung elastischer Stäbe                                            |[Übersicht](versuch/103)|     38|
 |104|Der Doppler-Effekt                                                   |[Übersicht](versuch/104)|     10|
@@ -102,6 +102,7 @@
 |[bixel/AP1213](https://github.com/bixel/AP1213)                                                                  |[Übersicht](repo/bixel/AP1213)                                 |15.03.2014 13:00:24|          23|                   23|
 |[bixel/FP14](https://github.com/bixel/FP14)                                                                      |[Übersicht](repo/bixel/FP14)                                   |07.10.2016 19:42:14|          11|                    0|
 |[brkkbkc/FPSS18_5](https://github.com/brkkbkc/FPSS18_5)                                                          |[Übersicht](repo/brkkbkc/FPSS18_5)                             |29.08.2018 13:23:12|           6|                    0|
+|[chrbeckm/anfaenger-praktikum](https://github.com/chrbeckm/anfaenger-praktikum)                                  |[Übersicht](repo/chrbeckm/anfaenger-praktikum)                 |06.10.2023 14:24:47|           1|                    0|
 |[chris-topher6/Anfaenger-Praktikum](https://github.com/chris-topher6/Anfaenger-Praktikum)                        |[Übersicht](repo/chris-topher6/Anfaenger-Praktikum)            |25.05.2022 16:54:20|          18|                    0|
 |[chris-topher6/FP](https://github.com/chris-topher6/FP)                                                          |[Übersicht](repo/chris-topher6/FP)                             |12.08.2022 07:01:19|           5|                    0|
 |[Christopherkrause1/FortgeschrittenesPraktikum](https://github.com/Christopherkrause1/FortgeschrittenesPraktikum)|[Übersicht](repo/Christopherkrause1/FortgeschrittenesPraktikum)|26.06.2019 07:54:06|           5|                    0|
@@ -231,9 +232,9 @@
 
 
 ## Statistiken
-- **137** Repos
+- **138** Repos
 - **77** Versuche
-- **1599** Protokolle
+- **1600** Protokolle
 - **526** Protokolle mit PDFs
 - **0** PDFs von _awesome-ap-pdfs_
 - **682** PDFs insgesamt

@@ -1736,6 +1736,28 @@
       - V64-Interferometrie
       pdfs: []
 - authors:
+  - Christian Beckmann
+  - "Sebastian L\xFCtge"
+  branch: main
+  contributors:
+  - html_url: https://github.com/chrbeckm
+    login: chrbeckm
+  full_name: chrbeckm/anfaenger-praktikum
+  last_commit: 2023-10-06 14:24:47
+  protokolle:
+    101:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 14
+        total_single_comments: 0
+        total_sloc: 14
+      dirs:
+      - v101
+      pdfs: []
+- authors:
   - Christopher Krause
   - Lucas Witthaus
   branch: master
