@@ -2090,67 +2090,31 @@
   - html_url: https://github.com/chris-topher6
     login: chris-topher6
   full_name: chris-topher6/FP
-  last_commit: 2022-08-12 07:01:19
+  last_commit: 2023-10-17 19:14:00
   protokolle:
     1:
       code_analysis:
         has_errors: false
-        num_files: 6
-        total_comments: 40
-        total_comments_of_interest: 23
-        total_lloc: 251
-        total_single_comments: 23
-        total_sloc: 236
+        num_files: 17
+        total_comments: 161
+        total_comments_of_interest: 93
+        total_lloc: 951
+        total_single_comments: 96
+        total_sloc: 1138
       dirs:
-      - V01
-      pdfs: []
-    21:
-      code_analysis:
-        has_errors: false
-        num_files: 1
-        total_comments: 18
-        total_comments_of_interest: 12
-        total_lloc: 83
-        total_single_comments: 17
-        total_sloc: 122
-      dirs:
-      - V21
+      - Bachelor
       pdfs: []
     27:
       code_analysis:
         has_errors: false
-        num_files: 4
-        total_comments: 38
-        total_comments_of_interest: 12
-        total_lloc: 102
-        total_single_comments: 6
-        total_sloc: 128
+        num_files: 3
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
       dirs:
-      - V27
-      pdfs: []
-    46:
-      code_analysis:
-        has_errors: false
-        num_files: 1
-        total_comments: 36
-        total_comments_of_interest: 20
-        total_lloc: 122
-        total_single_comments: 25
-        total_sloc: 243
-      dirs:
-      - V46
-      pdfs: []
-    70:
-      code_analysis:
-        has_errors: false
-        num_files: 5
-        total_comments: 29
-        total_comments_of_interest: 26
-        total_lloc: 393
-        total_single_comments: 25
-        total_sloc: 409
-      dirs:
-      - V70
+      - Master
       pdfs: []
 - authors:
   - "Dag-Bj\xF6rn Hering"

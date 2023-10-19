@@ -13,14 +13,14 @@
 | 15|Vermessung und Untersuchung von Silizium-Streifensensoren            |[Übersicht](versuch/15) |      3|
 | 16|Rutherford-Streuung                                                  |[Übersicht](versuch/16) |     12|
 | 18|Der Reinst-Germanium-Detektor als Instrument der Gamma-Spektroskopie |[Übersicht](versuch/18) |     14|
-| 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     36|
+| 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     35|
 | 23|Quanten-Analogien                                                    |[Übersicht](versuch/23) |     11|
 | 25|Der Stern-Gerlach-Versuch                                            |[Übersicht](versuch/25) |      3|
 | 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     36|
 | 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      9|
 | 41|Debye-Scherrer-Aufnahmen                                             |[Übersicht](versuch/41) |      9|
 | 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     14|
-| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     34|
+| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     33|
 | 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     26|
 | 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     24|
 | 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     16|
@@ -33,7 +33,7 @@
 | 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     32|
 | 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     22|
 | 65|Röntgenreflektrometrie                                               |[Übersicht](versuch/65) |      1|
-| 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     13|
+| 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     12|
 |101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     31|
 |102|Drehschwingungen                                                     |[Übersicht](versuch/102)|     15|
 |103|Biegung elastischer Stäbe                                            |[Übersicht](versuch/103)|     38|
@@ -104,7 +104,7 @@
 |[brkkbkc/FPSS18_5](https://github.com/brkkbkc/FPSS18_5)                                                          |[Übersicht](repo/brkkbkc/FPSS18_5)                             |29.08.2018 13:23:12|           6|                    0|
 |[chrbeckm/anfaenger-praktikum](https://github.com/chrbeckm/anfaenger-praktikum)                                  |[Übersicht](repo/chrbeckm/anfaenger-praktikum)                 |06.10.2023 14:24:47|           1|                    0|
 |[chris-topher6/Anfaenger-Praktikum](https://github.com/chris-topher6/Anfaenger-Praktikum)                        |[Übersicht](repo/chris-topher6/Anfaenger-Praktikum)            |25.05.2022 16:54:20|          18|                    0|
-|[chris-topher6/FP](https://github.com/chris-topher6/FP)                                                          |[Übersicht](repo/chris-topher6/FP)                             |12.08.2022 07:01:19|           5|                    0|
+|[chris-topher6/FP](https://github.com/chris-topher6/FP)                                                          |[Übersicht](repo/chris-topher6/FP)                             |17.10.2023 19:14:00|           2|                    0|
 |[Christopherkrause1/FortgeschrittenesPraktikum](https://github.com/Christopherkrause1/FortgeschrittenesPraktikum)|[Übersicht](repo/Christopherkrause1/FortgeschrittenesPraktikum)|26.06.2019 07:54:06|           5|                    0|
 |[Christopherkrause1/Praktikum](https://github.com/Christopherkrause1/Praktikum)                                  |[Übersicht](repo/Christopherkrause1/Praktikum)                 |22.10.2017 10:55:47|           1|                    0|
 |[dagbjoern/AP-Physik](https://github.com/dagbjoern/AP-Physik)                                                    |[Übersicht](repo/dagbjoern/AP-Physik)                          |12.07.2016 09:19:16|          22|                    8|
@@ -234,7 +234,7 @@
 ## Statistiken
 - **138** Repos
 - **77** Versuche
-- **1600** Protokolle
+- **1597** Protokolle
 - **526** Protokolle mit PDFs
 - **0** PDFs von _awesome-ap-pdfs_
 - **682** PDFs insgesamt
