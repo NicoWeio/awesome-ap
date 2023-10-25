@@ -2090,7 +2090,7 @@
   - html_url: https://github.com/chris-topher6
     login: chris-topher6
   full_name: chris-topher6/FP
-  last_commit: 2023-10-23 15:31:41
+  last_commit: 2023-10-24 13:38:23
   protokolle:
     1:
       code_analysis:
@@ -2110,9 +2110,9 @@
         num_files: 3
         total_comments: 1
         total_comments_of_interest: 1
-        total_lloc: 16
+        total_lloc: 14
         total_single_comments: 1
-        total_sloc: 16
+        total_sloc: 14
       dirs:
       - Master
       pdfs: []
@@ -14811,8 +14811,6 @@
   - "Tobias R\xFCcker"
   branch: master
   contributors:
-  - html_url: https://github.com/Fafnier8
-    login: Fafnier8
   - html_url: https://github.com/paul-stoerbrock
     login: paul-stoerbrock
   full_name: paul-stoerbrock/Praktikum

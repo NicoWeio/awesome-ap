@@ -7,7 +7,6 @@ Letzter Commit: 17.07.2020 15:53:36
 - Paul Störbrock
 
 ## Autoren (GitHub)
-- [Fafnier8](https://github.com/Fafnier8)
 - [paul-stoerbrock](https://github.com/paul-stoerbrock)
 
 ## Versuche
