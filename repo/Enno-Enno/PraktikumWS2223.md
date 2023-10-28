@@ -3,8 +3,8 @@
 Letzter Commit: 01.07.2023 14:01:19
 
 ## Autoren (Klarnamen)
-- Frau Clara Sondermann
 - Clara Sondermann
+- Frau Clara Sondermann
 - Enno Wellmann
 - Herr Enno Wellmann
 
