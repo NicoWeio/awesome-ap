@@ -12,11 +12,11 @@
 | 14|Tomographie mit Gamma-Strahlung                                      |[Übersicht](versuch/14) |     24|
 | 15|Vermessung und Untersuchung von Silizium-Streifensensoren            |[Übersicht](versuch/15) |      3|
 | 16|Rutherford-Streuung                                                  |[Übersicht](versuch/16) |     12|
-| 18|Der Reinst-Germanium-Detektor als Instrument der Gamma-Spektroskopie |[Übersicht](versuch/18) |     14|
+| 18|Der Reinst-Germanium-Detektor als Instrument der Gamma-Spektroskopie |[Übersicht](versuch/18) |     15|
 | 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     35|
 | 23|Quanten-Analogien                                                    |[Übersicht](versuch/23) |     11|
 | 25|Der Stern-Gerlach-Versuch                                            |[Übersicht](versuch/25) |      3|
-| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     36|
+| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     35|
 | 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      9|
 | 41|Debye-Scherrer-Aufnahmen                                             |[Übersicht](versuch/41) |      9|
 | 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     14|
@@ -104,7 +104,7 @@
 |[brkkbkc/FPSS18_5](https://github.com/brkkbkc/FPSS18_5)                                                          |[Übersicht](repo/brkkbkc/FPSS18_5)                             |29.08.2018 13:23:12|           6|                    0|
 |[chrbeckm/anfaenger-praktikum](https://github.com/chrbeckm/anfaenger-praktikum)                                  |[Übersicht](repo/chrbeckm/anfaenger-praktikum)                 |06.10.2023 14:24:47|           1|                    0|
 |[chris-topher6/Anfaenger-Praktikum](https://github.com/chris-topher6/Anfaenger-Praktikum)                        |[Übersicht](repo/chris-topher6/Anfaenger-Praktikum)            |25.05.2022 16:54:20|          18|                    0|
-|[chris-topher6/FP](https://github.com/chris-topher6/FP)                                                          |[Übersicht](repo/chris-topher6/FP)                             |07.11.2023 17:21:02|           2|                    0|
+|[chris-topher6/FP](https://github.com/chris-topher6/FP)                                                          |[Übersicht](repo/chris-topher6/FP)                             |09.11.2023 01:58:03|           2|                    0|
 |[Christopherkrause1/FortgeschrittenesPraktikum](https://github.com/Christopherkrause1/FortgeschrittenesPraktikum)|[Übersicht](repo/Christopherkrause1/FortgeschrittenesPraktikum)|26.06.2019 07:54:06|           5|                    0|
 |[Christopherkrause1/Praktikum](https://github.com/Christopherkrause1/Praktikum)                                  |[Übersicht](repo/Christopherkrause1/Praktikum)                 |22.10.2017 10:55:47|           1|                    0|
 |[dagbjoern/AP-Physik](https://github.com/dagbjoern/AP-Physik)                                                    |[Übersicht](repo/dagbjoern/AP-Physik)                          |12.07.2016 09:19:16|          22|                    8|
