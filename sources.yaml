@@ -15,9 +15,14 @@
 - name: AReinold/Master-FP
   pdfs:
     directory: PDF-Dateien abtestiert
-- name: Bastian125/AP-Praktikum
+- name: Bastian125/AP
   pdfs:
     directory: Versuche
+- name: Bastian125/FP
+  subdirectory:
+    - Protokolle
+  pdfs:
+    directory: PDFs
 # TODO: Mehrere Unterordner, auch für PDFs
 - name: BenediktSan/AnfaengerPraktikum2020
   subdirectory:
@@ -183,6 +188,9 @@
 - name: joeyko2706/Anfaengerpraktikum-21-22
   pdfs:
     directory: Protokolle
+- name: joeyko2706/FP-Bachelor
+  pdfs:
+    directory: PDFs
 - name: jpherdi/FP_20_21
 - name: jpherdi/Praktikum
 - name: JulianSch/FP-Pelle-Julian
@@ -298,6 +306,9 @@
 - name: lukas-bert/AP-1-Versuchsprotokolle
   dirs_to_versuche:
     "vXXX": false
+- name: lukas-bert/FP-Versuchsprotokolle
+  pdfs:
+    in_source_dir: true
 - name: LukasNickel/praktikumsskripte
   pdfs:
     in_source_dir: true
@@ -468,6 +479,11 @@
 - name: stefangri/s_s_masterpraktikum
 - name: stefangri/s_s_productions
   subdirectory: PHY341
+- name: steffenkober/FP-Versuchsprotokolle
+  dirs_to_versuche:
+    "vXX": false
+  pdfs:
+    in_source_dir: true
 - name: LarsKolk/Anfaengerpraktikum
   dirs_to_versuche:
     V303-Lock-In-Verstärker: 303 # in der Datei steht fälschlicherweise V351
@@ -544,10 +560,14 @@
   ignore: true
 - name: lassestern/FK_FP
   ignore: true
+- name: maaxxns/FKP_FP_22_23
+  ignore: true
 - name: stefangri/fekoe_fp
   ignore: true
 # ███ Elektronik
 # ███ Teilchenphysik / Detektoren
+- name: luca-dib/FP_PP
+  ignore: true
 - name: Ninilini/FP_Teilchen
   ignore: true
 - name: noahbehling/Teilchenpraktikum
