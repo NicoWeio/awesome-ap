@@ -523,7 +523,7 @@
     login: Bastian125
   - html_url: https://github.com/LdyMortem
     login: LdyMortem
-  full_name: Bastian125/AP-Praktikum
+  full_name: Bastian125/AP
   last_commit: 2023-05-08 15:49:16
   protokolle:
     101:
@@ -786,6 +786,83 @@
       - US3-Dopplersonographie
       pdfs:
       - Versuche/US3 - Dopplersonographie.pdf
+- authors:
+  - Bastian Schuchardt
+  - Theodor Zies
+  branch: main
+  contributors:
+  - html_url: https://github.com/Bastian125
+    login: Bastian125
+  - html_url: https://github.com/th3odor
+    login: th3odor
+  full_name: Bastian125/FP
+  last_commit: 2023-07-25 20:10:33
+  protokolle:
+    21:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 4
+        total_comments_of_interest: 4
+        total_lloc: 58
+        total_single_comments: 4
+        total_sloc: 59
+      dirs:
+      - Protokolle/V21
+      pdfs:
+      - PDFs/V21.pdf
+    46:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 27
+        total_comments_of_interest: 26
+        total_lloc: 98
+        total_single_comments: 27
+        total_sloc: 108
+      dirs:
+      - Protokolle/V46
+      pdfs:
+      - PDFs/V46.pdf
+    60:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - Protokolle/V60
+      pdfs:
+      - PDFs/V60.pdf
+    61:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 11
+        total_comments_of_interest: 6
+        total_lloc: 101
+        total_single_comments: 4
+        total_sloc: 102
+      dirs:
+      - Protokolle/V61
+      pdfs:
+      - PDFs/V61.pdf
+    70:
+      code_analysis:
+        has_errors: false
+        num_files: 3
+        total_comments: 77
+        total_comments_of_interest: 36
+        total_lloc: 242
+        total_single_comments: 77
+        total_sloc: 305
+      dirs:
+      - Protokolle/V70
+      pdfs:
+      - PDFs/v70.pdf
 - authors:
   - Benedikt Sander
   - "Niklas D\xFCser"
@@ -7744,6 +7821,81 @@
       pdfs:
       - Protokolle/vUS3.pdf
 - authors:
+  - Felix Symma
+  - Joel Koch
+  branch: main
+  contributors:
+  - html_url: https://github.com/joeyko2706
+    login: joeyko2706
+  full_name: joeyko2706/FP-Bachelor
+  last_commit: 2023-10-13 09:25:03
+  protokolle:
+    21:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 25
+        total_comments_of_interest: 20
+        total_lloc: 87
+        total_single_comments: 15
+        total_sloc: 85
+      dirs:
+      - v21
+      pdfs:
+      - PDFs/v21.pdf
+    46:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - v46
+      pdfs:
+      - PDFs/v46.pdf
+    60:
+      code_analysis:
+        has_errors: false
+        num_files: 0
+        total_comments: 0
+        total_comments_of_interest: 0
+        total_lloc: 0
+        total_single_comments: 0
+        total_sloc: 0
+      dirs:
+      - v60
+      pdfs:
+      - PDFs/v60.pdf
+    61:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 20
+        total_comments_of_interest: 15
+        total_lloc: 101
+        total_single_comments: 20
+        total_sloc: 102
+      dirs:
+      - v61
+      pdfs:
+      - PDFs/v61.pdf
+    70:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - v70
+      pdfs:
+      - PDFs/v70.pdf
+- authors:
   - Jan Herdieckerhoff
   - Katrin Bolsmann
   branch: master
@@ -11025,6 +11177,109 @@
       dirs:
       - vUS3
       pdfs: []
+- authors:
+  - Lukas Bertsch
+  - Tom Troska
+  branch: main
+  contributors:
+  - html_url: https://github.com/lukas-bert
+    login: lukas-bert
+  - html_url: https://github.com/ttros
+    login: ttros
+  full_name: lukas-bert/FP-Versuchsprotokolle
+  last_commit: 2023-11-16 10:58:40
+  protokolle:
+    1:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 30
+        total_comments_of_interest: 12
+        total_lloc: 80
+        total_single_comments: 29
+        total_sloc: 80
+      dirs:
+      - v01
+      pdfs:
+      - v01/v01.pdf
+    21:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 21
+        total_comments_of_interest: 16
+        total_lloc: 146
+        total_single_comments: 19
+        total_sloc: 147
+      dirs:
+      - v21
+      pdfs:
+      - v21/v21.pdf
+    44:
+      code_analysis:
+        has_errors: false
+        num_files: 2
+        total_comments: 59
+        total_comments_of_interest: 40
+        total_lloc: 272
+        total_single_comments: 41
+        total_sloc: 283
+      dirs:
+      - v44
+      pdfs:
+      - v44/v44.pdf
+    46:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 10
+        total_comments_of_interest: 10
+        total_lloc: 96
+        total_single_comments: 10
+        total_sloc: 99
+      dirs:
+      - v46
+      pdfs:
+      - v46/v46.pdf
+    47:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 14
+        total_comments_of_interest: 9
+        total_lloc: 49
+        total_single_comments: 9
+        total_sloc: 54
+      dirs:
+      - v47
+      pdfs:
+      - v47/v47.pdf
+    60:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - v60
+      pdfs:
+      - v60/v60.pdf
+    64:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 11
+        total_comments_of_interest: 11
+        total_lloc: 113
+        total_single_comments: 7
+        total_sloc: 114
+      dirs:
+      - v64
+      pdfs:
+      - v64/v64.pdf
 - authors:
   - Lukas Nickel
   - Rohat Kavili
@@ -19381,6 +19636,105 @@
       dirs:
       - PHY341/US1
       pdfs: []
+- authors:
+  - Steffen Kober
+  - Tabea Hacheney
+  branch: main
+  contributors:
+  - html_url: https://github.com/steffenkober
+    login: steffenkober
+  full_name: steffenkober/FP-Versuchsprotokolle
+  last_commit: 2023-11-08 12:14:29
+  protokolle:
+    1:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 16
+        total_comments_of_interest: 9
+        total_lloc: 82
+        total_single_comments: 14
+        total_sloc: 82
+      dirs:
+      - v01
+      pdfs: []
+    18:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 16
+        total_single_comments: 1
+        total_sloc: 16
+      dirs:
+      - v18
+      pdfs: []
+    21:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 21
+        total_comments_of_interest: 12
+        total_lloc: 78
+        total_single_comments: 11
+        total_sloc: 78
+      dirs:
+      - v21
+      pdfs:
+      - v21/v21.pdf
+    46:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 25
+        total_comments_of_interest: 12
+        total_lloc: 95
+        total_single_comments: 20
+        total_sloc: 92
+      dirs:
+      - v46
+      pdfs:
+      - v46/v46.pdf
+    47:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 20
+        total_comments_of_interest: 14
+        total_lloc: 57
+        total_single_comments: 15
+        total_sloc: 56
+      dirs:
+      - v47
+      pdfs:
+      - v47/v47.pdf
+    53:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 11
+        total_comments_of_interest: 7
+        total_lloc: 98
+        total_single_comments: 10
+        total_sloc: 98
+      dirs:
+      - v53
+      pdfs:
+      - v53/v53.pdf
+    64:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 12
+        total_comments_of_interest: 10
+        total_lloc: 135
+        total_single_comments: 10
+        total_sloc: 133
+      dirs:
+      - v64
+      pdfs:
+      - v64/v64.pdf
 - authors:
   - Julia Sobolewski
   - Lars Kolk
