@@ -7828,7 +7828,7 @@
   - html_url: https://github.com/joeyko2706
     login: joeyko2706
   full_name: joeyko2706/FP-Bachelor
-  last_commit: 2023-10-13 09:25:03
+  last_commit: 2023-11-17 10:31:33
   protokolle:
     21:
       code_analysis:
@@ -7847,11 +7847,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 27
+        total_comments_of_interest: 13
+        total_lloc: 167
+        total_single_comments: 24
+        total_sloc: 163
       dirs:
       - v46
       pdfs:
@@ -7886,11 +7886,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 68
+        total_comments_of_interest: 36
+        total_lloc: 276
+        total_single_comments: 59
+        total_sloc: 266
       dirs:
       - v70
       pdfs:
