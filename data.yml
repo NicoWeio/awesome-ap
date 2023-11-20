@@ -19641,10 +19641,12 @@
   - Tabea Hacheney
   branch: main
   contributors:
+  - html_url: https://github.com/LdyMortem
+    login: LdyMortem
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: steffenkober/FP-Versuchsprotokolle
-  last_commit: 2023-11-08 12:14:29
+  last_commit: 2023-11-19 15:36:18
   protokolle:
     1:
       code_analysis:
@@ -19662,11 +19664,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 33
+        total_comments_of_interest: 17
+        total_lloc: 169
+        total_single_comments: 27
+        total_sloc: 149
       dirs:
       - v18
       pdfs: []

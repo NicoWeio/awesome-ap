@@ -1,12 +1,13 @@
 # [steffenkober/FP-Versuchsprotokolle](https://github.com/steffenkober/FP-Versuchsprotokolle)
 
-Letzter Commit: 08.11.2023 12:14:29
+Letzter Commit: 19.11.2023 15:36:18
 
 ## Autoren (Klarnamen)
 - Tabea Hacheney
 - Steffen Kober
 
 ## Autoren (GitHub)
+- [LdyMortem](https://github.com/LdyMortem)
 - [steffenkober](https://github.com/steffenkober)
 
 ## Versuche
