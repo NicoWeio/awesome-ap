@@ -22,7 +22,7 @@
 | 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     15|
 | 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     37|
 | 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     28|
-| 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     24|
+| 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     25|
 | 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     16|
 | 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |     12|
 | 52|Signale auf Leitungen                                                |[Übersicht](versuch/52) |      5|
@@ -167,7 +167,7 @@
 |[LuckyJosh/APPhysik](https://github.com/LuckyJosh/APPhysik)                                                      |[Übersicht](repo/LuckyJosh/APPhysik)                           |08.07.2014 19:22:20|          20|                    0|
 |[LuckyJosh/PhysikFP2015](https://github.com/LuckyJosh/PhysikFP2015)                                              |[Übersicht](repo/LuckyJosh/PhysikFP2015)                       |04.04.2020 14:53:48|          11|                    3|
 |[lukas-bert/AP-1-Versuchsprotokolle](https://github.com/lukas-bert/AP-1-Versuchsprotokolle)                      |[Übersicht](repo/lukas-bert/AP-1-Versuchsprotokolle)           |30.07.2022 12:57:08|          20|                    0|
-|[lukas-bert/FP-Versuchsprotokolle](https://github.com/lukas-bert/FP-Versuchsprotokolle)                          |[Übersicht](repo/lukas-bert/FP-Versuchsprotokolle)             |16.11.2023 10:58:40|           7|                    7|
+|[lukas-bert/FP-Versuchsprotokolle](https://github.com/lukas-bert/FP-Versuchsprotokolle)                          |[Übersicht](repo/lukas-bert/FP-Versuchsprotokolle)             |20.11.2023 14:59:18|           8|                    7|
 |[LukasNickel/praktikumsskripte](https://github.com/LukasNickel/praktikumsskripte)                                |[Übersicht](repo/LukasNickel/praktikumsskripte)                |23.12.2015 11:59:52|           4|                    3|
 |[lwitthaus/Anfaengerpraktikum](https://github.com/lwitthaus/Anfaengerpraktikum)                                  |[Übersicht](repo/lwitthaus/Anfaengerpraktikum)                 |11.07.2018 07:44:51|          21|                    0|
 |[maaxxns/FP_Samuel_Max](https://github.com/maaxxns/FP_Samuel_Max)                                                |[Übersicht](repo/maaxxns/FP_Samuel_Max)                        |14.08.2021 11:03:17|           5|                    0|
@@ -238,7 +238,7 @@
 ## Statistiken
 - **142** Repos
 - **77** Versuche
-- **1621** Protokolle
+- **1622** Protokolle
 - **548** Protokolle mit PDFs
 - **0** PDFs von _awesome-ap-pdfs_
 - **704** PDFs insgesamt
