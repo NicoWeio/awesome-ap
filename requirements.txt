@@ -1,7 +1,7 @@
 PyGithub~=1.56
 pylatexenc~=2.10
 pytablewriter~=0.64.2
-python-dotenv~=0.21.0
+python-dotenv~=1.0.0
 PyYAML~=6.0
 radon~=5.1.0
 requests~=2.28.1
