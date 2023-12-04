@@ -9,7 +9,7 @@ jobs:
   webarchive:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@v2
+    - uses: actions/checkout@v4
     - name: Update data source
       run: wget -N 'https://raw.githubusercontent.com/NicoWeio/awesome-ap/gh-pages/data.yml'
       working-directory: ./build
