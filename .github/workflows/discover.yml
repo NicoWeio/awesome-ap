@@ -20,7 +20,7 @@ jobs:
       run: python specials/discover/main.py
       env:
           INPUT_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-    - uses: actions/upload-artifact@v2
+    - uses: actions/upload-artifact@v3
       with:
         name: discover-results
         path: specials/discover/results.yaml
