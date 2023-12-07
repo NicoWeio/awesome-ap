@@ -11187,7 +11187,7 @@
   - html_url: https://github.com/ttros
     login: ttros
   full_name: lukas-bert/FP-Versuchsprotokolle
-  last_commit: 2023-11-25 21:29:20
+  last_commit: 2023-12-06 10:19:37
   protokolle:
     1:
       code_analysis:
@@ -11258,11 +11258,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 4
-        total_comments_of_interest: 3
-        total_lloc: 53
-        total_single_comments: 4
-        total_sloc: 54
+        total_comments: 20
+        total_comments_of_interest: 16
+        total_lloc: 222
+        total_single_comments: 18
+        total_sloc: 203
       dirs:
       - v48
       pdfs:
