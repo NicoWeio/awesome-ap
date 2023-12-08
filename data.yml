@@ -2167,7 +2167,7 @@
   - html_url: https://github.com/chris-topher6
     login: chris-topher6
   full_name: chris-topher6/FP
-  last_commit: 2023-12-05 10:39:51
+  last_commit: 2023-12-07 17:19:24
   protokolle:
     1:
       code_analysis:
@@ -2185,11 +2185,11 @@
       code_analysis:
         has_errors: false
         num_files: 13
-        total_comments: 80
-        total_comments_of_interest: 64
-        total_lloc: 322
-        total_single_comments: 67
-        total_sloc: 399
+        total_comments: 89
+        total_comments_of_interest: 66
+        total_lloc: 335
+        total_single_comments: 74
+        total_sloc: 411
       dirs:
       - Master
       pdfs: []
@@ -11187,7 +11187,7 @@
   - html_url: https://github.com/ttros
     login: ttros
   full_name: lukas-bert/FP-Versuchsprotokolle
-  last_commit: 2023-12-06 10:19:37
+  last_commit: 2023-12-07 23:18:09
   protokolle:
     1:
       code_analysis:
@@ -11258,11 +11258,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 20
-        total_comments_of_interest: 16
-        total_lloc: 222
-        total_single_comments: 18
-        total_sloc: 203
+        total_comments: 23
+        total_comments_of_interest: 18
+        total_lloc: 234
+        total_single_comments: 21
+        total_sloc: 215
       dirs:
       - v48
       pdfs:
@@ -19659,7 +19659,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: steffenkober/FP-Versuchsprotokolle
-  last_commit: 2023-12-05 18:25:30
+  last_commit: 2023-12-07 14:23:06
   protokolle:
     1:
       code_analysis:
