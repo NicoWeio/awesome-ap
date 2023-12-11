@@ -11187,7 +11187,7 @@
   - html_url: https://github.com/ttros
     login: ttros
   full_name: lukas-bert/FP-Versuchsprotokolle
-  last_commit: 2023-12-07 23:18:09
+  last_commit: 2023-12-10 13:06:33
   protokolle:
     1:
       code_analysis:
@@ -11280,6 +11280,19 @@
       - v60
       pdfs:
       - v60/v60.pdf
+    61:
+      code_analysis:
+        has_errors: false
+        num_files: 1
+        total_comments: 3
+        total_comments_of_interest: 2
+        total_lloc: 30
+        total_single_comments: 1
+        total_sloc: 30
+      dirs:
+      - v61
+      pdfs:
+      - v61/v61.pdf
     64:
       code_analysis:
         has_errors: false
@@ -19659,7 +19672,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: steffenkober/FP-Versuchsprotokolle
-  last_commit: 2023-12-07 14:23:06
+  last_commit: 2023-12-10 17:22:36
   protokolle:
     1:
       code_analysis:
@@ -19742,11 +19755,11 @@
       code_analysis:
         has_errors: false
         num_files: 1
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 16
-        total_single_comments: 1
-        total_sloc: 16
+        total_comments: 32
+        total_comments_of_interest: 20
+        total_lloc: 100
+        total_single_comments: 23
+        total_sloc: 100
       dirs:
       - v61
       pdfs: []
