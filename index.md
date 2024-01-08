@@ -9,31 +9,31 @@
 |Nr.|                                Name                                 |                        |# Repos|
 |--:|---------------------------------------------------------------------|------------------------|------:|
 |  1|Lebensdauer der Myonen                                               |[Übersicht](versuch/1)  |     26|
-| 14|Tomographie mit Gamma-Strahlung                                      |[Übersicht](versuch/14) |     24|
+| 14|Tomographie mit Gamma-Strahlung                                      |[Übersicht](versuch/14) |     23|
 | 15|Vermessung und Untersuchung von Silizium-Streifensensoren            |[Übersicht](versuch/15) |      3|
 | 16|Rutherford-Streuung                                                  |[Übersicht](versuch/16) |     12|
 | 18|Der Reinst-Germanium-Detektor als Instrument der Gamma-Spektroskopie |[Übersicht](versuch/18) |     16|
-| 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     39|
+| 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     38|
 | 23|Quanten-Analogien                                                    |[Übersicht](versuch/23) |     11|
 | 25|Der Stern-Gerlach-Versuch                                            |[Übersicht](versuch/25) |      3|
-| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     35|
+| 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     34|
 | 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      9|
 | 41|Debye-Scherrer-Aufnahmen                                             |[Übersicht](versuch/41) |      9|
-| 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     15|
-| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     37|
-| 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     28|
+| 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     14|
+| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     36|
+| 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     27|
 | 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     25|
 | 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     16|
-| 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |     12|
+| 51|Schaltungen mit Operationsverstärkern                                |[Übersicht](versuch/51) |     11|
 | 52|Signale auf Leitungen                                                |[Übersicht](versuch/52) |      5|
 | 53|Mikrowellen auf Hohlleitern                                          |[Übersicht](versuch/53) |     15|
 | 57|Elektrische Schwankungserscheinungen                                 |[Übersicht](versuch/57) |      4|
 | 59|Modulation und Demodulation elektrischer Schwingungen                |[Übersicht](versuch/59) |      5|
 | 60|Diodenlaser                                                          |[Übersicht](versuch/60) |     20|
-| 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     36|
-| 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     24|
+| 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     35|
+| 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     23|
 | 65|Röntgenreflektrometrie                                               |[Übersicht](versuch/65) |      1|
-| 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     14|
+| 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     13|
 |101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     31|
 |102|Drehschwingungen                                                     |[Übersicht](versuch/102)|     15|
 |103|Biegung elastischer Stäbe                                            |[Übersicht](versuch/103)|     38|
@@ -93,8 +93,6 @@
 |-----------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------|-------------------|-----------:|--------------------:|
 |[Anjaaaa/AP-1516](https://github.com/anjabeck/AP-1516)                                                           |[Übersicht](repo/Anjaaaa/AP-1516)                              |25.08.2016 10:31:08|          23|                   13|
 |[Anjaaaa/FP-17](https://github.com/anjabeck/FP-17)                                                               |[Übersicht](repo/Anjaaaa/FP-17)                                |12.07.2017 14:59:52|           5|                    0|
-|[AReinold/Bachelor-FP](https://github.com/AReinold/Bachelor-FP)                                                  |[Übersicht](repo/AReinold/Bachelor-FP)                         |09.07.2018 09:47:30|           5|                    0|
-|[AReinold/Master-FP](https://github.com/AReinold/Master-FP)                                                      |[Übersicht](repo/AReinold/Master-FP)                           |22.03.2020 13:24:47|           5|                    3|
 |[Bastian125/AP](https://github.com/Bastian125/AP)                                                                |[Übersicht](repo/Bastian125/AP)                                |08.05.2023 15:49:16|          20|                   20|
 |[Bastian125/FP](https://github.com/Bastian125/FP)                                                                |[Übersicht](repo/Bastian125/FP)                                |25.07.2023 20:10:33|           5|                    5|
 |[BenediktSan/AnfaengerPraktikum2020](https://github.com/BenediktSan/AnfaengerPraktikum2020)                      |[Übersicht](repo/BenediktSan/AnfaengerPraktikum2020)           |05.07.2021 21:32:58|          19|                   16|
@@ -236,12 +234,12 @@
 
 
 ## Statistiken
-- **142** Repos
+- **140** Repos
 - **77** Versuche
-- **1624** Protokolle
-- **551** Protokolle mit PDFs
+- **1614** Protokolle
+- **548** Protokolle mit PDFs
 - **0** PDFs von _awesome-ap-pdfs_
-- **707** PDFs insgesamt
+- **704** PDFs insgesamt
 
 <p>Zuletzt aktualisiert: <span id="last-modified">[lade…]</span></p>
 <script async>
