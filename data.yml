@@ -2020,7 +2020,7 @@
   - html_url: https://github.com/chris-topher6
     login: chris-topher6
   full_name: chris-topher6/FP
-  last_commit: 2024-01-11 20:47:47
+  last_commit: 2024-01-12 21:33:40
   protokolle:
     1:
       code_analysis:
@@ -2038,11 +2038,11 @@
       code_analysis:
         has_errors: false
         num_files: 19
-        total_comments: 234
-        total_comments_of_interest: 180
-        total_lloc: 807
-        total_single_comments: 198
-        total_sloc: 1035
+        total_comments: 225
+        total_comments_of_interest: 172
+        total_lloc: 791
+        total_single_comments: 186
+        total_sloc: 1009
       dirs:
       - Master
       pdfs: []
