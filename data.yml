@@ -2020,7 +2020,7 @@
   - html_url: https://github.com/chris-topher6
     login: chris-topher6
   full_name: chris-topher6/FP
-  last_commit: 2024-01-13 16:55:09
+  last_commit: 2024-01-15 00:45:30
   protokolle:
     1:
       code_analysis:
@@ -2038,11 +2038,11 @@
       code_analysis:
         has_errors: false
         num_files: 19
-        total_comments: 237
-        total_comments_of_interest: 178
-        total_lloc: 845
-        total_single_comments: 195
-        total_sloc: 1114
+        total_comments: 269
+        total_comments_of_interest: 193
+        total_lloc: 918
+        total_single_comments: 228
+        total_sloc: 1287
       dirs:
       - Master
       pdfs: []
@@ -11040,7 +11040,7 @@
   - html_url: https://github.com/ttros
     login: ttros
   full_name: lukas-bert/FP-Versuchsprotokolle
-  last_commit: 2024-01-08 18:44:06
+  last_commit: 2024-01-14 11:42:40
   protokolle:
     1:
       code_analysis:
@@ -11131,7 +11131,8 @@
         total_sloc: 16
       dirs:
       - v51
-      pdfs: []
+      pdfs:
+      - v51/v51.pdf
     60:
       code_analysis:
         has_errors: false
