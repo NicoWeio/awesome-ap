@@ -19538,7 +19538,7 @@
   - html_url: https://github.com/steffenkober
     login: steffenkober
   full_name: steffenkober/FP-Versuchsprotokolle
-  last_commit: 2024-01-15 15:36:42
+  last_commit: 2024-01-16 22:01:31
   protokolle:
     1:
       code_analysis:
@@ -19582,11 +19582,11 @@
       code_analysis:
         has_errors: false
         num_files: 2
-        total_comments: 61
-        total_comments_of_interest: 24
-        total_lloc: 200
-        total_single_comments: 52
-        total_sloc: 200
+        total_comments: 51
+        total_comments_of_interest: 27
+        total_lloc: 210
+        total_single_comments: 34
+        total_sloc: 209
       dirs:
       - v44
       pdfs: []
