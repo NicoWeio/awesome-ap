@@ -2020,7 +2020,7 @@
   - html_url: https://github.com/chris-topher6
     login: chris-topher6
   full_name: chris-topher6/FP
-  last_commit: 2024-02-12 11:43:09
+  last_commit: 2024-02-15 13:13:16
   protokolle:
     1:
       code_analysis:
@@ -2038,11 +2038,11 @@
       code_analysis:
         has_errors: false
         num_files: 22
-        total_comments: 462
-        total_comments_of_interest: 279
-        total_lloc: 1258
-        total_single_comments: 403
-        total_sloc: 1883
+        total_comments: 471
+        total_comments_of_interest: 283
+        total_lloc: 1278
+        total_single_comments: 404
+        total_sloc: 1922
       dirs:
       - Master
       pdfs: []
@@ -7753,8 +7753,8 @@
   - Katrin Bolsmann
   branch: master
   contributors:
-  - html_url: https://github.com/jpherdi
-    login: jpherdi
+  - html_url: https://github.com/jpwgnr
+    login: jpwgnr
   - html_url: https://github.com/katrinbls
     login: katrinbls
   full_name: jpherdi/FP_20_21
@@ -7825,8 +7825,8 @@
   - Karina Overhoff
   branch: master
   contributors:
-  - html_url: https://github.com/jpherdi
-    login: jpherdi
+  - html_url: https://github.com/jpwgnr
+    login: jpwgnr
   - html_url: https://github.com/karina1007
     login: karina1007
   full_name: jpherdi/Praktikum
