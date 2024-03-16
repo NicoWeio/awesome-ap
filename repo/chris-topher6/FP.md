@@ -8,7 +8,7 @@ Letzter Commit: 15.02.2024 13:13:16
 
 ## Autoren (GitHub)
 - [chris-topher6](https://github.com/chris-topher6)
-- [Henry-Kr15](https://github.com/Henry-Kr15)
+- [henrykrm](https://github.com/henrykrm)
 
 ## Versuche
 

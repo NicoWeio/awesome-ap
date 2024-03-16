@@ -1785,12 +1785,12 @@
   - "Henry Kr\xE4merk\xE4mper"
   branch: master
   contributors:
-  - html_url: https://github.com/Henry-Kr15
-    login: Henry-Kr15
   - html_url: https://github.com/NicoWeio
     login: NicoWeio
   - html_url: https://github.com/chris-topher6
     login: chris-topher6
+  - html_url: https://github.com/henrykrm
+    login: henrykrm
   full_name: chris-topher6/Anfaenger-Praktikum
   last_commit: 2022-05-25 16:54:20
   protokolle:
@@ -2015,10 +2015,10 @@
   - "Henry Kr\xE4merk\xE4mper"
   branch: master
   contributors:
-  - html_url: https://github.com/Henry-Kr15
-    login: Henry-Kr15
   - html_url: https://github.com/chris-topher6
     login: chris-topher6
+  - html_url: https://github.com/henrykrm
+    login: henrykrm
   full_name: chris-topher6/FP
   last_commit: 2024-02-15 13:13:16
   protokolle:
