@@ -191,8 +191,8 @@
 - name: joeyko2706/FP-Bachelor
   pdfs:
     directory: PDFs
-- name: jpherdi/FP_20_21
-- name: jpherdi/Praktikum
+- name: jpwgnr/FP_20_21
+- name: jpwgnr/Praktikum
 - name: JulianSch/FP-Pelle-Julian
   dirs_to_versuche:
     V14-Topografie: 14 # in der Datei steht fälschlicherweise V01
@@ -389,6 +389,7 @@
   dirs_to_versuche:
     A10_Bearbeitung: false
 - name: Ninilini/FP-Bachelor
+- name: noahbehling/FP_Master
 - name: nsalewski/laboratory
   dirs_to_versuche:
     Vorlage Protokoll: false
@@ -506,7 +507,7 @@
 - name: ttros/Praktikum
   subdirectory: Protokolle
 # TODO: Eigenwillige Ordnerstruktur
-- name: twelvemd12/fp
+- name: THEMayo12/fp
   subdirectory: versuche
   dirs_to_versuche:
     debye: 41
@@ -522,6 +523,11 @@
   dirs_to_versuche:
     V00: false
 - name: VorniV/FP
+  pdfs:
+    in_source_dir: true
+- name: VorniV/FP-Master
+  dirs_to_versuche:
+    Dipolrelaxation: 48
   pdfs:
     in_source_dir: true
 - name: vsulaiman/Praktikum
@@ -549,6 +555,8 @@
 # - ghzut
 # - majesticrock
 # - MiraArndt
+# - PBlomenkamp
+# - Thogasa
 
 # ██████████ nicht AP/FP
 # Künftig könnte das Awesome-AP-Projekt weitere Module umfassen, aktuell ist dies nur eine Art Blacklist.
@@ -564,8 +572,11 @@
   ignore: true
 - name: stefangri/fekoe_fp
   ignore: true
-# ███ Elektronik
 # ███ Teilchenphysik / Detektoren
+- name: chris-topher6/FP_ATLAS
+  ignore: true
+- name: chris-topher6/LHCb-Schwerpunktspraktikum
+  ignore: true
 - name: luca-dib/FP_PP
   ignore: true
 - name: Ninilini/FP_Teilchen
@@ -573,3 +584,5 @@
 - name: noahbehling/Teilchenpraktikum
   ignore: true
 # ███ „Theoretikum“ (Programmierpraktikum)
+# ███ Elektronik
+# → ohne Protokolle
