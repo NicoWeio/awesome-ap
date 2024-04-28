@@ -1,4 +1,4 @@
-# [jpherdi/Praktikum](https://github.com/jpwgnr/Praktikum)
+# [jpwgnr/Praktikum](https://github.com/jpwgnr/Praktikum)
 
 Letzter Commit: 22.08.2020 14:15:53
 
