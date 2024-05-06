@@ -8,7 +8,7 @@ from awesome_ap.config import CONFIG, DEV, GITHUB_TOKEN, REPOS_BASE_PATH
 from awesome_ap.console import *
 from awesome_ap.exporting.export import generate_yaml
 from awesome_ap.exporting.generate import generate_md
-# from awesome_ap.importing.import_external_pdfs import add_aap_pdfs
+from awesome_ap.importing.import_external_pdfs import add_aap_pdfs
 from awesome_ap.importing.import_repo import import_repo
 
 # funktioniert auch ohne Token
@@ -40,8 +40,8 @@ for repo in repos:
         raise
 
 # ■ Einbinden der „awesome-ap-pdfs“:
-# console.rule('*** NicoWeio/awesome-ap-pdfs ***')
-# repos_to_versuche = add_aap_pdfs(repos_to_versuche, gh)
+console.rule('*** NicoWeio/awesome-ap-pdfs ***')
+repos_to_versuche = add_aap_pdfs(repos_to_versuche, gh)
 
 console.rule('*** Analyse ***')
 
