@@ -7,7 +7,6 @@ Letzter Commit: 22.08.2020 14:15:53
 - Karina Overhoff
 
 ## Autoren (GitHub)
-- [jpwgnr](https://github.com/jpwgnr)
 - [karina1007](https://github.com/karina1007)
 
 ## Versuche
