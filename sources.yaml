@@ -188,9 +188,13 @@
 - name: joeyko2706/Anfaengerpraktikum-21-22
   pdfs:
     directory: Protokolle
+  ignore: true
+  note: Gehört zu den größten Repos; ignoriert, um Speicherplatz zu sparen. (TODO)
 - name: joeyko2706/FP-Bachelor
   pdfs:
     directory: PDFs
+  ignore: true
+  note: Gehört zu den größten Repos; ignoriert, um Speicherplatz zu sparen. (TODO)
 - name: jpwgnr/FP_20_21
 - name: jpwgnr/Praktikum
 - name: JulianSch/FP-Pelle-Julian
@@ -581,6 +585,7 @@
   ignore: true
 - name: Ninilini/FP_Teilchen
   ignore: true
+  note: Enthält ~2GB Simulationsdaten; siehe https://github.com/Ninilini/FP_Teilchen/tree/master/Szintillierende_Fasern/data/Simulation
 - name: noahbehling/Teilchenpraktikum
   ignore: true
 # ███ „Theoretikum“ (Programmierpraktikum)
