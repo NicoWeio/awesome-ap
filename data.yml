@@ -128,13 +128,13 @@
       - "V303-Lock-In-Verst\xE4rker/Protokoll.pdf"
     351:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 2
-        total_comments: 7
-        total_comments_of_interest: 6
-        total_lloc: 19
-        total_single_comments: 5
-        total_sloc: 19
+        total_comments: 16
+        total_comments_of_interest: 14
+        total_lloc: 98
+        total_single_comments: 12
+        total_sloc: 98
       dirs:
       - V351-Fourieranalyse und -synthese
       pdfs:
@@ -309,49 +309,49 @@
   protokolle:
     21:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 3
-        total_comments: 49
-        total_comments_of_interest: 33
-        total_lloc: 251
-        total_single_comments: 43
-        total_sloc: 283
+        total_comments: 63
+        total_comments_of_interest: 42
+        total_lloc: 350
+        total_single_comments: 54
+        total_sloc: 388
       dirs:
       - V21-Optisches-Pumpen
       pdfs: []
     27:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 3
-        total_comments: 58
-        total_comments_of_interest: 34
-        total_lloc: 209
-        total_single_comments: 47
-        total_sloc: 246
+        total_comments: 72
+        total_comments_of_interest: 43
+        total_lloc: 308
+        total_single_comments: 58
+        total_sloc: 351
       dirs:
       - V27-Zeeman-Effekt
       pdfs: []
     28:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 4
-        total_comments: 58
-        total_comments_of_interest: 42
-        total_lloc: 217
-        total_single_comments: 52
-        total_sloc: 248
+        total_comments: 72
+        total_comments_of_interest: 51
+        total_lloc: 316
+        total_single_comments: 63
+        total_sloc: 353
       dirs:
       - V28-ESR
       pdfs: []
     52:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 18
-        total_comments: 149
-        total_comments_of_interest: 116
-        total_lloc: 722
-        total_single_comments: 138
-        total_sloc: 789
+        total_comments: 163
+        total_comments_of_interest: 125
+        total_lloc: 821
+        total_single_comments: 149
+        total_sloc: 894
       dirs:
       - V52-Signale-auf-Leitungen
       pdfs: []
@@ -385,7 +385,7 @@
         num_files: 2
         total_comments: 15
         total_comments_of_interest: 13
-        total_lloc: 50
+        total_lloc: 51
         total_single_comments: 15
         total_sloc: 55
       dirs:
@@ -398,7 +398,7 @@
         num_files: 5
         total_comments: 104
         total_comments_of_interest: 78
-        total_lloc: 240
+        total_lloc: 252
         total_single_comments: 52
         total_sloc: 252
       dirs:
@@ -411,7 +411,7 @@
         num_files: 2
         total_comments: 12
         total_comments_of_interest: 11
-        total_lloc: 66
+        total_lloc: 67
         total_single_comments: 12
         total_sloc: 71
       dirs:
@@ -424,7 +424,7 @@
         num_files: 1
         total_comments: 2
         total_comments_of_interest: 2
-        total_lloc: 70
+        total_lloc: 72
         total_single_comments: 2
         total_sloc: 70
       dirs:
@@ -476,7 +476,7 @@
         num_files: 2
         total_comments: 52
         total_comments_of_interest: 45
-        total_lloc: 160
+        total_lloc: 166
         total_single_comments: 49
         total_sloc: 162
       dirs:
@@ -528,7 +528,7 @@
         num_files: 1
         total_comments: 18
         total_comments_of_interest: 12
-        total_lloc: 95
+        total_lloc: 97
         total_single_comments: 18
         total_sloc: 101
       dirs:
@@ -554,7 +554,7 @@
         num_files: 1
         total_comments: 29
         total_comments_of_interest: 28
-        total_lloc: 151
+        total_lloc: 152
         total_single_comments: 29
         total_sloc: 156
       dirs:
@@ -619,7 +619,7 @@
         num_files: 1
         total_comments: 6
         total_comments_of_interest: 6
-        total_lloc: 46
+        total_lloc: 47
         total_single_comments: 6
         total_sloc: 49
       dirs:
@@ -670,7 +670,7 @@
         num_files: 1
         total_comments: 27
         total_comments_of_interest: 26
-        total_lloc: 98
+        total_lloc: 100
         total_single_comments: 27
         total_sloc: 108
       dirs:
@@ -709,7 +709,7 @@
         num_files: 3
         total_comments: 77
         total_comments_of_interest: 36
-        total_lloc: 242
+        total_lloc: 257
         total_single_comments: 77
         total_sloc: 305
       dirs:
@@ -760,7 +760,7 @@
         num_files: 3
         total_comments: 28
         total_comments_of_interest: 19
-        total_lloc: 114
+        total_lloc: 116
         total_single_comments: 28
         total_sloc: 132
       dirs:
@@ -787,7 +787,7 @@
         num_files: 1
         total_comments: 38
         total_comments_of_interest: 22
-        total_lloc: 141
+        total_lloc: 152
         total_single_comments: 38
         total_sloc: 131
       dirs:
@@ -825,7 +825,7 @@
         num_files: 2
         total_comments: 20
         total_comments_of_interest: 15
-        total_lloc: 111
+        total_lloc: 114
         total_single_comments: 14
         total_sloc: 128
       dirs:
@@ -852,7 +852,7 @@
         num_files: 2
         total_comments: 38
         total_comments_of_interest: 28
-        total_lloc: 140
+        total_lloc: 142
         total_single_comments: 26
         total_sloc: 173
       dirs:
@@ -865,7 +865,7 @@
         num_files: 2
         total_comments: 9
         total_comments_of_interest: 7
-        total_lloc: 58
+        total_lloc: 62
         total_single_comments: 7
         total_sloc: 58
       dirs:
@@ -878,7 +878,7 @@
         num_files: 2
         total_comments: 25
         total_comments_of_interest: 16
-        total_lloc: 90
+        total_lloc: 91
         total_single_comments: 25
         total_sloc: 94
       dirs:
@@ -904,7 +904,7 @@
         num_files: 2
         total_comments: 30
         total_comments_of_interest: 12
-        total_lloc: 85
+        total_lloc: 88
         total_single_comments: 27
         total_sloc: 82
       dirs:
@@ -930,7 +930,7 @@
         num_files: 2
         total_comments: 12
         total_comments_of_interest: 12
-        total_lloc: 104
+        total_lloc: 106
         total_single_comments: 12
         total_sloc: 113
       dirs:
@@ -942,7 +942,7 @@
         num_files: 1
         total_comments: 20
         total_comments_of_interest: 18
-        total_lloc: 100
+        total_lloc: 109
         total_single_comments: 16
         total_sloc: 122
       dirs:
@@ -967,7 +967,7 @@
         num_files: 2
         total_comments: 6
         total_comments_of_interest: 6
-        total_lloc: 73
+        total_lloc: 74
         total_single_comments: 6
         total_sloc: 72
       dirs:
@@ -990,7 +990,7 @@
         num_files: 1
         total_comments: 94
         total_comments_of_interest: 23
-        total_lloc: 162
+        total_lloc: 163
         total_single_comments: 70
         total_sloc: 160
       dirs:
@@ -1017,7 +1017,7 @@
         num_files: 1
         total_comments: 47
         total_comments_of_interest: 41
-        total_lloc: 241
+        total_lloc: 247
         total_single_comments: 32
         total_sloc: 236
       dirs:
@@ -1030,7 +1030,7 @@
         num_files: 1
         total_comments: 72
         total_comments_of_interest: 52
-        total_lloc: 298
+        total_lloc: 308
         total_single_comments: 62
         total_sloc: 300
       dirs:
@@ -1056,7 +1056,7 @@
         num_files: 2
         total_comments: 21
         total_comments_of_interest: 21
-        total_lloc: 228
+        total_lloc: 232
         total_single_comments: 21
         total_sloc: 222
       dirs:
@@ -1069,7 +1069,7 @@
         num_files: 2
         total_comments: 193
         total_comments_of_interest: 87
-        total_lloc: 372
+        total_lloc: 377
         total_single_comments: 135
         total_sloc: 368
       dirs:
@@ -1082,7 +1082,7 @@
         num_files: 3
         total_comments: 77
         total_comments_of_interest: 13
-        total_lloc: 171
+        total_lloc: 175
         total_single_comments: 51
         total_sloc: 171
       dirs:
@@ -1096,7 +1096,7 @@
         num_files: 2
         total_comments: 80
         total_comments_of_interest: 60
-        total_lloc: 232
+        total_lloc: 239
         total_single_comments: 56
         total_sloc: 225
       dirs:
@@ -1110,7 +1110,7 @@
         num_files: 1
         total_comments: 83
         total_comments_of_interest: 65
-        total_lloc: 214
+        total_lloc: 224
         total_single_comments: 44
         total_sloc: 218
       dirs:
@@ -1800,7 +1800,7 @@
         num_files: 4
         total_comments: 139
         total_comments_of_interest: 54
-        total_lloc: 495
+        total_lloc: 520
         total_single_comments: 96
         total_sloc: 503
       dirs:
@@ -1824,7 +1824,7 @@
         num_files: 1
         total_comments: 48
         total_comments_of_interest: 34
-        total_lloc: 110
+        total_lloc: 115
         total_single_comments: 34
         total_sloc: 125
       dirs:
@@ -1836,7 +1836,7 @@
         num_files: 6
         total_comments: 77
         total_comments_of_interest: 41
-        total_lloc: 463
+        total_lloc: 483
         total_single_comments: 66
         total_sloc: 504
       dirs:
@@ -1848,7 +1848,7 @@
         num_files: 1
         total_comments: 64
         total_comments_of_interest: 36
-        total_lloc: 169
+        total_lloc: 182
         total_single_comments: 40
         total_sloc: 191
       dirs:
@@ -1860,7 +1860,7 @@
         num_files: 3
         total_comments: 67
         total_comments_of_interest: 29
-        total_lloc: 245
+        total_lloc: 248
         total_single_comments: 67
         total_sloc: 253
       dirs:
@@ -1896,7 +1896,7 @@
         num_files: 1
         total_comments: 41
         total_comments_of_interest: 31
-        total_lloc: 194
+        total_lloc: 201
         total_single_comments: 25
         total_sloc: 194
       dirs:
@@ -1920,7 +1920,7 @@
         num_files: 3
         total_comments: 52
         total_comments_of_interest: 36
-        total_lloc: 254
+        total_lloc: 257
         total_single_comments: 50
         total_sloc: 259
       dirs:
@@ -1932,7 +1932,7 @@
         num_files: 1
         total_comments: 53
         total_comments_of_interest: 18
-        total_lloc: 128
+        total_lloc: 139
         total_single_comments: 39
         total_sloc: 128
       dirs:
@@ -1956,7 +1956,7 @@
         num_files: 8
         total_comments: 130
         total_comments_of_interest: 57
-        total_lloc: 425
+        total_lloc: 444
         total_single_comments: 112
         total_sloc: 497
       dirs:
@@ -1968,7 +1968,7 @@
         num_files: 1
         total_comments: 46
         total_comments_of_interest: 28
-        total_lloc: 97
+        total_lloc: 108
         total_single_comments: 22
         total_sloc: 106
       dirs:
@@ -1992,7 +1992,7 @@
         num_files: 1
         total_comments: 19
         total_comments_of_interest: 15
-        total_lloc: 90
+        total_lloc: 96
         total_single_comments: 15
         total_sloc: 88
       dirs:
@@ -2004,7 +2004,7 @@
         num_files: 2
         total_comments: 122
         total_comments_of_interest: 52
-        total_lloc: 328
+        total_lloc: 347
         total_single_comments: 50
         total_sloc: 327
       dirs:
@@ -2028,7 +2028,7 @@
         num_files: 17
         total_comments: 161
         total_comments_of_interest: 93
-        total_lloc: 951
+        total_lloc: 1014
         total_single_comments: 96
         total_sloc: 1138
       dirs:
@@ -2040,7 +2040,7 @@
         num_files: 22
         total_comments: 471
         total_comments_of_interest: 283
-        total_lloc: 1278
+        total_lloc: 1325
         total_single_comments: 404
         total_sloc: 1922
       dirs:
@@ -3253,7 +3253,7 @@
         num_files: 2
         total_comments: 3
         total_comments_of_interest: 1
-        total_lloc: 58
+        total_lloc: 61
         total_single_comments: 3
         total_sloc: 56
       dirs:
@@ -3301,7 +3301,7 @@
         num_files: 3
         total_comments: 160
         total_comments_of_interest: 91
-        total_lloc: 323
+        total_lloc: 341
         total_single_comments: 98
         total_sloc: 344
       dirs:
@@ -3325,7 +3325,7 @@
         num_files: 1
         total_comments: 3
         total_comments_of_interest: 3
-        total_lloc: 59
+        total_lloc: 61
         total_single_comments: 2
         total_sloc: 59
       dirs:
@@ -3337,7 +3337,7 @@
         num_files: 2
         total_comments: 8
         total_comments_of_interest: 5
-        total_lloc: 53
+        total_lloc: 55
         total_single_comments: 7
         total_sloc: 57
       dirs:
@@ -3349,7 +3349,7 @@
         num_files: 6
         total_comments: 35
         total_comments_of_interest: 18
-        total_lloc: 173
+        total_lloc: 183
         total_single_comments: 34
         total_sloc: 179
       dirs:
@@ -3373,7 +3373,7 @@
         num_files: 5
         total_comments: 56
         total_comments_of_interest: 45
-        total_lloc: 194
+        total_lloc: 204
         total_single_comments: 54
         total_sloc: 195
       dirs:
@@ -3433,7 +3433,7 @@
         num_files: 4
         total_comments: 15
         total_comments_of_interest: 9
-        total_lloc: 81
+        total_lloc: 83
         total_single_comments: 13
         total_sloc: 107
       dirs:
@@ -3481,7 +3481,7 @@
         num_files: 4
         total_comments: 16
         total_comments_of_interest: 13
-        total_lloc: 123
+        total_lloc: 129
         total_single_comments: 16
         total_sloc: 130
       dirs:
@@ -3493,7 +3493,7 @@
         num_files: 1
         total_comments: 6
         total_comments_of_interest: 5
-        total_lloc: 56
+        total_lloc: 57
         total_single_comments: 6
         total_sloc: 55
       dirs:
@@ -3501,13 +3501,13 @@
       pdfs: []
     901:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 1
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 0
-        total_single_comments: 0
-        total_sloc: 0
+        total_comments: 1
+        total_comments_of_interest: 1
+        total_lloc: 27
+        total_single_comments: 1
+        total_sloc: 28
       dirs:
       - US1
       pdfs: []
@@ -3531,7 +3531,7 @@
         num_files: 9
         total_comments: 203
         total_comments_of_interest: 68
-        total_lloc: 325
+        total_lloc: 331
         total_single_comments: 127
         total_sloc: 313
       dirs:
@@ -3543,7 +3543,7 @@
         num_files: 8
         total_comments: 213
         total_comments_of_interest: 78
-        total_lloc: 398
+        total_lloc: 404
         total_single_comments: 202
         total_sloc: 398
       dirs:
@@ -3567,7 +3567,7 @@
         num_files: 4
         total_comments: 93
         total_comments_of_interest: 25
-        total_lloc: 138
+        total_lloc: 143
         total_single_comments: 88
         total_sloc: 138
       dirs:
@@ -3603,7 +3603,7 @@
         num_files: 5
         total_comments: 172
         total_comments_of_interest: 37
-        total_lloc: 182
+        total_lloc: 183
         total_single_comments: 150
         total_sloc: 180
       dirs:
@@ -3615,7 +3615,7 @@
         num_files: 6
         total_comments: 163
         total_comments_of_interest: 18
-        total_lloc: 195
+        total_lloc: 197
         total_single_comments: 158
         total_sloc: 183
       dirs:
@@ -3627,7 +3627,7 @@
         num_files: 2
         total_comments: 36
         total_comments_of_interest: 6
-        total_lloc: 40
+        total_lloc: 44
         total_single_comments: 30
         total_sloc: 40
       dirs:
@@ -3651,7 +3651,7 @@
         num_files: 5
         total_comments: 43
         total_comments_of_interest: 31
-        total_lloc: 200
+        total_lloc: 209
         total_single_comments: 33
         total_sloc: 190
       dirs:
@@ -3675,7 +3675,7 @@
         num_files: 9
         total_comments: 97
         total_comments_of_interest: 32
-        total_lloc: 374
+        total_lloc: 376
         total_single_comments: 80
         total_sloc: 369
       dirs:
@@ -3699,7 +3699,7 @@
         num_files: 3
         total_comments: 166
         total_comments_of_interest: 36
-        total_lloc: 197
+        total_lloc: 211
         total_single_comments: 129
         total_sloc: 187
       dirs:
@@ -3711,7 +3711,7 @@
         num_files: 5
         total_comments: 186
         total_comments_of_interest: 47
-        total_lloc: 237
+        total_lloc: 242
         total_single_comments: 166
         total_sloc: 231
       dirs:
@@ -3723,7 +3723,7 @@
         num_files: 2
         total_comments: 63
         total_comments_of_interest: 9
-        total_lloc: 93
+        total_lloc: 96
         total_single_comments: 59
         total_sloc: 91
       dirs:
@@ -3747,7 +3747,7 @@
         num_files: 3
         total_comments: 27
         total_comments_of_interest: 15
-        total_lloc: 111
+        total_lloc: 114
         total_single_comments: 23
         total_sloc: 174
       dirs:
@@ -4939,193 +4939,193 @@
   protokolle:
     14:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 9
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 48
+        total_comments_of_interest: 24
+        total_lloc: 431
+        total_single_comments: 47
+        total_sloc: 443
       dirs:
       - FP-V14-Tomographie
       pdfs: []
     16:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 10
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 57
-        total_single_comments: 0
-        total_sloc: 55
+        total_comments: 64
+        total_comments_of_interest: 24
+        total_lloc: 484
+        total_single_comments: 58
+        total_sloc: 480
       dirs:
       - FP-V16-Rutherford-Streuung
       pdfs: []
     18:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 10
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 57
-        total_single_comments: 0
-        total_sloc: 55
+        total_comments: 85
+        total_comments_of_interest: 43
+        total_lloc: 741
+        total_single_comments: 75
+        total_sloc: 708
       dirs:
       - FP-V18-Germanium-Detektor
       pdfs: []
     21:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 9
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 52
+        total_comments_of_interest: 18
+        total_lloc: 468
+        total_single_comments: 38
+        total_sloc: 467
       dirs:
       - FP-V21-Optisches-Pumpen
       pdfs: []
     23:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 9
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 59
+        total_comments_of_interest: 35
+        total_lloc: 615
+        total_single_comments: 57
+        total_sloc: 601
       dirs:
       - FP-V23-Quantenanalogien
       pdfs: []
     27:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 10
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 57
-        total_single_comments: 0
-        total_sloc: 55
+        total_comments: 29
+        total_comments_of_interest: 28
+        total_lloc: 402
+        total_single_comments: 28
+        total_sloc: 398
       dirs:
       - FP-V27-Zeeman-Effekt
       pdfs: []
     46:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 9
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 62
+        total_comments_of_interest: 31
+        total_lloc: 398
+        total_single_comments: 50
+        total_sloc: 395
       dirs:
       - FP-V46-Farraday-Effekt
       pdfs: []
     48:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 9
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 75
+        total_comments_of_interest: 28
+        total_lloc: 524
+        total_single_comments: 74
+        total_sloc: 499
       dirs:
       - FP-V48-Dipolrelaxation
       pdfs: []
     61:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 9
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 61
+        total_comments_of_interest: 26
+        total_lloc: 442
+        total_single_comments: 46
+        total_sloc: 435
       dirs:
       - FP-V61-HeNe-Laser
       pdfs: []
     70:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 9
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 158
+        total_comments_of_interest: 87
+        total_lloc: 732
+        total_single_comments: 157
+        total_sloc: 721
       dirs:
       - FP-V70-Vakuumphysik
       pdfs: []
     101:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 31
+        total_comments_of_interest: 7
+        total_lloc: 224
+        total_single_comments: 31
+        total_sloc: 223
       dirs:
       - 07-Praktikum-V101
       pdfs: []
     103:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 9
+        total_comments_of_interest: 9
+        total_lloc: 361
+        total_single_comments: 7
+        total_sloc: 352
       dirs:
       - 09-Praktikum-V103
       pdfs: []
     105:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 37
+        total_comments_of_interest: 13
+        total_lloc: 298
+        total_single_comments: 37
+        total_sloc: 296
       dirs:
       - 08-Praktikum-V105
       pdfs: []
     201:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 38
+        total_comments_of_interest: 8
+        total_lloc: 346
+        total_single_comments: 38
+        total_sloc: 336
       dirs:
       - 04-Praktikum-V201
       pdfs: []
     204:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 46
-        total_single_comments: 0
-        total_sloc: 44
+        total_comments: 62
+        total_comments_of_interest: 14
+        total_lloc: 471
+        total_single_comments: 62
+        total_sloc: 469
       dirs:
       - 05-Praktikum-V204
       pdfs: []
     206:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 21
-        total_comments_of_interest: 17
-        total_lloc: 171
-        total_single_comments: 20
-        total_sloc: 194
+        total_comments: 23
+        total_comments_of_interest: 19
+        total_lloc: 341
+        total_single_comments: 22
+        total_sloc: 364
       dirs:
       - 06-Praktikum-V206
       pdfs: []
@@ -5157,147 +5157,147 @@
       - 02-Praktikum-V302/Praktikum-V302.pdf
     303:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 31
+        total_comments_of_interest: 7
+        total_lloc: 203
+        total_single_comments: 31
+        total_sloc: 202
       dirs:
       - 11-Praktikum-V303
       pdfs: []
     351:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 31
+        total_comments_of_interest: 6
+        total_lloc: 203
+        total_single_comments: 31
+        total_sloc: 202
       dirs:
       - 10-Praktikum-V351
       pdfs: []
     353:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 8
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 71
+        total_comments_of_interest: 23
+        total_lloc: 368
+        total_single_comments: 71
+        total_sloc: 367
       dirs:
       - 12-Praktikum-V353
       pdfs: []
     354:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 13
-        total_comments: 13
-        total_comments_of_interest: 7
-        total_lloc: 248
-        total_single_comments: 13
-        total_sloc: 247
+        total_comments: 54
+        total_comments_of_interest: 24
+        total_lloc: 586
+        total_single_comments: 54
+        total_sloc: 583
       dirs:
       - 13-Praktikum-V354
       - V354
       pdfs: []
     401:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 32
+        total_comments_of_interest: 8
+        total_lloc: 221
+        total_single_comments: 32
+        total_sloc: 220
       dirs:
       - 20-Praktikum-V401
       pdfs: []
     402:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 41
+        total_comments_of_interest: 14
+        total_lloc: 307
+        total_single_comments: 41
+        total_sloc: 305
       dirs:
       - 19-Praktikum-V402
       pdfs:
       - 19-Praktikum-V402/V402.pdf
     406:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 39
+        total_comments_of_interest: 13
+        total_lloc: 268
+        total_single_comments: 39
+        total_sloc: 263
       dirs:
       - 21-Praktikum-V406
       pdfs: []
     501:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 36
+        total_comments_of_interest: 12
+        total_lloc: 291
+        total_single_comments: 36
+        total_sloc: 286
       dirs:
       - 23-Praktikum-V501-502
       pdfs: []
     504:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 37
+        total_comments_of_interest: 13
+        total_lloc: 294
+        total_single_comments: 37
+        total_sloc: 282
       dirs:
       - 22-Praktikum-V504
       pdfs: []
     601:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 40
+        total_comments_of_interest: 15
+        total_lloc: 303
+        total_single_comments: 40
+        total_sloc: 299
       dirs:
       - 24-Praktikum-V601
       pdfs: []
     602:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 34
+        total_comments_of_interest: 10
+        total_lloc: 334
+        total_single_comments: 34
+        total_sloc: 325
       dirs:
       - 25-Praktikum-V602
       pdfs: []
     701:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 8
+        total_comments_of_interest: 11
+        total_lloc: 266
+        total_single_comments: 8
+        total_sloc: 254
       dirs:
       - 18-Praktikum-V701
       pdfs: []
@@ -5305,24 +5305,24 @@
       code_analysis:
         has_errors: true
         num_files: 8
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 6
+        total_comments_of_interest: 5
+        total_lloc: 325
+        total_single_comments: 6
+        total_sloc: 311
       dirs:
       - 15-Praktikum-V702
       pdfs:
       - 15-Praktikum-V702/V702.pdf
     703:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 36
+        total_comments_of_interest: 12
+        total_lloc: 277
+        total_single_comments: 35
+        total_sloc: 274
       dirs:
       - 14-Praktikum-V703
       pdfs: []
@@ -5341,25 +5341,25 @@
       - 03-Praktikum-V800/Praktikum-V800.pdf
     901:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 45
+        total_comments_of_interest: 16
+        total_lloc: 287
+        total_single_comments: 45
+        total_sloc: 285
       dirs:
       - 16-Praktikum-US1
       pdfs: []
     902:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 43
+        total_comments_of_interest: 15
+        total_lloc: 252
+        total_single_comments: 43
+        total_sloc: 251
       dirs:
       - 17-Praktikum-US2
       pdfs: []
@@ -5909,25 +5909,25 @@
       pdfs: []
     46:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 2
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 11
-        total_single_comments: 0
-        total_sloc: 10
+        total_comments: 26
+        total_comments_of_interest: 20
+        total_lloc: 159
+        total_single_comments: 16
+        total_sloc: 146
       dirs:
       - V46_Faradayeffekt
       pdfs: []
     47:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 2
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 11
-        total_single_comments: 0
-        total_sloc: 10
+        total_comments: 17
+        total_comments_of_interest: 10
+        total_lloc: 179
+        total_single_comments: 7
+        total_sloc: 152
       dirs:
       - V47_molwaerme_von_cu
       pdfs: []
@@ -6131,7 +6131,7 @@
         num_files: 1
         total_comments: 58
         total_comments_of_interest: 30
-        total_lloc: 115
+        total_lloc: 118
         total_single_comments: 44
         total_sloc: 144
       dirs:
@@ -6204,7 +6204,7 @@
         num_files: 1
         total_comments: 38
         total_comments_of_interest: 23
-        total_lloc: 127
+        total_lloc: 129
         total_single_comments: 27
         total_sloc: 136
       dirs:
@@ -6289,7 +6289,7 @@
         num_files: 2
         total_comments: 61
         total_comments_of_interest: 33
-        total_lloc: 381
+        total_lloc: 407
         total_single_comments: 29
         total_sloc: 381
       dirs:
@@ -6317,7 +6317,7 @@
         num_files: 1
         total_comments: 21
         total_comments_of_interest: 15
-        total_lloc: 114
+        total_lloc: 123
         total_single_comments: 15
         total_sloc: 114
       dirs:
@@ -6331,7 +6331,7 @@
         num_files: 4
         total_comments: 167
         total_comments_of_interest: 96
-        total_lloc: 1129
+        total_lloc: 1133
         total_single_comments: 147
         total_sloc: 1095
       dirs:
@@ -7449,7 +7449,7 @@
         num_files: 1
         total_comments: 43
         total_comments_of_interest: 25
-        total_lloc: 145
+        total_lloc: 146
         total_single_comments: 29
         total_sloc: 160
       dirs:
@@ -7543,7 +7543,7 @@
         num_files: 7
         total_comments: 24
         total_comments_of_interest: 12
-        total_lloc: 258
+        total_lloc: 261
         total_single_comments: 20
         total_sloc: 272
       dirs:
@@ -7890,13 +7890,13 @@
       pdfs: []
     46:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 2
-        total_comments: 1
-        total_comments_of_interest: 1
-        total_lloc: 24
-        total_single_comments: 1
-        total_sloc: 24
+        total_comments: 14
+        total_comments_of_interest: 12
+        total_lloc: 128
+        total_single_comments: 14
+        total_sloc: 128
       dirs:
       - V46
       pdfs: []
@@ -8308,13 +8308,13 @@
       pdfs: []
     47:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 3
-        total_comments: 2
-        total_comments_of_interest: 1
-        total_lloc: 104
-        total_single_comments: 2
-        total_sloc: 104
+        total_comments: 19
+        total_comments_of_interest: 5
+        total_lloc: 203
+        total_single_comments: 11
+        total_sloc: 197
       dirs:
       - MA_FP/molwarme_abtestat
       pdfs: []
@@ -9473,61 +9473,61 @@
   protokolle:
     1:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 9
-        total_comments: 8
-        total_comments_of_interest: 6
-        total_lloc: 227
-        total_single_comments: 7
-        total_sloc: 214
+        total_comments: 54
+        total_comments_of_interest: 20
+        total_lloc: 514
+        total_single_comments: 53
+        total_sloc: 498
       dirs:
       - 01-Versuch01
       pdfs: []
     18:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 8
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 57
-        total_single_comments: 0
-        total_sloc: 55
+        total_comments: 148
+        total_comments_of_interest: 24
+        total_lloc: 689
+        total_single_comments: 143
+        total_sloc: 659
       dirs:
       - 04-Versuch18
       pdfs: []
     27:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 8
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 57
-        total_single_comments: 0
-        total_sloc: 55
+        total_comments: 68
+        total_comments_of_interest: 31
+        total_lloc: 369
+        total_single_comments: 68
+        total_sloc: 365
       dirs:
       - 05-Versuch27
       pdfs: []
     61:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 8
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 57
-        total_single_comments: 0
-        total_sloc: 55
+        total_comments: 78
+        total_comments_of_interest: 28
+        total_lloc: 381
+        total_single_comments: 77
+        total_sloc: 378
       dirs:
       - 03-Versuch61
       pdfs: []
     64:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 8
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 57
-        total_single_comments: 0
-        total_sloc: 55
+        total_comments: 46
+        total_comments_of_interest: 13
+        total_lloc: 348
+        total_single_comments: 43
+        total_sloc: 346
       dirs:
       - 02-Versuch64
       pdfs: []
@@ -9675,37 +9675,37 @@
       pdfs: []
     401:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 31
+        total_comments_of_interest: 7
+        total_lloc: 220
+        total_single_comments: 31
+        total_sloc: 219
       dirs:
       - Praktikum23-V401
       pdfs: []
     406:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 44
+        total_comments_of_interest: 11
+        total_lloc: 267
+        total_single_comments: 44
+        total_sloc: 262
       dirs:
       - Praktikum22-V406
       pdfs: []
     408:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 60
+        total_comments_of_interest: 26
+        total_lloc: 310
+        total_single_comments: 60
+        total_sloc: 304
       dirs:
       - Praktikum24-V408
       pdfs: []
@@ -9735,73 +9735,73 @@
       pdfs: []
     601:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 6
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 19
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 75
+        total_comments_of_interest: 29
+        total_lloc: 272
+        total_single_comments: 55
+        total_sloc: 271
       dirs:
       - Praktikum17-V601
       pdfs: []
     606:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 5
-        total_comments: 43
-        total_comments_of_interest: 23
-        total_lloc: 229
-        total_single_comments: 43
-        total_sloc: 214
+        total_comments: 107
+        total_comments_of_interest: 52
+        total_lloc: 333
+        total_single_comments: 107
+        total_sloc: 316
       dirs:
       - Praktikum16-V606
       pdfs: []
     702:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 35
+        total_comments_of_interest: 9
+        total_lloc: 264
+        total_single_comments: 35
+        total_sloc: 261
       dirs:
       - Praktikum21-V702
       pdfs: []
     704:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 48
+        total_comments_of_interest: 20
+        total_lloc: 309
+        total_single_comments: 46
+        total_sloc: 306
       dirs:
       - Praktikum20-V704
       pdfs: []
     901:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 7
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 20
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 43
+        total_comments_of_interest: 19
+        total_lloc: 278
+        total_single_comments: 43
+        total_sloc: 266
       dirs:
       - Praktikum19-US1
       pdfs: []
     903:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 6
-        total_comments: 0
-        total_comments_of_interest: 0
-        total_lloc: 19
-        total_single_comments: 0
-        total_sloc: 19
+        total_comments: 46
+        total_comments_of_interest: 20
+        total_lloc: 272
+        total_single_comments: 45
+        total_sloc: 272
       dirs:
       - Praktikum18-US3
       pdfs: []
@@ -9825,7 +9825,7 @@
         num_files: 2
         total_comments: 16
         total_comments_of_interest: 13
-        total_lloc: 133
+        total_lloc: 135
         total_single_comments: 16
         total_sloc: 133
       dirs:
@@ -9862,7 +9862,7 @@
         num_files: 1
         total_comments: 33
         total_comments_of_interest: 16
-        total_lloc: 188
+        total_lloc: 190
         total_single_comments: 33
         total_sloc: 188
       dirs:
@@ -9898,7 +9898,7 @@
         num_files: 2
         total_comments: 26
         total_comments_of_interest: 21
-        total_lloc: 121
+        total_lloc: 125
         total_single_comments: 22
         total_sloc: 121
       dirs:
@@ -9910,7 +9910,7 @@
         num_files: 1
         total_comments: 14
         total_comments_of_interest: 7
-        total_lloc: 78
+        total_lloc: 81
         total_single_comments: 6
         total_sloc: 78
       dirs:
@@ -9922,7 +9922,7 @@
         num_files: 2
         total_comments: 9
         total_comments_of_interest: 8
-        total_lloc: 68
+        total_lloc: 69
         total_single_comments: 9
         total_sloc: 67
       dirs:
@@ -9934,7 +9934,7 @@
         num_files: 1
         total_comments: 11
         total_comments_of_interest: 6
-        total_lloc: 95
+        total_lloc: 96
         total_single_comments: 11
         total_sloc: 91
       dirs:
@@ -9982,7 +9982,7 @@
         num_files: 8
         total_comments: 56
         total_comments_of_interest: 52
-        total_lloc: 389
+        total_lloc: 394
         total_single_comments: 54
         total_sloc: 407
       dirs:
@@ -9995,7 +9995,7 @@
         num_files: 1
         total_comments: 19
         total_comments_of_interest: 19
-        total_lloc: 90
+        total_lloc: 92
         total_single_comments: 19
         total_sloc: 99
       dirs:
@@ -10007,7 +10007,7 @@
         num_files: 1
         total_comments: 5
         total_comments_of_interest: 5
-        total_lloc: 123
+        total_lloc: 124
         total_single_comments: 5
         total_sloc: 120
       dirs:
@@ -10031,7 +10031,7 @@
         num_files: 2
         total_comments: 14
         total_comments_of_interest: 10
-        total_lloc: 74
+        total_lloc: 76
         total_single_comments: 12
         total_sloc: 68
       dirs:
@@ -10717,7 +10717,7 @@
         num_files: 1
         total_comments: 30
         total_comments_of_interest: 12
-        total_lloc: 80
+        total_lloc: 82
         total_single_comments: 29
         total_sloc: 80
       dirs:
@@ -10730,7 +10730,7 @@
         num_files: 1
         total_comments: 21
         total_comments_of_interest: 16
-        total_lloc: 146
+        total_lloc: 153
         total_single_comments: 19
         total_sloc: 147
       dirs:
@@ -10743,7 +10743,7 @@
         num_files: 2
         total_comments: 59
         total_comments_of_interest: 40
-        total_lloc: 272
+        total_lloc: 299
         total_single_comments: 41
         total_sloc: 283
       dirs:
@@ -10756,7 +10756,7 @@
         num_files: 1
         total_comments: 10
         total_comments_of_interest: 10
-        total_lloc: 96
+        total_lloc: 104
         total_single_comments: 10
         total_sloc: 99
       dirs:
@@ -10769,7 +10769,7 @@
         num_files: 1
         total_comments: 14
         total_comments_of_interest: 9
-        total_lloc: 49
+        total_lloc: 50
         total_single_comments: 9
         total_sloc: 54
       dirs:
@@ -10795,7 +10795,7 @@
         num_files: 1
         total_comments: 29
         total_comments_of_interest: 18
-        total_lloc: 231
+        total_lloc: 232
         total_single_comments: 22
         total_sloc: 217
       dirs:
@@ -10821,7 +10821,7 @@
         num_files: 1
         total_comments: 39
         total_comments_of_interest: 22
-        total_lloc: 152
+        total_lloc: 165
         total_single_comments: 22
         total_sloc: 160
       dirs:
@@ -10834,7 +10834,7 @@
         num_files: 1
         total_comments: 11
         total_comments_of_interest: 11
-        total_lloc: 113
+        total_lloc: 120
         total_single_comments: 7
         total_sloc: 114
       dirs:
@@ -12876,7 +12876,7 @@
         num_files: 1
         total_comments: 42
         total_comments_of_interest: 38
-        total_lloc: 170
+        total_lloc: 175
         total_single_comments: 42
         total_sloc: 170
       dirs:
@@ -12888,7 +12888,7 @@
         num_files: 6
         total_comments: 6
         total_comments_of_interest: 5
-        total_lloc: 157
+        total_lloc: 164
         total_single_comments: 6
         total_sloc: 183
       dirs:
@@ -12900,7 +12900,7 @@
         num_files: 8
         total_comments: 5
         total_comments_of_interest: 3
-        total_lloc: 215
+        total_lloc: 223
         total_single_comments: 5
         total_sloc: 215
       dirs:
@@ -12936,7 +12936,7 @@
         num_files: 6
         total_comments: 26
         total_comments_of_interest: 8
-        total_lloc: 126
+        total_lloc: 132
         total_single_comments: 26
         total_sloc: 178
       dirs:
@@ -12948,7 +12948,7 @@
         num_files: 14
         total_comments: 61
         total_comments_of_interest: 31
-        total_lloc: 235
+        total_lloc: 238
         total_single_comments: 60
         total_sloc: 267
       dirs:
@@ -12960,7 +12960,7 @@
         num_files: 7
         total_comments: 36
         total_comments_of_interest: 6
-        total_lloc: 154
+        total_lloc: 160
         total_single_comments: 36
         total_sloc: 204
       dirs:
@@ -12972,7 +12972,7 @@
         num_files: 5
         total_comments: 11
         total_comments_of_interest: 8
-        total_lloc: 191
+        total_lloc: 206
         total_single_comments: 5
         total_sloc: 191
       dirs:
@@ -12984,7 +12984,7 @@
         num_files: 9
         total_comments: 48
         total_comments_of_interest: 4
-        total_lloc: 261
+        total_lloc: 271
         total_single_comments: 46
         total_sloc: 319
       dirs:
@@ -12996,7 +12996,7 @@
         num_files: 7
         total_comments: 41
         total_comments_of_interest: 22
-        total_lloc: 211
+        total_lloc: 221
         total_single_comments: 41
         total_sloc: 263
       dirs:
@@ -13008,7 +13008,7 @@
         num_files: 8
         total_comments: 9
         total_comments_of_interest: 9
-        total_lloc: 543
+        total_lloc: 563
         total_single_comments: 9
         total_sloc: 561
       dirs:
@@ -13020,7 +13020,7 @@
         num_files: 6
         total_comments: 25
         total_comments_of_interest: 8
-        total_lloc: 148
+        total_lloc: 149
         total_single_comments: 19
         total_sloc: 201
       dirs:
@@ -13032,7 +13032,7 @@
         num_files: 3
         total_comments: 4
         total_comments_of_interest: 2
-        total_lloc: 170
+        total_lloc: 192
         total_single_comments: 4
         total_sloc: 200
       dirs:
@@ -13044,7 +13044,7 @@
         num_files: 7
         total_comments: 168
         total_comments_of_interest: 20
-        total_lloc: 340
+        total_lloc: 371
         total_single_comments: 166
         total_sloc: 360
       dirs:
@@ -13056,7 +13056,7 @@
         num_files: 4
         total_comments: 31
         total_comments_of_interest: 10
-        total_lloc: 170
+        total_lloc: 182
         total_single_comments: 31
         total_sloc: 175
       dirs:
@@ -13068,7 +13068,7 @@
         num_files: 1
         total_comments: 2
         total_comments_of_interest: 1
-        total_lloc: 66
+        total_lloc: 68
         total_single_comments: 2
         total_sloc: 66
       dirs:
@@ -13080,7 +13080,7 @@
         num_files: 3
         total_comments: 7
         total_comments_of_interest: 7
-        total_lloc: 197
+        total_lloc: 212
         total_single_comments: 7
         total_sloc: 249
       dirs:
@@ -13106,7 +13106,7 @@
         num_files: 6
         total_comments: 46
         total_comments_of_interest: 12
-        total_lloc: 261
+        total_lloc: 278
         total_single_comments: 46
         total_sloc: 292
       dirs:
@@ -13118,7 +13118,7 @@
         num_files: 2
         total_comments: 5
         total_comments_of_interest: 3
-        total_lloc: 93
+        total_lloc: 96
         total_single_comments: 5
         total_sloc: 93
       dirs:
@@ -13130,7 +13130,7 @@
         num_files: 1
         total_comments: 32
         total_comments_of_interest: 16
-        total_lloc: 193
+        total_lloc: 202
         total_single_comments: 30
         total_sloc: 200
       dirs:
@@ -13142,7 +13142,7 @@
         num_files: 3
         total_comments: 32
         total_comments_of_interest: 10
-        total_lloc: 344
+        total_lloc: 370
         total_single_comments: 31
         total_sloc: 365
       dirs:
@@ -13154,7 +13154,7 @@
         num_files: 5
         total_comments: 3
         total_comments_of_interest: 3
-        total_lloc: 189
+        total_lloc: 196
         total_single_comments: 3
         total_sloc: 237
       dirs:
@@ -13560,7 +13560,7 @@
         num_files: 2
         total_comments: 36
         total_comments_of_interest: 29
-        total_lloc: 98
+        total_lloc: 104
         total_single_comments: 27
         total_sloc: 107
       dirs:
@@ -13573,7 +13573,7 @@
         num_files: 2
         total_comments: 84
         total_comments_of_interest: 48
-        total_lloc: 201
+        total_lloc: 208
         total_single_comments: 76
         total_sloc: 198
       dirs:
@@ -14048,7 +14048,7 @@
         num_files: 3
         total_comments: 148
         total_comments_of_interest: 76
-        total_lloc: 369
+        total_lloc: 378
         total_single_comments: 131
         total_sloc: 379
       dirs:
@@ -14778,7 +14778,7 @@
         num_files: 1
         total_comments: 25
         total_comments_of_interest: 23
-        total_lloc: 174
+        total_lloc: 183
         total_single_comments: 20
         total_sloc: 223
       dirs:
@@ -14790,7 +14790,7 @@
         num_files: 1
         total_comments: 79
         total_comments_of_interest: 74
-        total_lloc: 263
+        total_lloc: 292
         total_single_comments: 63
         total_sloc: 303
       dirs:
@@ -14902,7 +14902,7 @@
         num_files: 1
         total_comments: 0
         total_comments_of_interest: 0
-        total_lloc: 41
+        total_lloc: 43
         total_single_comments: 0
         total_sloc: 56
       dirs:
@@ -16320,7 +16320,7 @@
         num_files: 2
         total_comments: 4
         total_comments_of_interest: 4
-        total_lloc: 56
+        total_lloc: 57
         total_single_comments: 4
         total_sloc: 56
       dirs:
@@ -16450,7 +16450,7 @@
         num_files: 8
         total_comments: 53
         total_comments_of_interest: 22
-        total_lloc: 203
+        total_lloc: 204
         total_single_comments: 48
         total_sloc: 211
       dirs:
@@ -16463,7 +16463,7 @@
         num_files: 8
         total_comments: 37
         total_comments_of_interest: 16
-        total_lloc: 219
+        total_lloc: 220
         total_single_comments: 26
         total_sloc: 244
       dirs:
@@ -16531,7 +16531,7 @@
         num_files: 5
         total_comments: 28
         total_comments_of_interest: 18
-        total_lloc: 141
+        total_lloc: 142
         total_single_comments: 15
         total_sloc: 161
       dirs:
@@ -16559,7 +16559,7 @@
         num_files: 7
         total_comments: 69
         total_comments_of_interest: 18
-        total_lloc: 151
+        total_lloc: 152
         total_single_comments: 61
         total_sloc: 171
       dirs:
@@ -16572,7 +16572,7 @@
         num_files: 4
         total_comments: 161
         total_comments_of_interest: 35
-        total_lloc: 240
+        total_lloc: 242
         total_single_comments: 140
         total_sloc: 255
       dirs:
@@ -16587,7 +16587,7 @@
         num_files: 3
         total_comments: 8
         total_comments_of_interest: 5
-        total_lloc: 126
+        total_lloc: 130
         total_single_comments: 3
         total_sloc: 136
       dirs:
@@ -16637,7 +16637,7 @@
         num_files: 7
         total_comments: 78
         total_comments_of_interest: 23
-        total_lloc: 154
+        total_lloc: 155
         total_single_comments: 55
         total_sloc: 174
       dirs:
@@ -16678,7 +16678,7 @@
         num_files: 1
         total_comments: 1
         total_comments_of_interest: 1
-        total_lloc: 15
+        total_lloc: 16
         total_single_comments: 1
         total_sloc: 21
       dirs:
@@ -16692,7 +16692,7 @@
         num_files: 6
         total_comments: 86
         total_comments_of_interest: 7
-        total_lloc: 196
+        total_lloc: 197
         total_single_comments: 80
         total_sloc: 213
       dirs:
@@ -17437,7 +17437,7 @@
         num_files: 3
         total_comments: 25
         total_comments_of_interest: 17
-        total_lloc: 84
+        total_lloc: 85
         total_single_comments: 21
         total_sloc: 84
       dirs:
@@ -18511,7 +18511,7 @@
         num_files: 15
         total_comments: 195
         total_comments_of_interest: 94
-        total_lloc: 804
+        total_lloc: 812
         total_single_comments: 175
         total_sloc: 817
       dirs:
@@ -18523,7 +18523,7 @@
         num_files: 15
         total_comments: 321
         total_comments_of_interest: 159
-        total_lloc: 916
+        total_lloc: 924
         total_single_comments: 258
         total_sloc: 952
       dirs:
@@ -18535,7 +18535,7 @@
         num_files: 15
         total_comments: 196
         total_comments_of_interest: 83
-        total_lloc: 779
+        total_lloc: 787
         total_single_comments: 176
         total_sloc: 803
       dirs:
@@ -18547,7 +18547,7 @@
         num_files: 15
         total_comments: 272
         total_comments_of_interest: 120
-        total_lloc: 1012
+        total_lloc: 1020
         total_single_comments: 227
         total_sloc: 1036
       dirs:
@@ -18560,7 +18560,7 @@
         num_files: 17
         total_comments: 116
         total_comments_of_interest: 67
-        total_lloc: 766
+        total_lloc: 774
         total_single_comments: 102
         total_sloc: 814
       dirs:
@@ -18597,7 +18597,7 @@
         num_files: 5
         total_comments: 42
         total_comments_of_interest: 32
-        total_lloc: 498
+        total_lloc: 502
         total_single_comments: 36
         total_sloc: 524
       dirs:
@@ -18609,7 +18609,7 @@
         num_files: 5
         total_comments: 61
         total_comments_of_interest: 35
-        total_lloc: 546
+        total_lloc: 549
         total_single_comments: 52
         total_sloc: 565
       dirs:
@@ -18621,7 +18621,7 @@
         num_files: 3
         total_comments: 82
         total_comments_of_interest: 19
-        total_lloc: 324
+        total_lloc: 327
         total_single_comments: 79
         total_sloc: 330
       dirs:
@@ -18921,7 +18921,7 @@
         num_files: 1
         total_comments: 16
         total_comments_of_interest: 9
-        total_lloc: 82
+        total_lloc: 84
         total_single_comments: 14
         total_sloc: 82
       dirs:
@@ -18934,7 +18934,7 @@
         num_files: 1
         total_comments: 38
         total_comments_of_interest: 39
-        total_lloc: 331
+        total_lloc: 340
         total_single_comments: 30
         total_sloc: 276
       dirs:
@@ -18946,7 +18946,7 @@
         num_files: 1
         total_comments: 21
         total_comments_of_interest: 12
-        total_lloc: 78
+        total_lloc: 82
         total_single_comments: 11
         total_sloc: 78
       dirs:
@@ -18959,7 +18959,7 @@
         num_files: 2
         total_comments: 67
         total_comments_of_interest: 30
-        total_lloc: 205
+        total_lloc: 224
         total_single_comments: 48
         total_sloc: 203
       dirs:
@@ -18971,7 +18971,7 @@
         num_files: 1
         total_comments: 25
         total_comments_of_interest: 12
-        total_lloc: 95
+        total_lloc: 99
         total_single_comments: 20
         total_sloc: 92
       dirs:
@@ -19307,13 +19307,13 @@
       pdfs: []
     702:
       code_analysis:
-        has_errors: true
+        has_errors: false
         num_files: 5
         total_comments: 28
         total_comments_of_interest: 18
-        total_lloc: 238
+        total_lloc: 250
         total_single_comments: 28
-        total_sloc: 227
+        total_sloc: 239
       dirs:
       - V702-Aktivierung-mit-Neutronen
       pdfs:
@@ -19390,7 +19390,7 @@
         num_files: 1
         total_comments: 6
         total_comments_of_interest: 4
-        total_lloc: 74
+        total_lloc: 80
         total_single_comments: 0
         total_sloc: 74
       dirs:
@@ -19402,7 +19402,7 @@
         num_files: 3
         total_comments: 138
         total_comments_of_interest: 60
-        total_lloc: 343
+        total_lloc: 348
         total_single_comments: 121
         total_sloc: 331
       dirs:
@@ -19414,7 +19414,7 @@
         num_files: 1
         total_comments: 29
         total_comments_of_interest: 21
-        total_lloc: 118
+        total_lloc: 123
         total_single_comments: 17
         total_sloc: 114
       dirs:
@@ -19426,7 +19426,7 @@
         num_files: 1
         total_comments: 11
         total_comments_of_interest: 10
-        total_lloc: 73
+        total_lloc: 81
         total_single_comments: 7
         total_sloc: 76
       dirs:
@@ -19680,7 +19680,7 @@
         num_files: 2
         total_comments: 11
         total_comments_of_interest: 11
-        total_lloc: 170
+        total_lloc: 174
         total_single_comments: 11
         total_sloc: 170
       dirs:
@@ -19719,7 +19719,7 @@
         num_files: 3
         total_comments: 3
         total_comments_of_interest: 2
-        total_lloc: 52
+        total_lloc: 55
         total_single_comments: 3
         total_sloc: 57
       dirs:
@@ -19744,7 +19744,7 @@
         num_files: 5
         total_comments: 23
         total_comments_of_interest: 8
-        total_lloc: 102
+        total_lloc: 105
         total_single_comments: 23
         total_sloc: 102
       dirs:
@@ -19756,7 +19756,7 @@
         num_files: 3
         total_comments: 0
         total_comments_of_interest: 0
-        total_lloc: 78
+        total_lloc: 81
         total_single_comments: 0
         total_sloc: 78
       dirs:
@@ -19769,7 +19769,7 @@
         num_files: 5
         total_comments: 20
         total_comments_of_interest: 14
-        total_lloc: 184
+        total_lloc: 187
         total_single_comments: 14
         total_sloc: 184
       dirs:
@@ -19794,7 +19794,7 @@
         num_files: 1
         total_comments: 0
         total_comments_of_interest: 0
-        total_lloc: 64
+        total_lloc: 66
         total_single_comments: 0
         total_sloc: 64
       dirs:
@@ -19807,7 +19807,7 @@
         num_files: 3
         total_comments: 0
         total_comments_of_interest: 0
-        total_lloc: 94
+        total_lloc: 96
         total_single_comments: 0
         total_sloc: 94
       dirs:
@@ -19833,7 +19833,7 @@
         num_files: 1
         total_comments: 3
         total_comments_of_interest: 3
-        total_lloc: 229
+        total_lloc: 236
         total_single_comments: 2
         total_sloc: 245
       dirs:
@@ -19859,7 +19859,7 @@
         num_files: 1
         total_comments: 16
         total_comments_of_interest: 2
-        total_lloc: 43
+        total_lloc: 44
         total_single_comments: 16
         total_sloc: 43
       dirs:
@@ -19872,7 +19872,7 @@
         num_files: 7
         total_comments: 2
         total_comments_of_interest: 1
-        total_lloc: 181
+        total_lloc: 186
         total_single_comments: 2
         total_sloc: 177
       dirs:
@@ -20361,7 +20361,7 @@
         num_files: 3
         total_comments: 247
         total_comments_of_interest: 94
-        total_lloc: 618
+        total_lloc: 620
         total_single_comments: 218
         total_sloc: 672
       dirs:
@@ -20433,7 +20433,7 @@
         num_files: 1
         total_comments: 21
         total_comments_of_interest: 18
-        total_lloc: 95
+        total_lloc: 100
         total_single_comments: 21
         total_sloc: 95
       dirs:
@@ -20471,7 +20471,7 @@
         num_files: 1
         total_comments: 60
         total_comments_of_interest: 34
-        total_lloc: 293
+        total_lloc: 307
         total_single_comments: 59
         total_sloc: 269
       dirs:
@@ -20849,7 +20849,7 @@
         num_files: 3
         total_comments: 22
         total_comments_of_interest: 5
-        total_lloc: 71
+        total_lloc: 77
         total_single_comments: 12
         total_sloc: 71
       dirs:
@@ -20921,7 +20921,7 @@
         num_files: 4
         total_comments: 11
         total_comments_of_interest: 7
-        total_lloc: 89
+        total_lloc: 94
         total_single_comments: 5
         total_sloc: 89
       dirs:
@@ -20933,7 +20933,7 @@
         num_files: 5
         total_comments: 0
         total_comments_of_interest: 0
-        total_lloc: 85
+        total_lloc: 89
         total_single_comments: 0
         total_sloc: 105
       dirs:
@@ -20993,7 +20993,7 @@
         num_files: 11
         total_comments: 8
         total_comments_of_interest: 4
-        total_lloc: 273
+        total_lloc: 290
         total_single_comments: 8
         total_sloc: 273
       dirs:
@@ -21005,7 +21005,7 @@
         num_files: 3
         total_comments: 0
         total_comments_of_interest: 0
-        total_lloc: 79
+        total_lloc: 83
         total_single_comments: 0
         total_sloc: 84
       dirs:
