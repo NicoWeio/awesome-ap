@@ -13,14 +13,14 @@
 | 15|Vermessung und Untersuchung von Silizium-Streifensensoren            |[Übersicht](versuch/15) |      3|
 | 16|Rutherford-Streuung                                                  |[Übersicht](versuch/16) |     11|
 | 18|Der Reinst-Germanium-Detektor als Instrument der Gamma-Spektroskopie |[Übersicht](versuch/18) |     16|
-| 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     38|
+| 21|Optisches Pumpen                                                     |[Übersicht](versuch/21) |     37|
 | 23|Quanten-Analogien                                                    |[Übersicht](versuch/23) |     12|
 | 25|Der Stern-Gerlach-Versuch                                            |[Übersicht](versuch/25) |      3|
 | 27|Der Zeeman-Effekt                                                    |[Übersicht](versuch/27) |     33|
 | 28|Elektronenspin-Resonanz                                              |[Übersicht](versuch/28) |      9|
 | 41|Debye-Scherrer-Aufnahmen                                             |[Übersicht](versuch/41) |      9|
 | 44|Röntgenreflektometrie                                                |[Übersicht](versuch/44) |     15|
-| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     35|
+| 46|Der Faraday-Effekt an Halbleitern                                    |[Übersicht](versuch/46) |     34|
 | 47|Temperaturabhängigkeit der Molwärme von Festkörpern                  |[Übersicht](versuch/47) |     26|
 | 48|Dipolrelaxation in Ionenkristallen                                   |[Übersicht](versuch/48) |     25|
 | 49|Messung von Diffusionskonstanten mittels gepulster Kernspinresonanzen|[Übersicht](versuch/49) |     17|
@@ -29,62 +29,62 @@
 | 53|Mikrowellen auf Hohlleitern                                          |[Übersicht](versuch/53) |     14|
 | 57|Elektrische Schwankungserscheinungen                                 |[Übersicht](versuch/57) |      4|
 | 59|Modulation und Demodulation elektrischer Schwingungen                |[Übersicht](versuch/59) |      5|
-| 60|Diodenlaser                                                          |[Übersicht](versuch/60) |     22|
-| 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     34|
+| 60|Diodenlaser                                                          |[Übersicht](versuch/60) |     21|
+| 61|HeNe-Laser                                                           |[Übersicht](versuch/61) |     33|
 | 64|Moderne Interferometrie                                              |[Übersicht](versuch/64) |     23|
 | 65|Röntgenreflektrometrie                                               |[Übersicht](versuch/65) |      1|
-| 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     13|
-|101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     31|
+| 70|Vakuumphysik                                                         |[Übersicht](versuch/70) |     12|
+|101|Das Trägheitsmoment                                                  |[Übersicht](versuch/101)|     30|
 |102|Drehschwingungen                                                     |[Übersicht](versuch/102)|     15|
-|103|Biegung elastischer Stäbe                                            |[Übersicht](versuch/103)|     38|
+|103|Biegung elastischer Stäbe                                            |[Übersicht](versuch/103)|     37|
 |104|Der Doppler-Effekt                                                   |[Übersicht](versuch/104)|     10|
 |105|Das magnetische Moment                                               |[Übersicht](versuch/105)|      8|
 |106|Gekoppelte Pendel                                                    |[Übersicht](versuch/106)|     22|
-|107|Das Kugelfall-Viskosimeter nach Höppler                              |[Übersicht](versuch/107)|     14|
+|107|Das Kugelfall-Viskosimeter nach Höppler                              |[Übersicht](versuch/107)|     13|
 |201|Das Dulong-Petit-Gesetz                                              |[Übersicht](versuch/201)|     27|
-|203|Verdampfungswärme und Dampfdruckkurve                                |[Übersicht](versuch/203)|     23|
+|203|Verdampfungswärme und Dampfdruckkurve                                |[Übersicht](versuch/203)|     22|
 |204|Wärmeleitung von Metallen                                            |[Übersicht](versuch/204)|     36|
 |206|Die Wärmepumpe                                                       |[Übersicht](versuch/206)|     42|
 |207|Das Kugelfall-Viskosimeter nach Höppler / Das Stefan-Boltzmann-Gesetz|[Übersicht](versuch/207)|     15|
 |300|–                                                                    |[Übersicht](versuch/300)|      1|
 |301|Leerlaufspannung und Innenwiderstand von Spannungsquellen            |[Übersicht](versuch/301)|     24|
-|302|Elektrische Brückenschaltungen                                       |[Übersicht](versuch/302)|     33|
+|302|Elektrische Brückenschaltungen                                       |[Übersicht](versuch/302)|     32|
 |303|Der Lock-In-Verstärker                                               |[Übersicht](versuch/303)|     35|
 |304|–                                                                    |[Übersicht](versuch/304)|      1|
-|308|Spulen und Magnetfelder                                              |[Übersicht](versuch/308)|     13|
+|308|Spulen und Magnetfelder                                              |[Übersicht](versuch/308)|     12|
 |311|Der Hall-Effekt                                                      |[Übersicht](versuch/311)|     14|
 |351|Fourier-Analyse und -Synthese                                        |[Übersicht](versuch/351)|     20|
-|353|Relaxationsverhalten eines RC-Kreises                                |[Übersicht](versuch/353)|     41|
+|353|Relaxationsverhalten eines RC-Kreises                                |[Übersicht](versuch/353)|     40|
 |354|Gedämpfte und erzwungene Schwingungen                                |[Übersicht](versuch/354)|     41|
-|355|Gekoppelte Schwingkreise                                             |[Übersicht](versuch/355)|     19|
+|355|Gekoppelte Schwingkreise                                             |[Übersicht](versuch/355)|     18|
 |356|Kettenschaltungen mit LC-Gliedern                                    |[Übersicht](versuch/356)|      6|
-|400|Reflexion, Brechung und Beugung                                      |[Übersicht](versuch/400)|     17|
+|400|Reflexion, Brechung und Beugung                                      |[Übersicht](versuch/400)|     16|
 |401|Das Michelson-Interferometer                                         |[Übersicht](versuch/401)|     28|
 |402|Dispersionsmessungen am Glasprisma                                   |[Übersicht](versuch/402)|     17|
 |406|Beugung am Spalt                                                     |[Übersicht](versuch/406)|     36|
-|407|–                                                                    |[Übersicht](versuch/407)|      6|
+|407|–                                                                    |[Übersicht](versuch/407)|      5|
 |408|Geometrische Optik                                                   |[Übersicht](versuch/408)|     29|
-|500|Der Photoeffekt                                                      |[Übersicht](versuch/500)|     37|
+|500|Der Photoeffekt                                                      |[Übersicht](versuch/500)|     36|
 |501|Elektronen im elektrischen und magnetischen Feld                     |[Übersicht](versuch/501)|     24|
 |502|Elektronen im transversalen Magnetfeld                               |[Übersicht](versuch/502)|      1|
 |503|Der Millikan-Versuch                                                 |[Übersicht](versuch/503)|     13|
-|504|Thermische Elektronenemission                                        |[Übersicht](versuch/504)|     31|
-|601|Der Franck-Hertz-Versuch                                             |[Übersicht](versuch/601)|     40|
-|602|Röntgenemission und -absorption                                      |[Übersicht](versuch/602)|     50|
+|504|Thermische Elektronenemission                                        |[Übersicht](versuch/504)|     30|
+|601|Der Franck-Hertz-Versuch                                             |[Übersicht](versuch/601)|     39|
+|602|Röntgenemission und -absorption                                      |[Übersicht](versuch/602)|     49|
 |603|Der Compton-Effekt                                                   |[Übersicht](versuch/603)|     20|
 |605|Alkali-Spektren                                                      |[Übersicht](versuch/605)|      7|
-|606|Messung der Suszeptibilität paramagnetischer Substanzen              |[Übersicht](versuch/606)|     34|
+|606|Messung der Suszeptibilität paramagnetischer Substanzen              |[Übersicht](versuch/606)|     33|
 |701|Reichweite von Alpha-Strahlung                                       |[Übersicht](versuch/701)|     20|
-|702|Aktivierung mit Neutronen                                            |[Übersicht](versuch/702)|     44|
-|703|Das Geiger-Müller-Zählrohr                                           |[Übersicht](versuch/703)|     53|
+|702|Aktivierung mit Neutronen                                            |[Übersicht](versuch/702)|     43|
+|703|Das Geiger-Müller-Zählrohr                                           |[Übersicht](versuch/703)|     52|
 |704|Absorption von Gamma- und Beta-Strahlung                             |[Übersicht](versuch/704)|     21|
 |800|Das Oszilloskop                                                      |[Übersicht](versuch/800)|      2|
 |801|–                                                                    |[Übersicht](versuch/801)|      2|
 |802|Fouriersynthese                                                      |[Übersicht](versuch/802)|      5|
 |803|Das Hookesche Gesetz                                                 |[Übersicht](versuch/803)|      7|
-|901|Grundlagen der Ultraschalltechnik                                    |[Übersicht](versuch/901)|     30|
-|902|Scanverfahren in der Ultraschalltechnik                              |[Übersicht](versuch/902)|     25|
-|903|Doppler-Sonographie                                                  |[Übersicht](versuch/903)|     32|
+|901|Grundlagen der Ultraschalltechnik                                    |[Übersicht](versuch/901)|     29|
+|902|Scanverfahren in der Ultraschalltechnik                              |[Übersicht](versuch/902)|     24|
+|903|Doppler-Sonographie                                                  |[Übersicht](versuch/903)|     31|
 
 
 ## Repos
@@ -137,8 +137,6 @@
 |[Jean1995/PraktikumFP](https://github.com/Jean1995/PraktikumFP)                                                  |[Übersicht](repo/Jean1995/PraktikumFP)                         |01.11.2017 20:55:46|           5|                    0|
 |[JLammering/Master-Praktikum](https://github.com/JLammering/Master-Praktikum)                                    |[Übersicht](repo/JLammering/Master-Praktikum)                  |28.08.2020 11:36:06|           9|                    9|
 |[JLammering/Physikalisches-Praktikum](https://github.com/JLammering/Physikalisches-Praktikum)                    |[Übersicht](repo/JLammering/Physikalisches-Praktikum)          |07.01.2022 11:22:35|          15|                   10|
-|[joeyko2706/Anfaengerpraktikum-21-22](https://github.com/joeyko2706/Anfaengerpraktikum-21-22)                    |[Übersicht](repo/joeyko2706/Anfaengerpraktikum-21-22)          |18.04.2023 10:12:43|          20|                   20|
-|[joeyko2706/FP-Bachelor](https://github.com/joeyko2706/FP-Bachelor)                                              |[Übersicht](repo/joeyko2706/FP-Bachelor)                       |17.11.2023 10:31:33|           5|                    5|
 |[jpwgnr/FP_20_21](https://github.com/jpwgnr/FP_20_21)                                                            |[Übersicht](repo/jpwgnr/FP_20_21)                              |27.03.2021 12:47:42|           5|                    0|
 |[jpwgnr/Praktikum](https://github.com/jpwgnr/Praktikum)                                                          |[Übersicht](repo/jpwgnr/Praktikum)                             |22.08.2020 14:15:53|           4|                    0|
 |[JulianSch/FP-Pelle-Julian](https://github.com/JulianSch/FP-Pelle-Julian)                                        |[Übersicht](repo/JulianSch/FP-Pelle-Julian)                    |06.11.2018 13:29:35|           5|                    5|
@@ -235,12 +233,12 @@
 
 
 ## Statistiken
-- **141** Repos
+- **139** Repos
 - **77** Versuche
-- **1598** Protokolle
-- **554** Protokolle mit PDFs
+- **1573** Protokolle
+- **529** Protokolle mit PDFs
 - **389** PDFs von _awesome-ap-pdfs_
-- **710** PDFs insgesamt
+- **685** PDFs insgesamt
 
 <p>Zuletzt aktualisiert: <span id="last-modified">[lade…]</span></p>
 <script async>
